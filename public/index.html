@@ -1,13 +1,141 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="app">
   <head>
     <title>Stacked</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
+
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>-->
+
+      <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+
+
+    <script src="formController.js"></script>
+
+
+    <link href="style.css" rel="stylesheet">
+
+
 
   </head>
-  <body ng-app = "app">
-    <p>hey whats up</p>
+  <body ng-controller="formController">
+    <div class="container"p>
+      <div class="jumbotron"> 
+      <h1>How big is your money penis?</h1>
+      <p>Bigger than your friends?</p>
+      </div>
+
+     
+
+
+      <form>
+      
+        <div class="input-group input-group-lg">
+          <span class="input-group-addon" id="sizing-addon1">Annual Income</span>
+          <input ng-model="formData.income" type="text" class="form-control" placeholder="$100,000" aria-describedby="sizing-addon1">
+        </div>
+
+        <br/>
+        <div class="input-group input-group-lg">
+          <span class="input-group-addon" id="sizing-addon1">Age</span>
+          <input ng-model="formData.age" type="text" class="form-control" placeholder="35" aria-describedby="sizing-addon1">
+        </div>
+        
+        <br/> 
+        <div class="input-group input-group-lg">
+          <select ng-model="formData.state" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+           <option data-tokens="Alabama alabama">Alabama</option>
+              <option data-tokens="Alaska alaska">Alaska</option>
+              <option data-tokens="Arizona arizona">Arizona</option>
+              <option data-tokens="Arkansas arkansas">Arkansas</option>
+              <option data-tokens="California california">CA</option>
+              <option data-tokens="Colorado colorado">Colorado</option>
+              <option data-tokens="Connecticut connecticut">Connecticut</option>
+              <option data-tokens="Delaware delaware">Delaware</option>
+              <option data-tokens="DistrictofColumbia districtofcolumbia">DistrictofColumbia</option>
+              <option data-tokens="Florida florida">Florida</option>
+              <option data-tokens="Georgia georgia">Georgia</option>
+              <option data-tokens="Hawaii hawaii">Hawaii</option>
+              <option data-tokens="Idaho idaho">Idaho</option>
+              <option data-tokens="Illinois illinois">Illinois</option>
+              <option data-tokens="Indiana indiana">Indiana</option>
+              <option data-tokens="Iowa iowa">Iowa</option>
+              <option data-tokens="Kansas kansas">Kansas</option>
+              <option data-tokens="Kentucky kentucky">Kentucky</option>
+              <option data-tokens="Louisiana louisiana">Louisiana</option>
+              <option data-tokens="Maine maine">Maine</option>
+              <option data-tokens="Maryland maryland">Maryland</option>
+              <option data-tokens="Massachusetts massachusetts">Massachusetts</option>
+              <option data-tokens="Michigan michigan">Michigan</option>
+              <option data-tokens="Minnesota minnesota">Minnesota</option>
+              <option data-tokens="Mississippi mississippi">Mississippi</option>
+              <option data-tokens="Missouri missouri">Missouri</option>
+              <option data-tokens="Montana montana">Montana</option>
+              <option data-tokens="Nebraska nebraska">Nebraska</option>
+              <option data-tokens="Nevada nevada">Nevada</option>
+              <option data-tokens="NewHampshire newhampshire">NewHampshire</option>
+              <option data-tokens="NewJersey newjersey">NewJersey</option>
+              <option data-tokens="NewMexico newmexico">NewMexico</option>
+              <option data-tokens="NewYork newyork">NewYork</option>
+              <option data-tokens="NorthCarolina northcarolina">NorthCarolina</option>
+              <option data-tokens="NorthDakota northdakota">NorthDakota</option>
+              <option data-tokens="Ohio ohio">Ohio</option>
+              <option data-tokens="Oklahoma oklahoma">Oklahoma</option>
+              <option data-tokens="Oregon oregon">Oregon</option>
+              <option data-tokens="Pennsylvania pennsylvania">Pennsylvania</option>
+              <option data-tokens="RhodeIsland rhodeisland">RhodeIsland</option>
+              <option data-tokens="SouthCarolina southcarolina">SouthCarolina</option>
+              <option data-tokens="SouthDakota southdakota">SouthDakota</option>
+              <option data-tokens="Tennessee tennessee">Tennessee</option>
+              <option data-tokens="Texas texas">Texas</option>
+              <option data-tokens="Utah utah">Utah</option>
+              <option data-tokens="Vermont vermont">Vermont</option>
+              <option data-tokens="Virginia virginia">Virginia</option>
+              <option data-tokens="Washington washington">Washington</option>
+              <option data-tokens="WestVirginia westvirginia">WestVirginia</option>
+              <option data-tokens="Wisconsin wisconsin">Wisconsin</option>
+              <option data-tokens="Wyoming wyoming">Wyoming</option>
+          </select>
+        </div>
+        <br/>
+
+        <div class="input-group input-group-lg">
+          <select ng-model="formData.gender" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+            <option data-tokens="Male male">male</option>
+            <option data-tokens="Female female">female</option>
+          </select>
+        </div>
+        <br/>
+
+        <div class="input-group input-group-lg">
+          <select ng-model="formData.race" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+            <option data-tokens="White white">white</option>
+            <option data-tokens="Black black">black</option>
+          </select>
+        </div>
+
+        <br/>
+
+        <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
+      </form>
+
+
+  </div>
+
+    
   </body>
 </html>

@@ -1,0 +1,14 @@
+select {
+    width:100%;
+    color:red;
+    font-size: 4em;
+}
+
+div{
+  border: 1px red solid;
+}
+
+span {
+  width: 100px;
+  max-width: 100%;
+}
