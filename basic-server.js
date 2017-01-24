@@ -18,12 +18,9 @@ app.post('/userSubmission', function(req, res){
   let geo = apiConversion.states[req.body.state] || "";
 
   axios.get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
-    .then( (results) => console.log(results.data));
-  res.send("got it");
+    .then( (results) => res.send(results.data));
 });
 
-
 app.listen(3000);
-
 
 console.log('listening on port 3000...');

@@ -19,9 +19,25 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
 
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>-->
+    <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+    
+    <script src="https://d3js.org/d3.v4.js"></script>
 
-      <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+
+    <script>
+
+    var yo= {stweve: 5, cats: 3};
+
+
+    var data = d3.entries(yo);
+    console.log(data);
+
+
+
+
+    
+    </script>
+
 
 
     <script src="formController.js"></script>
@@ -40,7 +56,6 @@
       </div>
 
      
-
 
       <form>
       
@@ -125,10 +140,8 @@
           <select ng-model="formData.race" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
             <option data-tokens="white">white</option>
             <option data-tokens="black african american">african american</option>
-            <option data-tokens="black">african american</option>
-
-            "white", "african american", "hispanic", "asian"
-
+            <option data-tokens="hispanic">hispanic</option>
+            <option data-tokens="asian">asian</option>
           </select>
         </div>
 
@@ -136,9 +149,24 @@
 
         <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
       </form>
+      <br/>
 
+      <h3>Your results</h3>
+    <div class="chart">
+      <div style="width: 40px;">4</div>
+      <div style="width: 80px;">8</div>
+      <div style="width: 150px;">15</div>
+      <div style="width: 160px;">16</div>
+      <div style="width: 230px;">23</div>
+      <div style="width: 420px;">42</div>
+    </div>
 
   </div>
+
+
+
+
+
 
     
   </body>
