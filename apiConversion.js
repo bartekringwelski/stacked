@@ -56,22 +56,22 @@ const states = {
     if( age < 18){
       return "";
     }
-    if( 18 < age && age < 24){
+    if( 18 <= age && age <= 24){
       return '18-24';
     }
-    if( 25 < age && age < 34){
+    if( 25 <= age && age <= 34){
       return '25-34';
     }
-    if( 35 < age && age < 44){
+    if( 35 <= age && age <= 44){
       return '35-44';
     }
-    if( 45 < age && age < 54){
+    if( 45 <= age && age <= 54){
       return '45-54';
     }
-    if( 55 < age && age < 64){
+    if( 55 <= age && age <= 64){
       return '55-64';
     }
-    if( age > 65){
+    if( age >= 65){
       return '65+';
     }
   }

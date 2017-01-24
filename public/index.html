@@ -5,74 +5,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
-
-    <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
-    
-    <script src="https://d3js.org/d3.v4.js"></script>
-
-
-    <script>
-
-    var yo= {stweve: 5, cats: 3};
-
-
-    var data = d3.entries(yo);
-    console.log(data);
-
-
-
-
-    
-    </script>
-
-
-
-    <script src="formController.js"></script>
-
-
     <link href="style.css" rel="stylesheet">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
+    <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+    <script src="formController.js"></script>
+    
 
+</head>
 
-  </head>
-  <body ng-controller="formController">
-    <div class="container"p>
-      <div class="jumbotron"> 
+<body ng-controller="formController">
+  <div class="container" p>
+    <div class="jumbotron">
       <h1>How big is your money penis?</h1>
       <p>Bigger than your friends?</p>
+    </div>
+    <form>
+      <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="sizing-addon1">Annual Income</span>
+        <input ng-model="formData.income" type="text" class="form-control" placeholder="$100,000" aria-describedby="sizing-addon1">
       </div>
-
-     
-
-      <form>
-      
-        <div class="input-group input-group-lg">
-          <span class="input-group-addon" id="sizing-addon1">Annual Income</span>
-          <input ng-model="formData.income" type="text" class="form-control" placeholder="$100,000" aria-describedby="sizing-addon1">
-        </div>
-
-        <br/>
-        <div class="input-group input-group-lg">
-          <span class="input-group-addon" id="sizing-addon1">Age</span>
-          <input ng-model="formData.age" type="text" class="form-control" placeholder="35" aria-describedby="sizing-addon1">
-        </div>
-        
-        <br/> 
-        <div class="input-group input-group-lg">
-          <select ng-model="formData.state" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+      <br/>
+      <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="sizing-addon1">Age</span>
+        <input ng-model="formData.age" type="text" class="form-control" placeholder="35" aria-describedby="sizing-addon1">
+      </div>
+      <br/>
+      <div class="input-group input-group-lg">
+        <select ng-model="formData.state" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
            <option data-tokens="Alabama alabama">Alabama</option>
               <option data-tokens="Alaska alaska">Alaska</option>
               <option data-tokens="Arizona arizona">Arizona</option>
@@ -125,49 +89,34 @@
               <option data-tokens="Wisconsin wisconsin">Wisconsin</option>
               <option data-tokens="Wyoming wyoming">Wyoming</option>
           </select>
-        </div>
-        <br/>
-
-        <div class="input-group input-group-lg">
-          <select ng-model="formData.gender" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+      </div>
+      <br/>
+      <div class="input-group input-group-lg">
+        <select ng-model="formData.gender" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
             <option data-tokens="Male male">male</option>
             <option data-tokens="Female female">female</option>
           </select>
-        </div>
-        <br/>
-
-        <div class="input-group input-group-lg">
-          <select ng-model="formData.race" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1" >
+      </div>
+      <br/>
+      <div class="input-group input-group-lg">
+        <select ng-model="formData.race" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
             <option data-tokens="white">white</option>
             <option data-tokens="black african american">african american</option>
             <option data-tokens="hispanic">hispanic</option>
             <option data-tokens="asian">asian</option>
           </select>
-        </div>
-
-        <br/>
-
-        <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
-      </form>
+      </div>
       <br/>
-
-      <h3>Your results</h3>
-    <div class="chart">
-      <div style="width: 40px;">4</div>
-      <div style="width: 80px;">8</div>
-      <div style="width: 150px;">15</div>
-      <div style="width: 160px;">16</div>
-      <div style="width: 230px;">23</div>
-      <div style="width: 420px;">42</div>
-    </div>
-
+      <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
+    </form>
+    <br/>
+    <h3>Your results</h3>
+    <div class="chart"></div>
   </div>
+  <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+  <script src="d3.js"></script>
 
+</body>
 
-
-
-
-
-    
-  </body>
 </html>

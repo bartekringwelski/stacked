@@ -6,6 +6,7 @@ angular.module('app',[])
 
       let formData = $scope.formData;
       $http.post('/userSubmission', formData).then( (response) => $scope.apiResults = response.data);
+      console.log("response from server", $scope.apiResults);
     }
   }]);
 
