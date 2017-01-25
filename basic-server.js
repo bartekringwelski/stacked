@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 
 
 app.use(express.static(path.join(__dirname, 'public')));
-app.post('/userSubmission', router.submitToCensus);
+app.post('/userSubmission', router.submitToCensus)
 
 app.listen(PORT);
 

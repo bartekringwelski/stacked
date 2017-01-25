@@ -14,6 +14,9 @@ module.exports = {
         var modifiedBuckets =  apiConversion.bracketModifier(results.data) 
         console.log(modifiedBuckets);
         res.send(modifiedBuckets);
+      })
+      .catch( (error) => {
+        console.log(error);
       });
   }
-}
+};
