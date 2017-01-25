@@ -1,8 +1,9 @@
 select {
-    width:100%;
-    color:red;
-    font-size: 4em;
+  width: 100%;
+  color: red;
+  font-size: 4em;
 }
+
 
 /*div{
   border: 1px red solid;
@@ -13,10 +14,10 @@ span {
   max-width: 100%;
 }
 
-
 body {
   font: 10px sans-serif;
 }
+
 
 /*d3 below*/
 
@@ -28,11 +29,15 @@ body {
 }
 
 .bar {
-  fill: orange;
+  fill: lightgray;
+}
+
+.user-income-bar {
+  fill: orangered;
 }
 
 .bar:hover {
-  fill: orangered ;
+  fill: orangered;
 }
 
 .x.axis path {
@@ -48,7 +53,9 @@ body {
   border-radius: 2px;
 }
 
+
 /* Creates a small triangle extender for the tooltip */
+
 .d3-tip:after {
   box-sizing: border-box;
   display: inline;
@@ -61,7 +68,9 @@ body {
   text-align: center;
 }
 
+
 /* Style northward tooltips differently */
+
 .d3-tip.n:after {
   margin: -1px 0 0 0;
   top: 100%;

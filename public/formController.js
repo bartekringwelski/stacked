@@ -1,102 +1,136 @@
-angular.module('app', [])
-  .controller('formController', ['$scope', '$http', function ($scope, $http) {
+angular
+  .module('app', [])
+  .controller('formController', [
+    '$scope',
+    '$http',
+    function ($scope, $http) {
 
-    $scope.getCommerceData = function () {
-      console.log("hello");
+      $scope.getCommerceData = function () {
+        console.log("hello");
 
-      let formData = $scope.formData;
-      $http.post('/userSubmission', formData)
-        .then( (response) => {
+        let formData = $scope.formData;
+        console.log("form data", formData);
 
-         var data = d3.entries(response.data);
+        // create object that translates
 
-          var margin = {
-              top: 40,
-              right: 20,
-              bottom: 30,
-              left: 40
-            },
-            width = 1175 - margin.left - margin.right,
-            height = 500 - margin.top - margin.bottom;
+        $http
+          .post('/userSubmission', formData)
+          .then((response) => {
+            console.log("resposne from server and stuff", response);
 
-          var formatPercent = d3.format(".0%");
+            // turns object into array of object data elements
+            var data = d3.entries(response.data.modifiedBuckets);
 
-          var x = d3.scale.ordinal()
-            .rangeRoundBands([0, width], .1);
+            var margin = {
+                top: 40,
+                right: 20,
+                bottom: 30,
+                left: 40
+              },
+              width = 1175 - margin.left - margin.right,
+              height = 500 - margin.top - margin.bottom;
 
-          var y = d3.scale.linear()
-            .range([height, 0]);
+            var formatPercent = d3.format(".0%");
 
-          var xAxis = d3.svg.axis()
-            .scale(x)
-            .orient("bottom");
+            var x = d3
+              .scale
+              .ordinal()
+              .rangeRoundBands([
+                0, width
+              ], .1);
 
-          var yAxis = d3.svg.axis()
-            .scale(y)
-            .orient("left")
-            .tickFormat(formatPercent);
+            var y = d3
+              .scale
+              .linear()
+              .range([height, 0]);
 
-          var tip = d3.tip()
-            .attr('class', 'd3-tip')
-            .offset([-10, 0])
-            .html(function (d) {
-              return "<strong>value:</strong> <span style='color:red'>" + d.value + "</span>";
-            })
+            var xAxis = d3
+              .svg
+              .axis()
+              .scale(x)
+              .orient("bottom");
 
-          var svg = d3.select("div").append("svg")
-            .attr("width", width + margin.left + margin.right)
-            .attr("height", height + margin.top + margin.bottom)
-            .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            var yAxis = d3
+              .svg
+              .axis()
+              .scale(y)
+              .orient("left")
+              .tickFormat(formatPercent);
 
-          svg.call(tip);
+            var tip = d3
+              .tip()
+              .attr('class', 'd3-tip')
+              .offset([-10, 0])
+              .html(function (d) {
+                return "<strong>value:</strong> <span style='color:red'>" + d.value + "</span>";
+              })
 
-          x.domain(data.map(function (d) {
-            return d.key;
-          }));
-          y.domain([0, d3.max(data, function (d) {
-            return d.value;
-          })]);
+            var svg = d3
+              .select("div")
+              .append("svg")
+              .attr("width", width + margin.left + margin.right)
+              .attr("height", height + margin.top + margin.bottom)
+              .append("g")
+              .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-          svg.append("g")
-            .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis);
+            svg.call(tip);
 
-          svg.append("g")
-            .attr("class", "y axis")
-            .call(yAxis)
-            .append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("y", 6)
-            .attr("dy", ".71em")
-            .style("text-anchor", "end")
-            .text("value");
+            x.domain(data.map(function (d) {
+              return d.key;
+            }));
+            y.domain([
+              0,
+              d3.max(data, function (d) {
+                return d.value;
+              })
+            ]);
 
-          svg.selectAll(".bar")
-            .data(data)
-            .enter().append("rect")
-            .attr("class", "bar")
-            .attr("x", function (d) {
-              return x(d.key);
-            })
-            .attr("width", x.rangeBand())
-            .attr("y", function (d) {
-              return y(d.value);
-            })
-            .attr("height", function (d) {
-              return height - y(d.value);
-            })
-            .on('mouseover', tip.show)
-            .on('mouseout', tip.hide)
+            svg
+              .append("g")
+              .attr("class", "x axis")
+              .attr("transform", "translate(0," + height + ")")
+              .call(xAxis);
 
+            svg
+              .append("g")
+              .attr("class", "y axis")
+              .call(yAxis)
+              .append("text")
+              .attr("transform", "rotate(-90)")
+              .attr("y", 6)
+              .attr("dy", ".71em")
+              .style("text-anchor", "end")
+              .text("value");
 
-          function type(d) {
-            d.value = +d.value;
-            return d;
-          }
+            svg
+              .selectAll(".bar")
+              .data(data)
+              .enter()
+              .append("rect")
+              .attr("class", "bar")
+              .attr("x", function (d) {
+                return x(d.key);
+              })
+              .attr("width", x.rangeBand())
+              .attr("y", function (d) {
+                return y(d.value);
+              })
+              .attr("height", function (d) {
+                return height - y(d.value);
+              })
+              .on('mouseover', tip.show)
+              .on('mouseout', tip.hide)
+              .filter(function (d) {
+                return d.key === response.data.userIncomeBucket;
+              })
+              .style('fill', 'steelblue')
 
-      })  
+            function type(d) {
+              d.value = +d.value;
+              return d;
+            }
+
+          })
+      }
     }
-  }
-]);
+  ]);
