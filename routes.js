@@ -17,6 +17,10 @@ module.exports = {
         var resultsObject = {};
         resultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data);
         resultsObject.userIncomeBucket = incomeHighLighter(income);
+        resultsObject.userPercentile = Math.round(resultsObject.modifiedBuckets[resultsObject.userIncomeBucket] * 1000) / 10; //percentile maker
+        console.log("user percentile", resultsObject.userPercentile);
+        console.log("user percentile tpe", typeof resultsObject.userPercentile);
+
         console.log("this is what the modified buckets thing looks like", resultsObject);
         res.send(resultsObject);
       })

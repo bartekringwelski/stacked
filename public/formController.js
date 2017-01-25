@@ -7,9 +7,11 @@ angular
 
       $scope.getCommerceData = function () {
         console.log("hello");
+        $scope.hasData = true;
+
+        console.log($scope);
 
         let formData = $scope.formData;
-        console.log("form data", formData);
 
         // create object that translates
 
@@ -17,6 +19,9 @@ angular
           .post('/userSubmission', formData)
           .then((response) => {
             console.log("resposne from server and stuff", response);
+
+            $scope.userIncomeBucket = response.data.userIncomeBucket;
+            $scope.userPercentile = response.data.userPercentile;
 
             // turns object into array of object data elements
             var data = d3.entries(response.data.modifiedBuckets);

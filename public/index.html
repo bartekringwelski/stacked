@@ -120,16 +120,15 @@
       <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
     </form>
     <br/>
-    <h3>Your results</h3>
-    <h1 class="ribbon">
-      <strong class="ribbon-content">Of people like you, are in the 94% percentile of earners</strong>
+    <h1 ng-show="hasData===true" class="ribbon ">
+      <strong class="ribbon-content "> You are in the top {{userPercentile}}% percentile of earners like you!</strong>
     </h1>
-    <div id="chart"></div>
+    <div id="chart "></div>
   </div>
-  <script src="//d3js.org/d3.v3.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.min.js"></script>
-  <script src="formController.js"></script>
-  <!--<script src="d3.js"></script>-->
+  <script src="//d3js.org/d3.v3.min.js "></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.min.js "></script>
+  <script src="formController.js "></script>
+  <!--<script src="d3.js "></script>-->
 </body>
 
 </html>
