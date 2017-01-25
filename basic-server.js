@@ -2,9 +2,6 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const bodyParser = require('body-parser')
-const axios = require('axios');
-const keys = require('./keys');
-const apiConversion = require('./apiConversion');
 const router = require('./routes');
 
 app.use(bodyParser.json());
