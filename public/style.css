@@ -32,10 +32,6 @@ body {
   fill: lightgray;
 }
 
-.user-income-bar {
-  fill: orangered;
-}
-
 .bar:hover {
   fill: orangered;
 }

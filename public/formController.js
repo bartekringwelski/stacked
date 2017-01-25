@@ -48,19 +48,19 @@ angular
               .svg
               .axis()
               .scale(x)
-              .orient("bottom");
+              .orient("bottom")
 
             var yAxis = d3
               .svg
               .axis()
               .scale(y)
               .orient("left")
-              .tickFormat(formatPercent);
+              .tickFormat(formatPercent)
 
             var tip = d3
               .tip()
               .attr('class', 'd3-tip')
-              .offset([-10, 0])
+              .offset([-5, 0])
               .html(function (d) {
                 return "<strong>value:</strong> <span style='color:red'>" + d.value + "</span>";
               })
@@ -94,13 +94,14 @@ angular
             svg
               .append("g")
               .attr("class", "y axis")
+              .style("font-size", "15px") //To change the font size of texts
               .call(yAxis)
               .append("text")
               .attr("transform", "rotate(-90)")
               .attr("y", 6)
-              .attr("dy", ".71em")
+              .attr("dy", "1em")
               .style("text-anchor", "end")
-              .text("value");
+              .text("value")
 
             svg
               .selectAll(".bar")
