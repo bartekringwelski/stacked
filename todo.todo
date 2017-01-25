@@ -2,20 +2,22 @@
 To do:
   ☐ add loading screen
   ☐ Modify object with extra factor data
-  ☐ color your bar based on the income you put into
+  ✔ color your bar based on the income you put into @done (1/25/2017, 1:08:24 PM)
   ☐ host on get debtless
-  ☐ add table for education level
+  ✔ add table for education level @done (1/25/2017, 1:08:29 PM)
   ☐ city autocomplete
-  ☐ highlight your band in a different color
+  ✔ highlight your band in a different color @done (1/25/2017, 1:08:33 PM)
   ☐ balsamiq mocks
   ☐ add $ sign in front of typing
   ☐ increase font size of tips
   ☐ UI router
+  ☐ animate graph
+  ☐ add icons to the left of the form
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
-  ☐ fix bug about state display
+  ✔ fix bug about state display @done (1/25/2017, 1:08:45 PM)
   ☐ fix multiple graph reload issue
 
 

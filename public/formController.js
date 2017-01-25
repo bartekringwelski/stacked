@@ -89,7 +89,7 @@ angular
               .append("g")
               .attr("class", "x axis")
               .attr("transform", "translate(0," + height + ")")
-              .call(xAxis);
+              .call(xAxis)
 
             svg
               .append("g")
@@ -113,18 +113,23 @@ angular
                 return x(d.key);
               })
               .attr("width", x.rangeBand())
+              .transition() //animation
+              .delay(function (d, i) { // more animation stuff
+                return i * 50;
+              })
               .attr("y", function (d) {
                 return y(d.value);
               })
               .attr("height", function (d) {
                 return height - y(d.value);
               })
-              .on('mouseover', tip.show)
-              .on('mouseout', tip.hide)
               .filter(function (d) {
+                console.log("does this fire?");
                 return d.key === response.data.userIncomeBucket;
               })
               .style('fill', 'steelblue')
+              .on('mouseover', tip.show)
+              .on('mouseout', tip.hide)
 
             function type(d) {
               d.value = +d.value;
