@@ -1,11 +1,6 @@
 const axios = require('axios');
-// const keys = require('./keys');
-
-var keys = process.env.DATA_GOV_KEY || require('./keys');
-console.log(keys);
-
+const keys = process.env.DATA_GOV_KEY || require('./keys');
 const apiConversion = require('./apiConversion');
-
 
 module.exports = {
   submitToCensus: function (req, res) {
@@ -15,6 +10,10 @@ module.exports = {
     let geo = apiConversion.states[req.body.state] || "";
 
     axios.get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
-      .then((results) => res.send(results.data))
+      .then( (results) => {
+        var modifiedBuckets =  apiConversion.bracketModifier(results.data) 
+        console.log(modifiedBuckets);
+        res.send(modifiedBuckets);
+      });
   }
 }

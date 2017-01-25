@@ -1,0 +1,9 @@
+fix heroku no load issue for api
+
+transform object we get back into something more useble
+
+figure out how to make d3 code more modular by taking it out of the controller
+
+Modify object with extra factor data
+
+color your bar based on the income you put into

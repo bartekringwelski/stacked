@@ -16,7 +16,7 @@ angular.module('app', [])
               bottom: 30,
               left: 40
             },
-            width = 3000 - margin.left - margin.right,
+            width = 1175 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
 
           var formatPercent = d3.format(".0%");
@@ -95,12 +95,6 @@ angular.module('app', [])
             d.value = +d.value;
             return d;
           }
-
-
-
-
-
-
 
       })  
     }
