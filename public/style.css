@@ -16,6 +16,10 @@ body {
   shape-rendering: crispEdges;
 }
 
+.fa {
+  margin-right: 10px;
+}
+
 .bar {
   fill: lightgray;
 }

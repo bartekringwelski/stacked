@@ -9,18 +9,20 @@
     crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
     <link href="style.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
-    <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
-    <script src="app.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
+      <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+      <script src="app.js"></script>
 </head>
 
 <body ng-controller="formController">
   <div class="container">
     <div class="jumbotron">
-      <h1>How big is your money penis?</h1>
-      <p>Bigger than your friends?</p>
+      <h1>How rich are you?</h1>
+      <p>...compared to people with similar backgrounds to you</p>
     </div>
     <form>
       <div>
@@ -117,7 +119,7 @@
       </div>
       <br/>
       <br/>
-      <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
+      <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()"><i class="fa fa-bar-chart" aria-hidden="true"></i>Find out how you compare...</button>
     </form>
     <br/>
     <h1 ng-show="hasData===true" class="ribbon ">
@@ -128,7 +130,6 @@
   <script src="//d3js.org/d3.v3.min.js "></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.min.js "></script>
   <script src="formController.js "></script>
-  <!--<script src="d3.js "></script>-->
 </body>
 
 </html>

@@ -6,14 +6,13 @@ angular
     function ($scope, $http) {
 
       $scope.getCommerceData = function () {
-        console.log("hello");
+
+        var counter = 0;
+        console.log("number of poeple who clicked", counter);
+
         $scope.hasData = true;
 
-        console.log($scope);
-
         let formData = $scope.formData;
-
-        // create object that translates
 
         $http
           .post('/userSubmission', formData)

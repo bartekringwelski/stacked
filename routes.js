@@ -2,9 +2,12 @@ const axios = require('axios');
 const keys = require('./keys');
 const apiConversion = require('./apiConversion');
 const incomeHighLighter = require('./incomeRangeAppender.js');
+var counter = 0;
 
 module.exports = {
   submitToCensus: function (req, res) {
+    console.log("number of times this has beenn clicked since server reboot", counter++);
+
     let ageGroup = apiConversion.ageBracket(req.body.age) || "";
     let race = req.body.race || "";
     let gender = req.body.gender || "";
