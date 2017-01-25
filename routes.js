@@ -1,7 +1,9 @@
 const axios = require('axios');
 // const keys = require('./keys');
 
-const keys = process.env.DATA_GOV_KEY || require('./keys');
+var keys = process.env.DATA_GOV_KEY || require('./keys');
+console.log(keys);
+
 const apiConversion = require('./apiConversion');
 
 
