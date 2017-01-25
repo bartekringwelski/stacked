@@ -9,13 +9,12 @@ select {
   border: 1px red solid;
 }*/
 
-span {
-  width: 100px;
-  max-width: 100%;
-}
-
 body {
   font: 10px sans-serif;
+}
+
+.rounded-corners {
+  border-radius: 5px;
 }
 
 

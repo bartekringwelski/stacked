@@ -23,19 +23,18 @@
       <p>Bigger than your friends?</p>
     </div>
     <form>
-      <div class="input-group input-group-lg">
-        <span class="input-group-addon" id="sizing-addon1">Annual Income $</span>
-        <input ng-model="formData.income" type="text" class="form-control" placeholder="$100,000" aria-describedby="sizing-addon1">
+      <div>
+        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="Your yearly income (e.g., $100,000)">
+      </div>
+      <br/>
+      <div>
+        <input ng-model="formData.age" type="text" class="form-control input-lg" placeholder="Your age (e.g., 34)">
       </div>
       <br/>
       <div class="input-group input-group-lg">
-        <span class="input-group-addon" id="sizing-addon1">Age</span>
-        <input ng-model="formData.age" type="text" class="form-control" placeholder="35" aria-describedby="sizing-addon1">
-      </div>
-      <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.state" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
-           <option data-tokens="Alabama alabama">Alabama</option>
+        <select ng-model="formData.state" class="selectpicker" data-dropup-auto="false" data-live-search="true">
+              <option value="">Select state...</option>
+              <option data-tokens="Alabama alabama">Alabama</option>
               <option data-tokens="Alaska alaska">Alaska</option>
               <option data-tokens="Arizona arizona">Arizona</option>
               <option data-tokens="Arkansas arkansas">Arkansas</option>
@@ -89,15 +88,17 @@
           </select>
       </div>
       <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.gender" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
+      <div class="input-group input-group-lg rounded-corners">
+        <select ng-model="formData.gender" class="selectpicker" data-dropup-auto="false" data-live-search="true">
+            <option value="">Select gender...</option>
             <option data-tokens="Male male">male</option>
             <option data-tokens="Female female">female</option>
           </select>
       </div>
       <br/>
       <div class="input-group input-group-lg">
-        <select ng-model="formData.race" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
+        <select ng-model="formData.race" class="selectpicker" data-dropup-auto="false" data-live-search="true">
+            <option value="">Select race...</option>
             <option data-tokens="white">white</option>
             <option data-tokens="black african american">african american</option>
             <option data-tokens="hispanic">hispanic</option>
@@ -106,7 +107,8 @@
       </div>
       <br/>
       <div class="input-group input-group-lg">
-        <select ng-model="formData.education" class="selectpicker" data-live-search="true" aria-describedby="sizing-addon1">
+        <select ng-model="formData.education" class="selectpicker" data-live-search="true">
+            <option value="">Select education...</option>
             <option data-tokens="high school">Less than high school graduate</option>
             <option data-tokens="high school">High school graduate (includes equivalency)</option>
             <option data-tokens="college">Some college or associate's degree</option>
@@ -114,13 +116,7 @@
           </select>
       </div>
       <br/>
-      <select class="form-control">
-        <option value="one">One</option>
-        <option value="two">Two</option>
-        <option value="three">Three</option>
-        <option value="four">Four</option>
-        <option value="five">Five</option>
-      </select>
+      <br/>
       <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()">Find out how big ur money dick is</button>
     </form>
     <br/>
