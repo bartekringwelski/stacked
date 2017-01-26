@@ -74,17 +74,27 @@
     </div>
     <form>
       <div>
-        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="Your yearly income (e.g., $100,000)"
+        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="What's your annual salary?' (e.g., $100,000)"
           ui-money-mask="0">
       </div>
       <br/>
       <div>
-        <input ngRequired ng-model="formData.age" type="text" class="form-control input-lg" placeholder="Your age (e.g., 34)">
+        <input ngRequired ng-model="formData.age" type="text" class="form-control input-lg" placeholder="How old are you? (e.g., 34)">
+      </div>
+      <br/>
+      <div class="input-group input-group-lg">
+        <select ng-model="formData.education" class="selectpicker" data-live-search="true">
+            <option value="">How far did you get in school?</option>
+            <option data-tokens="high school">Less than high school graduate</option>
+            <option data-tokens="high school">High school graduate (includes equivalency)</option>
+            <option data-tokens="college">Some college or associate's degree</option>
+            <option data-tokens="bachelor">Bachelor's degree	Graduate or professional degree</option>
+          </select>
       </div>
       <br/>
       <div class="input-group input-group-lg">
         <select ng-model="formData.state" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-              <option value="">Select state...</option>
+              <option value="">Where do you live?</option>
               <option data-tokens="Alabama alabama">Alabama</option>
               <option data-tokens="Alaska alaska">Alaska</option>
               <option data-tokens="Arizona arizona">Arizona</option>
@@ -141,7 +151,7 @@
       <br/>
       <div class="input-group input-group-lg rounded-corners">
         <select ng-model="formData.gender" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-            <option value="">Select gender...</option>
+            <option value="">What's your gender? (optional)</option>
             <option data-tokens="Male male">male</option>
             <option data-tokens="Female female">female</option>
           </select>
@@ -149,7 +159,7 @@
       <br/>
       <div class="input-group input-group-lg">
         <select ng-model="formData.race" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-            <option value="">Select race...</option>
+            <option value="">What's your race (optional)</option>
             <option data-tokens="white">white</option>
             <option data-tokens="black african american">african american</option>
             <option data-tokens="hispanic">hispanic</option>
@@ -157,20 +167,10 @@
           </select>
       </div>
       <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.education" class="selectpicker" data-live-search="true">
-            <option value="">Select education...</option>
-            <option data-tokens="high school">Less than high school graduate</option>
-            <option data-tokens="high school">High school graduate (includes equivalency)</option>
-            <option data-tokens="college">Some college or associate's degree</option>
-            <option data-tokens="bachelor">Bachelor's degree	Graduate or professional degree</option>
-          </select>
-      </div>
-      <br/>
       <br/>
       <div id="submit-button-div">
         <button type=" button " class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
-        " aria-hidden="true "></i>Find out how you compare...</button>
+        " aria-hidden="true "></i>Find out how you compare to people like you...</button>
       </div>
     </form>
     <br/>
