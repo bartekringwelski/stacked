@@ -166,11 +166,14 @@
       </div>
       <br/>
       <br/>
-      <button type="button" class="btn btn-lg btn-primary" ng-click="getCommerceData()"><i class="fa fa-bar-chart" aria-hidden="true"></i>Find out how you compare...</button>
+      <div id="submit-button-div">
+        <button type="button" class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
+        "aria-hidden="true "></i>Find out how you compare...</button>
+      </div>
     </form>
     <br/>
-    <h1 ng-show="hasData===true" class="ribbon ">
-      <strong class="ribbon-content "> You are in the top {{userPercentile}}% percentile of earners like you!</strong>
+    <h1 ng-show="hasData===true " class="ribbon ">
+      <strong class="ribbon-content "> You're in the top {{userPercentile}}%</strong>
     </h1>
     <div id="chart "></div>
   </div>

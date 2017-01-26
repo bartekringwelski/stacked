@@ -6,6 +6,21 @@ body {
   font: 10px sans-serif;
 }
 
+.container {
+  /*display: flex;*/
+  align-items: center;
+  justify-content: center
+}
+
+div {
+  border: 1px red solid;
+}
+
+#submit-button-div {
+  justify-content: center;
+  display: flex;
+}
+
 
 /*d3 below*/
 
@@ -66,7 +81,7 @@ body {
 }
 
 .ribbon {
-  font-size: 32px !important;
+  font-size: 16px !important;
   /* This ribbon is based on a 16px font side and a 24px vertical rhythm. I've used em's to position each element for scalability. If you want to use a different font size you may have to play with the position of the ribbon elements */
   width: 50%;
   position: relative;
