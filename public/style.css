@@ -1,20 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Cuprum|Fjalla+One|Pacifico');
 .jumbotron {
   margin-top: 10px;
 }
 
 body {
-  font: 10px sans-serif;
+  font-family: 'Bree Serif', serif;
+  font-size: 10px;
 }
 
-.container {
-  /*display: flex;*/
-  align-items: center;
-  justify-content: center
+#coins {
+  width: 7%;
 }
 
-div {
+
+/*div {
   border: 1px red solid;
-}
+}*/
 
 #submit-button-div {
   justify-content: center;
@@ -62,7 +63,7 @@ div {
 .d3-tip:after {
   box-sizing: border-box;
   display: inline;
-  font-size: 10px;
+  font-size: 7px;
   width: 100%;
   line-height: 1;
   color: rgba(0, 0, 0, 0.8);

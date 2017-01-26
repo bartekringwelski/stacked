@@ -68,8 +68,9 @@
 <body ng-controller="formController">
   <div class="container">
     <div class="jumbotron">
-      <h1>How rich are you, man?</h1>
-      <p>...compared to people with similar backgrounds to you</p>
+      <!--<h1><i class="fa fa-money" aria-hidden="true"></i> Wage comparison calculator</h1>-->
+      <h1><img id="coins" src="assets/coins.svg" /> Wage comparison </h1>
+      <p>...compared to other people of similar age, education, address and other factors</p>
     </div>
     <form>
       <div>
@@ -167,8 +168,8 @@
       <br/>
       <br/>
       <div id="submit-button-div">
-        <button type="button" class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
-        "aria-hidden="true "></i>Find out how you compare...</button>
+        <button type=" button " class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
+        " aria-hidden="true "></i>Find out how you compare...</button>
       </div>
     </form>
     <br/>

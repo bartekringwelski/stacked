@@ -14,6 +14,8 @@ angular
 
         let formData = $scope.formData;
 
+        // create object that translates
+
         $http
           .post('/userSubmission', formData)
           .then((response) => {
@@ -26,13 +28,13 @@ angular
             var data = d3.entries(response.data.modifiedBuckets);
 
             var margin = {
-                top: 40,
-                right: 20,
-                bottom: 30,
-                left: 40
-              },
-              width = 1175 - margin.left - margin.right,
-              height = 500 - margin.top - margin.bottom;
+              top: 40,
+              right: 20,
+              bottom: 30,
+              left: 40
+            }
+            var width = parseInt(d3.select(".container").style("width")) - margin.right;
+            var height = 300;
 
             var formatPercent = d3.format(".0%");
 
