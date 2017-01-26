@@ -1,33 +1,32 @@
 
 To do:
+  ✔ color your bar based on the income you put into @done (1/25/2017, 1:08:24 PM)
+  ✔ add table for education level @done (1/25/2017, 1:08:29 PM)
+  ✔ highlight your band in a different color @done (1/25/2017, 1:08:33 PM)
+  ✔ setup facebook tracking to new site @done (1/26/2017, 9:46:14 AM)
+  ✔ add $ sign in front of typing @done (1/26/2017, 1:48:17 PM)
+  ✔ animate graph @done (1/26/2017, 1:48:26 PM)
+  ✔ fix bug about state display @done (1/25/2017, 1:08:45 PM)
+  ✔ make graphs mobile friendly @done (1/26/2017, 1:50:02 PM)
+  ☐ fix tips
   ☐ add loading screen
   ☐ Modify object with extra factor data
-  ✔ color your bar based on the income you put into @done (1/25/2017, 1:08:24 PM)
   ☐ host on get debtless
-  ✔ add table for education level @done (1/25/2017, 1:08:29 PM)
   ☐ city autocomplete
-  ✔ highlight your band in a different color @done (1/25/2017, 1:08:33 PM)
   ☐ balsamiq mocks
-  ☐ add $ sign in front of typing
-  ☐ increase font size of tips
   ☐ UI router
-  ☐ animate graph
   ☐ add icons to the left of the form
-  ✔ setup facebook tracking to new site @done (1/26/2017, 9:46:14 AM)
   ☐ look into stats
-  ☐ make graphs mobile friendly
-  
-  
+
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
-  ✔ fix bug about state display @done (1/25/2017, 1:08:45 PM)
   ☐ fix multiple graph reload issue
 
 
 WishList:
   ☐ figure out how to make d3 code more modular by taking it out of the controller
-  ☐ add city input
+
 
 
