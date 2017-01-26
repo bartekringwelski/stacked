@@ -5,183 +5,81 @@
   <title>Stacked</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-    crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
-    <link href="style.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
-      crossorigin="anonymous">
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
-      <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/2.5.0/angular-input-masks-standalone.min.js"></script>
-      <script src="app.js"></script>
-      <!--Goole Analytics-->
-      <script>
-        (function (i, s, o, g, r, a, m) {
-          i['GoogleAnalyticsObject'] = r;
-          i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-          }, i[r].l = 1 * new Date();
-          a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-          a.async = 1;
-          a.src = g;
-          m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
+  <link href="style.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
+  <!--angular stuff-->
+  <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/2.5.0/angular-input-masks-standalone.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.js"></script>
+  <!--files and stuff-->
+  <script src="form/formController.js "></script>
+  <script src="results/resultsController.js "></script>
+  <script src="app.js"></script>
+  <!--Goole Analytics-->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-90915238-1', 'auto');
-        ga('send', 'pageview');
-      </script>
-      <!-- Facebook Pixel Code -->
-      <script>
-        ! function (f, b, e, v, n, t, s) {
-          if (f.fbq) return;
-          n = f.fbq = function () {
-            n.callMethod ?
-              n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-          };
-          if (!f._fbq) f._fbq = n;
-          n.push = n;
-          n.loaded = !0;
-          n.version = '2.0';
-          n.queue = [];
-          t = b.createElement(e);
-          t.async = !0;
-          t.src = v;
-          s = b.getElementsByTagName(e)[0];
-          s.parentNode.insertBefore(t, s)
-        }(window,
-          document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '824624431008174', {
-          em: 'insert_email_variable,'
-        });
-        fbq('track', 'PageView');
-        fbq('track', 'Lead');
-      </script>
-      <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=824624431008174&ev=PageView&noscript=1"
-        /></noscript>
-      <!-- DO NOT MODIFY -->
-      <!-- End Facebook Pixel Code -->
+    ga('create', 'UA-90915238-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!-- Facebook Pixel Code -->
+  <script>
+    ! function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window,
+      document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '824624431008174', {
+      em: 'insert_email_variable,'
+    });
+    fbq('track', 'PageView');
+    fbq('track', 'Lead');
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=824624431008174&ev=PageView&noscript=1"
+    /></noscript>
+  <!-- DO NOT MODIFY -->
+  <!-- End Facebook Pixel Code -->
 </head>
 
-<body ng-controller="formController">
+<body>
   <div class="container">
     <div class="jumbotron">
       <h1><img id="coins" src="assets/coins.svg" /> Wage comparison </h1>
-      <p>See how you compare vs. people of similar age, education, geography and more</p>
+      <p>See how you compare vs. people of similar age, education, and geography</p>
+      <a href="#/results">results link</a>
+      <br/>
+      <a href="#/">form link</a>
     </div>
-    <form>
-      <div>
-        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="What's your annual salary?' (e.g., $100,000)"
-          ui-money-mask="0">
-      </div>
-      <br/>
-      <div>
-        <input ngRequired ng-model="formData.age" type="text" class="form-control input-lg" placeholder="How old are you? (e.g., 34)">
-      </div>
-      <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.education" class="selectpicker" data-live-search="true">
-            <option value="">How far did you get in school?</option>
-            <option data-tokens="high school">Less than high school graduate</option>
-            <option data-tokens="high school">High school graduate (includes equivalency)</option>
-            <option data-tokens="college">Some college or associate's degree</option>
-            <option data-tokens="bachelor">Bachelor's degree	Graduate or professional degree</option>
-          </select>
-      </div>
-      <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.state" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-              <option value="">Where do you live?</option>
-              <option data-tokens="Alabama alabama">Alabama</option>
-              <option data-tokens="Alaska alaska">Alaska</option>
-              <option data-tokens="Arizona arizona">Arizona</option>
-              <option data-tokens="Arkansas arkansas">Arkansas</option>
-              <option data-tokens="California california">California</option>
-              <option data-tokens="Colorado colorado">Colorado</option>
-              <option data-tokens="Connecticut connecticut">Connecticut</option>
-              <option data-tokens="Delaware delaware">Delaware</option>
-              <option data-tokens="DistrictofColumbia districtofcolumbia">DistrictofColumbia</option>
-              <option data-tokens="Florida florida">Florida</option>
-              <option data-tokens="Georgia georgia">Georgia</option>
-              <option data-tokens="Hawaii hawaii">Hawaii</option>
-              <option data-tokens="Idaho idaho">Idaho</option>
-              <option data-tokens="Illinois illinois">Illinois</option>
-              <option data-tokens="Indiana indiana">Indiana</option>
-              <option data-tokens="Iowa iowa">Iowa</option>
-              <option data-tokens="Kansas kansas">Kansas</option>
-              <option data-tokens="Kentucky kentucky">Kentucky</option>
-              <option data-tokens="Louisiana louisiana">Louisiana</option>
-              <option data-tokens="Maine maine">Maine</option>
-              <option data-tokens="Maryland maryland">Maryland</option>
-              <option data-tokens="Massachusetts massachusetts">Massachusetts</option>
-              <option data-tokens="Michigan michigan">Michigan</option>
-              <option data-tokens="Minnesota minnesota">Minnesota</option>
-              <option data-tokens="Mississippi mississippi">Mississippi</option>
-              <option data-tokens="Missouri missouri">Missouri</option>
-              <option data-tokens="Montana montana">Montana</option>
-              <option data-tokens="Nebraska nebraska">Nebraska</option>
-              <option data-tokens="Nevada nevada">Nevada</option>
-              <option data-tokens="NewHampshire newhampshire">NewHampshire</option>
-              <option data-tokens="NewJersey newjersey">NewJersey</option>
-              <option data-tokens="NewMexico newmexico">NewMexico</option>
-              <option data-tokens="NewYork newyork">NewYork</option>
-              <option data-tokens="NorthCarolina northcarolina">NorthCarolina</option>
-              <option data-tokens="NorthDakota northdakota">NorthDakota</option>
-              <option data-tokens="Ohio ohio">Ohio</option>
-              <option data-tokens="Oklahoma oklahoma">Oklahoma</option>
-              <option data-tokens="Oregon oregon">Oregon</option>
-              <option data-tokens="Pennsylvania pennsylvania">Pennsylvania</option>
-              <option data-tokens="RhodeIsland rhodeisland">RhodeIsland</option>
-              <option data-tokens="SouthCarolina southcarolina">SouthCarolina</option>
-              <option data-tokens="SouthDakota southdakota">SouthDakota</option>
-              <option data-tokens="Tennessee tennessee">Tennessee</option>
-              <option data-tokens="Texas texas">Texas</option>
-              <option data-tokens="Utah utah">Utah</option>
-              <option data-tokens="Vermont vermont">Vermont</option>
-              <option data-tokens="Virginia virginia">Virginia</option>
-              <option data-tokens="Washington washington">Washington</option>
-              <option data-tokens="WestVirginia westvirginia">WestVirginia</option>
-              <option data-tokens="Wisconsin wisconsin">Wisconsin</option>
-              <option data-tokens="Wyoming wyoming">Wyoming</option>
-          </select>
-      </div>
-      <br/>
-      <div class="input-group input-group-lg rounded-corners">
-        <select ng-model="formData.gender" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-            <option value="">What's your gender? (optional)</option>
-            <option data-tokens="Male male">male</option>
-            <option data-tokens="Female female">female</option>
-          </select>
-      </div>
-      <br/>
-      <div class="input-group input-group-lg">
-        <select ng-model="formData.race" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-            <option value="">What's your race (optional)</option>
-            <option data-tokens="white">white</option>
-            <option data-tokens="black african american">african american</option>
-            <option data-tokens="hispanic">hispanic</option>
-            <option data-tokens="asian">asian</option>
-          </select>
-      </div>
-      <br/>
-      <br/>
-      <div id="submit-button-div">
-        <button type=" button " class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
-        " aria-hidden="true "></i>Find out how you compare to people like you...</button>
-      </div>
-    </form>
-    <br/>
-    <h1 ng-show="hasData===true " class="ribbon ">
-      <strong class="ribbon-content "> You're in the top {{userPercentile}}%</strong>
-    </h1>
-    <div id="chart "></div>
+    <div ng-view>if you see this, something went wrong...</div>
   </div>
-  <script src="//d3js.org/d3.v3.min.js "></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.min.js "></script>
-  <script src="formController.js "></script>
 </body>
 
 </html>
