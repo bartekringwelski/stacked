@@ -15,6 +15,7 @@
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
       <script src="//code.angularjs.org/snapshot/angular.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/2.5.0/angular-input-masks-standalone.min.js"></script>
       <script src="app.js"></script>
       <!--Goole Analytics-->
       <script>
@@ -68,17 +69,17 @@
 <body ng-controller="formController">
   <div class="container">
     <div class="jumbotron">
-      <!--<h1><i class="fa fa-money" aria-hidden="true"></i> Wage comparison calculator</h1>-->
       <h1><img id="coins" src="assets/coins.svg" /> Wage comparison </h1>
       <p>See how you compare vs. people of similar age, education, geography and more</p>
     </div>
     <form>
       <div>
-        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="Your yearly income (e.g., $100,000)">
+        <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="Your yearly income (e.g., $100,000)"
+          ui-money-mask="0">
       </div>
       <br/>
       <div>
-        <input ng-model="formData.age" type="text" class="form-control input-lg" placeholder="Your age (e.g., 34)">
+        <input ngRequired ng-model="formData.age" type="text" class="form-control input-lg" placeholder="Your age (e.g., 34)">
       </div>
       <br/>
       <div class="input-group input-group-lg">

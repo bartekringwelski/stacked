@@ -1,5 +1,5 @@
 angular
-  .module('app', [])
+  .module('app', ['ui.utils.masks'])
   .controller('formController', [
     '$scope',
     '$http',
