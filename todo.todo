@@ -9,21 +9,23 @@ To do:
   ✔ fix bug about state display @done (1/25/2017, 1:08:45 PM)
   ✔ make graphs mobile friendly @done (1/26/2017, 1:50:02 PM)
   ✔ city autocomplete @done (1/27/2017, 8:37:33 AM)
-  ☐ fix tips
-  ☐ add loading screen
-  ☐ Modify object with extra factor data
-  ☐ host on get debtless
-
-  ☐ balsamiq mocks
+  ✔ host on get debtless @done (1/27/2017, 8:40:51 AM)
+  ✔ Modify object with extra factor data @done (1/27/2017, 1:42:03 PM)
   ☐ UI router
+  ☐ add loading screen
+  ☐ fix multiple graph reload issue
+  ☐ fix tips
   ☐ add icons to the left of the form
   ☐ look into stats
   ☐ figure out how to import shit not ghetto style
+  ☐ balsamiq mocks
+  ☐ fix african american thing
+  ☐ adjust income bucket
+  ☐ fix county list to include state to solve duplicate issue 
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
-  ☐ fix multiple graph reload issue
 
 
 WishList:

@@ -85,16 +85,16 @@
       <div class="input-group input-group-lg">
         <select ng-model="formData.education" class="selectpicker" data-live-search="true">
             <option value="">How far did you get in school?</option>
-            <option data-tokens="someHS">Less than high school graduate</option>
-            <option data-tokens="finishedHS">High school graduate (includes equivalency)</option>
-            <option data-tokens="someCollege">Some college or associate's degree</option>
-            <option data-tokens="bachelors">Bachelor's degree</option>
-            <option data-tokens="graduateSchool">Graduate or professional degree</option>
+            <option data-tokens="Less than high school graduate">Less than high school graduate</option>
+            <option data-tokens="High school graduate (or equivalency)">High school graduate (includes equivalency)</option>
+            <option data-tokens="Some college or associate degree">Some college or associate degree</option>
+            <option data-tokens="Bachelor degree">Bachelor degree</option>
+            <option data-tokens="Graduate or professional degree">Graduate or professional degree</option>
           </select>
       </div>
       <br/>
       <div class="input-group input-group-lg">
-        <select ng-model="formData.state" class="selectpicker" data-dropup-auto="false" data-live-search="true">
+        <select ng-model="formData.county" class="selectpicker" data-dropup-auto="false" data-live-search="true">
               <option value="">Where do you live?</option>
               <option ng-repeat="option in countyData" ng-value="option">{{option}}</option>
           </select>
