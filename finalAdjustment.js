@@ -1,4 +1,4 @@
-var data = {
+module.exports = {
   'Baldwin County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.91020384495168,

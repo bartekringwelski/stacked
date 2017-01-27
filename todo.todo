@@ -8,16 +8,17 @@ To do:
   ✔ animate graph @done (1/26/2017, 1:48:26 PM)
   ✔ fix bug about state display @done (1/25/2017, 1:08:45 PM)
   ✔ make graphs mobile friendly @done (1/26/2017, 1:50:02 PM)
+  ✔ city autocomplete @done (1/27/2017, 8:37:33 AM)
   ☐ fix tips
   ☐ add loading screen
   ☐ Modify object with extra factor data
   ☐ host on get debtless
-  ☐ city autocomplete
+
   ☐ balsamiq mocks
   ☐ UI router
   ☐ add icons to the left of the form
   ☐ look into stats
-
+  ☐ figure out how to import shit not ghetto style
 
 
 Bugs:
