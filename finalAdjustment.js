@@ -11,7363 +11,7363 @@ module.exports = {
   'Calhoun County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.87616698512284,
-    someHS: 0.57899889055668,
-    finishedHS: 0.71728773738824,
-    someCollege: 1.07048228153756,
-    bachelors: 1.0864060562553,
-    graduateSchool: 1.46776088233375
+    someHS: 0.601491525423729,
+    finishedHS: 0.745152542372881,
+    someCollege: 1.11206779661017,
+    bachelors: 1.12861016949153,
+    graduateSchool: 1.52477966101695
   },
   'Cullman County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.952022255631441,
-    someHS: 0.681198198786139,
-    finishedHS: 1.03305488481368,
-    someCollege: 0.944168896430203,
-    bachelors: 1.8150819030216,
-    graduateSchool: 1.59365006852444
+    someHS: 0.651275971797592,
+    finishedHS: 0.987677044986585,
+    someCollege: 0.902695451425719,
+    bachelors: 1.73535284207899,
+    graduateSchool: 1.52364759468397
   },
   'DeKalb County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.857485322965475,
-    someHS: 0.702473405990994,
-    finishedHS: 0.893493441232135,
-    someCollege: 1.00515564837173,
-    bachelors: 1.19731775761927,
-    graduateSchool: 1.79974548065
+    someHS: 0.745661736690797,
+    finishedHS: 0.948425755948876,
+    someCollege: 1.06695299781788,
+    bachelors: 1.27092930622424,
+    graduateSchool: 1.91039451352568
   },
   'Elmore County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.11879098856245,
-    someHS: 0.875774978790054,
-    finishedHS: 1.15258108725445,
-    someCollege: 1.1367878352803,
-    bachelors: 1.60353716635124,
-    graduateSchool: 2.03230437903805
+    someHS: 0.71249568610794,
+    finishedHS: 0.93769412514269,
+    someCollege: 0.924845363561549,
+    bachelors: 1.30457405293477,
+    graduateSchool: 1.65340200164592
   },
   'Etowah County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.89793750715996,
-    someHS: 0.668570123343993,
-    finishedHS: 0.97461332637212,
-    someCollege: 0.956503295699276,
-    bachelors: 1.18902956340142,
-    graduateSchool: 1.67848985185669
+    someHS: 0.677703172030563,
+    finishedHS: 0.987927099527007,
+    someCollege: 0.969569675520127,
+    bachelors: 1.20527238448053,
+    graduateSchool: 1.70141897926107
   },
   'Houston County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.904620136707507,
-    someHS: 0.659237747177446,
-    finishedHS: 0.820204920707433,
-    someCollege: 0.997356914442342,
-    bachelors: 1.37424133655289,
-    graduateSchool: 1.74988579259936
+    someHS: 0.663306848775363,
+    finishedHS: 0.82526758158776,
+    someCollege: 1.00351303434237,
+    bachelors: 1.38272375073872,
+    graduateSchool: 1.76068684746208
   },
   'Jefferson County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.07824970264066,
-    someHS: 0.669516413235006,
-    finishedHS: 0.878157018860536,
-    someCollege: 0.997226391698753,
-    bachelors: 1.60510343927429,
-    graduateSchool: 1.97856163936566
+    someHS: 0.565171881886294,
+    finishedHS: 0.741295724988982,
+    someCollege: 0.841808065226972,
+    bachelors: 1.35494711326576,
+    graduateSchool: 1.67020163067431
   },
   'Lauderdale County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.950804532024999,
-    someHS: 0.798538145271814,
-    finishedHS: 0.758598185733864,
-    someCollege: 1.05286171115317,
-    bachelors: 1.49412647653854,
-    graduateSchool: 1.69757880310644
+    someHS: 0.76443944647487,
+    finishedHS: 0.726204979227189,
+    someCollege: 1.00790303939025,
+    bachelors: 1.43032518039546,
+    graduateSchool: 1.6250898072658
   },
   'Lee County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.07914071991367,
-    someHS: 0.636200482934151,
-    finishedHS: 0.996247471121843,
-    someCollege: 1.15476734320955,
-    bachelors: 1.44537623180839,
-    graduateSchool: 1.83462768387392
+    someHS: 0.536604832938845,
+    finishedHS: 0.840287334177355,
+    someCollege: 0.973991302911873,
+    bachelors: 1.21910607144823,
+    graduateSchool: 1.54742114823581
   },
   'Limestone County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.10943530719588,
-    someHS: 0.689649546433466,
-    finishedHS: 0.919010637603602,
-    someCollege: 1.19748091104875,
-    bachelors: 1.54662925014684,
-    graduateSchool: 1.84059909939307
+    someHS: 0.565802859131552,
+    finishedHS: 0.75397547786047,
+    someCollege: 0.982438293087755,
+    bachelors: 1.26888686619907,
+    graduateSchool: 1.51006585640092
   },
   'Madison County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.1583818560597,
-    someHS: 0.616002088363897,
-    finishedHS: 0.818801801213861,
-    someCollege: 1.00832082490374,
-    bachelors: 1.7111531684396,
-    graduateSchool: 2.46776088233375
+    someHS: 0.484026460181529,
+    finishedHS: 0.643377262704477,
+    someCollege: 0.792292702938311,
+    bachelors: 1.34454643351623,
+    graduateSchool: 1.93905440746628
   },
   'Marshall County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.831586420896759,
-    someHS: 0.814005090387,
-    finishedHS: 0.824936370162501,
-    someCollege: 0.935195457808523,
-    bachelors: 1.34513476473275,
-    graduateSchool: 1.67003850420936
+    someHS: 0.890960391442552,
+    finishedHS: 0.902925104468017,
+    someCollege: 1.0236079859995,
+    bachelors: 1.47230258223508,
+    graduateSchool: 1.82792242580092
   },
   'Mobile County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.947745372721011,
-    someHS: 0.651341121190367,
-    finishedHS: 0.948476146968609,
-    someCollege: 0.977582718788749,
-    bachelors: 1.33302878026496,
-    graduateSchool: 1.72387913593944
+    someHS: 0.625540582889376,
+    finishedHS: 0.910905672203071,
+    someCollege: 0.93885929175807,
+    bachelors: 1.2802256345973,
+    graduateSchool: 1.65559385772485
   },
   'Montgomery County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.930132931291254,
-    someHS: 0.680480323696404,
-    finishedHS: 0.732036807413692,
-    someCollege: 0.891861906937284,
-    bachelors: 1.47578803106441,
-    graduateSchool: 1.82624159759838
+    someHS: 0.665900309735926,
+    finishedHS: 0.716352141009675,
+    someCollege: 0.872752817958297,
+    bachelors: 1.44416770444168,
+    graduateSchool: 1.78711243094805
   },
   'Morgan County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.926539161623462,
-    someHS: 0.713208901651113,
-    finishedHS: 0.871957188540103,
-    someCollege: 1.10050251256281,
-    bachelors: 1.5459766364289,
-    graduateSchool: 1.83834758206617
+    someHS: 0.700634696755994,
+    finishedHS: 0.856584177458649,
+    someCollege: 1.08110014104372,
+    bachelors: 1.51872034876266,
+    graduateSchool: 1.80593665854597
   },
   'St. Clair County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.18297393279467,
-    someHS: 0.699569274946159,
-    finishedHS: 1.17052796449781,
-    someCollege: 1.48808979964759,
-    bachelors: 1.69875350779873,
-    graduateSchool: 1.56160673497357
+    someHS: 0.538262616118504,
+    finishedHS: 0.900627667587246,
+    someCollege: 1.14496610595029,
+    bachelors: 1.30705498368064,
+    graduateSchool: 1.20153150891288
   },
   'Shelby County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.34409955632997,
-    someHS: 0.778274489329766,
-    finishedHS: 1.05586373425569,
-    someCollege: 1.16511127063891,
-    bachelors: 1.84252430986099,
-    graduateSchool: 2.0383084252431
+    someHS: 0.527035686664457,
+    finishedHS: 0.715014915478953,
+    someCollege: 0.788995691083858,
+    bachelors: 1.24772953264833,
+    graduateSchool: 1.38031156778257
   },
   'Talladega County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.954457702844325,
-    someHS: 0.445930953468642,
-    finishedHS: 1.14651177967761,
-    someCollege: 1.02254780395484,
-    bachelors: 1.54114729491614,
-    graduateSchool: 1.73102525615088
+    someHS: 0.425255165546428,
+    finishedHS: 1.09335324869305,
+    someCollege: 0.975136918098083,
+    bachelors: 1.46969131192432,
+    graduateSchool: 1.65076549663928
   },
   'Tuscaloosa County': {
     state: 'Alabama',
     countyToStateAdjustment: 1.05226169884465,
-    someHS: 0.725543300920185,
-    finishedHS: 0.994876982314168,
-    someCollege: 0.989199242968087,
-    bachelors: 1.49428962996802,
-    graduateSchool: 1.79266462181035
+    someHS: 0.62759321459821,
+    finishedHS: 0.860566202828192,
+    someCollege: 0.855654971915662,
+    bachelors: 1.29255694487567,
+    graduateSchool: 1.55065059696859
   },
   'Walker County': {
     state: 'Alabama',
     countyToStateAdjustment: 0.936964063717635,
-    someHS: 0.461234745154343,
-    finishedHS: 0.707368008875547,
-    someCollege: 1.19509887097827,
-    bachelors: 1.22883900019578,
-    graduateSchool: 1.68615806304249
+    someHS: 0.448061622341269,
+    finishedHS: 0.687165182109234,
+    someCollege: 1.16096617744952,
+    bachelors: 1.19374266966748,
+    graduateSchool: 1.63800044378229
   },
   'Anchorage Municipality': {
     state: 'Alaska',
     countyToStateAdjustment: 1.05122480948669,
-    someHS: 0.793284604842394,
-    finishedHS: 1.22110552763819,
-    someCollege: 1.3457873784507,
-    bachelors: 1.8348234679893,
-    graduateSchool: 2.39626704953338
+    someHS: 0.525030234968901,
+    finishedHS: 0.808180718728404,
+    someCollege: 0.890700587422253,
+    bachelors: 1.21436592950933,
+    graduateSchool: 1.58595369730477
   },
   'Fairbanks North Star Borough': {
     state: 'Alaska',
     countyToStateAdjustment: 0.963933011964311,
-    someHS: 0.753083599817268,
-    finishedHS: 1.30261698100894,
-    someCollege: 1.34412321346995,
-    bachelors: 1.6509821836455,
-    graduateSchool: 2.29746133263721
+    someHS: 0.543559669328058,
+    finishedHS: 0.940201135212793,
+    someCollege: 0.970159447938011,
+    bachelors: 1.19164370333734,
+    graduateSchool: 1.65825855531218
   },
   'Matanuska-Susitna Borough': {
     state: 'Alaska',
     countyToStateAdjustment: 0.984842178548996,
-    someHS: 0.736311427266201,
-    finishedHS: 1.31110095934217,
-    someCollege: 1.42638517261633,
-    bachelors: 1.66400182731841,
-    graduateSchool: 1.9835867649938
+    someHS: 0.520170585523283,
+    finishedHS: 0.926233287229138,
+    someCollege: 1.00767634854772,
+    bachelors: 1.17554172429691,
+    graduateSchool: 1.40131396957123
   },
   'Apache County': {
     state: 'Arizona',
     countyToStateAdjustment: 1.01931975634624,
-    someHS: 0.438491157084122,
-    finishedHS: 0.880800104418195,
-    someCollege: 0.885498923187365,
-    bachelors: 1.28685635972068,
-    graduateSchool: 1.65995562226718
+    someHS: 0.430815593741985,
+    finishedHS: 0.865382149269043,
+    someCollege: 0.869998717619903,
+    bachelors: 1.26433059758913,
+    graduateSchool: 1.63089894844832
   },
   'Cochise County': {
     state: 'Arizona',
     countyToStateAdjustment: 0.923930093330893,
-    someHS: 0.585133459505319,
-    finishedHS: 0.732069438099589,
-    someCollege: 0.977256411929779,
-    bachelors: 1.77298831821445,
-    graduateSchool: 1.54010311296743
+    someHS: 0.634244685742581,
+    finishedHS: 0.793513245852934,
+    someCollege: 1.05927917094047,
+    bachelors: 1.92179818201111,
+    graduateSchool: 1.6693665334418
   },
   'Coconino County': {
     state: 'Arizona',
     countyToStateAdjustment: 1.17957700452276,
-    someHS: 0.723095999477909,
-    finishedHS: 0.89333028780265,
-    someCollege: 1.0580173595249,
-    bachelors: 1.28956470665013,
-    graduateSchool: 1.68971480780526
+    someHS: 0.613918439716312,
+    finishedHS: 0.758449689716312,
+    someCollege: 0.898271276595745,
+    bachelors: 1.09485815602837,
+    graduateSchool: 1.43459109042553
   },
   'Maricopa County': {
     state: 'Arizona',
     countyToStateAdjustment: 1.20300776450289,
-    someHS: 0.68074136918358,
-    finishedHS: 0.981008940807936,
-    someCollege: 1.16354499771585,
-    bachelors: 1.68550544932454,
-    graduateSchool: 2.10252561508843
+    someHS: 0.566701980278706,
+    finishedHS: 0.816668024882514,
+    someCollege: 0.968625213918996,
+    bachelors: 1.40314562790319,
+    graduateSchool: 1.75030559856572
   },
   'Mohave County': {
     state: 'Arizona',
     countyToStateAdjustment: 0.887885284044862,
-    someHS: 0.675096260523396,
-    finishedHS: 0.870031978072179,
-    someCollege: 0.87659074593748,
-    bachelors: 1.15081903021602,
-    graduateSchool: 1.8752202571298
+    someHS: 0.761464850938535,
+    finishedHS: 0.98133971291866,
+    someCollege: 0.988737578211262,
+    bachelors: 1.29804931910195,
+    graduateSchool: 2.11512697828487
   },
   'Navajo County': {
     state: 'Arizona',
     countyToStateAdjustment: 0.883996496823612,
-    someHS: 0.49967369314103,
-    finishedHS: 0.798081315669255,
-    someCollege: 0.840174900476408,
-    bachelors: 1.35626182862364,
-    graduateSchool: 1.54669451151863
+    someHS: 0.566078888026321,
+    finishedHS: 0.90414402425049,
+    someCollege: 0.951831725259695,
+    bachelors: 1.5365051199586,
+    graduateSchool: 1.75224575801264
   },
   'Pima County': {
     state: 'Arizona',
     countyToStateAdjustment: 1.0323586311469,
-    someHS: 0.584970306075834,
-    finishedHS: 0.829178359329113,
-    someCollege: 1.00277360830125,
-    bachelors: 1.36950988709783,
-    graduateSchool: 1.79370880375905
+    someHS: 0.567471748282739,
+    finishedHS: 0.804374663670033,
+    someCollege: 0.972777056756671,
+    bachelors: 1.32854293944478,
+    graduateSchool: 1.74005254661138
   },
   'Pinal County': {
     state: 'Arizona',
     countyToStateAdjustment: 1.05105095291626,
-    someHS: 0.687332767734778,
-    finishedHS: 0.876068654963127,
-    someCollege: 1.12647653853684,
-    bachelors: 1.61952620244078,
-    graduateSchool: 1.5503491483391
+    someHS: 0.654914031651276,
+    finishedHS: 0.834748002362964,
+    someCollege: 1.0733451481516,
+    bachelors: 1.54313963249697,
+    graduateSchool: 1.4772253832043
   },
   'Yavapai County': {
     state: 'Arizona',
     countyToStateAdjustment: 0.895924289561057,
-    someHS: 0.771617829406774,
-    finishedHS: 0.816811329374143,
-    someCollege: 0.916824381648502,
-    bachelors: 0.999967369314103,
-    graduateSchool: 1.38109378059127
+    someHS: 0.862525532535746,
+    finishedHS: 0.91304347826087,
+    someCollege: 1.02483950977531,
+    bachelors: 1.11777793988912,
+    graduateSchool: 1.54380653632915
   },
   'Yuma County': {
     state: 'Arizona',
     countyToStateAdjustment: 0.922949726804528,
-    someHS: 0.536644260262351,
-    finishedHS: 0.824185864386869,
-    someCollege: 1.05547216602493,
-    bachelors: 1.17215949879266,
-    graduateSchool: 1.87234875677087
+    someHS: 0.582303579648054,
+    finishedHS: 0.894310094536699,
+    someCollege: 1.14527493538222,
+    bachelors: 1.27189037991715,
+    graduateSchool: 2.03165386113373
   },
   'Benton County': {
     state: 'Arkansas',
     countyToStateAdjustment: 1.10840376273873,
-    someHS: 0.783462768387391,
-    finishedHS: 0.996410624551328,
-    someCollege: 1.17871826665797,
-    bachelors: 1.835867649938,
-    graduateSchool: 2.29093519545781
+    someHS: 0.657898342238663,
+    finishedHS: 0.836717358542266,
+    someCollege: 0.989806822852446,
+    bachelors: 1.5416358405261,
+    graduateSchool: 1.92377037950404
   },
   'Craighead County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.92180196199159,
-    someHS: 0.735854597663643,
-    finishedHS: 0.835378189649546,
-    someCollege: 0.865463682046597,
-    bachelors: 1.29573190628467,
-    graduateSchool: 2.43317235528291
+    someHS: 0.743006820203618,
+    finishedHS: 0.843497743072716,
+    someCollege: 0.873875654838391,
+    bachelors: 1.30832592006853,
+    graduateSchool: 2.45682185100985
   },
   'Faulkner County': {
     state: 'Arkansas',
     countyToStateAdjustment: 1.10970973237286,
-    someHS: 0.70054819552307,
-    finishedHS: 0.854108203354434,
-    someCollege: 1.04767343209554,
-    bachelors: 1.4781048097631,
-    graduateSchool: 1.99070025451935
+    someHS: 0.587580053642783,
+    finishedHS: 0.7163774700312,
+    someCollege: 0.878728994471509,
+    bachelors: 1.23975039684712,
+    graduateSchool: 1.66968635393289
   },
   'Garland County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.740545525328356,
-    someHS: 0.716047771324153,
-    finishedHS: 0.706323826926842,
-    someCollege: 0.757227696926189,
-    bachelors: 0.985642498205312,
-    graduateSchool: 1.73650721138158
+    someHS: 0.899971291473568,
+    finishedHS: 0.88774966164951,
+    someCollege: 0.951728663413034,
+    bachelors: 1.23881392773654,
+    graduateSchool: 2.18254521592913
   },
   'Jefferson County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.904156186237344,
-    someHS: 0.395647066501338,
-    finishedHS: 0.809436794361417,
-    someCollege: 1.02718136135222,
-    bachelors: 1.35573973764929,
-    graduateSchool: 1.7188213796254
+    someHS: 0.407289217332885,
+    finishedHS: 0.833254954652335,
+    someCollege: 1.05740678535438,
+    bachelors: 1.39563318777293,
+    graduateSchool: 1.7693987235472
   },
   'Lonoke County': {
     state: 'Arkansas',
     countyToStateAdjustment: 1.23596358746821,
-    someHS: 0.845558963649416,
-    finishedHS: 1.02992233896757,
-    someCollege: 1.35064935064935,
-    bachelors: 1.68061084643999,
-    graduateSchool: 1.7056712132089
+    someHS: 0.636761272883647,
+    finishedHS: 0.775598967932178,
+    someCollege: 1.01712741122988,
+    bachelors: 1.2656100258017,
+    graduateSchool: 1.28448212311095
   },
   'Pulaski County': {
     state: 'Arkansas',
     countyToStateAdjustment: 1.06041697153097,
-    someHS: 0.581576714742544,
-    finishedHS: 0.835508712393135,
-    someCollege: 0.97582066175031,
-    bachelors: 1.48949291914116,
-    graduateSchool: 2.15959668472231
+    someHS: 0.510468280108836,
+    finishedHS: 0.7333524273235,
+    someCollege: 0.856508663898038,
+    bachelors: 1.30737505370185,
+    graduateSchool: 1.89554632679364
   },
   'Saline County': {
     state: 'Arkansas',
     countyToStateAdjustment: 1.13330829994782,
-    someHS: 0.872805586373426,
-    finishedHS: 0.879070678065653,
-    someCollege: 1.20191868433074,
-    bachelors: 1.4497161130327,
-    graduateSchool: 1.51948051948052
+    someHS: 0.716816293715664,
+    finishedHS: 0.72196167760954,
+    someCollege: 0.987109741390862,
+    bachelors: 1.19062039394345,
+    graduateSchool: 1.24791638751172
   },
   'Sebastian County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.89355657223006,
-    someHS: 0.702473405990994,
-    finishedHS: 0.842883247405861,
-    someCollege: 0.962213665731254,
-    bachelors: 1.52643085557658,
-    graduateSchool: 1.58167460680023
+    someHS: 0.731722239216886,
+    finishedHS: 0.87797831480915,
+    someCollege: 1.00227728493253,
+    bachelors: 1.58998674416233,
+    graduateSchool: 1.64753067536793
   },
   'Washington County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.970760637578241,
-    someHS: 0.721562357240749,
-    finishedHS: 0.857893362918488,
-    someCollege: 1.03419695882007,
-    bachelors: 1.47435228088494,
-    graduateSchool: 1.82111857991255
+    someHS: 0.691831179801646,
+    finishedHS: 0.822544817445171,
+    someCollege: 0.991584019021994,
+    bachelors: 1.41360322873322,
+    graduateSchool: 1.74608140662641
   },
   'White County': {
     state: 'Arkansas',
     countyToStateAdjustment: 0.921376762575825,
-    someHS: 1.00254519349997,
-    finishedHS: 0.798831821444887,
-    someCollege: 1.00900606930758,
-    bachelors: 1.16312079879919,
-    graduateSchool: 1.65049272335704
+    someHS: 1.01275669973959,
+    finishedHS: 0.806968388436563,
+    someCollege: 1.01928338332729,
+    bachelors: 1.17496786102779,
+    graduateSchool: 1.66730395226951
   },
   'Alameda County': {
     state: 'California',
     countyToStateAdjustment: 1.32845208785431,
-    someHS: 0.756314037721073,
-    finishedHS: 1.10807283169092,
-    someCollege: 1.33015727990602,
-    bachelors: 2.0634993147556,
-    graduateSchool: 2.84151275859819
+    someHS: 0.471653575353058,
+    finishedHS: 0.691017866590696,
+    someCollege: 0.829514468275609,
+    bachelors: 1.28684221236417,
+    graduateSchool: 1.77202800048838
   },
   'Butte County': {
     state: 'California',
     countyToStateAdjustment: 0.873541995989665,
-    someHS: 0.707955361221693,
-    finishedHS: 0.778731318932324,
-    someCollege: 0.882040070482282,
-    bachelors: 1.66308816811329,
-    graduateSchool: 1.58108725445409
+    someHS: 0.671411771987374,
+    finishedHS: 0.738534381382682,
+    someCollege: 0.836510490808937,
+    bachelors: 1.57724206226403,
+    graduateSchool: 1.49947391223618
   },
   'Contra Costa County': {
     state: 'California',
     countyToStateAdjustment: 1.32245077810901,
-    someHS: 0.834040331527769,
-    finishedHS: 1.05331854075573,
-    someCollege: 1.3686614892645,
-    bachelors: 2.15483260458135,
-    graduateSchool: 2.91271291522548
+    someHS: 0.522485690923957,
+    finishedHS: 0.659852820932134,
+    someCollege: 0.857399836467702,
+    bachelors: 1.34989779231398,
+    graduateSchool: 1.82467293540474
   },
   'El Dorado County': {
     state: 'California',
     countyToStateAdjustment: 1.25297615628276,
-    someHS: 0.823370097239444,
-    finishedHS: 1.24743849115708,
-    someCollege: 1.19010637603602,
-    bachelors: 1.99748743718593,
-    graduateSchool: 2.72231286301638
+    someHS: 0.544401294498382,
+    finishedHS: 0.824789644012945,
+    someCollege: 0.78688241639698,
+    bachelors: 1.32071197411003,
+    graduateSchool: 1.79995685005394
   },
   'Fresno County': {
     state: 'California',
     countyToStateAdjustment: 0.769032701055703,
-    someHS: 0.544801931736605,
-    finishedHS: 0.839848593617438,
-    someCollege: 0.997976897474385,
-    bachelors: 1.69868824642694,
-    graduateSchool: 2.22152972655485
+    someHS: 0.58689538807649,
+    finishedHS: 0.904738470191226,
+    someCollege: 1.07508436445444,
+    bachelors: 1.82993532058493,
+    graduateSchool: 2.3931735095613
   },
   'Humboldt County': {
     state: 'California',
     countyToStateAdjustment: 0.7402696669611,
-    someHS: 0.700482934151276,
-    finishedHS: 0.843894798668668,
-    someCollege: 0.857534425373621,
-    bachelors: 1.04767343209554,
-    graduateSchool: 1.69666514390132
+    someHS: 0.783924919661116,
+    finishedHS: 0.944420099328075,
+    someCollege: 0.959684487291849,
+    bachelors: 1.17247297692083,
+    graduateSchool: 1.89877300613497
   },
   'Imperial County': {
     state: 'California',
     countyToStateAdjustment: 0.75584063278675,
-    someHS: 0.553775370358285,
-    finishedHS: 0.796156105201331,
-    someCollege: 0.938719571885401,
-    bachelors: 1.30708738497683,
-    graduateSchool: 2.3150492723357
+    someHS: 0.606974248927039,
+    finishedHS: 0.872639484978541,
+    someCollege: 1.02889842632332,
+    bachelors: 1.43265379113019,
+    graduateSchool: 2.53744635193133
   },
   'Kern County': {
     state: 'California',
     countyToStateAdjustment: 0.847428188719565,
-    someHS: 0.652385303139072,
-    finishedHS: 0.953109704365986,
-    someCollege: 1.16011877569667,
-    bachelors: 1.91235397768061,
-    graduateSchool: 2.31544084056647
+    someHS: 0.637775934668878,
+    finishedHS: 0.931765981880822,
+    someCollege: 1.13413933903279,
+    bachelors: 1.86952915656501,
+    graduateSchool: 2.26358938369274
   },
   'Kings County': {
     state: 'California',
     countyToStateAdjustment: 0.864350800884247,
-    someHS: 0.653788422632644,
-    finishedHS: 0.931965019904718,
-    someCollege: 1.14726228545324,
-    bachelors: 1.84148012791229,
-    graduateSchool: 2.18478757423481
+    someHS: 0.626634140238944,
+    finishedHS: 0.893257021329831,
+    someCollege: 1.09961218490023,
+    bachelors: 1.76499655970476,
+    graduateSchool: 2.09404516169388
   },
   'Lake County': {
     state: 'California',
     countyToStateAdjustment: 0.687582492665629,
-    someHS: 0.474711218429811,
-    finishedHS: 0.685277034523266,
-    someCollege: 0.982085753442537,
-    bachelors: 1.37332767734778,
-    graduateSchool: 2.34565685570711
+    someHS: 0.571967760959308,
+    finishedHS: 0.825673284843719,
+    someCollege: 1.18329074110478,
+    bachelors: 1.65468842146648,
+    graduateSchool: 2.82622370748968
   },
   'Los Angeles County': {
     state: 'California',
     countyToStateAdjustment: 0.946557931224179,
-    someHS: 0.666351236702995,
-    finishedHS: 0.883084252430986,
-    someCollege: 1.1531684396006,
-    bachelors: 1.69578411538211,
-    graduateSchool: 2.34014226979051
+    someHS: 0.583207196915608,
+    finishedHS: 0.772897329715836,
+    someCollege: 1.00928173639869,
+    bachelors: 1.48419248893331,
+    graduateSchool: 2.04815079251749
   },
   'Madera County': {
     state: 'California',
     countyToStateAdjustment: 0.742297136469648,
-    someHS: 0.653951576062129,
-    finishedHS: 0.893591333289826,
-    someCollege: 1.09896887032565,
-    bachelors: 2.12654179990863,
-    graduateSchool: 1.6159368269921
+    someHS: 0.729851779015988,
+    finishedHS: 0.997305073017954,
+    someCollege: 1.22651953822062,
+    bachelors: 2.37335664080993,
+    graduateSchool: 1.80348883790378
   },
   'Marin County': {
     state: 'California',
     countyToStateAdjustment: 1.53647045943135,
-    someHS: 0.692390524048816,
-    finishedHS: 1.09684787574235,
-    someCollege: 1.48436990145533,
-    bachelors: 2.41672648959081,
-    graduateSchool: 2.6652417933825
+    someHS: 0.373330752854655,
+    finishedHS: 0.591410524834175,
+    someCollege: 0.800358921125323,
+    bachelors: 1.30307722082446,
+    graduateSchool: 1.43707444094516
   },
   'Mendocino County': {
     state: 'California',
     countyToStateAdjustment: 0.765410288867097,
-    someHS: 0.558767865300529,
-    finishedHS: 0.99256020361548,
-    someCollege: 0.891176662533446,
-    bachelors: 0.784604842393787,
-    graduateSchool: 1.96583567186582
+    someHS: 0.604789150243696,
+    finishedHS: 1.07430952885498,
+    someCollege: 0.964575828212192,
+    bachelors: 0.849226531044713,
+    graduateSchool: 2.12774599138235
   },
   'Merced County': {
     state: 'California',
     countyToStateAdjustment: 0.72764529015454,
-    someHS: 0.699504013574365,
-    finishedHS: 0.927853553481694,
-    someCollege: 0.763753834105593,
-    bachelors: 1.65078639953012,
-    graduateSchool: 1.98655615741043
+    someHS: 0.796411189954304,
+    finishedHS: 1.05639558643237,
+    someCollege: 0.86956198684846,
+    bachelors: 1.87948136865178,
+    graduateSchool: 2.2617676561281
   },
   'Monterey County': {
     state: 'California',
     countyToStateAdjustment: 0.816529553409291,
-    someHS: 0.669451151863212,
-    finishedHS: 0.941330026757162,
-    someCollege: 1.17584676629903,
-    bachelors: 1.68400443777328,
-    graduateSchool: 2.26215493049664
+    someHS: 0.679225293825526,
+    finishedHS: 0.955073663300778,
+    someCollege: 1.19301440158914,
+    bachelors: 1.70859129283231,
+    graduateSchool: 2.29518291673564
   },
   'Napa County': {
     state: 'California',
     countyToStateAdjustment: 1.0965095760764,
-    someHS: 0.745806956862233,
-    finishedHS: 1.03240227109574,
-    someCollege: 1.35417346472623,
-    bachelors: 1.96785877439144,
-    graduateSchool: 2.11114011616524
+    someHS: 0.563483062965337,
+    finishedHS: 0.780015778314679,
+    someCollege: 1.02312509245106,
+    bachelors: 1.48678566145654,
+    graduateSchool: 1.59503969232286
   },
   'Nevada County': {
     state: 'California',
     countyToStateAdjustment: 1.00381367014558,
-    someHS: 0.962181035045357,
-    finishedHS: 1.03024864582654,
-    someCollege: 1.28215754095151,
-    bachelors: 1.20815114533708,
-    graduateSchool: 2.36030803367487
+    someHS: 0.794091508900439,
+    finishedHS: 0.850267955726712,
+    someCollege: 1.05816928338674,
+    bachelors: 0.997091535830663,
+    graduateSchool: 1.94797080763741
   },
   'Orange County': {
     state: 'California',
     countyToStateAdjustment: 1.11600031628524,
-    someHS: 0.692716830907786,
-    finishedHS: 0.93369444625726,
-    someCollege: 1.30565163479736,
-    bachelors: 1.98107420217973,
-    graduateSchool: 2.77931867127847
+    someHS: 0.514231039410896,
+    finishedHS: 0.693118232686578,
+    someCollege: 0.96923673182666,
+    bachelors: 1.47062955696049,
+    graduateSchool: 2.06319792650728
   },
   'Placer County': {
     state: 'California',
     countyToStateAdjustment: 1.33994108173608,
-    someHS: 0.748939502708347,
-    finishedHS: 1.04907655158911,
-    someCollege: 1.33436663838674,
-    bachelors: 2.20821640670887,
-    graduateSchool: 2.64791489917118
+    someHS: 0.463050013113563,
+    finishedHS: 0.648617023422842,
+    someCollege: 0.825004539310428,
+    bachelors: 1.36528335384429,
+    graduateSchool: 1.63713761171747
   },
   'Riverside County': {
     state: 'California',
     countyToStateAdjustment: 0.897979761799366,
-    someHS: 0.71454675977289,
-    finishedHS: 0.98600143575018,
-    someCollege: 1.16795014031195,
-    bachelors: 1.66560073092736,
-    graduateSchool: 2.3227827448933
+    someHS: 0.659220904328978,
+    finishedHS: 0.909657414654705,
+    someCollege: 1.07751821301704,
+    bachelors: 1.53663676320067,
+    graduateSchool: 2.1429345535553
   },
   'Sacramento County': {
     state: 'California',
     countyToStateAdjustment: 1.01503233475955,
-    someHS: 0.692390524048816,
-    finishedHS: 0.958820074397964,
-    someCollege: 1.1575409515108,
-    bachelors: 1.75569405468903,
-    graduateSchool: 2.45663381844286
+    someHS: 0.56511665068712,
+    finishedHS: 0.782571641632044,
+    someCollege: 0.944764035368062,
+    bachelors: 1.43296580377117,
+    graduateSchool: 2.00506018962395
   },
   'San Bernardino County': {
     state: 'California',
     countyToStateAdjustment: 0.873352765502201,
-    someHS: 0.682894994452783,
-    finishedHS: 0.9606147621223,
-    someCollege: 1.06806761078118,
-    bachelors: 1.6673954186517,
-    graduateSchool: 2.12624812373556
+    someHS: 0.647785309685208,
+    finishedHS: 0.91122666914291,
+    someCollege: 1.01315504379856,
+    bachelors: 1.58166960720587,
+    graduateSchool: 2.01693131519485
   },
   'San Diego County': {
     state: 'California',
     countyToStateAdjustment: 1.08545310902312,
-    someHS: 0.665339685440188,
-    finishedHS: 0.929060888859884,
-    someCollege: 1.1597924688377,
-    bachelors: 1.81557136331006,
-    graduateSchool: 2.50394831299354
+    someHS: 0.507807635793091,
+    finishedHS: 0.709087739396807,
+    someCollege: 0.88518915149553,
+    bachelors: 1.38569969865265,
+    graduateSchool: 1.91109008044231
   },
   'San Francisco County': {
     state: 'California',
     countyToStateAdjustment: 1.56982909107866,
-    someHS: 0.692521046792404,
-    finishedHS: 0.999412647653854,
-    someCollege: 1.38190954773869,
-    bachelors: 2.34993147555962,
-    graduateSchool: 3.10585394504992
+    someHS: 0.365466411806237,
+    finishedHS: 0.527423326617417,
+    someCollege: 0.729279674880749,
+    bachelors: 1.24013707358234,
+    graduateSchool: 1.63906252690672
   },
   'San Joaquin County': {
     state: 'California',
     countyToStateAdjustment: 0.878272758176278,
-    someHS: 0.730829472035502,
-    finishedHS: 0.888207270116818,
-    someCollege: 1.18110030672845,
-    bachelors: 1.65081903021602,
-    graduateSchool: 2.34320955426483
+    someHS: 0.689371787374188,
+    finishedHS: 0.837822032072394,
+    someCollege: 1.11410015697621,
+    bachelors: 1.55717319708209,
+    graduateSchool: 2.2102865585275
   },
   'San Luis Obispo County': {
     state: 'California',
     countyToStateAdjustment: 0.99124335919258,
-    someHS: 0.786236376688638,
-    finishedHS: 0.910559289956275,
-    someCollege: 1.14171506885075,
-    bachelors: 1.64448867715199,
-    graduateSchool: 2.12177771976767
+    someHS: 0.657112468637504,
+    finishedHS: 0.761017781171594,
+    someCollege: 0.95421075597251,
+    bachelors: 1.37441365768518,
+    graduateSchool: 1.77331733391513
   },
   'San Mateo County': {
     state: 'California',
     countyToStateAdjustment: 1.39270935481189,
-    someHS: 0.768909482477322,
-    finishedHS: 1.05047967108269,
-    someCollege: 1.3654310513607,
-    bachelors: 2.185994909613,
-    graduateSchool: 3.32699210337401
+    someHS: 0.457384654205245,
+    finishedHS: 0.624876259244162,
+    someCollege: 0.812224616161028,
+    bachelors: 1.30033579844329,
+    graduateSchool: 1.97905627050214
   },
   'Santa Barbara County': {
     state: 'California',
     countyToStateAdjustment: 0.935771793438703,
-    someHS: 0.692553677478301,
-    finishedHS: 0.885923122104027,
-    someCollege: 1.18765907459375,
-    bachelors: 1.71014161717679,
-    graduateSchool: 2.28219017163741
+    someHS: 0.613126877744396,
+    finishedHS: 0.784319389877513,
+    someCollege: 1.05145019644095,
+    bachelors: 1.51401086202912,
+    graduateSchool: 2.02045296972498
   },
   'Santa Clara County': {
     state: 'California',
     countyToStateAdjustment: 1.48883844244386,
-    someHS: 0.731547347125237,
-    finishedHS: 1.01177967760882,
-    someCollege: 1.37838543366182,
-    bachelors: 2.48789401553221,
-    graduateSchool: 3.61081380930627
+    someHS: 0.407063095778484,
+    finishedHS: 0.562995914661825,
+    someCollege: 0.766990467544258,
+    bachelors: 1.38436677258284,
+    graduateSchool: 2.00920562868815
   },
   'Santa Cruz County': {
     state: 'California',
     countyToStateAdjustment: 0.983917436035026,
-    someHS: 0.636135221562357,
-    finishedHS: 0.887913593943745,
-    someCollege: 1.1662533446453,
-    bachelors: 1.64272662011355,
-    graduateSchool: 2.22019186843307
+    someHS: 0.535621067670412,
+    finishedHS: 0.747616561804544,
+    someCollege: 0.981976536527736,
+    bachelors: 1.38316344753688,
+    graduateSchool: 1.86938483940984
   },
   'Shasta County': {
     state: 'California',
     countyToStateAdjustment: 0.865459150882253,
-    someHS: 0.825980552111205,
-    finishedHS: 0.862526920315865,
-    someCollege: 1.01181230829472,
-    bachelors: 1.32673105788684,
-    graduateSchool: 2.17894668145924
+    someHS: 0.790660627830704,
+    finishedHS: 0.825644229267531,
+    someCollege: 0.968545994065282,
+    bachelors: 1.26999843823208,
+    graduateSchool: 2.08577229423708
   },
   'Solano County': {
     state: 'California',
     countyToStateAdjustment: 1.09034606877041,
-    someHS: 0.750146838086537,
-    finishedHS: 0.863930039809437,
-    someCollege: 1.33032043333551,
-    bachelors: 1.85867649938002,
-    graduateSchool: 2.5109639104614
+    someHS: 0.569965785689493,
+    finishedHS: 0.656418902166906,
+    someCollege: 1.01078494570338,
+    bachelors: 1.41223285565528,
+    graduateSchool: 1.90784449843804
   },
   'Sonoma County': {
     state: 'California',
     countyToStateAdjustment: 0.997514998205689,
-    someHS: 0.71324153233701,
-    finishedHS: 1.03684004437773,
-    someCollege: 1.20961952620244,
-    bachelors: 1.64471709195327,
-    graduateSchool: 2.06141095085819
+    someHS: 0.592357723577236,
+    finishedHS: 0.861111111111111,
+    someCollege: 1.00460704607046,
+    bachelors: 1.3659620596206,
+    graduateSchool: 1.7120325203252
   },
   'Stanislaus County': {
     state: 'California',
     countyToStateAdjustment: 0.927364553209923,
-    someHS: 0.748678457221171,
-    finishedHS: 1.07279906023625,
-    someCollege: 1.10138354108203,
-    bachelors: 1.74156496769562,
-    graduateSchool: 2.62993539124192
+    someHS: 0.668823786620026,
+    finishedHS: 0.958373414954088,
+    someCollege: 0.983909051158723,
+    bachelors: 1.55580819122577,
+    graduateSchool: 2.34942428217461
   },
   'Sutter County': {
     state: 'California',
     countyToStateAdjustment: 0.774114891290464,
-    someHS: 0.631012203876525,
-    finishedHS: 0.936304901129022,
-    someCollege: 1.04940285844808,
-    bachelors: 1.61557788944724,
-    graduateSchool: 2.05436272270443
+    someHS: 0.675303813381757,
+    finishedHS: 1.00202542254505,
+    someCollege: 1.12306188015086,
+    bachelors: 1.72897751082553,
+    graduateSchool: 2.19856125157145
   },
   'Tulare County': {
     state: 'California',
     countyToStateAdjustment: 0.703694117026892,
-    someHS: 0.536676890948248,
-    finishedHS: 0.76597272074659,
-    someCollege: 1.01067023428832,
-    bachelors: 1.70446387783071,
-    graduateSchool: 2.29272988318214
+    someHS: 0.631823594944489,
+    finishedHS: 0.901770965387423,
+    someCollege: 1.18985056279052,
+    bachelors: 2.00664592216972,
+    graduateSchool: 2.69920479428374
   },
   'Ventura County': {
     state: 'California',
     countyToStateAdjustment: 1.06301577979518,
-    someHS: 0.679599295177185,
-    finishedHS: 0.995888533576976,
-    someCollege: 1.30705475429094,
-    bachelors: 2.01980682633949,
-    graduateSchool: 2.64961169483783
+    someHS: 0.529639142486586,
+    finishedHS: 0.776136103552628,
+    someCollege: 1.0186404902983,
+    bachelors: 1.57411692902373,
+    graduateSchool: 2.06494926633268
   },
   'Yolo County': {
     state: 'California',
     countyToStateAdjustment: 1.09740166266016,
-    someHS: 0.668080663055537,
-    finishedHS: 0.932748156366247,
-    someCollege: 1.1750309991516,
-    bachelors: 1.70169026952947,
-    graduateSchool: 2.17786986882464
+    someHS: 0.504347826086956,
+    finishedHS: 0.704150757482449,
+    someCollege: 0.887055056041384,
+    bachelors: 1.28464096563616,
+    graduateSchool: 1.64411873383422
   },
   'Yuba County': {
     state: 'California',
     countyToStateAdjustment: 0.835587766789644,
-    someHS: 0.634405795209815,
-    finishedHS: 0.966064086667102,
-    someCollege: 1.05596162631339,
-    bachelors: 1.36500685244404,
-    graduateSchool: 2.34314429289304
+    someHS: 0.628987382724038,
+    finishedHS: 0.957813005499838,
+    someCollege: 1.04694273697832,
+    bachelors: 1.3533484309285,
+    graduateSchool: 2.32313167259786
   },
   'Adams County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.893646364281567,
-    someHS: 0.83753181491875,
-    finishedHS: 1.04764080140965,
-    someCollege: 1.18723487567709,
-    bachelors: 1.70723748613196,
-    graduateSchool: 2.01135547869216
+    someHS: 0.694923514281847,
+    finishedHS: 0.869256802490862,
+    someCollege: 0.985081900636253,
+    bachelors: 1.41654257479356,
+    graduateSchool: 1.66887775822391
   },
   'Arapahoe County': {
     state: 'Colorado',
     countyToStateAdjustment: 1.00230660042583,
-    someHS: 0.811296743457547,
-    finishedHS: 1.01621745089082,
-    someCollege: 1.20276708216407,
-    bachelors: 1.6893232395745,
-    graduateSchool: 2.31648502251517
+    someHS: 0.600178631777145,
+    finishedHS: 0.751774248056776,
+    someCollege: 0.889779365615797,
+    bachelors: 1.24972239656255,
+    graduateSchool: 1.71368222855212
   },
   'Boulder County': {
     state: 'Colorado',
     countyToStateAdjustment: 1.05863281502032,
-    someHS: 0.813515630098545,
-    finishedHS: 0.815995562226718,
-    someCollege: 1.02819291261502,
-    bachelors: 1.72090974352281,
-    graduateSchool: 2.12778176597272
+    someHS: 0.569799332632445,
+    finishedHS: 0.571536316679618,
+    someCollege: 0.720162727979156,
+    bachelors: 1.20535265347168,
+    graduateSchool: 1.49033231247429
   },
   'Broomfield County': {
     state: 'Colorado',
     countyToStateAdjustment: 1.21822375637138,
-    someHS: 0.541114664230242,
-    finishedHS: 1.25504144097109,
-    someCollege: 1.37721072896952,
-    bachelors: 1.66246818508125,
-    graduateSchool: 2.56105201331332
+    someHS: 0.3293545183714,
+    finishedHS: 0.763892750744786,
+    someCollege: 0.838252234359484,
+    bachelors: 1.01187686196624,
+    graduateSchool: 1.55880834160874
   },
   'Denver County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.997322407897284,
-    someHS: 0.767604255041441,
-    finishedHS: 0.990504470403968,
-    someCollege: 1.1619460941069,
-    bachelors: 1.6652091626966,
-    graduateSchool: 2.13668994322261
+    someHS: 0.570693837942746,
+    finishedHS: 0.736414361960213,
+    someCollege: 0.863876758854925,
+    bachelors: 1.2380397865114,
+    graduateSchool: 1.58857350800582
   },
   'Douglas County': {
     state: 'Colorado',
     countyToStateAdjustment: 1.47096586876573,
-    someHS: 1.0251256281407,
-    finishedHS: 1.40634993147556,
-    someCollege: 1.63871304574822,
-    bachelors: 2.25311623050317,
-    graduateSchool: 2.75977289042616
+    someHS: 0.516744522665965,
+    finishedHS: 0.708911770511218,
+    someCollege: 0.826041186920192,
+    bachelors: 1.13574906243832,
+    graduateSchool: 1.39114415422067
   },
   'El Paso County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.894299632234338,
-    someHS: 0.800561247797429,
-    finishedHS: 0.91750962605234,
-    someCollege: 1.08993017033218,
-    bachelors: 1.49856424982053,
-    graduateSchool: 2.12487763492789
+    someHS: 0.663762783399167,
+    finishedHS: 0.760727233374817,
+    someCollege: 0.903684865537579,
+    bachelors: 1.24249228937828,
+    graduateSchool: 1.76178237108382
   },
   'Jefferson County': {
     state: 'Colorado',
     countyToStateAdjustment: 1.05231789147687,
-    someHS: 0.831266723226522,
-    finishedHS: 1.18782222802323,
-    someCollege: 1.30578215754095,
-    bachelors: 1.68439600600405,
-    graduateSchool: 2.18902956340142
+    someHS: 0.585726438737268,
+    finishedHS: 0.836962269790541,
+    someCollege: 0.920079093187409,
+    bachelors: 1.18685765525487,
+    graduateSchool: 1.54243211551284
   },
   'Larimer County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.967223691851087,
-    someHS: 0.825686875938132,
-    finishedHS: 1.03638321477517,
-    someCollege: 1.02780134438426,
-    bachelors: 1.4967695620962,
-    graduateSchool: 1.94978137440449
+    someHS: 0.632979787872724,
+    finishedHS: 0.794501701020612,
+    someCollege: 0.787922753652191,
+    bachelors: 1.14743846307785,
+    graduateSchool: 1.49472183309986
   },
   'Mesa County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.753532485966837,
-    someHS: 0.9770279971285,
-    finishedHS: 0.8555765842198,
-    someCollege: 0.824022710957384,
-    bachelors: 1.26156757815049,
-    graduateSchool: 1.96978398485936
+    someHS: 0.961405086051888,
+    finishedHS: 0.841895710249165,
+    someCollege: 0.81084639095813,
+    bachelors: 1.24139481119959,
+    graduateSchool: 1.93828666837914
   },
   'Pueblo County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.745281953674431,
-    someHS: 0.547771324153234,
-    finishedHS: 0.894831299353912,
-    someCollege: 0.87659074593748,
-    bachelors: 1.47751745741695,
-    graduateSchool: 1.69075898975396
+    someHS: 0.544979385124825,
+    finishedHS: 0.890270428205045,
+    someCollege: 0.872122845177418,
+    bachelors: 1.46998668960816,
+    graduateSchool: 1.68214134986852
   },
   'Weld County': {
     state: 'Colorado',
     countyToStateAdjustment: 0.946246532034325,
-    someHS: 0.934836520263656,
-    finishedHS: 1.17463943092084,
-    someCollege: 1.21196893558703,
-    bachelors: 1.69356522874111,
-    graduateSchool: 1.85387978855316
+    someHS: 0.732542381549004,
+    finishedHS: 0.920453092638523,
+    someCollege: 0.949704671558976,
+    bachelors: 1.32708583701961,
+    graduateSchool: 1.4527090950932
   },
   'Fairfield County': {
     state: 'Connecticut',
     countyToStateAdjustment: 1.0805766597761,
-    someHS: 0.707400639561444,
-    finishedHS: 1.02584350323044,
-    someCollege: 1.32542583045096,
-    bachelors: 2.26176336226587,
-    graduateSchool: 2.95046661880833
+    someHS: 0.430882674457894,
+    finishedHS: 0.624848448711069,
+    someCollege: 0.80732613837378,
+    bachelors: 1.37765587422734,
+    graduateSchool: 1.79714984198915
   },
   'Hartford County': {
     state: 'Connecticut',
     countyToStateAdjustment: 1.00003758490161,
-    someHS: 0.714285714285714,
-    finishedHS: 1.16896169157476,
-    someCollege: 1.31984598316257,
-    bachelors: 1.99768322130131,
-    graduateSchool: 2.46730405273119
+    someHS: 0.470115757146232,
+    finishedHS: 0.76936623499345,
+    someCollege: 0.868672551167236,
+    bachelors: 1.31479930416855,
+    graduateSchool: 1.62388591800356
   },
   'Litchfield County': {
     state: 'Connecticut',
     countyToStateAdjustment: 0.982512282208918,
-    someHS: 0.803889577758924,
-    finishedHS: 1.3052274358807,
-    someCollege: 1.38540103112967,
-    bachelors: 1.70025451935,
-    graduateSchool: 2.27771976766952
+    someHS: 0.538527116532232,
+    finishedHS: 0.874374275908803,
+    someCollege: 0.928082715806501,
+    bachelors: 1.1390036505126,
+    graduateSchool: 1.52584868953155
   },
   'Middlesex County': {
     state: 'Connecticut',
     countyToStateAdjustment: 1.1014738650702,
-    someHS: 0.864843699014553,
-    finishedHS: 1.36680154016837,
-    someCollege: 1.36800887554656,
-    bachelors: 2.02822554330092,
-    graduateSchool: 2.62079879919076
+    someHS: 0.516788207308037,
+    finishedHS: 0.816733611511914,
+    someCollege: 0.817455055960691,
+    bachelors: 1.21196817845026,
+    graduateSchool: 1.56606091330968
   },
   'New Haven County': {
     state: 'Connecticut',
     countyToStateAdjustment: 0.941641386345942,
-    someHS: 0.751191020035241,
-    finishedHS: 1.11698100894081,
-    someCollege: 1.32372903478431,
-    bachelors: 1.80003915682308,
-    graduateSchool: 2.33165829145729
+    someHS: 0.525066143600036,
+    finishedHS: 0.780745369947997,
+    someCollege: 0.925257731958763,
+    bachelors: 1.25818812152176,
+    graduateSchool: 1.62977830489919
   },
   'New London County': {
     state: 'Connecticut',
     countyToStateAdjustment: 0.907557249859057,
-    someHS: 0.815767147425439,
-    finishedHS: 1.11662207139594,
-    someCollege: 1.37371924557854,
-    bachelors: 1.69483782549109,
-    graduateSchool: 2.34813678783528
+    someHS: 0.591617956788224,
+    finishedHS: 0.809806659251722,
+    someCollege: 0.996260974513098,
+    bachelors: 1.22914546702322,
+    graduateSchool: 1.7029367915375
   },
   'Tolland County': {
     state: 'Connecticut',
     countyToStateAdjustment: 1.112727858466,
-    someHS: 0.378613848463095,
-    finishedHS: 1.51706584872414,
-    someCollege: 1.43862167982771,
-    bachelors: 2.03974417542257,
-    graduateSchool: 2.52160151406383
+    someHS: 0.223952904844625,
+    finishedHS: 0.89735572283343,
+    someCollege: 0.850955414012739,
+    bachelors: 1.20652383709709,
+    graduateSchool: 1.49154603358425
   },
   'Windham County': {
     state: 'Connecticut',
     countyToStateAdjustment: 0.873473113372171,
-    someHS: 0.983162566077139,
-    finishedHS: 1.16768909482477,
-    someCollege: 1.30173595248972,
-    bachelors: 1.79491613913724,
-    graduateSchool: 2.18971480780526
+    someHS: 0.740840914679125,
+    finishedHS: 0.879886894516843,
+    someCollege: 0.980895008605852,
+    bachelors: 1.35252028522252,
+    graduateSchool: 1.65001229407426
   },
   'Kent County': {
     state: 'Delaware',
     countyToStateAdjustment: 0.959566543669688,
-    someHS: 1.02388566207662,
-    finishedHS: 0.992919141160347,
-    someCollege: 1.07508320824904,
-    bachelors: 1.63939829015206,
-    graduateSchool: 2.18250342622202
+    someHS: 0.847733290106446,
+    finishedHS: 0.822094342681148,
+    someCollege: 0.890122656292214,
+    bachelors: 1.35735127249149,
+    graduateSchool: 1.80701896579673
   },
   'New Castle County': {
     state: 'Delaware',
     countyToStateAdjustment: 1.11182067213384,
-    someHS: 0.796678196175684,
-    finishedHS: 1.03909156170463,
-    someCollege: 1.25282255433009,
-    bachelors: 1.79472035502186,
-    graduateSchool: 2.19395679697187
+    someHS: 0.569286730244596,
+    finishedHS: 0.742509385128361,
+    someCollege: 0.895236318697974,
+    bachelors: 1.28246321729195,
+    graduateSchool: 1.56774780236435
   },
   'Sussex County': {
     state: 'Delaware',
     countyToStateAdjustment: 0.928612784196473,
-    someHS: 0.822913267636886,
-    finishedHS: 0.921099001501012,
-    someCollege: 1.25553090125954,
-    bachelors: 1.52616981008941,
-    graduateSchool: 1.96798929713503
+    someHS: 0.704048017867113,
+    finishedHS: 0.788051367950865,
+    someCollege: 1.07417643774428,
+    bachelors: 1.30572305974316,
+    graduateSchool: 1.68372417643774
   },
   'District of Columbia': {
     state: 'District of Columbia',
     countyToStateAdjustment: 1,
-    someHS: 0.770214709913202,
-    finishedHS: 0.928897735430399,
-    someCollege: 1.26871369836194,
-    bachelors: 2.0929974548065,
-    graduateSchool: 2.76323174313124
+    someHS: 0.410418695228822,
+    finishedHS: 0.494974961747114,
+    someCollege: 0.676050215607178,
+    bachelors: 1.11528028933092,
+    graduateSchool: 1.47242314647378
   },
   'Alachua County': {
     state: 'Florida',
     countyToStateAdjustment: 1.13647007990362,
-    someHS: 0.594270051556484,
-    finishedHS: 0.781211251060497,
-    someCollege: 0.985283560660445,
-    bachelors: 1.47950792925667,
-    graduateSchool: 1.82222802323305
+    someHS: 0.5054115557529,
+    finishedHS: 0.664400288616307,
+    someCollege: 0.837958594660598,
+    bachelors: 1.25828384303713,
+    graduateSchool: 1.54975856135872
   },
   'Bay County': {
     state: 'Florida',
     countyToStateAdjustment: 1.01813640227143,
-    someHS: 0.681589767016903,
-    finishedHS: 0.932748156366247,
-    someCollege: 1.02058996280102,
-    bachelors: 1.38657573582197,
-    graduateSchool: 2.01576062128826
+    someHS: 0.647047890465275,
+    finishedHS: 0.885477975342296,
+    someCollege: 0.968868099869897,
+    bachelors: 1.31630630072486,
+    graduateSchool: 1.91360510501208
   },
   'Brevard County': {
     state: 'Florida',
     countyToStateAdjustment: 1.02491725000355,
-    someHS: 0.671735299876003,
-    finishedHS: 0.881061149905371,
-    someCollege: 0.990112902173204,
-    bachelors: 1.47973634405795,
-    graduateSchool: 2.16680806630555
+    someHS: 0.633473859125458,
+    finishedHS: 0.830876696310429,
+    someCollege: 0.933716958488476,
+    bachelors: 1.39545188786657,
+    graduateSchool: 2.04338862048805
   },
   'Broward County': {
     state: 'Florida',
     countyToStateAdjustment: 1.03169809773567,
-    someHS: 0.63949618220975,
-    finishedHS: 0.837760229720029,
-    someCollege: 1.03821053318541,
-    bachelors: 1.49070025451935,
-    graduateSchool: 1.90732885205247
+    someHS: 0.599107361213011,
+    finishedHS: 0.784849596478357,
+    someCollege: 0.972640009782343,
+    bachelors: 1.39655172413793,
+    graduateSchool: 1.78686720469552
   },
   'Charlotte County': {
     state: 'Florida',
     countyToStateAdjustment: 0.8345173534509,
-    someHS: 0.581903021601514,
-    finishedHS: 0.86706258565555,
-    someCollege: 0.828656268354761,
-    bachelors: 1.17362787965803,
-    graduateSchool: 1.59456372772956
+    someHS: 0.673960695389267,
+    finishedHS: 1.0042328042328,
+    someCollege: 0.959750566893424,
+    bachelors: 1.35929705215419,
+    graduateSchool: 1.8468253968254
   },
   'Citrus County': {
     state: 'Florida',
     countyToStateAdjustment: 0.80975937452199,
-    someHS: 0.690073745350127,
-    finishedHS: 0.679403511061803,
-    someCollege: 0.757031912810807,
-    bachelors: 1.49056973177576,
-    graduateSchool: 1.64298766560073
+    someHS: 0.823680623174294,
+    finishedHS: 0.810944498539435,
+    someCollege: 0.903602726387536,
+    bachelors: 1.77916260954236,
+    graduateSchool: 1.96109055501461
   },
   'Clay County': {
     state: 'Florida',
     countyToStateAdjustment: 1.12152067606629,
-    someHS: 0.666873327677348,
-    finishedHS: 0.994289629968022,
-    someCollege: 1.04405142596097,
-    bachelors: 1.58392612412713,
-    graduateSchool: 2.01236702995497
+    someHS: 0.574718785151856,
+    finishedHS: 0.856889763779528,
+    someCollege: 0.899775028121485,
+    bachelors: 1.3650449943757,
+    graduateSchool: 1.73428008998875
   },
   'Collier County': {
     state: 'Florida',
     countyToStateAdjustment: 0.977072849958763,
-    someHS: 0.564315081903022,
-    finishedHS: 0.87319715460419,
-    someCollege: 1.02049207074333,
-    bachelors: 1.4934738628206,
-    graduateSchool: 1.87642759250799
+    someHS: 0.55823111684958,
+    finishedHS: 0.863783085861846,
+    someCollege: 1.00948999354422,
+    bachelors: 1.47737249838606,
+    graduateSchool: 1.85619754680439
   },
   'Columbia County': {
     state: 'Florida',
     countyToStateAdjustment: 0.990350695983057,
-    someHS: 0.681981335247667,
-    finishedHS: 0.979083730340012,
-    someCollege: 0.943385759968675,
-    bachelors: 1.29850551458592,
-    graduateSchool: 2.53028127651243
+    someHS: 0.665583898601955,
+    finishedHS: 0.955542817107735,
+    someCollege: 0.920703162319671,
+    bachelors: 1.26728448138594,
+    graduateSchool: 2.46944364829146
   },
   'Duval County': {
     state: 'Florida',
     countyToStateAdjustment: 1.08521948657944,
-    someHS: 0.731318932323958,
-    finishedHS: 0.870978267963193,
-    someCollege: 1.04124518697383,
-    bachelors: 1.50841871696143,
-    graduateSchool: 1.82314168243816
+    someHS: 0.651341218867157,
+    finishedHS: 0.775727280653317,
+    someCollege: 0.927373652242146,
+    bachelors: 1.34345665378244,
+    graduateSchool: 1.62376122526083
   },
   'Escambia County': {
     state: 'Florida',
     countyToStateAdjustment: 0.995239214115517,
-    someHS: 0.478039548391307,
-    finishedHS: 0.883443189975853,
-    someCollege: 0.995855902891079,
-    bachelors: 1.35299876003394,
-    graduateSchool: 1.76140442472101
+    someHS: 0.464254024591203,
+    finishedHS: 0.857966789200152,
+    someCollege: 0.967137786791735,
+    bachelors: 1.31398149321841,
+    graduateSchool: 1.7106097097224
   },
   'Flagler County': {
     state: 'Florida',
     countyToStateAdjustment: 0.88617795152167,
-    someHS: 0.594890034588527,
-    finishedHS: 0.738040853618743,
-    someCollege: 0.959962148404359,
-    bachelors: 1.00949552959603,
-    graduateSchool: 1.05592899562749
+    someHS: 0.64883621610079,
+    finishedHS: 0.804968325147697,
+    someCollege: 1.04701402235035,
+    bachelors: 1.1010392198733,
+    graduateSchool: 1.15168339383586
   },
   'Hernando County': {
     state: 'Florida',
     countyToStateAdjustment: 1.01173402045924,
-    someHS: 0.556059518371076,
-    finishedHS: 0.966912484500424,
-    someCollege: 1.03191281080728,
-    bachelors: 1.31351563009854,
-    graduateSchool: 1.66922273706193
+    someHS: 0.531219801115995,
+    finishedHS: 0.923719567318183,
+    someCollege: 0.985816266093083,
+    bachelors: 1.25483961470121,
+    graduateSchool: 1.5946569406777
   },
   'Highlands County': {
     state: 'Florida',
     countyToStateAdjustment: 0.746460949413299,
-    someHS: 0.559224694903087,
-    finishedHS: 0.685897017555309,
-    someCollege: 0.898061737257717,
-    bachelors: 1.4999673693141,
-    graduateSchool: 1.54137570971742
+    someHS: 0.724100050701369,
+    finishedHS: 0.888118979212439,
+    someCollege: 1.16283589656921,
+    bachelors: 1.94220043941186,
+    graduateSchool: 1.9958171370627
   },
   'Hillsborough County': {
     state: 'Florida',
     countyToStateAdjustment: 1.11846140988017,
-    someHS: 0.672420544279841,
-    finishedHS: 0.859133328982575,
-    someCollege: 1.06095412125563,
-    bachelors: 1.50564510866018,
-    graduateSchool: 1.99840109639105
+    someHS: 0.581084510616699,
+    finishedHS: 0.742435778134958,
+    someCollege: 0.916842906691481,
+    bachelors: 1.30113075599921,
+    graduateSchool: 1.72695485435524
   },
   'Indian River County': {
     state: 'Florida',
     countyToStateAdjustment: 0.953229497003023,
-    someHS: 0.817920772694642,
-    finishedHS: 0.750897343862168,
-    someCollege: 0.996900084839783,
-    bachelors: 1.38148534882203,
-    graduateSchool: 1.80274750375253
+    someHS: 0.829340921122287,
+    finishedHS: 0.761381683430386,
+    someCollege: 1.01081921651668,
+    bachelors: 1.40077421916358,
+    graduateSchool: 1.82791821069349
   },
   'Lake County': {
     state: 'Florida',
     countyToStateAdjustment: 0.990571467769685,
-    someHS: 0.653298962344188,
-    finishedHS: 0.846244208053253,
-    someCollege: 1.03024864582654,
-    bachelors: 1.20834692945246,
-    graduateSchool: 1.71754878287542
+    someHS: 0.637449057564952,
+    finishedHS: 0.825713194090678,
+    someCollege: 1.00525343861437,
+    bachelors: 1.1790308201732,
+    graduateSchool: 1.67587875700458
   },
   'Lee County': {
     state: 'Florida',
     countyToStateAdjustment: 0.960861893054993,
-    someHS: 0.695555700580826,
-    finishedHS: 0.872675063629837,
-    someCollege: 1.00584089277557,
-    bachelors: 1.3227174835215,
-    graduateSchool: 1.69921033740129
+    someHS: 0.699665200551434,
+    finishedHS: 0.8778310247489,
+    someCollege: 1.0117836276505,
+    bachelors: 1.33053239677017,
+    graduateSchool: 1.70924965535351
   },
   'Leon County': {
     state: 'Florida',
     countyToStateAdjustment: 1.10284969068296,
-    someHS: 0.567447627749135,
-    finishedHS: 0.759120276708216,
-    someCollege: 0.931279775500881,
-    bachelors: 1.34272009397638,
-    graduateSchool: 1.80460745284866
+    someHS: 0.497311827956989,
+    finishedHS: 0.665293983070236,
+    someCollege: 0.816174788377946,
+    bachelors: 1.17676161061542,
+    graduateSchool: 1.58156028368794
   },
   'Manatee County': {
     state: 'Florida',
     countyToStateAdjustment: 0.965245789960876,
-    someHS: 0.647131762709652,
-    finishedHS: 0.843405338380213,
-    someCollege: 1.01690269529466,
-    bachelors: 1.43865431051361,
-    graduateSchool: 1.79892971350258
+    someHS: 0.647998693024016,
+    finishedHS: 0.844535206665577,
+    someCollege: 1.01826498938082,
+    bachelors: 1.44058160431302,
+    graduateSchool: 1.80133965038392
   },
   'Marion County': {
     state: 'Florida',
     countyToStateAdjustment: 0.845934408702193,
-    someHS: 0.690530574952686,
-    finishedHS: 0.817300789662599,
-    someCollege: 0.867910983488873,
-    bachelors: 1.1608366507864,
-    graduateSchool: 1.3709130065914
+    someHS: 0.788979196182238,
+    finishedHS: 0.933822981134889,
+    someCollege: 0.991648646633361,
+    bachelors: 1.32633658936694,
+    graduateSchool: 1.56636343300276
   },
   'Martin County': {
     state: 'Florida',
     countyToStateAdjustment: 1.09761424545723,
-    someHS: 0.691835802388566,
-    finishedHS: 0.882725314886119,
-    someCollege: 1.12438817463943,
-    bachelors: 1.36800887554656,
-    graduateSchool: 1.84595053188018
+    someHS: 0.609217861042469,
+    finishedHS: 0.777311648755819,
+    someCollege: 0.990115510602839,
+    bachelors: 1.2046434112982,
+    graduateSchool: 1.6255100281593
   },
   'Miami-Dade County': {
     state: 'Florida',
     countyToStateAdjustment: 0.915729832103056,
-    someHS: 0.625138680415062,
-    finishedHS: 0.722476016445866,
-    someCollege: 0.979083730340012,
-    bachelors: 1.34396006004046,
-    graduateSchool: 1.87221823402728
+    someHS: 0.659824349922507,
+    finishedHS: 0.762562424659893,
+    someCollege: 1.03340795591527,
+    bachelors: 1.41852936111589,
+    graduateSchool: 1.97609781298433
   },
   'Monroe County': {
     state: 'Florida',
     countyToStateAdjustment: 1.01536098552526,
-    someHS: 0.707792207792208,
-    finishedHS: 0.990439209032174,
-    someCollege: 0.999314755596163,
-    bachelors: 1.30072440122691,
-    graduateSchool: 2.18344971611303
+    someHS: 0.67375908554389,
+    finishedHS: 0.942815431446853,
+    someCollege: 0.951264210722495,
+    bachelors: 1.23818102752066,
+    graduateSchool: 2.07846182518482
   },
   'Nassau County': {
     state: 'Florida',
     countyToStateAdjustment: 1.12587303414551,
-    someHS: 0.783234353586112,
-    finishedHS: 0.976244860666971,
-    someCollege: 1.25412778176597,
-    bachelors: 1.33335508712393,
-    graduateSchool: 1.98626248123736
+    someHS: 0.672390610118214,
+    finishedHS: 0.838086167292285,
+    someCollege: 1.07664294918483,
+    bachelors: 1.1446579640316,
+    graduateSchool: 1.7051655554933
   },
   'Okaloosa County': {
     state: 'Florida',
     countyToStateAdjustment: 1.07134240284859,
-    someHS: 0.662827122626118,
-    finishedHS: 0.809143118188344,
-    someCollege: 1.09051752267833,
-    bachelors: 1.47059975200679,
-    graduateSchool: 2.18132872152973
+    someHS: 0.597986399364126,
+    finishedHS: 0.729989107715859,
+    someCollege: 0.983838205422591,
+    bachelors: 1.3267390856369,
+    graduateSchool: 1.96794135829727
   },
   'Orange County': {
     state: 'Florida',
     countyToStateAdjustment: 1.00189390654099,
-    someHS: 0.625954447562488,
-    finishedHS: 0.796515042746199,
-    someCollege: 1.00636298374992,
-    bachelors: 1.3807674737323,
-    graduateSchool: 1.96896821771194
+    someHS: 0.603865646740328,
+    finishedHS: 0.768407466868134,
+    someCollege: 0.970850253407624,
+    bachelors: 1.33204268580603,
+    graduateSchool: 1.89948688890988
   },
   'Osceola County': {
     state: 'Florida',
     countyToStateAdjustment: 0.838333551476884,
-    someHS: 0.635711022645696,
-    finishedHS: 0.715558311035698,
-    someCollege: 0.87877700189258,
-    bachelors: 1.18371076160021,
-    graduateSchool: 1.64393395549174
+    someHS: 0.732929536134833,
+    finishedHS: 0.824987773221474,
+    someCollege: 1.01316729995109,
+    bachelors: 1.36473420864527,
+    graduateSchool: 1.89533877581731
   },
   'Palm Beach County': {
     state: 'Florida',
     countyToStateAdjustment: 1.09099109185841,
-    someHS: 0.602754029889708,
-    finishedHS: 0.888794622462964,
-    someCollege: 1.03726424329439,
-    bachelors: 1.48538145271814,
-    graduateSchool: 2.00626509169223
+    someHS: 0.533996299722479,
+    finishedHS: 0.78740749306198,
+    someCollege: 0.918940795559667,
+    bachelors: 1.31594010175763,
+    graduateSchool: 1.77740518038853
   },
   'Pasco County': {
     state: 'Florida',
     countyToStateAdjustment: 1.08291715223319,
-    someHS: 0.712099458330614,
-    finishedHS: 0.841382235854598,
-    someCollege: 1.15479997389545,
-    bachelors: 1.46834823467989,
-    graduateSchool: 1.78816158715656
+    someHS: 0.635571994408201,
+    finishedHS: 0.750961090400746,
+    someCollege: 1.03069664492078,
+    bachelors: 1.31054869524697,
+    graduateSchool: 1.59599254426841
   },
   'Pinellas County': {
     state: 'Florida',
     countyToStateAdjustment: 1.05487913533153,
-    someHS: 0.596782614370554,
-    finishedHS: 0.876851791424656,
-    someCollege: 1.03158650394831,
-    bachelors: 1.52417933824969,
-    graduateSchool: 1.74479540559943
+    someHS: 0.546805393607797,
+    finishedHS: 0.803420336652017,
+    someCollege: 0.945196878643825,
+    bachelors: 1.39653780608126,
+    graduateSchool: 1.59867850629354
   },
   'Polk County': {
     state: 'Florida',
     countyToStateAdjustment: 0.954617205376108,
-    someHS: 0.640246687985381,
-    finishedHS: 0.830255171963715,
-    someCollege: 1.00933237616655,
-    bachelors: 1.37616654702082,
-    graduateSchool: 1.70420283234354
+    someHS: 0.648242368177613,
+    finishedHS: 0.840623761067794,
+    someCollege: 1.02193735958768,
+    bachelors: 1.39335271573939,
+    graduateSchool: 1.72548566142461
   },
   'Putnam County': {
     state: 'Florida',
     countyToStateAdjustment: 0.696251137368936,
-    someHS: 0.61345689486393,
-    finishedHS: 0.654734712523657,
-    someCollege: 0.708379560138354,
-    bachelors: 1.04959864256347,
-    graduateSchool: 1.67258369770933
+    someHS: 0.851603551368001,
+    finishedHS: 0.90890559884037,
+    someCollege: 0.983375611523827,
+    bachelors: 1.45705743794166,
+    graduateSchool: 2.32188802319261
   },
   'St. Johns County': {
     state: 'Florida',
     countyToStateAdjustment: 1.3322631158153,
-    someHS: 0.554003785159564,
-    finishedHS: 0.822750114207401,
-    someCollege: 1.30493375970763,
-    bachelors: 1.62295242445996,
-    graduateSchool: 2.35430398746982
+    someHS: 0.40192225746887,
+    finishedHS: 0.59689408645424,
+    someCollege: 0.946711803418399,
+    bachelors: 1.17743004592586,
+    graduateSchool: 1.7080157189527
   },
   'St. Lucie County': {
     state: 'Florida',
     countyToStateAdjustment: 0.914972900263191,
-    someHS: 0.51236702995497,
-    finishedHS: 0.925112575866345,
-    someCollege: 1.0000326306859,
-    bachelors: 1.18397180708739,
-    graduateSchool: 1.36885727337989
+    someHS: 0.541242976801903,
+    finishedHS: 0.977250008617421,
+    someCollege: 1.05639240288167,
+    bachelors: 1.25069801109924,
+    graduateSchool: 1.44600324015029
   },
   'Santa Rosa County': {
     state: 'Florida',
     countyToStateAdjustment: 1.1487071446481,
-    someHS: 0.582816680806631,
-    finishedHS: 0.939176401487959,
-    someCollege: 1.1783266984272,
-    bachelors: 1.37897278600796,
-    graduateSchool: 1.93336813939829
+    someHS: 0.49039042337049,
+    finishedHS: 0.790236670144418,
+    someCollege: 0.99146120476635,
+    bachelors: 1.16028773818022,
+    graduateSchool: 1.62676404370985
   },
   'Sarasota County': {
     state: 'Florida',
     countyToStateAdjustment: 1.10846360182862,
-    someHS: 0.666155452587613,
-    finishedHS: 0.924296808718919,
-    someCollege: 1.09227957971677,
-    bachelors: 1.36888990406578,
-    graduateSchool: 1.90641519284735
+    someHS: 0.580862687076765,
+    finishedHS: 0.805952313207762,
+    someCollege: 0.952427018721903,
+    bachelors: 1.19362089569226,
+    graduateSchool: 1.66232288169351
   },
   'Seminole County': {
     state: 'Florida',
     countyToStateAdjustment: 1.15832648677971,
-    someHS: 0.749983684657051,
-    finishedHS: 0.866246818508125,
-    someCollege: 1.06943809958885,
-    bachelors: 1.58389349344123,
-    graduateSchool: 1.95539385237878
+    someHS: 0.625806627276935,
+    finishedHS: 0.722819723908841,
+    someCollege: 0.892368012633757,
+    bachelors: 1.32164347755058,
+    graduateSchool: 1.63163340321834
   },
   'Sumter County': {
     state: 'Florida',
     countyToStateAdjustment: 0.855490673180486,
-    someHS: 0.596260523396202,
-    finishedHS: 0.604613978985838,
-    someCollege: 0.850779873392939,
-    bachelors: 1.48936239639757,
-    graduateSchool: 1.54910918227501
+    someHS: 0.673658986175115,
+    finishedHS: 0.683096774193548,
+    someCollege: 0.961216589861751,
+    bachelors: 1.68269124423963,
+    graduateSchool: 1.7501935483871
   },
   'Volusia County': {
     state: 'Florida',
     countyToStateAdjustment: 0.929543838180588,
-    someHS: 0.659694576780004,
-    finishedHS: 0.764700123996606,
-    someCollege: 0.935945963584154,
-    bachelors: 1.29994126476539,
-    graduateSchool: 1.65065587678653
+    someHS: 0.685949852407288,
+    finishedHS: 0.79513452990873,
+    someCollege: 0.973195806331218,
+    bachelors: 1.35167780680623,
+    graduateSchool: 1.71635055813796
   },
   'Barrow County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.914911900274561,
-    someHS: 0.834921360046988,
-    finishedHS: 0.868955165437577,
-    someCollege: 1.05344906349931,
-    bachelors: 1.37662337662338,
-    graduateSchool: 1.9715786725837
+    someHS: 0.811590065658007,
+    finishedHS: 0.844672820122435,
+    someCollege: 1.02401116503315,
+    bachelors: 1.33815459764646,
+    graduateSchool: 1.91648428331272
   },
   'Bartow County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.02753831842299,
-    someHS: 0.68041506232461,
-    finishedHS: 1.20501859949096,
-    someCollege: 1.11502316778699,
-    bachelors: 1.35936174378385,
-    graduateSchool: 1.70847745219605
+    someHS: 0.588906461816539,
+    finishedHS: 1.04295639403525,
+    someCollege: 0.965064392227745,
+    bachelors: 1.17654202440127,
+    graduateSchool: 1.47870537731586
   },
   'Bibb County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.886240191660634,
-    someHS: 0.401944788879462,
-    finishedHS: 0.708085883965281,
-    someCollege: 0.905599425699928,
-    bachelors: 1.35720811851465,
-    graduateSchool: 2.15189584285062
+    someHS: 0.403353089492125,
+    finishedHS: 0.710566816202233,
+    someCollege: 0.908772389403713,
+    bachelors: 1.36196339107371,
+    graduateSchool: 2.15943547594879
   },
   'Bulloch County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.787311188963391,
-    someHS: 0.795634014226979,
-    finishedHS: 0.703680741369184,
-    someCollege: 0.769725249624747,
-    bachelors: 1.30653266331658,
-    graduateSchool: 1.666351236703
+    someHS: 0.898746774788058,
+    finishedHS: 0.794876520457059,
+    someCollege: 0.869480280132694,
+    bachelors: 1.47585698488758,
+    graduateSchool: 1.88230740877258
   },
   'Carroll County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.922166887272012,
-    someHS: 0.736474580695686,
-    finishedHS: 0.85645761273902,
-    someCollege: 1.10706128042811,
-    bachelors: 1.42175161521895,
-    graduateSchool: 1.97343862167983
+    someHS: 0.710262139283129,
+    finishedHS: 0.82597476162004,
+    someCollege: 1.06765899864682,
+    bachelors: 1.37114894420493,
+    graduateSchool: 1.9032004279825
   },
   'Catoosa County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.976376150116967,
-    someHS: 0.606212882594792,
-    finishedHS: 0.978953207596424,
-    someCollege: 1.15962931540821,
-    bachelors: 1.6444560464661,
-    graduateSchool: 1.82992886510474
+    someHS: 0.552177143706346,
+    finishedHS: 0.891692673502749,
+    someCollege: 1.05626393223362,
+    bachelors: 1.49787486996582,
+    graduateSchool: 1.66681527715857
   },
   'Chatham County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.903594120558537,
-    someHS: 0.482509952359199,
-    finishedHS: 0.787770018925798,
-    someCollege: 0.942602623507146,
-    bachelors: 1.3731318932324,
-    graduateSchool: 1.67963192586308
+    someHS: 0.474901242894306,
+    finishedHS: 0.775347657128175,
+    someCollege: 0.927738703150593,
+    bachelors: 1.35147894787552,
+    graduateSchool: 1.65314577512284
   },
   'Cherokee County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.32180059103961,
-    someHS: 0.719604516086928,
-    finishedHS: 0.937218560334138,
-    someCollege: 1.34493898061737,
-    bachelors: 1.81044834562423,
-    graduateSchool: 1.95568752855185
+    someHS: 0.484170545358742,
+    finishedHS: 0.630587512075173,
+    someCollege: 0.904913497848424,
+    bachelors: 1.21812154210942,
+    graduateSchool: 1.31584262755774
   },
   'Clarke County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.761454415304476,
-    someHS: 0.383900019578412,
-    finishedHS: 0.766037982118384,
-    someCollege: 0.790510996541147,
-    bachelors: 0.945245709064805,
-    graduateSchool: 1.36311427266201
+    someHS: 0.448378368078052,
+    finishedHS: 0.894698730896757,
+    someCollege: 0.923282137276573,
+    bachelors: 1.10400548801402,
+    graduateSchool: 1.59205762414726
   },
   'Clayton County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.786788829899575,
-    someHS: 0.753801474907003,
-    finishedHS: 0.764145402336357,
-    someCollege: 0.918325393199765,
-    bachelors: 1.13907198329309,
-    graduateSchool: 1.48280362853227
+    someHS: 0.852058129241664,
+    finishedHS: 0.863750368840366,
+    someCollege: 1.03802744172322,
+    bachelors: 1.28754794924757,
+    graduateSchool: 1.67608439067572
   },
   'Cobb County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.20470510090075,
-    someHS: 0.67418260131828,
-    finishedHS: 0.983945702538667,
-    someCollege: 1.11316321869086,
-    bachelors: 1.81593030085492,
-    graduateSchool: 2.21735299876003
+    someHS: 0.497699515814323,
+    finishedHS: 0.726374870522487,
+    someCollege: 0.821766675499241,
+    bachelors: 1.34056801483873,
+    graduateSchool: 1.63690892009732
   },
   'Columbia County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.21169890836629,
-    someHS: 0.817039744175423,
-    finishedHS: 1.05729948443516,
-    someCollege: 1.17029954969653,
-    bachelors: 1.65760621288259,
-    graduateSchool: 2.04692292631991
+    someHS: 0.599679072663697,
+    finishedHS: 0.77602145902189,
+    someCollege: 0.858959620635149,
+    bachelors: 1.2166259520046,
+    graduateSchool: 1.50237103032045
   },
   'Coweta County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.17641065161069,
-    someHS: 0.689290608888599,
-    finishedHS: 1.01070286497422,
-    someCollege: 1.13388370423546,
-    bachelors: 1.70198394570254,
-    graduateSchool: 1.91091822750114
+    someHS: 0.521091321722828,
+    finishedHS: 0.764073215254823,
+    someCollege: 0.857195717598303,
+    bachelors: 1.28666929794267,
+    graduateSchool: 1.44461986284474
   },
   'DeKalb County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.06012772001554,
-    someHS: 0.589669124845004,
-    finishedHS: 0.828852052470143,
-    someCollege: 0.995138027801344,
-    bachelors: 1.65271160999804,
-    graduateSchool: 2.24048815506102
+    someHS: 0.494675754838356,
+    finishedHS: 0.695327256302866,
+    someCollege: 0.834825216939038,
+    bachelors: 1.38646628890531,
+    graduateSchool: 1.87955435109907
   },
   'Dougherty County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.873152195117233,
-    someHS: 0.638060432030281,
-    finishedHS: 0.90886249428963,
-    someCollege: 0.861254323565881,
-    bachelors: 1.4704692292632,
-    graduateSchool: 1.63747307968414
+    someHS: 0.649893645307099,
+    finishedHS: 0.925717894177081,
+    someCollege: 0.877226801382611,
+    bachelors: 1.49773996277586,
+    graduateSchool: 1.66784099973411
   },
   'Douglas County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.04422478851713,
-    someHS: 0.694250473144945,
-    finishedHS: 0.836585525027736,
-    someCollege: 1.10161195588331,
-    bachelors: 1.50910396136527,
-    graduateSchool: 1.90334790837303
+    someHS: 0.591279215184948,
+    finishedHS: 0.712503126476392,
+    someCollege: 0.938220826501403,
+    bachelors: 1.28527360142289,
+    graduateSchool: 1.62104327043326
   },
   'Fayette County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.4866338956217,
-    someHS: 0.71170789009985,
-    finishedHS: 1.21079423089473,
-    someCollege: 1.47144814984011,
-    bachelors: 1.97073027475038,
-    graduateSchool: 2.14350975657508
+    someHS: 0.425763254470212,
+    finishedHS: 0.72433044428828,
+    someCollege: 0.880260794877801,
+    bachelors: 1.17894510814398,
+    graduateSchool: 1.28230655110486
   },
   'Floyd County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.832814467411405,
-    someHS: 0.479605821314364,
-    finishedHS: 0.865333159303009,
-    someCollege: 0.96159368269921,
-    bachelors: 1.32229328460484,
-    graduateSchool: 1.89319976505906
+    someHS: 0.512161126210886,
+    finishedHS: 0.924071363858109,
+    someCollege: 1.02686598369224,
+    bachelors: 1.41204962018259,
+    graduateSchool: 2.02170882988362
   },
   'Forsyth County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.5119683102168,
-    someHS: 0.732395744958559,
-    finishedHS: 1.04848919924297,
-    someCollege: 1.36729100045683,
-    bachelors: 2.34095803693794,
-    graduateSchool: 2.51964367291
+    someHS: 0.430797873361356,
+    finishedHS: 0.61672520680985,
+    someCollege: 0.804245599892516,
+    bachelors: 1.37696013512217,
+    graduateSchool: 1.48206368399839
   },
   'Fulton County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.20772317549169,
-    someHS: 0.678065652940025,
-    finishedHS: 0.838967565098218,
-    someCollege: 1.04940285844808,
-    bachelors: 1.81547347125237,
-    graduateSchool: 2.43803432748156
+    someHS: 0.499315183698969,
+    finishedHS: 0.617800418098373,
+    someCollege: 0.772761131268472,
+    bachelors: 1.33688156282288,
+    graduateSchool: 1.79532402623928
   },
   'Glynn County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.889664545523431,
-    someHS: 0.794883508451348,
-    finishedHS: 0.767767408470926,
-    someCollege: 0.873034001174705,
-    bachelors: 1.37349083077726,
-    graduateSchool: 2.29507929256673
+    someHS: 0.794598297289363,
+    finishedHS: 0.767491926803014,
+    someCollege: 0.872720748931728,
+    bachelors: 1.37299801024236,
+    graduateSchool: 2.29425579802329
   },
   'Gwinnett County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.02898931582248,
-    someHS: 0.705605951837108,
-    finishedHS: 0.96126737584024,
-    someCollege: 1.05158911440318,
-    bachelors: 1.55449324544802,
-    graduateSchool: 2.02098153103178
+    someHS: 0.609848271194089,
+    finishedHS: 0.830813920694907,
+    someCollege: 0.908878109312426,
+    bachelors: 1.34353319420159,
+    graduateSchool: 1.74671442269728
   },
   'Hall County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.931540330472719,
-    someHS: 0.713698361939568,
-    finishedHS: 0.974189127455459,
-    someCollege: 1.02966129348039,
-    bachelors: 1.6783266984272,
-    graduateSchool: 1.99977158519872
+    someHS: 0.681370716510903,
+    finishedHS: 0.93006230529595,
+    someCollege: 0.983021806853583,
+    bachelors: 1.60230529595016,
+    graduateSchool: 1.90919003115265
   },
   'Henry County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.07118432019966,
-    someHS: 0.767767408470926,
-    finishedHS: 0.978267963192586,
-    someCollege: 1.19744828036285,
-    bachelors: 1.55759316060824,
-    graduateSchool: 1.60226456960125
+    someHS: 0.637434980494148,
+    finishedHS: 0.812201993931513,
+    someCollege: 0.994175335934114,
+    bachelors: 1.29318378846987,
+    graduateSchool: 1.33027199826615
   },
   'Houston County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.03641842250787,
-    someHS: 0.71017424786269,
-    finishedHS: 0.874763427527247,
-    someCollege: 1.13522156235724,
-    bachelors: 1.65385368400444,
-    graduateSchool: 1.99350649350649
+    someHS: 0.609396875175001,
+    finishedHS: 0.75063000504004,
+    someCollege: 0.974127793022344,
+    bachelors: 1.41916335330683,
+    graduateSchool: 1.71061768494148
   },
   'Liberty County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.804723157757274,
-    someHS: 0.506460875807609,
-    finishedHS: 0.780656529400248,
-    someCollege: 0.93950270834693,
-    bachelors: 1.05844155844156,
-    graduateSchool: 1.76773477778503
+    someHS: 0.55971871619185,
+    finishedHS: 0.862747926433466,
+    someCollege: 1.03829787234043,
+    bachelors: 1.16974395961053,
+    graduateSchool: 1.95362423368193
   },
   'Lowndes County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.747176600893492,
-    someHS: 0.476244860666971,
-    finishedHS: 0.733798864452131,
-    someCollege: 0.799092866932063,
-    bachelors: 1.35603341382236,
-    graduateSchool: 1.65705149122235
+    someHS: 0.566862158698101,
+    finishedHS: 0.873422146269468,
+    someCollege: 0.951139938633627,
+    bachelors: 1.61405212257739,
+    graduateSchool: 1.97234629277197
   },
   'Muscogee County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.878259705963438,
-    someHS: 0.526398224890687,
-    finishedHS: 0.733244142791881,
-    someCollege: 0.95568752855185,
-    bachelors: 1.38533576975788,
-    graduateSchool: 1.99820531227566
+    someHS: 0.533042558815755,
+    finishedHS: 0.742499339148824,
+    someCollege: 0.967750462595823,
+    bachelors: 1.40282183452287,
+    graduateSchool: 2.02342717420037
   },
   'Newton County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.92103510930041,
-    someHS: 0.816387130457482,
-    finishedHS: 0.93490178163545,
-    someCollege: 1.07890099849899,
-    bachelors: 1.21340468576649,
-    graduateSchool: 1.72910004568296
+    someHS: 0.788297939378663,
+    finishedHS: 0.902734891927658,
+    someCollege: 1.04177957023127,
+    bachelors: 1.17165542882349,
+    graduateSchool: 1.6696074106749
   },
   'Paulding County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.16921370450922,
-    someHS: 0.851138810937806,
-    finishedHS: 1.11228219017164,
-    someCollege: 1.17581413561313,
-    bachelors: 1.67320368074137,
-    graduateSchool: 1.90406578346277
+    someHS: 0.647406304293869,
+    finishedHS: 0.846041201290643,
+    someCollege: 0.894365847604865,
+    bachelors: 1.27269793993547,
+    graduateSchool: 1.44829982625962
   },
   'Richmond County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.906031796189681,
-    someHS: 0.584089277556614,
-    finishedHS: 0.798701298701299,
-    someCollege: 1.01292175161522,
-    bachelors: 1.45115186321216,
-    graduateSchool: 1.50368726750636
+    someHS: 0.57333205214439,
+    finishedHS: 0.783991544152974,
+    someCollege: 0.994266679478556,
+    bachelors: 1.42442586720477,
+    graduateSchool: 1.47599372217418
   },
   'Rockdale County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.04550166622868,
-    someHS: 0.516674280493376,
-    finishedHS: 0.964106245513281,
-    someCollege: 1.17937088037591,
-    bachelors: 1.38664099719376,
-    graduateSchool: 2.0054166938589
+    someHS: 0.439503705554168,
+    finishedHS: 0.820107141865823,
+    someCollege: 1.0032198073667,
+    bachelors: 1.17953201765343,
+    graduateSchool: 1.70588725122825
   },
   'Troup County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.908875751092682,
-    someHS: 0.465378842263264,
-    finishedHS: 0.870227762187561,
-    someCollege: 1.0328264700124,
-    bachelors: 1.31602819291261,
-    graduateSchool: 1.63039222084448
+    someHS: 0.455378524218525,
+    finishedHS: 0.851527826558958,
+    someCollege: 1.01063252338836,
+    bachelors: 1.28774865097864,
+    graduateSchool: 1.59535745074875
   },
   'Walker County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.911458526463774,
-    someHS: 0.788781570188605,
-    finishedHS: 0.893265026430856,
-    someCollege: 0.997324283756445,
-    bachelors: 1.68119819878614,
-    graduateSchool: 2.0339685440188
+    someHS: 0.769644676515537,
+    finishedHS: 0.871593224656139,
+    someCollege: 0.973127865511972,
+    bachelors: 1.64041008660214,
+    graduateSchool: 1.98462175241977
   },
   'Walton County': {
     state: 'Georgia',
     countyToStateAdjustment: 1.03554782406818,
-    someHS: 0.930627161782941,
-    finishedHS: 1.01233439926907,
-    someCollege: 1.18504861972199,
-    bachelors: 1.53977680610846,
-    graduateSchool: 1.70234288324741
+    someHS: 0.799237753615066,
+    finishedHS: 0.869409259051676,
+    someCollege: 1.01773904270822,
+    bachelors: 1.32238538280462,
+    graduateSchool: 1.46199977580989
   },
   'Whitfield County': {
     state: 'Georgia',
     countyToStateAdjustment: 0.816737416225053,
-    someHS: 0.851171441623703,
-    finishedHS: 0.855772368335182,
-    someCollege: 1.00342622201919,
-    bachelors: 1.32660053514325,
-    graduateSchool: 1.96805455850682
+    someHS: 0.926840534394542,
+    finishedHS: 0.931850483229107,
+    someCollege: 1.09263075611143,
+    bachelors: 1.4445352472996,
+    graduateSchool: 2.14301449687322
   },
   'Hawaii County': {
     state: 'Hawaii',
     countyToStateAdjustment: 0.899900273400134,
-    someHS: 0.56575083208249,
-    finishedHS: 1.0197089342818,
-    someCollege: 1.04731449455068,
-    bachelors: 1.2362787965803,
-    graduateSchool: 1.68296025582458
+    someHS: 0.522827332488993,
+    finishedHS: 0.942343646342199,
+    someCollege: 0.967854773535975,
+    bachelors: 1.14248235932694,
+    graduateSchool: 1.55527410891985
   },
   'Honolulu County': {
     state: 'Hawaii',
     countyToStateAdjustment: 1.09408899411817,
-    someHS: 0.800952816028193,
-    finishedHS: 1.0371989819226,
-    someCollege: 1.22400965868303,
-    bachelors: 1.58934281798603,
-    graduateSchool: 2.27670821640671
+    someHS: 0.608809960811548,
+    finishedHS: 0.788382360236123,
+    someCollege: 0.930378490996577,
+    bachelors: 1.20807083684707,
+    graduateSchool: 1.73054218959274
   },
   'Kauai County': {
     state: 'Hawaii',
     countyToStateAdjustment: 0.998161502818803,
-    someHS: 1.2669516413235,
-    finishedHS: 1.07684526528748,
-    someCollege: 1.19934086014488,
-    bachelors: 1.42602623507146,
-    graduateSchool: 1.80940416367552
+    someHS: 1.05556914879156,
+    finishedHS: 0.897180762852405,
+    someCollege: 0.999238778783677,
+    bachelors: 1.18810319984776,
+    graduateSchool: 1.50751705951119
   },
   'Maui County': {
     state: 'Hawaii',
     countyToStateAdjustment: 1.0078492296629,
-    someHS: 0.965541995692749,
-    finishedHS: 1.16488285583763,
-    someCollege: 1.15417999086341,
-    bachelors: 1.39571232787313,
-    graduateSchool: 1.98309730470534
+    someHS: 0.796715131933226,
+    finishedHS: 0.961200861604739,
+    someCollege: 0.952369413031772,
+    bachelors: 1.15166935918148,
+    graduateSchool: 1.63634894991922
   },
   'Ada County': {
     state: 'Idaho',
     countyToStateAdjustment: 1.21087034334646,
-    someHS: 0.631469033479084,
-    finishedHS: 0.842948508777654,
-    someCollege: 1.04414931801866,
-    bachelors: 1.62347451543431,
-    graduateSchool: 2.07867258369771
+    someHS: 0.5280506439642,
+    finishedHS: 0.704895219384414,
+    someCollege: 0.873144509932329,
+    bachelors: 1.35759113730627,
+    graduateSchool: 1.7382394673652
   },
   'Bannock County': {
     state: 'Idaho',
     countyToStateAdjustment: 0.915586882898758,
-    someHS: 0.684722312863016,
-    finishedHS: 0.844808457873785,
-    someCollege: 0.860928016706911,
-    bachelors: 1.15153690530575,
-    graduateSchool: 1.67646674933107
+    someHS: 0.757244415575042,
+    finishedHS: 0.934286023600736,
+    someCollege: 0.952112879361986,
+    bachelors: 1.27350149760023,
+    graduateSchool: 1.85402908592256
   },
   'Bonneville County': {
     state: 'Idaho',
     countyToStateAdjustment: 1.04166964949475,
-    someHS: 0.825980552111205,
-    finishedHS: 0.777817659727208,
-    someCollege: 0.935945963584154,
-    bachelors: 1.47663642889774,
-    graduateSchool: 2.61946094106898
+    someHS: 0.80289910235671,
+    finishedHS: 0.7560820883687,
+    someCollege: 0.909791607193834,
+    bachelors: 1.43537285501316,
+    graduateSchool: 2.54626193421512
   },
   'Canyon County': {
     state: 'Idaho',
     countyToStateAdjustment: 0.910069109832319,
-    someHS: 0.535077987339294,
-    finishedHS: 0.928212491026561,
-    someCollege: 0.86892253475168,
-    bachelors: 1.1893232395745,
-    graduateSchool: 1.69102003524114
+    someHS: 0.595338367702585,
+    finishedHS: 1.03274760383387,
+    someCollege: 0.966780424048795,
+    bachelors: 1.32326459483009,
+    graduateSchool: 1.8814623874528
   },
   'Kootenai County': {
     state: 'Idaho',
     countyToStateAdjustment: 1.04636140862909,
-    someHS: 0.852868237290348,
-    finishedHS: 0.889643020296287,
-    someCollege: 0.835149774848267,
-    bachelors: 1.44952032891731,
-    graduateSchool: 2.30486849833584
+    someHS: 0.825318134453251,
+    finishedHS: 0.860904985948404,
+    someCollege: 0.80817202942941,
+    bachelors: 1.40269664340522,
+    graduateSchool: 2.2304146010294
   },
   'Twin Falls County': {
     state: 'Idaho',
     countyToStateAdjustment: 0.875442605798618,
-    someHS: 0.691607387587287,
-    finishedHS: 0.83325719506624,
-    someCollege: 0.794720355021863,
-    bachelors: 1.07593160608236,
-    graduateSchool: 1.70668276447171
+    someHS: 0.799932065217391,
+    finishedHS: 0.963768115942029,
+    someCollege: 0.919195350241546,
+    bachelors: 1.24445199275362,
+    graduateSchool: 1.97399607487923
   },
   'Adams County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.850470787909125,
-    someHS: 1.09205116491549,
-    finishedHS: 1.00420935848072,
-    someCollege: 0.951412908699341,
-    bachelors: 1.31743131240619,
-    graduateSchool: 1.64298766560073
+    someHS: 1.01127092524325,
+    finishedHS: 0.929926874962229,
+    someCollege: 0.881035837311899,
+    bachelors: 1.21997945246873,
+    graduateSchool: 1.52145404000725
   },
   'Champaign County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.948716688138067,
-    someHS: 0.708901651112706,
-    finishedHS: 1.01406382562161,
-    someCollege: 1.02522352019839,
-    bachelors: 1.32666579651504,
-    graduateSchool: 1.87460027409776
+    someHS: 0.588482271040442,
+    finishedHS: 0.841807297451039,
+    someCollege: 0.851071322155105,
+    bachelors: 1.10130834033101,
+    graduateSchool: 1.55616653574234
   },
   'Cook County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.03596357050198,
-    someHS: 0.726065391894538,
-    finishedHS: 0.889349344123213,
-    someCollege: 1.13600469881877,
-    bachelors: 1.74561117274685,
-    graduateSchool: 2.33048358676499
+    someHS: 0.551969636832705,
+    finishedHS: 0.676101409009724,
+    someCollege: 0.863613812264338,
+    bachelors: 1.32704901766223,
+    graduateSchool: 1.77168088906529
   },
   'DeKalb County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.941932247211977,
-    someHS: 0.564151928473537,
-    finishedHS: 1.1849180969784,
-    someCollege: 1.16308816811329,
-    bachelors: 1.17842459048489,
-    graduateSchool: 2.137832017229
+    someHS: 0.471693995034513,
+    finishedHS: 0.990723815240226,
+    someCollege: 0.972471557580553,
+    bachelors: 0.985294518866123,
+    graduateSchool: 1.78746623741576
   },
   'DuPage County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.25257740597929,
-    someHS: 0.765842198003002,
-    finishedHS: 1.05100176205704,
-    someCollege: 1.3424916791751,
-    bachelors: 1.90768778959734,
-    graduateSchool: 2.64285714285714
+    someHS: 0.481524794321003,
+    finishedHS: 0.660819433331282,
+    someCollege: 0.844094294331261,
+    bachelors: 1.19946246486531,
+    graduateSchool: 1.66170164748364
   },
   'Kane County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.01214093134106,
-    someHS: 0.776055602688768,
-    finishedHS: 1.0338706519611,
-    someCollege: 1.30157279906024,
-    bachelors: 1.82813417738041,
-    graduateSchool: 2.50195784115382
+    someHS: 0.603859337311159,
+    finishedHS: 0.804468706360289,
+    someCollege: 1.01277135965469,
+    bachelors: 1.42249587406373,
+    graduateSchool: 1.94680716008633
   },
   'Kankakee County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.996079281421336,
-    someHS: 0.58741760751811,
-    finishedHS: 0.943189975853292,
-    someCollege: 1.26251386804151,
-    bachelors: 1.70975004894603,
-    graduateSchool: 2.17708673236311
+    someHS: 0.464447884416925,
+    finishedHS: 0.745743034055728,
+    someCollege: 0.998219814241486,
+    bachelors: 1.35183178534572,
+    graduateSchool: 1.72133642930857
   },
   'Kendall County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.20002368744197,
-    someHS: 0.717157214644652,
-    finishedHS: 1.05129543823011,
-    someCollege: 1.37845069503361,
-    bachelors: 1.8336813939829,
-    graduateSchool: 2.15137375187626
+    someHS: 0.470661298612301,
+    finishedHS: 0.689952030152476,
+    someCollege: 0.904659928045229,
+    bachelors: 1.20342213465821,
+    graduateSchool: 1.4119196505054
   },
   'Lake County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.20205387999182,
-    someHS: 0.713404685766495,
-    finishedHS: 0.980878418064348,
-    someCollege: 1.31312406186778,
-    bachelors: 2.17261632839522,
-    graduateSchool: 2.96244208053253
+    someHS: 0.467407803313736,
+    finishedHS: 0.642650988776056,
+    someCollege: 0.860331373597007,
+    bachelors: 1.42345269909139,
+    graduateSchool: 1.94092998396579
   },
   'LaSalle County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.796477945538995,
-    someHS: 0.580369379364354,
-    finishedHS: 0.954251778372381,
-    someCollege: 1.04140834040332,
-    bachelors: 1.17790249951054,
-    graduateSchool: 1.96811981987861
+    someHS: 0.573871519375343,
+    finishedHS: 0.943567902429581,
+    someCollege: 1.02974865292163,
+    bachelors: 1.16471461297712,
+    graduateSchool: 1.94608459974833
   },
   'McHenry County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.18640340831005,
-    someHS: 0.889740912353978,
-    finishedHS: 1.28962996802193,
-    someCollege: 1.35309665209163,
-    bachelors: 2.00861450107681,
-    graduateSchool: 2.50805977941656
+    someHS: 0.590629467573539,
+    finishedHS: 0.856084564398042,
+    someCollege: 0.898215136680674,
+    bachelors: 1.33336221461682,
+    graduateSchool: 1.66490490837413
   },
   'McLean County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.09170392038338,
-    someHS: 0.679142465574626,
-    finishedHS: 0.987730862102721,
-    someCollege: 1.20005873523461,
-    bachelors: 1.70452913920251,
-    graduateSchool: 2.34167591202767
+    someHS: 0.489936677573503,
+    finishedHS: 0.712553847602458,
+    someCollege: 0.86572820790471,
+    bachelors: 1.22965561074363,
+    graduateSchool: 1.68929639132789
   },
   'Macon County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.951569237163809,
-    someHS: 0.676597272074659,
-    finishedHS: 0.909123539776806,
-    someCollege: 1.20084187169614,
-    bachelors: 1.75194152581087,
-    graduateSchool: 1.99383280036546
+    someHS: 0.559981635519067,
+    finishedHS: 0.752430593064708,
+    someCollege: 0.993869504159015,
+    bachelors: 1.44998379604624,
+    graduateSchool: 1.65018364480933
   },
   'Madison County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.00710399792623,
-    someHS: 0.600633035306402,
-    finishedHS: 1.02773608301246,
-    someCollege: 1.19748091104875,
-    bachelors: 1.70322391176663,
-    graduateSchool: 1.91923905240488
+    someHS: 0.469698129577177,
+    finishedHS: 0.803694914389242,
+    someCollege: 0.93643624486463,
+    bachelors: 1.33192987828217,
+    graduateSchool: 1.50085483171298
   },
   'Peoria County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.960640857038466,
-    someHS: 0.617633622658748,
-    finishedHS: 0.905077334725576,
-    someCollege: 1.03560007831365,
-    bachelors: 1.70779220779221,
-    graduateSchool: 2.61365267897931
+    someHS: 0.506353495091089,
+    finishedHS: 0.742007971964367,
+    someCollege: 0.849014205077446,
+    bachelors: 1.4000963056098,
+    graduateSchool: 2.14274631497285
   },
   'Rock Island County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.891357323944764,
-    someHS: 0.865953142335052,
-    finishedHS: 0.859590158585133,
-    someCollege: 1.14386869411995,
-    bachelors: 1.36115643150819,
-    graduateSchool: 1.92465574626379
+    someHS: 0.76511460285426,
+    finishedHS: 0.759492576041517,
+    someCollege: 1.01066743549085,
+    bachelors: 1.20265244341935,
+    graduateSchool: 1.70053337177454
   },
   'St. Clair County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.978450014469452,
-    someHS: 0.699993473862821,
-    finishedHS: 0.898812243033349,
-    someCollege: 1.17862037460027,
-    bachelors: 1.68997585329244,
-    graduateSchool: 2.01520589962801
+    someHS: 0.563429111729789,
+    finishedHS: 0.723459578715134,
+    someCollege: 0.948678888480328,
+    bachelors: 1.3602721016967,
+    graduateSchool: 1.62205179387509
   },
   'Sangamon County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.02486175807747,
-    someHS: 0.620472492331789,
-    finishedHS: 0.870945637277296,
-    someCollege: 1.20988057168962,
-    bachelors: 1.68684330744632,
-    graduateSchool: 2.1214514129087
+    someHS: 0.476805416248746,
+    finishedHS: 0.669282848545637,
+    someCollege: 0.929739217652959,
+    bachelors: 1.29626379137412,
+    graduateSchool: 1.6302407221665
   },
   'Tazewell County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.973361683774884,
-    someHS: 0.769823141682438,
-    finishedHS: 0.991222345493702,
-    someCollege: 1.24163022906742,
-    bachelors: 1.76796319258631,
-    graduateSchool: 1.9386869411995
+    someHS: 0.622874643573767,
+    finishedHS: 0.802011828070546,
+    someCollege: 1.00462034005703,
+    bachelors: 1.43048368359911,
+    graduateSchool: 1.56861865033266
   },
   'Vermilion County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.842941086426761,
-    someHS: 0.578085231351563,
-    finishedHS: 1.04013574365333,
-    someCollege: 1.11645891796646,
-    bachelors: 1.36820465966195,
-    graduateSchool: 1.47464595705802
+    someHS: 0.540105484588885,
+    finishedHS: 0.97179964025487,
+    someCollege: 1.0431084418158,
+    bachelors: 1.27831468552788,
+    graduateSchool: 1.37776287308314
   },
   'Will County': {
     state: 'Illinois',
     countyToStateAdjustment: 1.16844005903983,
-    someHS: 0.730535795862429,
-    finishedHS: 1.0590289107877,
-    someCollege: 1.32549109182275,
-    bachelors: 1.91209293219343,
-    graduateSchool: 2.3315277687137
+    someHS: 0.492401082103504,
+    finishedHS: 0.713814414850331,
+    someCollege: 0.89341720368619,
+    bachelors: 1.28880286801416,
+    graduateSchool: 1.57151340532694
   },
   'Williamson County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.80616633277057,
-    someHS: 0.528290804672714,
-    finishedHS: 0.832441427918815,
-    someCollege: 0.952326567904457,
-    bachelors: 1.3304183253932,
-    graduateSchool: 1.98195523069895
+    someHS: 0.516098182977367,
+    finishedHS: 0.81322919987249,
+    someCollege: 0.930347465731591,
+    bachelors: 1.29971310168951,
+    graduateSchool: 1.93621294230156
   },
   'Winnebago County': {
     state: 'Illinois',
     countyToStateAdjustment: 0.880563895198712,
-    someHS: 0.571134895255498,
-    finishedHS: 0.919728512693337,
-    someCollege: 1.10575605299223,
-    bachelors: 1.63270899954317,
-    graduateSchool: 2.00796188735887
+    someHS: 0.510812782722895,
+    finishedHS: 0.822588647307748,
+    someCollege: 0.988968335035751,
+    bachelors: 1.46026557711951,
+    graduateSchool: 1.79588501386254
   },
   'Allen County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.95566967417548,
-    someHS: 0.732689421131632,
-    finishedHS: 0.914866540494681,
-    someCollege: 1.02969392416629,
-    bachelors: 1.46094106898127,
-    graduateSchool: 1.98841610650656
+    someHS: 0.649955133586129,
+    finishedHS: 0.811561061741975,
+    someCollege: 0.913422294265783,
+    bachelors: 1.295973601181,
+    graduateSchool: 1.7638868787449
   },
   'Bartholomew County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.04485481411648,
-    someHS: 0.73151471643934,
-    finishedHS: 1.04189780069177,
-    someCollege: 1.03142335051883,
-    bachelors: 1.50949552959603,
-    graduateSchool: 2.4770279971285
+    someHS: 0.59352413227079,
+    finishedHS: 0.845357549442694,
+    someCollege: 0.836858965873289,
+    bachelors: 1.22474914617034,
+    graduateSchool: 2.00976939980408
   },
   'Clark County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.03428759220039,
-    someHS: 0.613163218690857,
-    finishedHS: 1.14533707498532,
-    someCollege: 1.19509887097827,
-    bachelors: 1.63381844286367,
-    graduateSchool: 1.88892514520655
+    someHS: 0.502580973013453,
+    finishedHS: 0.938778785204204,
+    someCollege: 0.979566182567065,
+    bachelors: 1.33916392521865,
+    graduateSchool: 1.54826285805986
   },
   'Delaware County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.886014530760021,
-    someHS: 0.456699079814658,
-    finishedHS: 0.730144227631665,
-    someCollege: 1.07612739019774,
-    bachelors: 1.34918096978398,
-    graduateSchool: 1.64866540494681
+    someHS: 0.436978987792313,
+    finishedHS: 0.698616878453901,
+    someCollege: 1.02966062006307,
+    bachelors: 1.2909238502607,
+    graduateSchool: 1.57747666177527
   },
   'Elkhart County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.917937499585057,
-    someHS: 0.863473210206879,
-    finishedHS: 1.00081576714743,
-    someCollege: 1.07837890752464,
-    bachelors: 1.33090778568166,
-    graduateSchool: 1.87055406904653
+    someHS: 0.797456528945544,
+    finishedHS: 0.924298586625682,
+    someCollege: 0.99593165174939,
+    bachelors: 1.22915348220474,
+    graduateSchool: 1.72754121086098
   },
   'Floyd County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.986292487424453,
-    someHS: 0.33446453044443,
-    finishedHS: 1.01709847941004,
-    someCollege: 1.03804737975592,
-    bachelors: 1.35247666905958,
-    graduateSchool: 2.2483195196763
+    someHS: 0.287485275144444,
+    finishedHS: 0.874235709878274,
+    someCollege: 0.892242104672687,
+    bachelors: 1.16250631065238,
+    graduateSchool: 1.93251809053683
   },
   'Grant County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.800508554470433,
-    someHS: 0.6630229067415,
-    finishedHS: 0.828591006982967,
-    someCollege: 0.898485936174378,
-    bachelors: 1.294361417477,
-    graduateSchool: 1.54140834040332
+    someHS: 0.702156334231806,
+    finishedHS: 0.877496717119359,
+    someCollege: 0.951517036422697,
+    bachelors: 1.37075817264497,
+    graduateSchool: 1.63238648144309
   },
   'Hamilton County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.45227377846234,
-    someHS: 0.988383475820662,
-    finishedHS: 1.03406643607649,
-    someCollege: 1.39959537949488,
-    bachelors: 1.9922991581283,
-    graduateSchool: 2.99771585198721
+    someHS: 0.576963370730871,
+    finishedHS: 0.603630545343721,
+    someCollege: 0.817006038210252,
+    bachelors: 1.16299358083011,
+    graduateSchool: 1.7498999980952
   },
   'Hancock County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.27852320030805,
-    someHS: 1.2418260131828,
-    finishedHS: 1.14213926776741,
-    someCollege: 1.29416563336161,
-    bachelors: 1.966096717353,
-    graduateSchool: 2.20387652548457
+    someHS: 0.823423774287074,
+    finishedHS: 0.757323986325674,
+    someCollege: 0.858128867540785,
+    bachelors: 1.30366956596997,
+    graduateSchool: 1.46133541044615
   },
   'Hendricks County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.2381907145655,
-    someHS: 0.761208640605626,
-    finishedHS: 1.06408666710174,
-    someCollege: 1.30933890230373,
-    bachelors: 1.68214448867715,
-    graduateSchool: 2.12608497030608
+    someHS: 0.521179624664879,
+    finishedHS: 0.728552278820375,
+    someCollege: 0.896470062555853,
+    bachelors: 1.15172028596962,
+    graduateSchool: 1.45567470956211
   },
   'Howard County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.98612651011687,
-    someHS: 0.671670038504209,
-    finishedHS: 0.996214840435946,
-    someCollege: 1.1718005612478,
-    bachelors: 1.65013378581218,
-    graduateSchool: 1.86379951706585
+    someHS: 0.577423698384201,
+    finishedHS: 0.856429533213645,
+    someCollege: 1.0073776929982,
+    bachelors: 1.41859290843806,
+    graduateSchool: 1.60227782764811
   },
   'Johnson County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.1651883621138,
-    someHS: 0.879070678065653,
-    finishedHS: 1.02649611694838,
-    someCollege: 1.30806630555374,
-    bachelors: 1.96518305814788,
-    graduateSchool: 2.31256934020753
+    someHS: 0.639585954749412,
+    finishedHS: 0.746848365423423,
+    someCollege: 0.951710548182617,
+    bachelors: 1.42980935875217,
+    graduateSchool: 1.68255739417393
   },
   'Kosciusko County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.999294043185083,
-    someHS: 0.943157345167395,
-    finishedHS: 0.994974874371859,
-    someCollege: 1.10859492266527,
-    bachelors: 1.51820792273054,
-    graduateSchool: 2.09469425047314
+    someHS: 0.800132875650537,
+    finishedHS: 0.844092570036541,
+    someCollege: 0.940482781530285,
+    bachelors: 1.28798029011184,
+    graduateSchool: 1.77704573136973
   },
   'Lake County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.01627905432769,
-    someHS: 0.843568491809698,
-    finishedHS: 0.996116948378255,
-    someCollege: 1.14948117209424,
-    bachelors: 1.67764145402336,
-    graduateSchool: 1.96642302421197
+    someHS: 0.703685557188742,
+    finishedHS: 0.830937993358375,
+    someCollege: 0.958870923839077,
+    bachelors: 1.39945016059666,
+    graduateSchool: 1.64034514671457
   },
   'LaPorte County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.897522290752408,
-    someHS: 0.679925602036155,
-    finishedHS: 1.01553220648698,
-    someCollege: 1.14918749592116,
-    bachelors: 0.987665600730927,
-    graduateSchool: 2.03909156170463
+    someHS: 0.642225304361227,
+    finishedHS: 0.959223300970874,
+    someCollege: 1.08546771459393,
+    bachelors: 0.932901833872708,
+    graduateSchool: 1.92602866389274
   },
   'Madison County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.834616891178638,
-    someHS: 0.596586830255172,
-    finishedHS: 0.771585198720877,
-    someCollege: 1.03338119167265,
-    bachelors: 1.3807022123605,
-    graduateSchool: 1.69894929191412
+    someHS: 0.605979251599218,
+    finishedHS: 0.783732723476186,
+    someCollege: 1.04965032647244,
+    bachelors: 1.40243942859037,
+    graduateSchool: 1.72569686122435
   },
   'Marion County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.880841571340366,
-    someHS: 0.612216928799843,
-    finishedHS: 0.86859622789271,
-    someCollege: 0.984957253801475,
-    bachelors: 1.39463551523853,
-    graduateSchool: 1.90566468707172
+    someHS: 0.589221782551347,
+    finishedHS: 0.835971358583004,
+    someCollege: 0.947961811444005,
+    bachelors: 1.34225237108222,
+    graduateSchool: 1.83408705483324
   },
   'Monroe County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.889417065565463,
-    someHS: 0.522515173268942,
-    finishedHS: 0.874567643411865,
-    someCollege: 0.95568752855185,
-    bachelors: 1.18129609084383,
-    graduateSchool: 1.70498596880506
+    someHS: 0.498040557352575,
+    finishedHS: 0.833602886290122,
+    someCollege: 0.910923115202787,
+    bachelors: 1.12596417019159,
+    graduateSchool: 1.62512440905698
   },
   'Morgan County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.14358364924348,
-    someHS: 0.789532075964237,
-    finishedHS: 1.27426091496443,
-    someCollege: 1.34637473079684,
-    bachelors: 1.65845461071592,
-    graduateSchool: 2.06300985446714
+    someHS: 0.585292694726657,
+    finishedHS: 0.944629898403483,
+    someCollege: 0.998089017900339,
+    bachelors: 1.22943880019352,
+    graduateSchool: 1.52934204160619
   },
   'Porter County': {
     state: 'Indiana',
     countyToStateAdjustment: 1.13722118578615,
-    someHS: 0.523689877961235,
-    finishedHS: 1.18651700058735,
-    someCollege: 1.3271552568035,
-    bachelors: 1.65630098544671,
-    graduateSchool: 2.01403119493572
+    someHS: 0.390391632206276,
+    finishedHS: 0.88450498662126,
+    someCollege: 0.989345657990756,
+    bachelors: 1.23471174896619,
+    graduateSchool: 1.50138652396011
   },
   'St. Joseph County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.904521000555471,
-    someHS: 0.775141943483652,
-    finishedHS: 0.876525484565686,
-    someCollege: 1.00479671082686,
-    bachelors: 1.36007961887359,
-    graduateSchool: 1.81792077269464
+    someHS: 0.726497033457704,
+    finishedHS: 0.82151813566579,
+    someCollege: 0.941739555936143,
+    bachelors: 1.27472628295309,
+    graduateSchool: 1.70383509694783
   },
   'Tippecanoe County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.968643567051513,
-    someHS: 0.70766168504862,
-    finishedHS: 0.94234157801997,
-    someCollege: 1.07593160608236,
-    bachelors: 1.34542844090583,
-    graduateSchool: 1.7494289629968
+    someHS: 0.619345442083619,
+    finishedHS: 0.824737262965502,
+    someCollege: 0.941655243317341,
+    bachelors: 1.17751884852639,
+    graduateSchool: 1.5311000685401
   },
   'Vanderburgh County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.870827607116222,
-    someHS: 0.558408927755661,
-    finishedHS: 0.871271944136266,
-    someCollege: 0.99376753899367,
-    bachelors: 1.2768387391503,
-    graduateSchool: 1.64791489917118
+    someHS: 0.54361499364676,
+    finishedHS: 0.848189326556544,
+    someCollege: 0.967439644218551,
+    bachelors: 1.24301143583227,
+    graduateSchool: 1.60425667090216
   },
   'Vigo County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.860398699623121,
-    someHS: 0.80995888533577,
-    finishedHS: 0.715264634862625,
-    someCollege: 1.04108203354435,
-    bachelors: 1.47865953142335,
-    graduateSchool: 1.3195196763036
+    someHS: 0.798058065138411,
+    finishedHS: 0.704755168311738,
+    someCollege: 1.02578529402308,
+    bachelors: 1.45693341478314,
+    graduateSchool: 1.30013182008166
   },
   'Wayne County': {
     state: 'Indiana',
     countyToStateAdjustment: 0.850965655975515,
-    someHS: 0.675226783266984,
-    finishedHS: 0.926189388500946,
-    someCollege: 0.985707759577106,
-    bachelors: 1.25230046335574,
-    graduateSchool: 1.71356783919598
+    someHS: 0.672680579936285,
+    finishedHS: 0.922696833755933,
+    someCollege: 0.98199076783044,
+    bachelors: 1.24757818087251,
+    graduateSchool: 1.70710616994994
   },
   'Black Hawk County': {
     state: 'Iowa',
     countyToStateAdjustment: 0.910605476282298,
-    someHS: 0.787770018925798,
-    finishedHS: 0.922404228936892,
-    someCollege: 1.04662925014684,
-    bachelors: 1.41020035241141,
-    graduateSchool: 2.2702147099132
+    someHS: 0.681630809193066,
+    finishedHS: 0.798125247049523,
+    someCollege: 0.905612965158959,
+    bachelors: 1.22019876898752,
+    graduateSchool: 1.96434016601728
   },
   'Dallas County': {
     state: 'Iowa',
     countyToStateAdjustment: 1.26887774778249,
-    someHS: 0.613293741434445,
-    finishedHS: 1.09263851726163,
-    someCollege: 1.19728512693337,
-    bachelors: 2.03889577758925,
-    graduateSchool: 2.93793643542387
+    someHS: 0.380827913196766,
+    finishedHS: 0.678479525054201,
+    someCollege: 0.74346037728203,
+    bachelors: 1.26606285332199,
+    graduateSchool: 1.82432678864507
   },
   'Dubuque County': {
     state: 'Iowa',
     countyToStateAdjustment: 0.927394266615246,
-    someHS: 0.580663055537427,
-    finishedHS: 0.945506754551981,
-    someCollege: 1.17875089734386,
-    bachelors: 1.47037133720551,
-    graduateSchool: 1.53628532271748
+    someHS: 0.493332594050622,
+    finishedHS: 0.803304593717945,
+    someCollege: 1.00146932438801,
+    bachelors: 1.24923068392892,
+    graduateSchool: 1.30523134928336
   },
   'Johnson County': {
     state: 'Iowa',
     countyToStateAdjustment: 1.06391567039465,
-    someHS: 0.70426809371533,
-    finishedHS: 1.01014814331397,
-    someCollege: 1.22019186843307,
-    bachelors: 1.50228414801279,
-    graduateSchool: 1.85244403837369
+    someHS: 0.521567869312003,
+    finishedHS: 0.748096952707764,
+    someCollege: 0.903651434233102,
+    bachelors: 1.11256373698074,
+    graduateSchool: 1.37188564800271
   },
   'Linn County': {
     state: 'Iowa',
     countyToStateAdjustment: 1.03856536829927,
-    someHS: 0.791750962605234,
-    finishedHS: 1.00776610324349,
-    someCollege: 1.20217972981792,
-    bachelors: 1.80039809436794,
-    graduateSchool: 2.33560660445083
+    someHS: 0.6006683995544,
+    finishedHS: 0.764550068077732,
+    someCollege: 0.912043569748731,
+    bachelors: 1.36588686718653,
+    graduateSchool: 1.77192721871519
   },
   'Polk County': {
     state: 'Iowa',
     countyToStateAdjustment: 1.01920555341304,
-    someHS: 0.82888468315604,
-    finishedHS: 1.04228936892253,
-    someCollege: 1.14422763166482,
-    bachelors: 1.6499380016968,
-    graduateSchool: 2.16142400313255
+    someHS: 0.640785025982544,
+    finishedHS: 0.805761566015842,
+    someCollege: 0.884566873517986,
+    bachelors: 1.27551586700974,
+    graduateSchool: 1.67092982190606
   },
   'Pottawattamie County': {
     state: 'Iowa',
     countyToStateAdjustment: 0.94983931096542,
-    someHS: 0.728414801279123,
-    finishedHS: 1.1148926450434,
-    someCollege: 1.29109834888729,
-    bachelors: 1.52453827579456,
-    graduateSchool: 2.01902368987796
+    someHS: 0.604238847986141,
+    finishedHS: 0.924832178432222,
+    someCollege: 1.07099935036812,
+    bachelors: 1.26464378518839,
+    graduateSchool: 1.67483217843222
   },
   'Scott County': {
     state: 'Iowa',
     countyToStateAdjustment: 0.959429232549171,
-    someHS: 0.779449194022058,
-    finishedHS: 0.91695490439209,
-    someCollege: 1.16892906088886,
-    bachelors: 1.57035175879397,
-    graduateSchool: 2.07958624290283
+    someHS: 0.640110405445239,
+    finishedHS: 0.753034809872176,
+    someCollege: 0.959964627381622,
+    bachelors: 1.28962671168636,
+    graduateSchool: 1.70782753168797
   },
   'Story County': {
     state: 'Iowa',
     countyToStateAdjustment: 1.03015811801003,
-    someHS: 0.453468641910853,
-    finishedHS: 1.00812504078836,
-    someCollege: 1.16612282190172,
-    bachelors: 1.37146772825165,
-    graduateSchool: 1.68449389806174
+    someHS: 0.346835379854248,
+    finishedHS: 0.771064190875512,
+    someCollege: 0.891908755116302,
+    bachelors: 1.04896675651393,
+    graduateSchool: 1.28838474593192
   },
   'Woodbury County': {
     state: 'Iowa',
     countyToStateAdjustment: 0.832009255688392,
-    someHS: 0.773510409188801,
-    finishedHS: 0.984500424198917,
-    someCollege: 1.00943026822424,
-    bachelors: 1.44335312928278,
-    graduateSchool: 1.89584285061672
+    someHS: 0.732517536540898,
+    finishedHS: 0.93232594790025,
+    someCollege: 0.955934612651031,
+    bachelors: 1.36686134544668,
+    graduateSchool: 1.7953709712308
   },
   'Butler County': {
     state: 'Kansas',
     countyToStateAdjustment: 1.0740529595628,
-    someHS: 1.21099001501012,
-    finishedHS: 1.00952816028193,
-    someCollege: 1.07925993604386,
-    bachelors: 1.54232199960843,
-    graduateSchool: 2.30049598642563
+    someHS: 0.905678795421822,
+    finishedHS: 0.755008907435879,
+    someCollege: 0.807160114210411,
+    bachelors: 1.15347634038607,
+    graduateSchool: 1.72050174488127
   },
   'Douglas County': {
     state: 'Kansas',
     countyToStateAdjustment: 1.06776229137589,
-    someHS: 1.37492658095673,
-    finishedHS: 1.07753050969131,
-    someCollege: 1.08399138549892,
-    bachelors: 1.3457221170789,
-    graduateSchool: 1.77217255106702
+    someHS: 1.03434224415151,
+    finishedHS: 0.810614429143039,
+    someCollege: 0.81547487542038,
+    bachelors: 1.01237204506959,
+    graduateSchool: 1.3331860470825
   },
   'Johnson County': {
     state: 'Kansas',
     countyToStateAdjustment: 1.25650854810068,
-    someHS: 0.710076355804999,
-    finishedHS: 1.00342622201919,
-    someCollege: 1.29305619004111,
-    bachelors: 1.8085231351563,
-    graduateSchool: 2.33302878026496
+    someHS: 0.453940506487546,
+    finishedHS: 0.641474404439067,
+    someCollege: 0.826630230714673,
+    bachelors: 1.15616004005173,
+    graduateSchool: 1.49146814635571
   },
   'Leavenworth County': {
     state: 'Kansas',
     countyToStateAdjustment: 0.986848571821738,
-    someHS: 0.671572146446518,
-    finishedHS: 1.00584089277557,
-    someCollege: 1.1499053710109,
-    bachelors: 1.64093193238922,
-    graduateSchool: 1.83658552502774
+    someHS: 0.5466401062417,
+    finishedHS: 0.818725099601594,
+    someCollege: 0.935989375830013,
+    bachelors: 1.33567065073041,
+    graduateSchool: 1.49492695883134
   },
   'Riley County': {
     state: 'Kansas',
     countyToStateAdjustment: 0.933535158937663,
-    someHS: 0.431279775500881,
-    finishedHS: 1.01210598446779,
-    someCollege: 0.860764863277426,
-    bachelors: 1.37818964954643,
-    graduateSchool: 1.75066892906089
+    someHS: 0.37109725965858,
+    finishedHS: 0.870872641509434,
+    someCollege: 0.740650269541779,
+    bachelors: 1.18587151841869,
+    graduateSchool: 1.50637353998203
   },
   'Sedgwick County': {
     state: 'Kansas',
     countyToStateAdjustment: 0.954215730602135,
-    someHS: 0.766429550349148,
-    finishedHS: 0.957808523135156,
-    someCollege: 1.13146903347908,
-    bachelors: 1.58222932846048,
-    graduateSchool: 1.89000195784115
+    someHS: 0.645186100810328,
+    finishedHS: 0.806290344732866,
+    someCollege: 0.952479055074852,
+    bachelors: 1.33193242686444,
+    graduateSchool: 1.59101771734652
   },
   'Shawnee County': {
     state: 'Kansas',
     countyToStateAdjustment: 0.946771773247623,
-    someHS: 0.653788422632644,
-    finishedHS: 0.905305749526855,
-    someCollege: 1.05201331331985,
-    bachelors: 1.54392090321739,
-    graduateSchool: 1.84777785029041
+    someHS: 0.554691176877717,
+    finishedHS: 0.768085047479306,
+    someCollege: 0.89255557708812,
+    bachelors: 1.30990282661056,
+    graduateSchool: 1.56770299825586
   },
   'Wyandotte County': {
     state: 'Kansas',
     countyToStateAdjustment: 0.780304966351478,
-    someHS: 0.756052992233897,
-    finishedHS: 0.891339815962932,
-    someCollege: 1.04408405664687,
-    bachelors: 1.32859100698297,
-    graduateSchool: 1.51305227435881
+    someHS: 0.77830030231777,
+    finishedHS: 0.917568021498153,
+    someCollege: 1.07480685253611,
+    bachelors: 1.36768558951965,
+    graduateSchool: 1.55757473967081
   },
   'Boone County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.22061655084713,
-    someHS: 0.618188344318998,
-    finishedHS: 0.942439470077661,
-    someCollege: 1.36412582392482,
-    bachelors: 2.03455589636494,
-    graduateSchool: 1.97732167330157
+    someHS: 0.453327271422077,
+    finishedHS: 0.691105740470436,
+    someCollege: 1.00033500035893,
+    bachelors: 1.49197195568424,
+    graduateSchool: 1.45000119642985
   },
   'Bullitt County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.0177694798119,
-    someHS: 0.659270377863343,
-    finishedHS: 1.04114729491614,
-    someCollege: 1.17920772694642,
-    bachelors: 1.36523526724532,
-    graduateSchool: 1.88500946289891
+    someHS: 0.57980829937439,
+    finishedHS: 0.915657464271365,
+    someCollege: 1.0370774263904,
+    bachelors: 1.20068300522298,
+    graduateSchool: 1.65780864374677
   },
   'Campbell County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.07145312510532,
-    someHS: 0.77592507994518,
-    finishedHS: 1.04091888011486,
-    someCollege: 1.07492005481955,
-    bachelors: 1.49840109639105,
-    graduateSchool: 1.8720224499119
+    someHS: 0.648211754443354,
+    finishedHS: 0.869588921600698,
+    someCollege: 0.897993675716934,
+    bachelors: 1.25177188965216,
+    graduateSchool: 1.56389706684113
   },
   'Christian County': {
     state: 'Kentucky',
     countyToStateAdjustment: 0.777215343448164,
-    someHS: 0.780591268028454,
-    finishedHS: 0.854434510213405,
-    someCollege: 0.787933172355283,
-    bachelors: 1.11136853096652,
-    graduateSchool: 1.49291914116035
+    someHS: 0.898985343855693,
+    finishedHS: 0.984028560691469,
+    someCollege: 0.907440811724915,
+    bachelors: 1.27993235625705,
+    graduateSchool: 1.71935362645622
   },
   'Daviess County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.0403177791408,
-    someHS: 0.769301050708086,
-    finishedHS: 1.02940024799321,
-    someCollege: 1.05501533642237,
-    bachelors: 1.64243294394048,
-    graduateSchool: 1.9792468837695
+    someHS: 0.661912516143523,
+    finishedHS: 0.88570385760009,
+    someCollege: 0.90774327587175,
+    bachelors: 1.41316188444045,
+    graduateSchool: 1.70295917794374
   },
   'Fayette County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.04052223263213,
-    someHS: 0.668700646087581,
-    finishedHS: 0.721562357240749,
-    someCollege: 1.02166677543562,
-    bachelors: 1.43516282712263,
-    graduateSchool: 1.845689486393
+    someHS: 0.575242105263158,
+    finishedHS: 0.620715789473684,
+    someCollege: 0.878877192982456,
+    bachelors: 1.23458245614035,
+    graduateSchool: 1.58773333333333
   },
   'Hardin County': {
     state: 'Kentucky',
     countyToStateAdjustment: 0.936543028472957,
-    someHS: 0.401716374078183,
-    finishedHS: 0.878842263264374,
-    someCollege: 1.02169940612152,
-    bachelors: 1.54653135808915,
-    graduateSchool: 1.85172616328395
+    someHS: 0.383938874161859,
+    finishedHS: 0.839950101356619,
+    someCollege: 0.976485264306877,
+    bachelors: 1.47809137689069,
+    graduateSchool: 1.7697801341026
   },
   'Jefferson County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.05801760996115,
-    someHS: 0.63851726163284,
-    finishedHS: 0.88435684918097,
-    someCollege: 1.0569079162044,
-    bachelors: 1.50130522743588,
-    graduateSchool: 1.93738171376362
+    someHS: 0.540194346289753,
+    finishedHS: 0.748178003533569,
+    someCollege: 0.894158568904594,
+    bachelors: 1.27012477915194,
+    graduateSchool: 1.63905145759717
   },
   'Kenton County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.0511830218226,
-    someHS: 0.683058147882268,
-    finishedHS: 1.01487959276904,
-    someCollege: 1.03635058408928,
-    bachelors: 1.53357697578803,
-    graduateSchool: 1.94394048162892
+    someHS: 0.581633787163101,
+    finishedHS: 0.864184495693248,
+    someCollege: 0.882467352042234,
+    bachelors: 1.3058627396499,
+    graduateSchool: 1.6552931369825
   },
   'McCracken County': {
     state: 'Kentucky',
     countyToStateAdjustment: 0.995834540956977,
-    someHS: 0.944919402205834,
-    finishedHS: 0.936924884161065,
-    someCollege: 0.996834823467989,
-    bachelors: 1.71829928865105,
-    graduateSchool: 1.66269659988253
+    someHS: 0.849332746737058,
+    finishedHS: 0.842146942366916,
+    someCollege: 0.895996480422349,
+    bachelors: 1.54447866256049,
+    graduateSchool: 1.49450065992081
   },
   'Madison County': {
     state: 'Kentucky',
     countyToStateAdjustment: 1.0674808858453,
-    someHS: 0.730829472035502,
-    finishedHS: 1.12125562879332,
-    someCollege: 1.06340142269791,
-    bachelors: 1.27406513084905,
-    graduateSchool: 1.7845069503361
+    someHS: 0.61281055050892,
+    finishedHS: 0.940188245594834,
+    someCollege: 0.891676699135384,
+    bachelors: 1.06832111196235,
+    graduateSchool: 1.49633358870526
   },
   'Pike County': {
     state: 'Kentucky',
     countyToStateAdjustment: 0.804232411944577,
-    someHS: 0.841480127912289,
-    finishedHS: 0.832049859688051,
-    someCollege: 0.828656268354761,
-    bachelors: 1.00469881876917,
-    graduateSchool: 2.30078966259871
+    someHS: 0.93655347739241,
+    finishedHS: 0.926057744688578,
+    someCollege: 0.922280733611767,
+    bachelors: 1.11821318322135,
+    graduateSchool: 2.56074087524968
   },
   'Warren County': {
     state: 'Kentucky',
     countyToStateAdjustment: 0.918813990010987,
-    someHS: 0.457841153821053,
-    finishedHS: 0.835508712393135,
-    someCollege: 0.886804150623246,
-    bachelors: 1.44270051556484,
-    graduateSchool: 1.84761469686093
+    someHS: 0.446023269120732,
+    finishedHS: 0.813942399389662,
+    someCollege: 0.863913789814991,
+    bachelors: 1.40546124992053,
+    graduateSchool: 1.79992370780088
   },
   'Ascension Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.32443514879189,
-    someHS: 1.17969718723488,
-    finishedHS: 1.32806891600861,
-    someCollege: 1.45053188018012,
-    bachelors: 1.97526594009006,
-    graduateSchool: 2.14618547281864
+    someHS: 0.766034537556945,
+    finishedHS: 0.862379489352686,
+    someCollege: 0.941900625066215,
+    bachelors: 1.28263587244411,
+    graduateSchool: 1.39362220574213
   },
   'Bossier Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.10646952106296,
-    someHS: 0.694348365202637,
-    finishedHS: 1.08914703387065,
-    someCollege: 1.17672779481825,
-    bachelors: 1.64253083599817,
-    graduateSchool: 2.15254845656856
+    someHS: 0.539692604240641,
+    finishedHS: 0.846555747184742,
+    someCollege: 0.914629197524602,
+    bachelors: 1.27668154610936,
+    graduateSchool: 1.67310033478746
   },
   'Caddo Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.870347106783167,
-    someHS: 0.675944658356719,
-    finishedHS: 0.719963453631795,
-    someCollege: 0.849572538014749,
-    bachelors: 1.50091365920512,
-    graduateSchool: 1.67405207857469
+    someHS: 0.667924163281099,
+    finishedHS: 0.711420648739279,
+    someCollege: 0.839491842393758,
+    bachelors: 1.4831044044625,
+    graduateSchool: 1.65418843103115
   },
   'Calcasieu Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.947436276265767,
-    someHS: 0.815767147425439,
-    finishedHS: 0.888011486001436,
-    someCollege: 1.01948051948052,
-    bachelors: 1.43411864517392,
-    graduateSchool: 1.80467271422045
+    someHS: 0.740499392790498,
+    finishedHS: 0.806078019016024,
+    someCollege: 0.925416901158141,
+    bachelors: 1.3017979325257,
+    graduateSchool: 1.63816237670685
   },
   'East Baton Rouge Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.06560973556363,
-    someHS: 0.60480976310122,
-    finishedHS: 0.916922273706193,
-    someCollege: 1.01298701298701,
-    bachelors: 1.63982248906872,
-    graduateSchool: 2.00368726750636
+    someHS: 0.488122827346466,
+    finishedHS: 0.740018961339935,
+    someCollege: 0.817549773517329,
+    bachelors: 1.32344885705257,
+    graduateSchool: 1.61711260929106
   },
   'Iberia Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.971991435820654,
-    someHS: 0.762089669124845,
-    finishedHS: 1.16752594139529,
-    someCollege: 1.16592703778633,
-    bachelors: 1.18870325654245,
-    graduateSchool: 1.76460223193892
+    someHS: 0.674298417831158,
+    finishedHS: 1.03302921815452,
+    someCollege: 1.03161450513916,
+    bachelors: 1.05176694768449,
+    graduateSchool: 1.56132347846172
   },
   'Jefferson Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.968539681963224,
-    someHS: 0.719180317170267,
-    finishedHS: 0.89584285061672,
-    someCollege: 1.09051752267833,
-    bachelors: 1.60879070678066,
-    graduateSchool: 2.12406186778046
+    someHS: 0.638599947845739,
+    finishedHS: 0.795468374235795,
+    someCollege: 0.96833077391128,
+    bachelors: 1.42853417552806,
+    graduateSchool: 1.88607191493061
   },
   'Lafayette Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.11696509783271,
-    someHS: 0.570253866736279,
-    finishedHS: 0.866997324283756,
-    someCollege: 1.17196371467728,
-    bachelors: 1.54819552306989,
-    graduateSchool: 1.97193761012856
+    someHS: 0.439073413396312,
+    finishedHS: 0.667554394251545,
+    someCollege: 0.90236671524044,
+    bachelors: 1.19205065072107,
+    graduateSchool: 1.51831566252952
   },
   'Lafourche Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.06631131155091,
-    someHS: 0.761534947464596,
-    finishedHS: 1.08069568622332,
-    someCollege: 1.40028062389871,
-    bachelors: 1.44302682242381,
-    graduateSchool: 1.84360112249559
+    someHS: 0.614206384714583,
+    finishedHS: 0.871621443798195,
+    someCollege: 1.12937863515541,
+    bachelors: 1.16385504118746,
+    graduateSchool: 1.48693317893518
   },
   'Livingston Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.15964898089897,
-    someHS: 0.685211773151472,
-    finishedHS: 1.32108594922665,
-    someCollege: 1.34089277556614,
-    bachelors: 1.4891013509104,
-    graduateSchool: 1.55204594400574
+    someHS: 0.508167364421751,
+    finishedHS: 0.979744936234059,
+    someCollege: 0.994434092394066,
+    bachelors: 1.10434866781211,
+    graduateSchool: 1.1510296929071
   },
   'Orleans Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.904050817212218,
-    someHS: 0.49693271552568,
-    finishedHS: 0.752757292958298,
-    someCollege: 0.896625987078248,
-    bachelors: 1.36331005677739,
-    graduateSchool: 1.86255955100176
+    someHS: 0.472730094676393,
+    finishedHS: 0.716094986807388,
+    someCollege: 0.85295669719075,
+    bachelors: 1.29691137668788,
+    graduateSchool: 1.77184541362719
   },
   'Ouachita Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.87430399535144,
-    someHS: 0.639985642498205,
-    finishedHS: 0.868889904065783,
-    someCollege: 0.930398746981662,
-    bachelors: 1.45010768126346,
-    graduateSchool: 1.65541995692749
+    someHS: 0.629529770502327,
+    finishedHS: 0.854694270582571,
+    someCollege: 0.915198202535709,
+    bachelors: 1.42641630556893,
+    graduateSchool: 1.62837425774354
   },
   'Rapides Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.850310096586379,
-    someHS: 0.615153690530575,
-    finishedHS: 0.747177445669908,
-    someCollege: 0.941199504013574,
-    bachelors: 1.37345820009137,
-    graduateSchool: 1.9748091104875
+    someHS: 0.622178217821782,
+    finishedHS: 0.755709570957096,
+    someCollege: 0.951947194719472,
+    bachelors: 1.38914191419142,
+    graduateSchool: 1.9973597359736
   },
   'St. Landry Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.733595915342064,
-    someHS: 0.485642498205312,
-    finishedHS: 0.797852900867976,
-    someCollege: 0.88249690008484,
-    bachelors: 1.04904392090322,
-    graduateSchool: 1.70514912223455
+    someHS: 0.569335526567461,
+    finishedHS: 0.935350598676409,
+    someCollege: 1.03458169159558,
+    bachelors: 1.22983053440955,
+    graduateSchool: 1.99900539382579
   },
   'St. Tammany Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.13548670389697,
-    someHS: 0.530281276512432,
-    finishedHS: 1.03011812308295,
-    someCollege: 1.25301833844547,
-    bachelors: 1.67401944788879,
-    graduateSchool: 2.35107354956601
+    someHS: 0.401636103010232,
+    finishedHS: 0.780213533685927,
+    someCollege: 0.949038604122386,
+    bachelors: 1.26790568928872,
+    graduateSchool: 1.78070782462557
   },
   'Tangipahoa Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 0.892348529744346,
-    someHS: 0.573516935325981,
-    finishedHS: 0.999086340794883,
-    someCollege: 1.05126280754421,
-    bachelors: 1.33319193369445,
-    graduateSchool: 1.60373295046662
+    someHS: 0.552739165985282,
+    finishedHS: 0.962890747845776,
+    someCollege: 1.01317692936663,
+    bachelors: 1.2848921315806,
+    graduateSchool: 1.54563180074218
   },
   'Terrebonne Parish': {
     state: 'Louisiana',
     countyToStateAdjustment: 1.0121496453327,
-    someHS: 0.999086340794883,
-    finishedHS: 0.944886771519937,
-    someCollege: 1.31155778894472,
-    bachelors: 1.44002479932128,
-    graduateSchool: 2.03312014618547
+    someHS: 0.848920065433776,
+    finishedHS: 0.802866886627665,
+    someCollege: 1.11442592952006,
+    bachelors: 1.22358388554634,
+    graduateSchool: 1.72753486566668
   },
   'Androscoggin County': {
     state: 'Maine',
     countyToStateAdjustment: 0.956831365111925,
-    someHS: 0.620439861645892,
-    finishedHS: 0.956372772955688,
-    someCollege: 1.01889316713437,
-    bachelors: 1.36918358023886,
-    graduateSchool: 2.18870325654245
+    someHS: 0.576828565361163,
+    finishedHS: 0.889148439159057,
+    someCollege: 0.947274216545824,
+    bachelors: 1.27294238995237,
+    graduateSchool: 2.03485726420532
   },
   'Aroostook County': {
     state: 'Maine',
     countyToStateAdjustment: 0.894248213603224,
-    someHS: 0.388794622462964,
-    finishedHS: 0.833714024668799,
-    someCollege: 1.01850159890361,
-    bachelors: 1.30323696404098,
-    graduateSchool: 1.70687854858709
+    someHS: 0.386762748725939,
+    finishedHS: 0.829356964326289,
+    someCollege: 1.01317882299477,
+    bachelors: 1.29642613691693,
+    graduateSchool: 1.69795825624046
   },
   'Cumberland County': {
     state: 'Maine',
     countyToStateAdjustment: 1.15790441265403,
-    someHS: 0.628956470665013,
-    finishedHS: 0.964236768256869,
-    someCollege: 1.16204398616459,
-    bachelors: 1.49135286823729,
-    graduateSchool: 1.87548130261698
+    someHS: 0.483203810478817,
+    finishedHS: 0.740787164702933,
+    someCollege: 0.892755076460266,
+    bachelors: 1.14575081474054,
+    graduateSchool: 1.44086237152168
   },
   'Kennebec County': {
     state: 'Maine',
     countyToStateAdjustment: 1.03241880784321,
-    someHS: 0.71477517457417,
-    finishedHS: 0.997193761012857,
-    someCollege: 1.1422045291392,
-    bachelors: 1.3665404946812,
-    graduateSchool: 1.985740390263
+    someHS: 0.615879888660837,
+    finishedHS: 0.859223437456069,
+    someCollege: 0.984170720049484,
+    bachelors: 1.17746787752692,
+    graduateSchool: 1.71099614811483
   },
   'Penobscot County': {
     state: 'Maine',
     countyToStateAdjustment: 0.921475948350516,
-    someHS: 0.727305357958624,
-    finishedHS: 0.826437381713764,
-    someCollege: 0.997650590615415,
-    bachelors: 1.35593552176467,
-    graduateSchool: 1.85789336291849
+    someHS: 0.702126319105371,
+    finishedHS: 0.797826429358954,
+    someCollege: 0.963112301149787,
+    bachelors: 1.30899354229012,
+    graduateSchool: 1.79357379114821
   },
   'York County': {
     state: 'Maine',
     countyToStateAdjustment: 1.0371212524371,
-    someHS: 0.810056777393461,
-    finishedHS: 0.991516021666775,
-    someCollege: 1.18390654571559,
-    bachelors: 1.25132154277883,
-    graduateSchool: 1.57403902630033
+    someHS: 0.694813736740463,
+    finishedHS: 0.850457611464077,
+    someCollege: 1.01547762321923,
+    bachelors: 1.07330179965854,
+    graduateSchool: 1.35010775560469
   },
   'Allegany County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.649006950112537,
-    someHS: 0.3884030542322,
-    finishedHS: 0.912092932193435,
-    someCollege: 1.01840370684592,
-    bachelors: 1.35087776545063,
-    graduateSchool: 2.18788748939503
+    someHS: 0.381996148908858,
+    finishedHS: 0.897047496790757,
+    someCollege: 1.00160462130937,
+    bachelors: 1.32859435173299,
+    graduateSchool: 2.1517971758665
   },
   'Anne Arundel County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.07796388649148,
-    someHS: 0.889773543039875,
-    finishedHS: 1.27282516478496,
-    someCollege: 1.48893819748091,
-    bachelors: 2.10800757031913,
-    graduateSchool: 2.81544084056647
+    someHS: 0.52686696937494,
+    finishedHS: 0.753685634238238,
+    someCollege: 0.881653946478601,
+    bachelors: 1.24822722442276,
+    graduateSchool: 1.66712394937687
   },
   'Baltimore County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.965116657489238,
-    someHS: 0.713404685766495,
-    finishedHS: 1.19349996736931,
-    someCollege: 1.33185407557267,
-    bachelors: 1.88360634340534,
-    graduateSchool: 2.28600796188736
+    someHS: 0.471825970606643,
+    finishedHS: 0.789347605585169,
+    someCollege: 0.88085115566394,
+    bachelors: 1.24576472365496,
+    graduateSchool: 1.51190193581803
   },
   'Calvert County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.15171656975041,
-    someHS: 0.743588070221236,
-    finishedHS: 1.3686941199504,
-    someCollege: 1.70815114533708,
-    bachelors: 2.25318149187496,
-    graduateSchool: 2.68185081250408
+    someHS: 0.412109375,
+    finishedHS: 0.75855396412037,
+    someCollege: 0.946686921296296,
+    bachelors: 1.24875217013889,
+    graduateSchool: 1.486328125
   },
   'Carroll County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.05305335015211,
-    someHS: 0.825588983880441,
-    finishedHS: 1.35211773151472,
-    someCollege: 1.35237877700189,
-    bachelors: 2.0306402140573,
-    graduateSchool: 2.44847614696861
+    someHS: 0.500425245752487,
+    finishedHS: 0.819577127712178,
+    someCollege: 0.819735358689847,
+    bachelors: 1.23085899642002,
+    graduateSchool: 1.48412745505251
   },
   'Cecil County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.960513623600442,
-    someHS: 1.00672192129479,
-    finishedHS: 1.22883900019578,
-    someCollege: 1.56209619526202,
-    bachelors: 1.99079814657704,
-    graduateSchool: 2.19075898975396
+    someHS: 0.669008587041374,
+    finishedHS: 0.816614623991673,
+    someCollege: 1.03807789053691,
+    bachelors: 1.32296816723046,
+    graduateSchool: 1.45585046404719
   },
   'Charles County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.15369524947637,
-    someHS: 0.90142269790511,
-    finishedHS: 1.39897539646283,
-    someCollege: 1.6870717222476,
-    bachelors: 2.30150753768844,
-    graduateSchool: 2.4518697383019
+    someHS: 0.498727230055424,
+    finishedHS: 0.774006607571627,
+    someCollege: 0.93340073297106,
+    bachelors: 1.27334765575635,
+    graduateSchool: 1.35653806575075
   },
   'Frederick County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.04218102576319,
-    someHS: 0.893265026430856,
-    finishedHS: 1.16827644717092,
-    someCollege: 1.37704757554004,
-    bachelors: 2.16781961756836,
-    graduateSchool: 2.79057625791294
+    someHS: 0.547095149589304,
+    finishedHS: 0.715530507424506,
+    someCollege: 0.843395887043588,
+    bachelors: 1.3277174890581,
+    graduateSchool: 1.70913523992246
   },
   'Harford County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.993380535258901,
-    someHS: 0.911799256020361,
-    finishedHS: 1.16504600926711,
-    someCollege: 1.38817463943092,
-    bachelors: 1.88487894015532,
-    graduateSchool: 2.47467858774391
+    someHS: 0.585880823583679,
+    finishedHS: 0.748605694636642,
+    someCollege: 0.891978026586153,
+    bachelors: 1.21113766930851,
+    graduateSchool: 1.59011615716862
   },
   'Howard County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.34198224655651,
-    someHS: 0.925797820270182,
-    finishedHS: 1.30545585068198,
-    someCollege: 1.47174182601318,
-    bachelors: 2.23670299549697,
-    graduateSchool: 2.98042158846179
+    someHS: 0.440347037916531,
+    finishedHS: 0.620927814250904,
+    someCollege: 0.700020176623054,
+    bachelors: 1.06386677220593,
+    graduateSchool: 1.41760953578246
   },
   'Montgomery County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.15088344144475,
-    someHS: 0.777980813156693,
-    finishedHS: 1.00143575017947,
-    someCollege: 1.28294067741304,
-    bachelors: 2.00708085883965,
-    graduateSchool: 3.15225478039548
+    someHS: 0.431482553930795,
+    finishedHS: 0.555414796583176,
+    someCollege: 0.711542637903576,
+    bachelors: 1.11316418126538,
+    graduateSchool: 1.74829882727668
   },
   'Prince Georges County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.931999807339079,
-    someHS: 0.844938980617373,
-    finishedHS: 1.1149252757293,
-    someCollege: 1.43385759968675,
-    bachelors: 1.97934477582719,
-    graduateSchool: 2.48913398159629
+    someHS: 0.578675665407737,
+    finishedHS: 0.763581916106108,
+    someCollege: 0.982009967148636,
+    bachelors: 1.35559925805082,
+    graduateSchool: 1.70473998256866
   },
   'St. Marys County': {
     state: 'Maryland',
     countyToStateAdjustment: 1.23450869512581,
-    someHS: 0.881387456764341,
-    finishedHS: 1.54653135808915,
-    someCollege: 1.67875089734386,
-    bachelors: 2.451837107616,
-    graduateSchool: 3.07009071330679
+    someHS: 0.455720335408547,
+    finishedHS: 0.799632197870797,
+    someCollege: 0.867996153262135,
+    bachelors: 1.26771945808237,
+    graduateSchool: 1.58738674900035
   },
   'Washington County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.779037450419103,
-    someHS: 0.691183188670626,
-    finishedHS: 1.04646609671735,
-    someCollege: 1.31025256150884,
-    bachelors: 1.48404359459636,
-    graduateSchool: 2.23255889838804
+    someHS: 0.56631820976927,
+    finishedHS: 0.85741785418282,
+    someCollege: 1.07355024997995,
+    bachelors: 1.21594524503382,
+    graduateSchool: 1.82923829639334
   },
   'Wicomico County': {
     state: 'Maryland',
     countyToStateAdjustment: 0.737526832589376,
-    someHS: 0.878744371206683,
-    finishedHS: 0.993245448019317,
-    someCollege: 1.05791946746721,
-    bachelors: 1.66295764536971,
-    graduateSchool: 1.6968935587026
+    someHS: 0.760519627223948,
+    finishedHS: 0.859615927704038,
+    someCollege: 0.915588816718441,
+    bachelors: 1.43922620728608,
+    graduateSchool: 1.46859644168314
   },
   'Baltimore city': {
     state: 'Maryland',
     countyToStateAdjustment: 0.777433678430699,
-    someHS: 0.779547086079749,
-    finishedHS: 0.933988122430333,
-    someCollege: 1.03765581152516,
-    bachelors: 1.70616067349736,
-    graduateSchool: 2.00799451804477
+    someHS: 0.640036435728447,
+    finishedHS: 0.76683812891818,
+    someCollege: 0.851953062208648,
+    bachelors: 1.40081980389005,
+    graduateSchool: 1.64863633928093
   },
   'Barnstable County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.9356422788623,
-    someHS: 0.995660118775697,
-    finishedHS: 1.03517587939698,
-    someCollege: 1.17046270312602,
-    bachelors: 1.66217450890818,
-    graduateSchool: 2.11388109378059
+    someHS: 0.752738306690349,
+    finishedHS: 0.782612985987764,
+    someCollege: 0.884892441286757,
+    bachelors: 1.25663607657391,
+    graduateSchool: 1.59813499111901
   },
   'Berkshire County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.817071270708668,
-    someHS: 0.599752006787183,
-    finishedHS: 1.00623246100633,
-    someCollege: 1.05061019382627,
-    bachelors: 1.36507211381583,
-    graduateSchool: 1.81844286366899
+    someHS: 0.519223706884375,
+    finishedHS: 0.87112630300291,
+    someCollege: 0.909545467386084,
+    bachelors: 1.18178479618068,
+    graduateSchool: 1.57428175937173
   },
   'Bristol County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.967841335972348,
-    someHS: 0.986425634666841,
-    finishedHS: 1.13394896560726,
-    someCollege: 1.30770736800888,
-    bachelors: 1.70368074136918,
-    graduateSchool: 2.32875416041245
+    someHS: 0.720946316567695,
+    finishedHS: 0.828766306551239,
+    someCollege: 0.955760654408433,
+    bachelors: 1.2451646752999,
+    graduateSchool: 1.70201044573227
   },
   'Essex County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 1.04391882144526,
-    someHS: 0.710565816093454,
-    finishedHS: 1.07567056059518,
-    someCollege: 1.22172551067023,
-    bachelors: 2.0010441819487,
-    graduateSchool: 2.34154538928408
+    someHS: 0.481482300395781,
+    finishedHS: 0.728878767108143,
+    someCollege: 0.827846198067526,
+    bachelors: 1.35591571406461,
+    graduateSchool: 1.58664072346165
   },
   'Franklin County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.84038384969157,
-    someHS: 0.44452783397507,
-    finishedHS: 1.02496247471122,
-    someCollege: 1.33619395679697,
-    bachelors: 1.44550675455198,
-    graduateSchool: 1.44495203289173
+    someHS: 0.374165728254003,
+    finishedHS: 0.862726249004367,
+    someCollege: 1.12469444368151,
+    bachelors: 1.21670466093548,
+    graduateSchool: 1.21623774341509
   },
   'Hampden County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.9017582531723,
-    someHS: 0.663740781831234,
-    finishedHS: 1.03808001044182,
-    someCollege: 1.106147621223,
-    bachelors: 1.6411277165046,
-    graduateSchool: 2.02329830973047
+    someHS: 0.520656291594144,
+    finishedHS: 0.814298146820928,
+    someCollege: 0.867692228934166,
+    bachelors: 1.28734514180403,
+    graduateSchool: 1.5871301320774
   },
   'Hampshire County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.959855046538601,
-    someHS: 0.864647914899171,
-    finishedHS: 1.04636820465966,
-    someCollege: 1.17450890817725,
-    bachelors: 1.37212034196959,
-    graduateSchool: 2.0120733537819
+    someHS: 0.63720091379103,
+    finishedHS: 0.771119394012264,
+    someCollege: 0.865552482866418,
+    bachelors: 1.01118191655645,
+    graduateSchool: 1.48279427678249
   },
   'Middlesex County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 1.21165398131531,
-    someHS: 0.767473732297853,
-    finishedHS: 1.15672518436338,
-    someCollege: 1.34311166220714,
-    bachelors: 1.9934086014488,
-    graduateSchool: 2.6126737584024
+    someHS: 0.448051205852097,
+    finishedHS: 0.6752962243304,
+    someCollege: 0.784108660037338,
+    bachelors: 1.16375204785309,
+    graduateSchool: 1.52527907951385
   },
   'Norfolk County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 1.27459794456915,
-    someHS: 0.664360764863277,
-    finishedHS: 1.22117078900998,
-    someCollege: 1.37502447301442,
-    bachelors: 2.05354695555701,
-    graduateSchool: 2.68896430202963
+    someHS: 0.368700313286612,
+    finishedHS: 0.677713188823093,
+    someCollege: 0.763097372376451,
+    bachelors: 1.13965701454157,
+    graduateSchool: 1.49229459806957
   },
   'Plymouth County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 1.0402949849103,
-    someHS: 0.836357110226457,
-    finishedHS: 1.10624551328069,
-    someCollege: 1.28910787704758,
-    bachelors: 1.96273575670561,
-    graduateSchool: 2.43845852639822
+    someHS: 0.568693143998225,
+    finishedHS: 0.752207676946971,
+    someCollege: 0.876547592633681,
+    bachelors: 1.33459063678722,
+    graduateSchool: 1.65806523186155
   },
   'Suffolk County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 0.974927436712696,
-    someHS: 0.731351563009854,
-    finishedHS: 0.89682177119363,
-    someCollege: 1.0656855707107,
-    bachelors: 1.80718527703452,
-    graduateSchool: 2.27827448932977
+    someHS: 0.530635920261376,
+    finishedHS: 0.650693688148113,
+    someCollege: 0.7732136938302,
+    bachelors: 1.31121265211421,
+    graduateSchool: 1.65301387376296
   },
   'Worcester County': {
     state: 'Massachusetts',
     countyToStateAdjustment: 1.03205479610149,
-    someHS: 0.772988318214449,
-    finishedHS: 1.14977484826731,
-    someCollege: 1.31599556222672,
-    bachelors: 1.81697448280363,
-    graduateSchool: 2.46710826861581
+    someHS: 0.529801176391653,
+    finishedHS: 0.788048218638875,
+    someCollege: 0.901974817167267,
+    bachelors: 1.24534251783598,
+    graduateSchool: 1.69093999507973
   },
   'Allegan County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.02230419423464,
-    someHS: 0.853847157867258,
-    finishedHS: 1.14321608040201,
-    someCollege: 1.1422371598251,
-    bachelors: 1.36908568818117,
-    graduateSchool: 1.88044116687333
+    someHS: 0.72436607241723,
+    finishedHS: 0.969853836784409,
+    someCollege: 0.969023363968553,
+    bachelors: 1.1614715978297,
+    graduateSchool: 1.59528291440594
   },
   'Bay County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.905765364873041,
-    someHS: 0.355021862559551,
-    finishedHS: 0.961854728186387,
-    someCollege: 1.01869738301899,
-    bachelors: 1.4114076877896,
-    graduateSchool: 2.01106180251909
+    someHS: 0.339936261950884,
+    finishedHS: 0.920983565581453,
+    someCollege: 0.975410860463663,
+    bachelors: 1.35143410610511,
+    graduateSchool: 1.92560769855652
   },
   'Berrien County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.912161133555829,
-    someHS: 0.722704431247145,
-    finishedHS: 0.924623115577889,
-    someCollege: 0.99595379494877,
-    bachelors: 1.52316778698688,
-    graduateSchool: 2.12429028258174
+    someHS: 0.687143211715066,
+    finishedHS: 0.879126334077935,
+    someCollege: 0.946947133283693,
+    bachelors: 1.44821916108215,
+    graduateSchool: 2.01976296847853
   },
   'Calhoun County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.883238675176142,
-    someHS: 0.624877634927886,
-    finishedHS: 0.827775239835541,
-    someCollege: 1.00274097761535,
-    bachelors: 1.50270834692945,
-    graduateSchool: 2.18475494354891
+    someHS: 0.613585389298302,
+    finishedHS: 0.812816404998398,
+    someCollege: 0.984620314001923,
+    bachelors: 1.47555270746556,
+    graduateSchool: 2.14527395065684
   },
   'Clinton County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.15256845638894,
-    someHS: 0.725869607779156,
-    finishedHS: 0.984076225282255,
-    someCollege: 1.24114076877896,
-    bachelors: 1.70185342295895,
-    graduateSchool: 2.08699340860145
+    someHS: 0.546197854003487,
+    finishedHS: 0.740491565791735,
+    someCollege: 0.933925896825202,
+    bachelors: 1.2806000933042,
+    graduateSchool: 1.57040783755248
   },
   'Eaton County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.04047270527158,
-    someHS: 0.53380539058931,
-    finishedHS: 0.962866279449194,
-    someCollege: 1.18886640997194,
-    bachelors: 1.54747764798016,
-    graduateSchool: 1.81455981204725
+    someHS: 0.44494913779035,
+    finishedHS: 0.80258934885492,
+    someCollege: 0.990969917858891,
+    bachelors: 1.28988739596366,
+    graduateSchool: 1.5125115595931
   },
   'Genesee County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.899511095497394,
-    someHS: 0.648893819748091,
-    finishedHS: 0.803530640214057,
-    someCollege: 0.983717287737388,
-    bachelors: 1.57093911114012,
-    graduateSchool: 2.0141943483652
+    someHS: 0.625641025641026,
+    finishedHS: 0.77473651093283,
+    someCollege: 0.948466257668712,
+    bachelors: 1.51464527292748,
+    graduateSchool: 1.94201667453201
   },
   'Grand Traverse County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.908708550461581,
-    someHS: 0.660967173529988,
-    finishedHS: 0.761959146381257,
-    someCollege: 1.03546955557006,
-    bachelors: 1.18563597206813,
-    graduateSchool: 1.85179142465575
+    someHS: 0.630831516661476,
+    finishedHS: 0.727218934911243,
+    someCollege: 0.988259109311741,
+    bachelors: 1.13157894736842,
+    graduateSchool: 1.76736219246341
   },
   'Ingham County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.02165329742179,
-    someHS: 0.681720289760491,
-    finishedHS: 0.879135939437447,
-    someCollege: 1.02816028192913,
-    bachelors: 1.45066240292371,
-    graduateSchool: 1.84660314559812
+    someHS: 0.578709731032381,
+    finishedHS: 0.746295116478768,
+    someCollege: 0.872801307443007,
+    bachelors: 1.23146173236198,
+    graduateSchool: 1.5675743054209
   },
   'Isabella County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.884964966723266,
-    someHS: 0.655844155844156,
-    finishedHS: 0.67450890817725,
-    someCollege: 1.01197546172421,
-    bachelors: 1.26310122038765,
-    graduateSchool: 1.72511910200352
+    someHS: 0.642736081353331,
+    finishedHS: 0.661027789325573,
+    someCollege: 0.991749544306226,
+    bachelors: 1.23785616066004,
+    graduateSchool: 1.69063988999392
   },
   'Jackson County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.992928938072096,
-    someHS: 0.689845330548848,
-    finishedHS: 0.887228349539907,
-    someCollege: 1.14621810350454,
-    bachelors: 1.67545519806826,
-    graduateSchool: 2.30581478822685
+    someHS: 0.602548024853218,
+    finishedHS: 0.774952972695662,
+    someCollege: 1.00116855725931,
+    bachelors: 1.4634327082027,
+    graduateSchool: 2.01402268711167
   },
   'Kalamazoo County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.04831176688721,
-    someHS: 0.731384193695751,
-    finishedHS: 0.874110813809306,
-    someCollege: 1.03422958950597,
-    bachelors: 1.36337531814919,
-    graduateSchool: 2.01990471839718
+    someHS: 0.605080582026294,
+    finishedHS: 0.723159571309019,
+    someCollege: 0.855627244013714,
+    bachelors: 1.12793240288314,
+    graduateSchool: 1.67108495532219
   },
   'Kent County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.988117961629291,
-    someHS: 0.623311362004829,
-    finishedHS: 0.867454153886315,
-    someCollege: 1.00799451804477,
-    bachelors: 1.48544671408993,
-    graduateSchool: 2.03471904979443
+    someHS: 0.547084431206324,
+    finishedHS: 0.761370145492038,
+    someCollege: 0.884723336006415,
+    bachelors: 1.30378622980868,
+    graduateSchool: 1.78588612670409
   },
   'Lapeer County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.955092023342506,
-    someHS: 0.634634210011094,
-    finishedHS: 0.994224368596228,
-    someCollege: 1.10526659270378,
-    bachelors: 1.64210663708151,
-    graduateSchool: 1.77442406839392
+    someHS: 0.576283741740496,
+    finishedHS: 0.902811935168449,
+    someCollege: 1.00364455243118,
+    bachelors: 1.49112566298261,
+    graduateSchool: 1.61127737118137
   },
   'Lenawee County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.873390323399106,
-    someHS: 0.414148665404947,
-    finishedHS: 0.850225151732689,
-    someCollege: 1.00600404620505,
-    bachelors: 1.40455524375122,
-    graduateSchool: 1.66113032695947
+    someHS: 0.411250081005768,
+    finishedHS: 0.844274512345279,
+    someCollege: 0.998963126174584,
+    bachelors: 1.39472490441319,
+    graduateSchool: 1.64950424470222
   },
   'Livingston County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.30960438745438,
-    someHS: 0.814527181361352,
-    finishedHS: 1.15933563923514,
-    someCollege: 1.32180382431639,
-    bachelors: 2.01406382562161,
-    graduateSchool: 2.44442994191738
+    someHS: 0.539415679834039,
+    finishedHS: 0.76776298729363,
+    someCollege: 0.875356556314288,
+    bachelors: 1.33380153859452,
+    graduateSchool: 1.61880888581554
   },
   'Macomb County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.05238694693288,
-    someHS: 0.724597011029172,
-    finishedHS: 0.910135091039614,
-    someCollege: 1.17199634536318,
-    bachelors: 1.66057560529922,
-    graduateSchool: 2.35877439143771
+    someHS: 0.597144163282868,
+    finishedHS: 0.750047059456262,
+    someCollege: 0.965848280313013,
+    bachelors: 1.36848898808723,
+    graduateSchool: 1.94387823701831
   },
   'Marquette County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.873645022151961,
-    someHS: 0.501664164980748,
-    finishedHS: 0.794133002675716,
-    someCollege: 0.955198068263395,
-    bachelors: 1.17036481106833,
-    graduateSchool: 2.15046009267115
+    someHS: 0.498007839072268,
+    finishedHS: 0.788345048751255,
+    someCollege: 0.948236208739594,
+    bachelors: 1.16183473162515,
+    graduateSchool: 2.13478669301286
   },
   'Midland County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.09469523976814,
-    someHS: 0.669614305292697,
-    finishedHS: 0.852998760033936,
-    someCollege: 1.24048815506102,
-    bachelors: 1.63368792012008,
-    graduateSchool: 2.46841349605169
+    someHS: 0.530505144511659,
+    finishedHS: 0.675792358202782,
+    someCollege: 0.98278268962308,
+    bachelors: 1.29429708908536,
+    graduateSchool: 1.9556124295538
   },
   'Monroe County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.08878056872963,
-    someHS: 0.638484630946943,
-    finishedHS: 1.14370554069047,
-    someCollege: 1.18390654571559,
-    bachelors: 1.84285061671996,
-    graduateSchool: 1.8381191672649
+    someHS: 0.508590440048865,
+    finishedHS: 0.911028513502976,
+    someCollege: 0.943050970810698,
+    bachelors: 1.46793855431082,
+    graduateSchool: 1.46416967743612
   },
   'Muskegon County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.887908152311806,
-    someHS: 0.671180578215754,
-    finishedHS: 0.848822032239118,
-    someCollege: 1.05481955230699,
-    bachelors: 1.31211251060497,
-    graduateSchool: 1.98332571950662
+    someHS: 0.655585657370518,
+    finishedHS: 0.829099601593626,
+    someCollege: 1.03031075697211,
+    bachelors: 1.28162549800797,
+    graduateSchool: 1.93724302788845
   },
   'Oakland County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.32579190819135,
-    someHS: 0.634732102068785,
-    finishedHS: 0.880473797559225,
-    someCollege: 1.17059322586961,
-    bachelors: 1.97693010507081,
-    graduateSchool: 2.63381844286367
+    someHS: 0.415215163934426,
+    finishedHS: 0.575969091530055,
+    someCollege: 0.765753073770492,
+    bachelors: 1.29322489754098,
+    graduateSchool: 1.7229337431694
   },
   'Ottawa County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.0478023693815,
-    someHS: 0.965835671865823,
-    finishedHS: 1.02744240683939,
-    someCollege: 1.09821836455002,
-    bachelors: 1.51249755269856,
-    graduateSchool: 2.00339359133329
+    someHS: 0.799432815665091,
+    finishedHS: 0.850425388251182,
+    someCollege: 0.909007427413909,
+    bachelors: 1.25191087103309,
+    graduateSchool: 1.65823092505064
   },
   'Saginaw County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.859155493100689,
-    someHS: 0.526071918031717,
-    finishedHS: 0.819062846701038,
-    someCollege: 0.880049598642563,
-    bachelors: 1.68012138615154,
-    graduateSchool: 2.10657182013966
+    someHS: 0.531045159590237,
+    finishedHS: 0.826805889522053,
+    someCollege: 0.888369182120623,
+    bachelors: 1.69600447972595,
+    graduateSchool: 2.12648637965677
   },
   'St. Clair County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.919660596834319,
-    someHS: 0.583926124127129,
-    finishedHS: 0.891437708020623,
-    someCollege: 1.14536970567121,
-    bachelors: 1.63502577824186,
-    graduateSchool: 1.98130261698101
+    someHS: 0.550666215342955,
+    finishedHS: 0.84066221497369,
+    someCollege: 1.08013047358218,
+    bachelors: 1.54189617503154,
+    graduateSchool: 1.8684493953288
   },
   'Shiawassee County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.947762359232586,
-    someHS: 0.861515369053057,
-    finishedHS: 0.987926646218104,
-    someCollege: 1.04747764798016,
-    bachelors: 1.57671474254389,
-    graduateSchool: 1.80973047053449
+    someHS: 0.788354732756047,
+    finishedHS: 0.904031054045984,
+    someCollege: 0.958524932815766,
+    bachelors: 1.44281875186623,
+    graduateSchool: 1.65604658106898
   },
   'Van Buren County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.00549407654625,
-    someHS: 0.632219539254715,
-    finishedHS: 1.01129021732037,
-    someCollege: 1.20185342295895,
-    bachelors: 1.36308164197611,
-    graduateSchool: 1.8916661228219
+    someHS: 0.545313819307627,
+    finishedHS: 0.872276949057135,
+    someCollege: 1.03664508865747,
+    bachelors: 1.17571066704194,
+    graduateSchool: 1.63163523782719
   },
   'Washtenaw County': {
     state: 'Michigan',
     countyToStateAdjustment: 1.18692448816285,
-    someHS: 0.637048880767474,
-    finishedHS: 0.809534686419109,
-    someCollege: 1.03220648698036,
-    bachelors: 1.53576323174313,
-    graduateSchool: 2.14935064935065
+    someHS: 0.46548723206409,
+    finishedHS: 0.591521422951289,
+    someCollege: 0.754226174864691,
+    bachelors: 1.12217162204049,
+    graduateSchool: 1.57051572447009
   },
   'Wayne County': {
     state: 'Michigan',
     countyToStateAdjustment: 0.911198938267268,
-    someHS: 0.569829667819618,
-    finishedHS: 0.840892775566142,
-    someCollege: 1.00633035306402,
-    bachelors: 1.62902173203681,
-    graduateSchool: 2.14860014357502
+    someHS: 0.542362879681968,
+    finishedHS: 0.800360270824275,
+    someCollege: 0.957823467296105,
+    bachelors: 1.55050003105783,
+    graduateSchool: 2.04503385303435
   },
   'Anoka County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.01393231354944,
-    someHS: 0.831234092540625,
-    finishedHS: 1.1903674215232,
-    someCollege: 1.37156562030934,
-    bachelors: 1.69862298505515,
-    graduateSchool: 2.14830646740194
+    someHS: 0.585272831705916,
+    finishedHS: 0.838139000574383,
+    someCollege: 0.965720850086157,
+    bachelors: 1.19600229753016,
+    graduateSchool: 1.51262492820218
   },
   'Blue Earth County': {
     state: 'Minnesota',
     countyToStateAdjustment: 0.838937263822076,
-    someHS: 0.69682829733081,
-    finishedHS: 0.961724205442798,
-    someCollege: 1.0590289107877,
-    bachelors: 1.31234092540625,
-    graduateSchool: 2.17046270312602
+    someHS: 0.592980312664871,
+    finishedHS: 0.818398911504179,
+    someCollege: 0.901202343598145,
+    bachelors: 1.1167633909977,
+    graduateSchool: 1.84699969455474
   },
   'Carver County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.19151315274961,
-    someHS: 0.702799712849964,
-    finishedHS: 1.32412060301508,
-    someCollege: 1.4966716700385,
-    bachelors: 2.22740325001632,
-    graduateSchool: 2.68935587026039
+    someHS: 0.421091733792133,
+    finishedHS: 0.79336435442246,
+    someCollege: 0.896750606084304,
+    bachelors: 1.33457808711973,
+    graduateSchool: 1.61136310315164
   },
   'Dakota County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.08789521063202,
-    someHS: 0.718462442080533,
-    finishedHS: 1.04617242054428,
-    someCollege: 1.36755204594401,
-    bachelors: 1.81811655681002,
-    graduateSchool: 2.51266070612804
+    someHS: 0.471477516059957,
+    finishedHS: 0.686531049250535,
+    someCollege: 0.897430406852248,
+    bachelors: 1.19310492505353,
+    graduateSchool: 1.64888650963597
   },
   'Hennepin County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.03741407741062,
-    someHS: 0.711544736670365,
-    finishedHS: 0.995399073288521,
-    someCollege: 1.18433074463225,
-    bachelors: 1.80607583371402,
-    graduateSchool: 2.32196697774587
+    someHS: 0.489659353737678,
+    finishedHS: 0.684997642197921,
+    someCollege: 0.815013585431029,
+    bachelors: 1.24287606943166,
+    graduateSchool: 1.59789369680911
   },
   'Olmsted County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.01307038372517,
-    someHS: 0.699504013574365,
-    finishedHS: 1.00606930757685,
-    someCollege: 1.1990798146577,
-    bachelors: 1.7735430398747,
-    graduateSchool: 2.17023428832474
+    someHS: 0.492940581309787,
+    finishedHS: 0.708977189109639,
+    someCollege: 0.844991721854305,
+    bachelors: 1.24981604120677,
+    graduateSchool: 1.52936442236939
   },
   'Ramsey County': {
     state: 'Minnesota',
     countyToStateAdjustment: 0.880100236781108,
-    someHS: 0.614207400639561,
-    finishedHS: 0.871532989623442,
-    someCollege: 1.09126802845396,
-    bachelors: 1.52988970828167,
-    graduateSchool: 2.06258565555048
+    someHS: 0.498226574907358,
+    finishedHS: 0.706961355214399,
+    someCollege: 0.885203811540498,
+    bachelors: 1.24100052938062,
+    graduateSchool: 1.67310746426681
   },
   'Rice County': {
     state: 'Minnesota',
     countyToStateAdjustment: 0.873321275190232,
-    someHS: 0.857306010572342,
-    finishedHS: 1.09674998368466,
-    someCollege: 1.12709652156888,
-    bachelors: 1.64719702408145,
-    graduateSchool: 1.65887880963258
+    someHS: 0.700818906879351,
+    finishedHS: 0.896556323188135,
+    someCollege: 0.92136359998933,
+    bachelors: 1.34652831497239,
+    graduateSchool: 1.35607778281629
   },
   'St. Louis County': {
     state: 'Minnesota',
     countyToStateAdjustment: 0.835606021528278,
-    someHS: 0.679795079292567,
-    finishedHS: 0.914670756379299,
-    someCollege: 1.02561508842916,
-    bachelors: 1.49376753899367,
-    graduateSchool: 1.9660314559812
+    someHS: 0.580791747978812,
+    finishedHS: 0.781460830777809,
+    someCollege: 0.876247560635629,
+    bachelors: 1.27621968218567,
+    graduateSchool: 1.67970448843044
   },
   'Scott County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.12584341830053,
-    someHS: 1.03471904979443,
-    finishedHS: 1.18511388109378,
-    someCollege: 1.48035632709,
-    bachelors: 2.11782940677413,
-    graduateSchool: 2.32415323370097
+    someHS: 0.656127790767448,
+    finishedHS: 0.751494961617248,
+    someCollege: 0.938711746570382,
+    bachelors: 1.34294109127025,
+    graduateSchool: 1.47377351072855
   },
   'Sherburne County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.00230790862213,
-    someHS: 0.72998107420218,
-    finishedHS: 1.19526202440775,
-    someCollege: 1.23804085361874,
-    bachelors: 1.89212295242446,
-    graduateSchool: 2.1050381779025
+    someHS: 0.519941430762795,
+    finishedHS: 0.851345697950077,
+    someCollege: 0.881815646353368,
+    bachelors: 1.34769674150514,
+    graduateSchool: 1.49934923069772
   },
   'Stearns County': {
     state: 'Minnesota',
     countyToStateAdjustment: 0.858109378561908,
-    someHS: 0.7275664034458,
-    finishedHS: 1.05397115447367,
-    someCollege: 1.20191868433074,
-    bachelors: 1.32509952359199,
-    graduateSchool: 1.9584611368531
+    someHS: 0.605304593332609,
+    finishedHS: 0.876859593875557,
+    someCollege: 0.999945705288305,
+    bachelors: 1.10242697361277,
+    graduateSchool: 1.62935715061353
   },
   'Washington County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.17092001856976,
-    someHS: 0.878091757488742,
-    finishedHS: 1.09048489199243,
-    someCollege: 1.24583958754813,
-    bachelors: 2.03742739672388,
-    graduateSchool: 2.55419956927495
+    someHS: 0.535373229349037,
+    finishedHS: 0.664869489097565,
+    someCollege: 0.759589368136241,
+    bachelors: 1.24222107273595,
+    graduateSchool: 1.55729746936177
   },
   'Wright County': {
     state: 'Minnesota',
     countyToStateAdjustment: 1.07102934055713,
-    someHS: 0.896201788161587,
-    finishedHS: 1.19395679697187,
-    someCollege: 1.36931410298244,
-    bachelors: 1.83645500228415,
-    graduateSchool: 2.32663316582915
+    someHS: 0.59737689229163,
+    finishedHS: 0.795850008700191,
+    someCollege: 0.912737080215765,
+    bachelors: 1.22411693057247,
+    graduateSchool: 1.55085261875761
   },
   'DeSoto County': {
     state: 'Mississippi',
     countyToStateAdjustment: 1.22205233419145,
-    someHS: 0.805977941656334,
-    finishedHS: 1.14536970567121,
-    someCollege: 1.33847810480976,
-    bachelors: 1.53954839130719,
-    graduateSchool: 1.98352150362201
+    someHS: 0.607148124477656,
+    finishedHS: 0.862814020942923,
+    someCollege: 1.00828376186028,
+    bachelors: 1.15975124133523,
+    graduateSchool: 1.49419890860823
   },
   'Forrest County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.797358958723216,
-    someHS: 0.538928408275142,
-    finishedHS: 0.720485544606148,
-    someCollege: 0.88096325784768,
-    bachelors: 1.02450564510866,
-    graduateSchool: 1.289923644195
+    someHS: 0.622212176009644,
+    finishedHS: 0.831826401446655,
+    someCollege: 1.0171036769138,
+    bachelors: 1.1828285111513,
+    graduateSchool: 1.48926311030741
   },
   'Harrison County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.941967383500701,
-    someHS: 0.59606473928082,
-    finishedHS: 0.870978267963193,
-    someCollege: 1.02502773608301,
-    bachelors: 1.33283299614958,
-    graduateSchool: 2.01941525810873
+    someHS: 0.582530773646278,
+    finishedHS: 0.851202245041138,
+    someCollege: 1.00175393838893,
+    bachelors: 1.3025703169845,
+    graduateSchool: 1.97356336501052
   },
   'Hinds County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.916494191932087,
-    someHS: 0.61410950858187,
-    finishedHS: 0.722182340272792,
-    someCollege: 0.955948574039026,
-    bachelors: 1.16246818508125,
-    graduateSchool: 1.57469164001827
+    someHS: 0.616846935431006,
+    finishedHS: 0.725401507702393,
+    someCollege: 0.960209767289413,
+    bachelors: 1.16764995083579,
+    graduateSchool: 1.58171091445428
   },
   'Jackson County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.999221986248081,
-    someHS: 0.922991581283039,
-    finishedHS: 0.893526071918032,
-    someCollege: 1.03325066892906,
-    bachelors: 1.30943679436142,
-    graduateSchool: 1.71030477060628
+    someHS: 0.850348725348725,
+    finishedHS: 0.823202260702261,
+    someCollege: 0.951930014430014,
+    bachelors: 1.20637926887927,
+    graduateSchool: 1.57569745069745
   },
   'Jones County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.905439788043821,
-    someHS: 0.566207661685049,
-    finishedHS: 0.967826143705541,
-    someCollege: 0.851040918880115,
-    bachelors: 1.16889643020296,
-    graduateSchool: 1.54166938589049
+    someHS: 0.57567513768164,
+    finishedHS: 0.984009023953288,
+    someCollege: 0.865271050361622,
+    bachelors: 1.18844137747993,
+    graduateSchool: 1.56744741556632
   },
   'Lauderdale County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.842417670224302,
-    someHS: 0.545617698884031,
-    finishedHS: 0.80940416367552,
-    someCollege: 0.923839979116361,
-    bachelors: 1.6345689486393,
-    graduateSchool: 1.60265613783202
+    someHS: 0.59624162031094,
+    finishedHS: 0.884502923976608,
+    someCollege: 1.00955641135359,
+    bachelors: 1.78622878334047,
+    graduateSchool: 1.75135501355014
   },
   'Lee County': {
     state: 'Mississippi',
     countyToStateAdjustment: 0.914481569485039,
-    someHS: 0.656203093389023,
-    finishedHS: 0.726783266984272,
-    someCollege: 0.994974874371859,
-    bachelors: 1.45519806826339,
-    graduateSchool: 1.84115382105332
+    someHS: 0.660578786584765,
+    finishedHS: 0.73162960286437,
+    someCollege: 1.00160956541734,
+    bachelors: 1.4649016194199,
+    graduateSchool: 1.85343100220083
   },
   'Madison County': {
     state: 'Mississippi',
     countyToStateAdjustment: 1.26759167194855,
-    someHS: 0.541343079031521,
-    finishedHS: 1.03090125954448,
-    someCollege: 1.24322913267637,
-    bachelors: 1.68331919336944,
-    graduateSchool: 2.11335900280624
+    someHS: 0.393146594625338,
+    finishedHS: 0.748684771790132,
+    someCollege: 0.902886392720034,
+    bachelors: 1.22249869662069,
+    graduateSchool: 1.53481207640173
   },
   'Rankin County': {
     state: 'Mississippi',
     countyToStateAdjustment: 1.19297444570275,
-    someHS: 0.910657182013966,
-    finishedHS: 1.10399399595379,
-    someCollege: 1.10914964432552,
-    bachelors: 1.34735365137375,
-    graduateSchool: 1.83345297918162
+    someHS: 0.70272448003223,
+    finishedHS: 0.851916200835977,
+    someCollege: 0.855894646724077,
+    bachelors: 1.0397089187692,
+    graduateSchool: 1.41481593392758
   },
   'Boone County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.994221873623777,
-    someHS: 0.826437381713764,
-    finishedHS: 0.993832800365464,
-    someCollege: 1.04721660249298,
-    bachelors: 1.25856555504797,
-    graduateSchool: 1.69281472296548
+    someHS: 0.696045290900596,
+    finishedHS: 0.837029708412345,
+    someCollege: 0.881990820897573,
+    bachelors: 1.05999395388463,
+    graduateSchool: 1.42572896913733
   },
   'Buchanan County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.825854182270555,
-    someHS: 0.574756901390067,
-    finishedHS: 0.920870586699732,
-    someCollege: 0.936990145532859,
-    bachelors: 1.22162761861254,
-    graduateSchool: 1.64755596162631
+    someHS: 0.582762613730356,
+    finishedHS: 0.933697270471464,
+    someCollege: 0.950041356492969,
+    bachelors: 1.2386435070306,
+    graduateSchool: 1.67050454921423
   },
   'Cape Girardeau County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.97348330209877,
-    someHS: 0.841088559681525,
-    finishedHS: 0.842883247405861,
-    someCollege: 1.08663447105658,
-    bachelors: 1.37101089864909,
-    graduateSchool: 1.58581870390916
+    someHS: 0.723475917817447,
+    finishedHS: 0.725019647468283,
+    someCollege: 0.934686201863703,
+    bachelors: 1.17929718199169,
+    graduateSchool: 1.36406758729089
   },
   'Cass County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.05848685415977,
-    someHS: 0.694707302747504,
-    finishedHS: 0.978300593878483,
-    someCollege: 1.37166351236703,
-    bachelors: 1.80535795862429,
-    graduateSchool: 1.88853357697579
+    someHS: 0.549575363328945,
+    finishedHS: 0.773922920054725,
+    someCollege: 1.08510803066677,
+    bachelors: 1.42819897261158,
+    graduateSchool: 1.49399829629056
   },
   'Christian County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.953154583765956,
-    someHS: 0.583501925210468,
-    finishedHS: 0.953338119167265,
-    someCollege: 1.02750766821119,
-    bachelors: 1.37482868889904,
-    graduateSchool: 1.54317039744175
+    someHS: 0.512613232427474,
+    finishedHS: 0.837518633184268,
+    someCollege: 0.902677445247105,
+    bachelors: 1.20780300424263,
+    graduateSchool: 1.35569315445476
   },
   'Clay County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.13327139996207,
-    someHS: 0.924525223520198,
-    finishedHS: 1.04884813678784,
-    someCollege: 1.3129282777524,
-    bachelors: 1.65835671865823,
-    graduateSchool: 1.97213339424395
+    someHS: 0.683117947728807,
+    finishedHS: 0.774978300704022,
+    someCollege: 0.970103192207542,
+    bachelors: 1.22533513357122,
+    graduateSchool: 1.45718005593596
   },
   'Cole County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.04143696136451,
-    someHS: 0.660249298440253,
-    finishedHS: 0.961463159955622,
-    someCollege: 1.20645434967043,
-    bachelors: 1.49944527833975,
-    graduateSchool: 1.50362200613457
+    someHS: 0.530867112685295,
+    finishedHS: 0.773055227600682,
+    someCollege: 0.970038042765315,
+    bachelors: 1.20561458743277,
+    graduateSchool: 1.20897284533648
   },
   'Franklin County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.936432573524448,
-    someHS: 0.902107942308947,
-    finishedHS: 0.981955230698949,
-    someCollege: 1.0656203093389,
-    bachelors: 1.62970697644064,
-    graduateSchool: 1.96028845526333
+    someHS: 0.806664332399627,
+    finishedHS: 0.878063725490196,
+    someCollege: 0.952876984126984,
+    bachelors: 1.45728291316527,
+    graduateSchool: 1.75288865546218
   },
   'Greene County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.881621539955061,
-    someHS: 0.876623376623377,
-    finishedHS: 0.88807674737323,
-    someCollege: 0.986066697121973,
-    bachelors: 1.27957971676565,
-    graduateSchool: 1.63593943744698
+    someHS: 0.832610177896237,
+    finishedHS: 0.84348850182855,
+    someCollege: 0.936558606582781,
+    bachelors: 1.21533502758321,
+    graduateSchool: 1.55380276451993
   },
   'Jackson County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.994795668092849,
-    someHS: 0.650199047183972,
-    finishedHS: 0.942928930366116,
-    someCollege: 1.06594661619787,
-    bachelors: 1.54170201657639,
-    graduateSchool: 1.96570514912223
+    someHS: 0.547297297297297,
+    finishedHS: 0.79369918699187,
+    someCollege: 0.897247857613711,
+    bachelors: 1.29770929466051,
+    graduateSchool: 1.65460887716985
   },
   'Jasper County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.93700636799352,
-    someHS: 0.677184624420805,
-    finishedHS: 1.01138810937806,
-    someCollege: 1.06640344580043,
-    bachelors: 1.21317627096522,
-    graduateSchool: 1.52065522417281
+    someHS: 0.605167235295833,
+    finishedHS: 0.903828769719768,
+    someCollege: 0.952993322252355,
+    bachelors: 1.08415711661272,
+    graduateSchool: 1.35893622605196
   },
   'Jefferson County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.983374425803714,
-    someHS: 0.804411668733277,
-    finishedHS: 0.995138027801344,
-    someCollege: 1.17473732297853,
-    bachelors: 1.60268876851791,
-    graduateSchool: 2.10888859883835
+    someHS: 0.684968046679633,
+    finishedHS: 0.847374270630731,
+    someCollege: 1.00030564045568,
+    bachelors: 1.3647124201167,
+    graduateSchool: 1.79574881911642
   },
   'Platte County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.26830436501686,
-    someHS: 0.884650525354043,
-    finishedHS: 1.04036415845461,
-    someCollege: 1.29308882072701,
-    bachelors: 1.85260719180317,
-    graduateSchool: 2.27638190954774
+    someHS: 0.584062217243311,
+    finishedHS: 0.686867163600328,
+    someCollege: 0.853720539445905,
+    bachelors: 1.22312464992029,
+    graduateSchool: 1.50290835451764
   },
   'St. Charles County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.18611513820893,
-    someHS: 0.605984467793513,
-    finishedHS: 1.01223650721138,
-    someCollege: 1.33107093911114,
-    bachelors: 1.82523004633557,
-    graduateSchool: 2.32441427918815
+    someHS: 0.42780465330569,
+    finishedHS: 0.714604929739691,
+    someCollege: 0.939691315365123,
+    bachelors: 1.28855102510942,
+    graduateSchool: 1.64095830453812
   },
   'St. Francois County': {
     state: 'Missouri',
     countyToStateAdjustment: 0.844406870103862,
-    someHS: 0.512921751615219,
-    finishedHS: 0.98293415127586,
-    someCollege: 0.944234157801997,
-    bachelors: 1.33456242250212,
-    graduateSchool: 1.67685831756184
+    someHS: 0.508639658296661,
+    finishedHS: 0.974728190525498,
+    someCollege: 0.936351281387523,
+    bachelors: 1.32342091638623,
+    graduateSchool: 1.66285917680559
   },
   'St. Louis County': {
     state: 'Missouri',
     countyToStateAdjustment: 1.10679488374635,
-    someHS: 0.659466161978725,
-    finishedHS: 0.867747830059388,
-    someCollege: 1.07182013965934,
-    bachelors: 1.68237290347843,
-    graduateSchool: 2.30646740194479
+    someHS: 0.498926111536278,
+    finishedHS: 0.656503814155578,
+    someCollege: 0.810896882020392,
+    bachelors: 1.27281704396771,
+    graduateSchool: 1.74498234872985
   },
   'St. Louis city': {
     state: 'Missouri',
     countyToStateAdjustment: 0.881239010309013,
-    someHS: 0.609900150101155,
-    finishedHS: 0.708053253279384,
-    someCollege: 0.983652026365594,
-    bachelors: 1.40116165241793,
-    graduateSchool: 1.74117339946486
+    someHS: 0.579529951630907,
+    finishedHS: 0.672795485551284,
+    someCollege: 0.934670718095002,
+    bachelors: 1.33139030137666,
+    graduateSchool: 1.65447104055562
   },
   'Cascade County': {
     state: 'Montana',
     countyToStateAdjustment: 0.947239733694692,
-    someHS: 0.437610128564902,
-    finishedHS: 0.856816550283887,
-    someCollege: 1.05899628010181,
-    bachelors: 1.26264439078509,
-    graduateSchool: 1.7473079684135
+    someHS: 0.417073549992225,
+    finishedHS: 0.816607059555279,
+    someCollege: 1.00929870937646,
+    bachelors: 1.20338983050847,
+    graduateSchool: 1.66530866117245
   },
   'Flathead County': {
     state: 'Montana',
     countyToStateAdjustment: 0.913951570140812,
-    someHS: 0.572603276120864,
-    finishedHS: 0.814037721072897,
-    someCollege: 0.981694185211773,
-    bachelors: 1.55550479671083,
-    graduateSchool: 1.68942113163219
+    someHS: 0.565608380338437,
+    finishedHS: 0.804093473005641,
+    someCollege: 0.969701853344077,
+    bachelors: 1.5365028203062,
+    graduateSchool: 1.66878323932313
   },
   'Gallatin County': {
     state: 'Montana',
     countyToStateAdjustment: 1.0693159724268,
-    someHS: 0.913332898257521,
-    finishedHS: 0.992527572929583,
-    someCollege: 0.893395549174444,
-    bachelors: 1.34634210011094,
-    graduateSchool: 1.81759446583567
+    someHS: 0.771095622468939,
+    finishedHS: 0.837956968511529,
+    someCollege: 0.754263202843053,
+    bachelors: 1.13667043169233,
+    graduateSchool: 1.53453263175294
   },
   'Lewis and Clark County': {
     state: 'Montana',
     countyToStateAdjustment: 1.10339951687975,
-    someHS: 0.259381322195393,
-    finishedHS: 0.941721594987927,
-    someCollege: 1.27057364745807,
-    bachelors: 1.47719115055798,
-    graduateSchool: 1.71239313450369
+    someHS: 0.212222340879966,
+    finishedHS: 0.770504058094831,
+    someCollege: 1.03956642460487,
+    bachelors: 1.20861811191798,
+    graduateSchool: 1.40105724049551
   },
   'Missoula County': {
     state: 'Montana',
     countyToStateAdjustment: 0.888204795852236,
-    someHS: 0.509103961365268,
-    finishedHS: 0.807903152124258,
-    someCollege: 0.77931867127847,
-    bachelors: 1.05269855772368,
-    graduateSchool: 1.69996084317692
+    someHS: 0.51746210739279,
+    finishedHS: 0.821166793804517,
+    someCollege: 0.792113031076913,
+    bachelors: 1.06998109515439,
+    graduateSchool: 1.72786972239727
   },
   'Yellowstone County': {
     state: 'Montana',
     countyToStateAdjustment: 1.07788841100571,
-    someHS: 0.755661424003133,
-    finishedHS: 0.9507602949814,
-    someCollege: 1.17372577171572,
-    bachelors: 1.50897343862168,
-    graduateSchool: 1.6619460941069
+    someHS: 0.632905165345723,
+    finishedHS: 0.796310467340803,
+    someCollege: 0.983055479639246,
+    bachelors: 1.26384257993987,
+    graduateSchool: 1.39196501776442
   },
   'Douglas County': {
     state: 'Nebraska',
     countyToStateAdjustment: 0.974140551197273,
-    someHS: 0.757978202701821,
-    finishedHS: 0.918749592116426,
-    someCollege: 1.17669516413235,
-    bachelors: 1.64572864321608,
-    graduateSchool: 2.03759055015336
+    someHS: 0.587644514154165,
+    finishedHS: 0.712287181562903,
+    someCollege: 0.912266943256849,
+    bachelors: 1.2758987072782,
+    graduateSchool: 1.57970097902806
   },
   'Lancaster County': {
     state: 'Nebraska',
     countyToStateAdjustment: 0.908908695116441,
-    someHS: 0.636624681850813,
-    finishedHS: 0.922893689225348,
-    someCollege: 1.05521112053775,
-    bachelors: 1.44547412386608,
-    graduateSchool: 1.84614631599556
+    someHS: 0.528984328398677,
+    finishedHS: 0.766851038446939,
+    someCollege: 0.876796269182799,
+    bachelors: 1.20107369448511,
+    graduateSchool: 1.53400032536197
   },
   'Sarpy County': {
     state: 'Nebraska',
     countyToStateAdjustment: 1.11695075368629,
-    someHS: 0.863310056777393,
-    finishedHS: 1.07087384976832,
-    someCollege: 1.23970501859949,
-    bachelors: 1.69686092801671,
-    graduateSchool: 2.31488611890622
+    someHS: 0.583730473921101,
+    finishedHS: 0.72407554496514,
+    someCollege: 0.838231400582473,
+    bachelors: 1.14733915806195,
+    graduateSchool: 1.56521930985791
   },
   'Clark County': {
     state: 'Nevada',
     countyToStateAdjustment: 0.968569162529742,
-    someHS: 0.828166808066306,
-    finishedHS: 0.982705736474581,
-    someCollege: 1.0831429876656,
-    bachelors: 1.49288651047445,
-    graduateSchool: 1.9846962083143
+    someHS: 0.769720680556819,
+    finishedHS: 0.913353349710369,
+    someCollege: 1.00670245352258,
+    bachelors: 1.38752919054984,
+    graduateSchool: 1.84463045522094
   },
   'Washoe County': {
     state: 'Nevada',
     countyToStateAdjustment: 1.03143083747026,
-    someHS: 0.778502904131045,
-    finishedHS: 0.926646218103505,
-    someCollege: 1.07909678261437,
-    bachelors: 1.51595640540364,
-    graduateSchool: 2.07912941330027
+    someHS: 0.679463446586734,
+    finishedHS: 0.808760288212343,
+    someCollege: 0.941816421268476,
+    bachelors: 1.32309970666135,
+    graduateSchool: 1.8146270612024
   },
   'Cheshire County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 0.937988547983321,
-    someHS: 0.676858317561835,
-    finishedHS: 1.18576649481172,
-    someCollege: 1.16817855511323,
-    bachelors: 1.33452979181622,
-    graduateSchool: 2.13326372120342
+    someHS: 0.521456044646673,
+    finishedHS: 0.913522210211418,
+    someCollege: 0.899972347218382,
+    bachelors: 1.02813042057367,
+    graduateSchool: 1.64348022826114
   },
   'Grafton County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 0.877553025509623,
-    someHS: 0.836389740912354,
-    finishedHS: 1.03586112380082,
-    someCollege: 1.03419695882007,
-    bachelors: 1.20759642367683,
-    graduateSchool: 2.33417085427136
+    someHS: 0.688736027515047,
+    finishedHS: 0.852993336199484,
+    someCollege: 0.851622957867584,
+    bachelors: 0.994411006018917,
+    graduateSchool: 1.92210339638865
   },
   'Hillsborough County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 1.05810503314954,
-    someHS: 1.03165176532011,
-    finishedHS: 1.14899171180578,
-    someCollege: 1.35247666905958,
-    bachelors: 1.73001370488808,
-    graduateSchool: 2.35658813548261
+    someHS: 0.704566220221514,
+    finishedHS: 0.784703496534665,
+    someCollege: 0.923673478483721,
+    bachelors: 1.18151226795623,
+    graduateSchool: 1.60943106099436
   },
   'Merrimack County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 0.983521514778761,
-    someHS: 1.3512367029955,
-    finishedHS: 1.02274358807022,
-    someCollege: 1.217679305619,
-    bachelors: 1.69425047314495,
-    graduateSchool: 2.08696077791555
+    someHS: 0.992807480220571,
+    finishedHS: 0.751450491488852,
+    someCollege: 0.894677535363222,
+    bachelors: 1.24483337329178,
+    graduateSchool: 1.53337329177655
   },
   'Rockingham County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 1.17343477970391,
-    someHS: 0.979834236115643,
-    finishedHS: 1.25647719115056,
-    someCollege: 1.41656333616133,
-    bachelors: 1.98874241336553,
-    graduateSchool: 2.32340272792534
+    someHS: 0.603408086166707,
+    finishedHS: 0.773772204806688,
+    someCollege: 0.872357527529941,
+    bachelors: 1.22472068161723,
+    graduateSchool: 1.43081343943413
   },
   'Strafford County': {
     state: 'New Hampshire',
     countyToStateAdjustment: 0.969397098874841,
-    someHS: 0.701396593356392,
-    finishedHS: 1.02244991189715,
-    someCollege: 1.27608823337467,
-    bachelors: 1.4835541343079,
-    graduateSchool: 1.73109051752268
+    someHS: 0.522852764466931,
+    finishedHS: 0.762180438325509,
+    someCollege: 0.951253922307898,
+    bachelors: 1.10590839434701,
+    graduateSchool: 1.29043321738707
   },
   'Atlantic County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.771569801800043,
-    someHS: 0.771911505579847,
-    finishedHS: 0.958559028910788,
-    someCollege: 1.06023624616589,
-    bachelors: 1.61939567969719,
-    graduateSchool: 2.71399203811264
+    someHS: 0.683107132544037,
+    finishedHS: 0.848281836557898,
+    someCollege: 0.938261622870344,
+    bachelors: 1.43309269419578,
+    graduateSchool: 2.40176147848686
   },
   'Bergen County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.162300948614,
-    someHS: 0.892188213796254,
-    finishedHS: 1.17956666449129,
-    someCollege: 1.5174900476408,
-    bachelors: 2.03442537362135,
-    graduateSchool: 2.78052600665666
+    someHS: 0.52412444648916,
+    finishedHS: 0.692947648896812,
+    someCollege: 0.891463952307014,
+    bachelors: 1.19514252305097,
+    graduateSchool: 1.63344643165219
   },
   'Burlington County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.03978110050258,
-    someHS: 0.839098087841806,
-    finishedHS: 1.21849507276643,
-    someCollege: 1.2221497095869,
-    bachelors: 1.97872479279514,
-    graduateSchool: 2.85593552176467
+    someHS: 0.551019970857975,
+    finishedHS: 0.800162852489929,
+    someCollege: 0.802562783920459,
+    bachelors: 1.29939144595869,
+    graduateSchool: 1.87543927316362
   },
   'Camden County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.937915171139896,
-    someHS: 0.720713959407427,
-    finishedHS: 1.08601448802454,
-    someCollege: 1.30362853227175,
-    bachelors: 1.69549043920903,
-    graduateSchool: 2.34529791816224
+    someHS: 0.524681679969593,
+    finishedHS: 0.790621436716078,
+    someCollege: 0.94904503990878,
+    bachelors: 1.23432155074116,
+    graduateSchool: 1.70738312428734
   },
   'Cape May County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.745880515589375,
-    someHS: 0.40765515891144,
-    finishedHS: 0.857697578803106,
-    someCollege: 1.07524636167852,
-    bachelors: 1.44945506754552,
-    graduateSchool: 2.65342948508778
+    someHS: 0.373181587358485,
+    finishedHS: 0.785165934820922,
+    someCollege: 0.984317591182006,
+    bachelors: 1.32688114227679,
+    graduateSchool: 2.42904083400544
   },
   'Cumberland County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.621266311099983,
-    someHS: 0.567121320890165,
-    finishedHS: 1.00740716569862,
-    someCollege: 0.847386282059649,
-    bachelors: 1.66400182731841,
-    graduateSchool: 2.22345493702278
+    someHS: 0.623296514129967,
+    finishedHS: 1.1071940898006,
+    someCollege: 0.931322622292354,
+    bachelors: 1.828826567207,
+    graduateSchool: 2.44369530913786
   },
   'Essex County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.835091185136223,
-    someHS: 0.677413039222084,
-    finishedHS: 0.87659074593748,
-    someCollege: 1.06366246818508,
-    bachelors: 1.82656790445735,
-    graduateSchool: 2.64706650133786
+    someHS: 0.553880632853979,
+    finishedHS: 0.71673647981644,
+    someCollege: 0.86969397828233,
+    bachelors: 1.49347669485873,
+    graduateSchool: 2.16434993730157
   },
   'Gloucester County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.06787666850922,
-    someHS: 0.818442863668994,
-    finishedHS: 1.16037982118384,
-    someCollege: 1.47719115055798,
-    bachelors: 2.0908438295373,
-    graduateSchool: 2.49973895451282
+    someHS: 0.523315737862255,
+    finishedHS: 0.741951636796094,
+    someCollege: 0.944522105614555,
+    bachelors: 1.33689415593899,
+    graduateSchool: 1.59834338292057
   },
   'Hudson County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.918820879481143,
-    someHS: 0.697187234875677,
-    finishedHS: 0.844775827187887,
-    someCollege: 1.02979181622398,
-    bachelors: 2.00443777328199,
-    graduateSchool: 2.66902695294655
+    someHS: 0.518101796842794,
+    finishedHS: 0.627779529086544,
+    someCollege: 0.765270738863697,
+    bachelors: 1.48956085259099,
+    graduateSchool: 1.98343800771115
   },
   'Hunterdon County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.3404994838377,
-    someHS: 0.850518827905763,
-    finishedHS: 1.31312406186778,
-    someCollege: 1.46103896103896,
-    bachelors: 2.08947334072962,
-    graduateSchool: 2.99513802780134
+    someHS: 0.433225297099643,
+    finishedHS: 0.668860633258539,
+    someCollege: 0.744203440538519,
+    bachelors: 1.0643064904845,
+    graduateSchool: 1.52562120834372
   },
   'Mercer County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.01034870927596,
-    someHS: 0.670691117927299,
-    finishedHS: 0.955459113750571,
-    someCollege: 1.27967760882334,
-    bachelors: 2.18139398290152,
-    graduateSchool: 2.80979573190628
+    someHS: 0.453260414139855,
+    finishedHS: 0.645709749266765,
+    someCollege: 0.864820164509229,
+    bachelors: 1.47420998081461,
+    graduateSchool: 1.89889077557501
   },
   'Middlesex County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.09534838567986,
-    someHS: 0.857828101546695,
-    finishedHS: 1.09962148404359,
-    someCollege: 1.42325262677021,
-    bachelors: 1.97467858774391,
-    graduateSchool: 2.79240357632317
+    someHS: 0.534742280623246,
+    finishedHS: 0.68546845124283,
+    someCollege: 0.887209633456735,
+    bachelors: 1.23095073430698,
+    graduateSchool: 1.74069403197592
   },
   'Monmouth County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.13955267348729,
-    someHS: 0.851040918880115,
-    finishedHS: 1.04013574365333,
-    someCollege: 1.33436663838674,
-    bachelors: 2.17676042550414,
-    graduateSchool: 2.84102329830973
+    someHS: 0.509932350525945,
+    finishedHS: 0.623235443631956,
+    someCollege: 0.799534665467485,
+    bachelors: 1.3042857701482,
+    graduateSchool: 1.70230321041724
   },
   'Morris County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.35239721049555,
-    someHS: 0.967467206160673,
-    finishedHS: 1.27158519872088,
-    someCollege: 1.38641258239248,
-    bachelors: 2.46361678522483,
-    graduateSchool: 3.27971023950923
+    someHS: 0.488459447437355,
+    finishedHS: 0.64200398688611,
+    someCollege: 0.69997858284321,
+    bachelors: 1.24384256742286,
+    graduateSchool: 1.65587571459167
   },
   'Ocean County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.919221926447138,
-    someHS: 0.893134503687268,
-    finishedHS: 1.04411668733277,
-    someCollege: 1.33348560986752,
-    bachelors: 1.68589701755531,
-    graduateSchool: 2.12921751615219
+    someHS: 0.663426812419711,
+    finishedHS: 0.77557747776135,
+    someCollege: 0.990522820369877,
+    bachelors: 1.25229657997431,
+    graduateSchool: 1.58159827423225
   },
   'Passaic County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.820007363137418,
-    someHS: 0.650786399530118,
-    finishedHS: 1.02414670756379,
-    someCollege: 1.31021993082295,
-    bachelors: 1.67558572081185,
-    graduateSchool: 2.35746916400183
+    someHS: 0.541897619823932,
+    finishedHS: 0.852787740462993,
+    someCollege: 1.09099554396261,
+    bachelors: 1.39522877948049,
+    graduateSchool: 1.96302032387784
   },
   'Salem County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.942839136666833,
-    someHS: 0.90360895386021,
-    finishedHS: 1.13655942047902,
-    someCollege: 1.41284343796907,
-    bachelors: 1.75641192977876,
-    graduateSchool: 1.97676695164132
+    someHS: 0.654394215090862,
+    finishedHS: 0.823097100456082,
+    someCollege: 1.02318217264929,
+    bachelors: 1.27199470661909,
+    graduateSchool: 1.43157596237919
   },
   'Somerset County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.32820071021386,
-    someHS: 0.852672453174966,
-    finishedHS: 1.06901390067219,
-    someCollege: 1.37375187626444,
-    bachelors: 2.21859296482412,
-    graduateSchool: 3.13864778437643
+    someHS: 0.438343985372318,
+    finishedHS: 0.549561337292201,
+    someCollege: 0.706221797258987,
+    bachelors: 1.14053981514099,
+    graduateSchool: 1.61352389579454
   },
   'Sussex County': {
     state: 'New Jersey',
     countyToStateAdjustment: 1.1162251082986,
-    someHS: 0.699471382888468,
-    finishedHS: 1.17545519806826,
-    someCollege: 1.45797167656464,
-    bachelors: 2.01269333681394,
-    graduateSchool: 2.59534686419109
+    someHS: 0.427872811832572,
+    finishedHS: 0.719036308109942,
+    someCollege: 0.891854128824927,
+    bachelors: 1.23118225912693,
+    graduateSchool: 1.58759655881355
   },
   'Union County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.91051029513025,
-    someHS: 0.70612804281146,
-    finishedHS: 1.01837107616002,
-    someCollege: 1.166351236703,
-    bachelors: 1.98352150362201,
-    graduateSchool: 2.67189845330549
+    someHS: 0.529535555229286,
+    finishedHS: 0.76369108794597,
+    someCollege: 0.87466353447854,
+    bachelors: 1.4874712474918,
+    graduateSchool: 2.00369500318113
   },
   'Warren County': {
     state: 'New Jersey',
     countyToStateAdjustment: 0.924346415457072,
-    someHS: 0.821085949226653,
-    finishedHS: 1.17839195979899,
-    someCollege: 1.33224564380343,
-    bachelors: 1.91431181883443,
-    graduateSchool: 2.14899171180578
+    someHS: 0.606527345915588,
+    finishedHS: 0.870465447007496,
+    someCollege: 0.98411550606214,
+    bachelors: 1.41408151951214,
+    graduateSchool: 1.58743702846675
   },
   'Bernalillo County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.05332392933882,
-    someHS: 0.644292893036612,
-    finishedHS: 0.871369836193957,
-    someCollege: 0.983782549109182,
-    bachelors: 1.50009789205769,
-    graduateSchool: 1.99445278339751
+    someHS: 0.614936622130867,
+    finishedHS: 0.831667133825407,
+    someCollege: 0.938957924569435,
+    bachelors: 1.4317481080071,
+    graduateSchool: 1.90357843595254
   },
   'Chaves County': {
     state: 'New Mexico',
     countyToStateAdjustment: 0.962422294027917,
-    someHS: 0.729556875285518,
-    finishedHS: 0.839913854989232,
-    someCollege: 0.927755661424003,
-    bachelors: 1.40860144880245,
-    graduateSchool: 1.52783397507016
+    someHS: 0.762083304928761,
+    finishedHS: 0.877360419933192,
+    someCollege: 0.969118549321699,
+    bachelors: 1.47140227691049,
+    graduateSchool: 1.59595064421569
   },
   'Doña Ana County': {
     state: 'New Mexico',
     countyToStateAdjustment: 0.891826725933702,
-    someHS: 0.477517457416955,
-    finishedHS: 0.722476016445866,
-    someCollege: 0.92374208705867,
-    bachelors: 1.16465444103635,
-    graduateSchool: 1.85511975461724
+    someHS: 0.538291767821673,
+    finishedHS: 0.814426543073641,
+    someCollege: 1.04130802618995,
+    bachelors: 1.31288163025086,
+    graduateSchool: 2.09122342382108
   },
   'Lea County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.19481030721538,
-    someHS: 0.786660575605299,
-    finishedHS: 0.860242772303074,
-    someCollege: 1.38422632643738,
-    bachelors: 1.68263394896561,
-    graduateSchool: 1.84967043007244
+    someHS: 0.661907638240624,
+    finishedHS: 0.723820767667893,
+    someCollege: 1.1647081434298,
+    bachelors: 1.41579265279227,
+    graduateSchool: 1.55633957498215
   },
   'McKinley County': {
     state: 'New Mexico',
     countyToStateAdjustment: 0.692735414240491,
-    someHS: 0.50995235919859,
-    finishedHS: 0.647914899171181,
-    someCollege: 0.682568687593813,
-    bachelors: 1.01005025125628,
-    graduateSchool: 1.61293480388958
+    someHS: 0.740067244400246,
+    finishedHS: 0.940285078372875,
+    someCollege: 0.990576312923237,
+    bachelors: 1.4658332149453,
+    graduateSchool: 2.34076810152957
   },
   'Otero County': {
     state: 'New Mexico',
     countyToStateAdjustment: 0.82726721013007,
-    someHS: 0.424590484891992,
-    finishedHS: 0.66181557136331,
-    someCollege: 1.00371989819226,
-    bachelors: 1.4628336487633,
-    graduateSchool: 1.74769953664426
+    someHS: 0.515980648742961,
+    finishedHS: 0.804266793560155,
+    someCollege: 1.21976366087715,
+    bachelors: 1.77769846934729,
+    graduateSchool: 2.12387976841938
   },
   'Sandoval County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.19090655600571,
-    someHS: 0.558604711871044,
-    finishedHS: 0.979181622397703,
-    someCollege: 1.02992233896757,
-    bachelors: 1.65489786595314,
-    graduateSchool: 2.1947399334334
+    someHS: 0.471558824339586,
+    finishedHS: 0.826598352753216,
+    someCollege: 0.869432278324105,
+    bachelors: 1.39701953006639,
+    graduateSchool: 1.85273944302124
   },
   'San Juan County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.03806977545229,
-    someHS: 0.726228545324023,
-    finishedHS: 1.00185994909613,
-    someCollege: 1.08875546563989,
-    bachelors: 1.59962148404359,
-    graduateSchool: 1.49331070939111
+    someHS: 0.703324484894451,
+    finishedHS: 0.970262925041082,
+    someCollege: 1.0544178991278,
+    bachelors: 1.54917203893313,
+    graduateSchool: 1.44621413222096
   },
   'Santa Fe County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.14678432594682,
-    someHS: 0.773967238791359,
-    finishedHS: 0.980911048750245,
-    someCollege: 1.03873262415976,
-    bachelors: 1.33338771780983,
-    graduateSchool: 1.8249037394766
+    someHS: 0.678499914182734,
+    finishedHS: 0.859917615424223,
+    someCollege: 0.910607014131243,
+    bachelors: 1.1689169860976,
+    graduateSchool: 1.59980548086275
   },
   'Valencia County': {
     state: 'New Mexico',
     countyToStateAdjustment: 1.00185346170879,
-    someHS: 0.54649872740325,
-    finishedHS: 0.991548652352672,
-    someCollege: 0.999314755596163,
-    bachelors: 1.02313515630099,
-    graduateSchool: 1.58607974939633
+    someHS: 0.548395546823838,
+    finishedHS: 0.994990176817289,
+    someCollege: 1.00278323510151,
+    bachelors: 1.02668631303209,
+    graduateSchool: 1.59158480681074
   },
   'Albany County': {
     state: 'New York',
     countyToStateAdjustment: 1.06544711906075,
-    someHS: 0.740944984663578,
-    finishedHS: 1.03925471513411,
-    someCollege: 1.32206486980356,
-    bachelors: 1.685994909613,
-    graduateSchool: 2.03083599817268
+    someHS: 0.53632670414285,
+    finishedHS: 0.752255656856724,
+    someCollege: 0.956965373895791,
+    bachelors: 1.22039302754027,
+    graduateSchool: 1.47000330672209
   },
   'Bronx County': {
     state: 'New York',
     countyToStateAdjustment: 0.765678445947908,
-    someHS: 0.615479997389545,
-    finishedHS: 0.859720681328721,
-    someCollege: 1.05759316060824,
-    bachelors: 1.32748156366247,
-    graduateSchool: 1.944234157802
+    someHS: 0.619930322750279,
+    finishedHS: 0.865937027542234,
+    someCollege: 1.06524025504503,
+    bachelors: 1.33708012883718,
+    graduateSchool: 1.9582922500493
   },
   'Broome County': {
     state: 'New York',
     countyToStateAdjustment: 0.832089588354288,
-    someHS: 0.843796906610977,
-    finishedHS: 0.799549696534621,
-    someCollege: 1.03119493571755,
-    bachelors: 1.37172877373882,
-    graduateSchool: 1.8708803759055
+    someHS: 0.782065628307878,
+    finishedHS: 0.741055496748828,
+    someCollege: 0.955753818236806,
+    bachelors: 1.27137456525026,
+    graduateSchool: 1.73400877060336
   },
   'Cattaraugus County': {
     state: 'New York',
     countyToStateAdjustment: 0.774259802355856,
-    someHS: 0.61410950858187,
-    finishedHS: 0.909449846635776,
-    someCollege: 0.992005481955231,
-    bachelors: 1.32532793839327,
-    graduateSchool: 1.70279971284996
+    someHS: 0.611694347840218,
+    finishedHS: 0.905873175805246,
+    someCollege: 0.988104137549972,
+    bachelors: 1.32011570838886,
+    graduateSchool: 1.69610296746514
   },
   'Cayuga County': {
     state: 'New York',
     countyToStateAdjustment: 0.916997202783666,
-    someHS: 0.60164458656921,
-    finishedHS: 1.0426156757815,
-    someCollege: 1.17274685113881,
-    bachelors: 1.52029628662795,
-    graduateSchool: 2.00522090974352
+    someHS: 0.505996322621367,
+    finishedHS: 0.876862702050001,
+    someCollege: 0.9863058810615,
+    bachelors: 1.27860259611954,
+    graduateSchool: 1.68643486374489
   },
   'Chautauqua County': {
     state: 'New York',
     countyToStateAdjustment: 0.75055411984475,
-    someHS: 0.669190106376036,
-    finishedHS: 0.87877700189258,
-    someCollege: 0.906284670103766,
-    bachelors: 1.05791946746721,
-    graduateSchool: 2.02678979312145
+    someHS: 0.687611064543168,
+    finishedHS: 0.902967309304275,
+    someCollege: 0.931232187761945,
+    bachelors: 1.0870410729254,
+    graduateSchool: 2.08258172673931
   },
   'Chemung County': {
     state: 'New York',
     countyToStateAdjustment: 0.929982481101852,
-    someHS: 0.736148273836716,
-    finishedHS: 1.00339359133329,
-    someCollege: 1.16279449194022,
-    bachelors: 1.37734125171311,
-    graduateSchool: 1.96759772890426
+    someHS: 0.610472195913949,
+    finishedHS: 0.832093086185902,
+    someCollege: 0.964280882153971,
+    bachelors: 1.14219997294006,
+    graduateSchool: 1.63168718711947
   },
   'Clinton County': {
     state: 'New York',
     countyToStateAdjustment: 0.796128420298692,
-    someHS: 0.539124192390524,
-    finishedHS: 0.984630946942505,
-    someCollege: 0.891209293219344,
-    bachelors: 1.62184298113946,
-    graduateSchool: 1.96844612673758
+    someHS: 0.522253129346314,
+    finishedHS: 0.953818434694652,
+    someCollege: 0.863320268049058,
+    bachelors: 1.57108989758503,
+    graduateSchool: 1.90684663042104
   },
   'Dutchess County': {
     state: 'New York',
     countyToStateAdjustment: 1.06577426754552,
-    someHS: 0.832245643803433,
-    finishedHS: 1.02225412778177,
-    someCollege: 1.28767212686811,
-    bachelors: 1.84210011094433,
-    graduateSchool: 2.54777132415323
+    someHS: 0.602228991050979,
+    finishedHS: 0.739722792850228,
+    someCollege: 0.93178437345045,
+    bachelors: 1.33297915043328,
+    graduateSchool: 1.84361644353144
   },
   'Erie County': {
     state: 'New York',
     countyToStateAdjustment: 1.00940406709448,
-    someHS: 0.74551328068916,
-    finishedHS: 0.988742413365529,
-    someCollege: 1.16928799843373,
-    bachelors: 1.66077138941461,
-    graduateSchool: 1.91440971089212
+    someHS: 0.569594375607689,
+    finishedHS: 0.75542868539802,
+    someCollege: 0.893370895764254,
+    bachelors: 1.26887886116028,
+    graduateSchool: 1.46266610156815
   },
   'Jefferson County': {
     state: 'New York',
     countyToStateAdjustment: 0.887931318176099,
-    someHS: 0.601481433139725,
-    finishedHS: 0.866638386738889,
-    someCollege: 1.03886314690335,
-    bachelors: 1.48779612347452,
-    graduateSchool: 1.96658617764145
+    someHS: 0.522418093186714,
+    finishedHS: 0.752720779956921,
+    someCollege: 0.902306994671806,
+    bachelors: 1.29222877224804,
+    graduateSchool: 1.70808298378869
   },
   'Kings County': {
     state: 'New York',
     countyToStateAdjustment: 0.939696274572432,
-    someHS: 0.610356979703713,
-    finishedHS: 0.880702212360504,
-    someCollege: 1.10451608692815,
-    bachelors: 1.7111205377537,
-    graduateSchool: 2.17581413561313
+    someHS: 0.500923917409818,
+    finishedHS: 0.722797996839935,
+    someCollege: 0.90648348999759,
+    bachelors: 1.40432768270802,
+    graduateSchool: 1.78570472135187
   },
   'Livingston County': {
     state: 'New York',
     countyToStateAdjustment: 1.01189542863227,
-    someHS: 0.925308359981727,
-    finishedHS: 1.20802062259349,
-    someCollege: 1.24557854206095,
-    bachelors: 1.63838673888925,
-    graduateSchool: 1.84510213404686
+    someHS: 0.705222581447401,
+    finishedHS: 0.920691370305894,
+    someCollege: 0.949316090524745,
+    bachelors: 1.24869435463815,
+    graduateSchool: 1.40624222830142
   },
   'Madison County': {
     state: 'New York',
     countyToStateAdjustment: 1.02498136802269,
-    someHS: 0.684298113946355,
-    finishedHS: 1.11978724792795,
-    someCollege: 1.33048358676499,
-    bachelors: 1.65995562226718,
-    graduateSchool: 1.93558702603929
+    someHS: 0.514878467959735,
+    finishedHS: 0.842548490056469,
+    someCollege: 1.00108028480236,
+    bachelors: 1.24898109501596,
+    graduateSchool: 1.45637122514117
   },
   'Monroe County': {
     state: 'New York',
     countyToStateAdjustment: 0.941759826553229,
-    someHS: 0.698296678196176,
-    finishedHS: 0.906513084905045,
-    someCollege: 1.07883573712719,
-    bachelors: 1.63916987535078,
-    graduateSchool: 1.98368465705149
+    someHS: 0.571840846538225,
+    finishedHS: 0.742350960639179,
+    someCollege: 0.883467386366673,
+    bachelors: 1.34232958341127,
+    graduateSchool: 1.62445554872672
   },
   'Nassau County': {
     state: 'New York',
     countyToStateAdjustment: 1.3008178712119,
-    someHS: 0.709880571689617,
-    finishedHS: 1.20655224172812,
-    someCollege: 1.50417672779482,
-    bachelors: 2.14344449520329,
-    graduateSchool: 2.74952685505449
+    someHS: 0.420866301677275,
+    finishedHS: 0.715327619895146,
+    someCollege: 0.891780000386915,
+    bachelors: 1.27078214776267,
+    graduateSchool: 1.6301096902749
   },
   'New York County': {
     state: 'New York',
     countyToStateAdjustment: 1.52237289119893,
-    someHS: 0.587874437120668,
-    finishedHS: 0.843666383867389,
-    someCollege: 1.12631338510736,
-    bachelors: 2.34010963910461,
-    graduateSchool: 2.9715786725837
+    someHS: 0.297809736341846,
+    finishedHS: 0.427390693445739,
+    someCollege: 0.570576080667824,
+    bachelors: 1.18546987354327,
+    graduateSchool: 1.50536407967601
   },
   'Niagara County': {
     state: 'New York',
     countyToStateAdjustment: 0.913725717936061,
-    someHS: 0.485348822032239,
-    finishedHS: 1.04509560790968,
-    someCollege: 1.17848985185669,
-    bachelors: 1.47826796319259,
-    graduateSchool: 1.71304574822163
+    someHS: 0.409650499876064,
+    finishedHS: 0.882095348260762,
+    someCollege: 0.994684513481506,
+    bachelors: 1.24770718003801,
+    graduateSchool: 1.44586741579223
   },
   'Oneida County': {
     state: 'New York',
     countyToStateAdjustment: 0.882243967594878,
-    someHS: 0.563205638582523,
-    finishedHS: 0.924982053122757,
-    someCollege: 1.10265613783202,
-    bachelors: 1.45014031194936,
-    graduateSchool: 2.08660184037068
+    someHS: 0.492327000969821,
+    finishedHS: 0.808574362485025,
+    someCollege: 0.963888413486223,
+    bachelors: 1.26764219293742,
+    graduateSchool: 1.82400593302527
   },
   'Onondaga County': {
     state: 'New York',
     countyToStateAdjustment: 1.02571116079638,
-    someHS: 0.710892122952424,
-    finishedHS: 1.01820792273054,
-    someCollege: 1.19137897278601,
-    bachelors: 1.6826992103374,
-    graduateSchool: 2.11440318475494
+    someHS: 0.534507716087245,
+    finishedHS: 0.765573247626291,
+    someCollege: 0.895777619666822,
+    bachelors: 1.26519296351726,
+    graduateSchool: 1.58978385141932
   },
   'Ontario County': {
     state: 'New York',
     countyToStateAdjustment: 1.00120018970741,
-    someHS: 0.805096913137114,
-    finishedHS: 0.933629184885466,
-    someCollege: 1.07524636167852,
-    bachelors: 1.76930105070809,
-    graduateSchool: 2.29152254780395
+    someHS: 0.620158351137363,
+    finishedHS: 0.719165514641196,
+    someCollege: 0.828251853713711,
+    bachelors: 1.36287545557371,
+    graduateSchool: 1.7651376146789
   },
   'Orange County': {
     state: 'New York',
     countyToStateAdjustment: 1.12098686566586,
-    someHS: 0.786040592573256,
-    finishedHS: 1.16259870782484,
-    someCollege: 1.3347582066175,
-    bachelors: 2.01249755269856,
-    graduateSchool: 2.44495203289173
+    someHS: 0.540778987540689,
+    finishedHS: 0.799842855539342,
+    someCollege: 0.918284880457964,
+    bachelors: 1.38455494443821,
+    graduateSchool: 1.68207430688068
   },
   'Oswego County': {
     state: 'New York',
     countyToStateAdjustment: 0.856827046855793,
-    someHS: 0.567121320890165,
-    finishedHS: 1.00349148339098,
-    someCollege: 1.16096717352999,
-    bachelors: 1.28405012073354,
-    graduateSchool: 2.00603667689095
+    someHS: 0.510455827067669,
+    finishedHS: 0.903224859022556,
+    someCollege: 1.04496593045113,
+    bachelors: 1.15575070488722,
+    graduateSchool: 1.80559797932331
   },
   'Putnam County': {
     state: 'New York',
     countyToStateAdjustment: 1.26150972250452,
-    someHS: 0.881028519219474,
-    finishedHS: 1.26326437381714,
-    someCollege: 1.53491483390981,
-    bachelors: 1.83792338314951,
-    graduateSchool: 2.82741630229067
+    someHS: 0.538610385206168,
+    finishedHS: 0.772287498254503,
+    someCollege: 0.938359033693072,
+    bachelors: 1.12360110913842,
+    graduateSchool: 1.72852041732331
   },
   'Queens County': {
     state: 'New York',
     countyToStateAdjustment: 0.926962648934832,
-    someHS: 0.703093389023037,
-    finishedHS: 0.952750766821119,
-    someCollege: 1.20727011681786,
-    bachelors: 1.64576127390198,
-    graduateSchool: 2.17424786269007
+    someHS: 0.584959956563051,
+    finishedHS: 0.792670014931451,
+    someCollege: 1.00442513913398,
+    bachelors: 1.36924121080494,
+    graduateSchool: 1.80893172254649
   },
   'Rensselaer County': {
     state: 'New York',
     countyToStateAdjustment: 1.06265377430626,
-    someHS: 0.930725053840632,
-    finishedHS: 1.06049729165307,
-    someCollege: 1.3348234679893,
-    bachelors: 1.67209423742087,
-    graduateSchool: 2.210076355805
+    someHS: 0.675468302271059,
+    finishedHS: 0.76964975015985,
+    someCollege: 0.968740379378123,
+    bachelors: 1.21351268145973,
+    graduateSchool: 1.60395007933313
   },
   'Richmond County': {
     state: 'New York',
     countyToStateAdjustment: 1.22942400572994,
-    someHS: 0.874339228610585,
-    finishedHS: 1.18723487567709,
-    someCollege: 1.41581283038569,
-    bachelors: 2.02231938915356,
-    graduateSchool: 2.31873653984207
+    someHS: 0.548470954271912,
+    finishedHS: 0.744749662258976,
+    someCollege: 0.888136078929054,
+    bachelors: 1.26859622548819,
+    graduateSchool: 1.4545380112171
   },
   'Rockland County': {
     state: 'New York',
     countyToStateAdjustment: 1.20388125865056,
-    someHS: 0.656627292305684,
-    finishedHS: 1.16501337858122,
-    someCollege: 1.41852117731515,
-    bachelors: 2.02568034980095,
-    graduateSchool: 2.64341186451739
+    someHS: 0.420640063546479,
+    finishedHS: 0.746315767470056,
+    someCollege: 0.908714647045298,
+    bachelors: 1.29766508497251,
+    graduateSchool: 1.69338823972073
   },
   'St. Lawrence County': {
     state: 'New York',
     countyToStateAdjustment: 0.800482011672813,
-    someHS: 0.901324805847419,
-    finishedHS: 0.847321020687855,
-    someCollege: 1.02714873066632,
-    bachelors: 1.51298701298701,
-    graduateSchool: 1.67522678326698
+    someHS: 0.868370586940803,
+    finishedHS: 0.816341287057122,
+    someCollege: 0.989594140023264,
+    bachelors: 1.45766921311578,
+    graduateSchool: 1.61397717627087
   },
   'Saratoga County': {
     state: 'New York',
     countyToStateAdjustment: 1.20921629547896,
-    someHS: 0.711414213926777,
-    finishedHS: 1.06307511583893,
-    someCollege: 1.31524505645109,
-    bachelors: 2.02434249167918,
-    graduateSchool: 2.32036807413692
+    someHS: 0.453726249193565,
+    finishedHS: 0.678008782335435,
+    someCollege: 0.838837901396433,
+    bachelors: 1.29108655386985,
+    graduateSchool: 1.47988595450667
   },
   'Schenectady County': {
     state: 'New York',
     countyToStateAdjustment: 0.990353959174192,
-    someHS: 0.528421327416302,
-    finishedHS: 1.0240161848202,
-    someCollege: 1.19398942765777,
-    bachelors: 1.61688311688312,
-    graduateSchool: 2.253801474907
+    someHS: 0.411495654825431,
+    finishedHS: 0.797428469787061,
+    someCollege: 0.929791126696143,
+    bachelors: 1.25910962036896,
+    graduateSchool: 1.75509478070844
   },
   'Steuben County': {
     state: 'New York',
     countyToStateAdjustment: 0.84195437343322,
-    someHS: 0.655452587613392,
-    finishedHS: 0.986686680154017,
-    someCollege: 0.925765189584285,
-    bachelors: 1.57195066240292,
-    graduateSchool: 1.89796384520003
+    someHS: 0.600382580625878,
+    finishedHS: 0.903786950413964,
+    someCollege: 0.847983979436291,
+    bachelors: 1.4398780524255,
+    graduateSchool: 1.73850016439011
   },
   'Suffolk County': {
     state: 'New York',
     countyToStateAdjustment: 1.20317663114492,
-    someHS: 0.872185603341382,
-    finishedHS: 1.19836193956797,
-    someCollege: 1.48234679892971,
-    bachelors: 1.98508777654506,
-    graduateSchool: 2.78496377993865
+    someHS: 0.559055447491163,
+    finishedHS: 0.768128673317856,
+    someCollege: 0.95015791345088,
+    bachelors: 1.27240593168936,
+    graduateSchool: 1.78511221267072
   },
   'Sullivan County': {
     state: 'New York',
     countyToStateAdjustment: 0.907686053602021,
-    someHS: 0.820270182079227,
-    finishedHS: 0.981433139724597,
-    someCollege: 1.28822684852836,
-    bachelors: 1.36001435750179,
-    graduateSchool: 1.90628467010377
+    someHS: 0.69694197233081,
+    finishedHS: 0.833873963791622,
+    someCollege: 1.09454101860323,
+    bachelors: 1.15553522415371,
+    graduateSchool: 1.61967340375392
   },
   'Tompkins County': {
     state: 'New York',
     countyToStateAdjustment: 1.03454416988492,
-    someHS: 0.710337401292175,
-    finishedHS: 0.834856098675194,
-    someCollege: 1.09547738693467,
-    bachelors: 1.30473797559225,
-    graduateSchool: 1.84722312863016
+    someHS: 0.529530527852104,
+    finishedHS: 0.622354658234006,
+    someCollege: 0.816638287521284,
+    bachelors: 0.972634395524203,
+    graduateSchool: 1.37703721722209
   },
   'Ulster County': {
     state: 'New York',
     countyToStateAdjustment: 0.919488564321457,
-    someHS: 0.871402466879854,
-    finishedHS: 1.0394178685636,
-    someCollege: 1.05057756314038,
-    bachelors: 1.41516021666775,
-    graduateSchool: 2.0273771454676
+    someHS: 0.730882916415786,
+    finishedHS: 0.871804696480377,
+    someCollege: 0.881164814713449,
+    bachelors: 1.18695604576058,
+    graduateSchool: 1.70044884777492
   },
   'Warren County': {
     state: 'New York',
     countyToStateAdjustment: 0.884760494400728,
-    someHS: 0.739672387913594,
-    finishedHS: 0.832082490373948,
-    someCollege: 1.11185799125498,
-    bachelors: 1.37463290478366,
-    graduateSchool: 1.95803693793644
+    someHS: 0.644746572615052,
+    finishedHS: 0.725297229649013,
+    someCollege: 0.969167756982763,
+    bachelors: 1.19821946640878,
+    graduateSchool: 1.70675237499289
   },
   'Wayne County': {
     state: 'New York',
     countyToStateAdjustment: 0.896361682975696,
-    someHS: 0.71356783919598,
-    finishedHS: 0.932780787052144,
-    someCollege: 1.19056320563858,
-    bachelors: 1.38938197480911,
-    graduateSchool: 1.86856359720681
+    someHS: 0.613941997248659,
+    finishedHS: 0.802549201268986,
+    someCollege: 1.02434094163227,
+    bachelors: 1.19540133075044,
+    graduateSchool: 1.60768129369157
   },
   'Westchester County': {
     state: 'New York',
     countyToStateAdjustment: 1.29107891247326,
-    someHS: 0.720583436663839,
-    finishedHS: 1.03302225412778,
-    someCollege: 1.35407557266854,
-    bachelors: 2.22939372185603,
-    graduateSchool: 3.07159172485806
+    someHS: 0.430434274130672,
+    finishedHS: 0.617066895368782,
+    someCollege: 0.80884531420552,
+    bachelors: 1.33170902853579,
+    graduateSchool: 1.83478871043194
   },
   'Alamance County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.919751562232901,
-    someHS: 0.666710174247863,
-    finishedHS: 0.769921033740129,
-    someCollege: 1.00792925667298,
-    bachelors: 1.53742739672388,
-    graduateSchool: 1.56082359851204
+    someHS: 0.675103254584504,
+    finishedHS: 0.779613414835619,
+    someCollege: 1.02061787543367,
+    bachelors: 1.55678176111019,
+    graduateSchool: 1.58047249297869
   },
   'Brunswick County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.805971623392657,
-    someHS: 0.550447040396789,
-    finishedHS: 0.719115055798473,
-    someCollege: 0.980062650916922,
-    bachelors: 1.0219278209228,
-    graduateSchool: 2.4529465509365
+    someHS: 0.636061988612797,
+    finishedHS: 0.830964141623619,
+    someCollege: 1.13249877455601,
+    bachelors: 1.18087553259681,
+    graduateSchool: 2.83447079672712
   },
   'Buncombe County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.926832418469487,
-    someHS: 0.586634471056582,
-    finishedHS: 0.762481237355609,
-    someCollege: 0.943973112314821,
-    bachelors: 1.31201461854728,
-    graduateSchool: 1.43199765059062
+    someHS: 0.589481277460817,
+    finishedHS: 0.766181388943537,
+    someCollege: 0.948554003541216,
+    bachelors: 1.31838153321529,
+    graduateSchool: 1.43894681618467
   },
   'Burke County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.873498072138122,
-    someHS: 0.630555374273967,
-    finishedHS: 0.869053057495269,
-    someCollege: 0.894863930039809,
-    bachelors: 1.31110095934217,
-    graduateSchool: 1.54734712523657
+    someHS: 0.672302821556553,
+    finishedHS: 0.92659082211321,
+    someCollege: 0.954110566050865,
+    bachelors: 1.39790557701005,
+    graduateSchool: 1.64979299307658
   },
   'Cabarrus County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.11023571197933,
-    someHS: 0.686190693728382,
-    finishedHS: 0.997911636102591,
-    someCollege: 1.06049729165307,
-    bachelors: 1.55720159237747,
-    graduateSchool: 1.99840109639105
+    someHS: 0.575616565844579,
+    finishedHS: 0.837106177976076,
+    someCollege: 0.889606656995046,
+    bachelors: 1.306271042619,
+    graduateSchool: 1.67637478444146
   },
   'Caldwell County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.816213033485916,
-    someHS: 0.818573386412582,
-    finishedHS: 0.817855511322848,
-    someCollege: 0.836030803367487,
-    bachelors: 1.20211446844613,
-    graduateSchool: 1.65264634862625
+    someHS: 0.934023382232482,
+    finishedHS: 0.933204259438529,
+    someCollege: 0.953942959267257,
+    bachelors: 1.37165835132921,
+    graduateSchool: 1.8857323702435
   },
   'Carteret County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.97612490265722,
-    someHS: 0.692292631991124,
-    finishedHS: 0.708118514651178,
-    someCollege: 1.00172942635254,
-    bachelors: 1.32327220518175,
-    graduateSchool: 2.11531684396006
+    someHS: 0.66052303860523,
+    finishedHS: 0.675622665006227,
+    someCollege: 0.955759651307597,
+    bachelors: 1.26254669987547,
+    graduateSchool: 2.01824408468244
   },
   'Catawba County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.959744724496192,
-    someHS: 0.562389871435098,
-    finishedHS: 0.952750766821119,
-    someCollege: 0.972166024929844,
-    bachelors: 1.55596162631339,
-    graduateSchool: 1.8249690008484
+    someHS: 0.545739526930749,
+    finishedHS: 0.924543238022862,
+    someCollege: 0.943383680060796,
+    bachelors: 1.50989519014597,
+    graduateSchool: 1.77093822234888
   },
   'Chatham County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.0070618625235,
-    someHS: 0.696143052926973,
-    finishedHS: 0.858480715264635,
-    someCollege: 1.0404946811982,
-    bachelors: 1.62415975983815,
-    graduateSchool: 1.65267897931215
+    someHS: 0.643792624781218,
+    finishedHS: 0.793922385177138,
+    someCollege: 0.962248777838131,
+    bachelors: 1.50202184802945,
+    graduateSchool: 1.52839640292112
   },
   'Cleveland County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.931694809018215,
-    someHS: 0.705703843894799,
-    finishedHS: 0.891307185277035,
-    someCollege: 1.00796188735887,
-    bachelors: 1.38132219539255,
-    graduateSchool: 1.3151471643934
+    someHS: 0.70542762084937,
+    finishedHS: 0.890958314306217,
+    someCollege: 1.00756735599191,
+    bachelors: 1.38078152521365,
+    graduateSchool: 1.31463239611194
   },
   'Craven County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.948409276529469,
-    someHS: 0.678816158715656,
-    finishedHS: 0.828068916008615,
-    someCollege: 0.996900084839783,
-    bachelors: 1.42840827514194,
-    graduateSchool: 2.18220975004895
+    someHS: 0.666591899512945,
+    finishedHS: 0.813156882850551,
+    someCollege: 0.978947705716483,
+    bachelors: 1.40268520892079,
+    graduateSchool: 2.14291207382722
   },
   'Cumberland County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.946038861136964,
-    someHS: 0.583175618351498,
-    finishedHS: 0.813156692553678,
-    someCollege: 0.911081380930627,
-    bachelors: 1.33521503622006,
-    graduateSchool: 1.85835019252105
+    someHS: 0.574108576935432,
+    finishedHS: 0.80051397365885,
+    someCollege: 0.8969161580469,
+    bachelors: 1.31445550915516,
+    graduateSchool: 1.82945711532284
   },
   'Davidson County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.973511367737279,
-    someHS: 0.742478626900737,
-    finishedHS: 0.973210206878549,
-    someCollege: 1.16892906088886,
-    bachelors: 1.48440253214123,
-    graduateSchool: 1.3971480780526
+    someHS: 0.710307797964663,
+    finishedHS: 0.931042017856028,
+    someCollege: 1.11828057688706,
+    bachelors: 1.42008490978336,
+    graduateSchool: 1.3366111007055
   },
   'Durham County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.09267032612205,
-    someHS: 0.5536122169288,
-    finishedHS: 0.705866997324284,
-    someCollege: 0.923970501859949,
-    bachelors: 1.56333616132611,
-    graduateSchool: 1.96025582457743
+    someHS: 0.471867612293144,
+    finishedHS: 0.601640940063969,
+    someCollege: 0.78753998053122,
+    bachelors: 1.33249895702962,
+    graduateSchool: 1.67081073564177
   },
   'Forsyth County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.00447871754449,
-    someHS: 0.597826796319259,
-    finishedHS: 0.91597598381518,
-    someCollege: 0.99376753899367,
-    bachelors: 1.42318736539842,
-    graduateSchool: 2.01804476930105
+    someHS: 0.554291592291169,
+    finishedHS: 0.849272380721871,
+    someCollege: 0.921398965298157,
+    bachelors: 1.31954739358001,
+    graduateSchool: 1.87108583184582
   },
   'Gaston County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.986579042336986,
-    someHS: 0.703550218625596,
-    finishedHS: 0.925014683808654,
-    someCollege: 1.05393852378777,
-    bachelors: 1.63212164719702,
-    graduateSchool: 1.97425438882725
+    someHS: 0.664151059635288,
+    finishedHS: 0.873213405618531,
+    someCollege: 0.994917447018236,
+    bachelors: 1.54072203055692,
+    graduateSchool: 1.8636951700345
   },
   'Guilford County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.00277688085244,
-    someHS: 0.720420283234354,
-    finishedHS: 0.890165111270639,
-    someCollege: 0.996084317692358,
-    bachelors: 1.36415845461072,
-    graduateSchool: 1.845689486393
+    someHS: 0.669091129496621,
+    finishedHS: 0.826741825014395,
+    someCollege: 0.925114404339788,
+    bachelors: 1.26696366336334,
+    graduateSchool: 1.71418613813377
   },
   'Harnett County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.04827062242398,
-    someHS: 0.702832343535861,
-    finishedHS: 1.01073549566012,
-    someCollege: 1.12533446453044,
-    bachelors: 1.48867715199373,
-    graduateSchool: 1.81720289760491
+    someHS: 0.62442743665565,
+    finishedHS: 0.897982257783962,
+    someCollege: 0.999797066156433,
+    bachelors: 1.32260683017336,
+    graduateSchool: 1.61448367832087
   },
   'Henderson County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.01459856787403,
-    someHS: 0.641584546107159,
-    finishedHS: 0.994909613000065,
-    someCollege: 1.11694837825491,
-    bachelors: 1.19379364354239,
-    graduateSchool: 1.72554330092019
+    someHS: 0.588929491403582,
+    finishedHS: 0.913257053854909,
+    someCollege: 1.02528005750914,
+    bachelors: 1.09581860660157,
+    graduateSchool: 1.58392739471635
   },
   'Iredell County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.1238807954567,
-    someHS: 0.760425504144097,
-    finishedHS: 0.927005155648372,
-    someCollege: 1.17140899301703,
-    bachelors: 1.62272400965868,
-    graduateSchool: 1.66798277099785
+    someHS: 0.630144394570332,
+    finishedHS: 0.768184522199989,
+    someCollege: 0.970715483208047,
+    bachelors: 1.34470823643935,
+    graduateSchool: 1.38221296847115
   },
   'Johnston County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.02611635548633,
-    someHS: 0.779840762252823,
-    finishedHS: 0.922665274424068,
-    someCollege: 1.16690595836324,
-    bachelors: 1.37238138745676,
-    graduateSchool: 1.92638517261633
+    someHS: 0.707803938990078,
+    finishedHS: 0.837435213978972,
+    someCollege: 1.05911446764401,
+    bachelors: 1.24560935880349,
+    graduateSchool: 1.74843773137865
   },
   'Lincoln County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.01256244183175,
-    someHS: 0.79266462181035,
-    finishedHS: 0.922991581283039,
-    someCollege: 1.04512823859558,
-    bachelors: 1.96550936500685,
-    graduateSchool: 2.13799517065849
+    someHS: 0.72907350160569,
+    finishedHS: 0.848945046369939,
+    someCollege: 0.961283351841292,
+    bachelors: 1.80782736576728,
+    graduateSchool: 1.96647558450134
   },
   'Mecklenburg County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.18721343235389,
-    someHS: 0.665307054754291,
-    finishedHS: 0.860764863277426,
-    someCollege: 1.02992233896757,
-    bachelors: 1.70498596880506,
-    graduateSchool: 2.18237290347843
+    someHS: 0.52191163671735,
+    finishedHS: 0.67524189832591,
+    someCollege: 0.807940408539395,
+    bachelors: 1.33750575948395,
+    graduateSchool: 1.71200020478165
   },
   'Moore County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.09926494330377,
-    someHS: 0.670527964497814,
-    finishedHS: 0.894407100437251,
-    someCollege: 1.02675716243555,
-    bachelors: 1.4803236964041,
-    graduateSchool: 2.93715329896234
+    someHS: 0.568091341369015,
+    finishedHS: 0.757768439677098,
+    someCollege: 0.869899369678204,
+    bachelors: 1.25417449961296,
+    graduateSchool: 2.48844410040916
   },
   'Nash County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.902307736139338,
-    someHS: 0.51181230829472,
-    finishedHS: 0.91444234157802,
-    someCollege: 0.894733407296221,
-    bachelors: 1.73066631860602,
-    graduateSchool: 1.55220909743523
+    someHS: 0.528274561314877,
+    finishedHS: 0.943855040247887,
+    someCollege: 0.923512175406689,
+    bachelors: 1.78633255868782,
+    graduateSchool: 1.60213532720353
   },
   'New Hanover County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.05443978043268,
-    someHS: 0.65339685440188,
-    finishedHS: 0.831331984598316,
-    someCollege: 0.978398485936174,
-    bachelors: 1.46201788161587,
-    graduateSchool: 2.30431377667559
+    someHS: 0.577110413004006,
+    finishedHS: 0.73427097443583,
+    someCollege: 0.864166930858576,
+    bachelors: 1.29132201631265,
+    graduateSchool: 2.03527682508574
   },
   'Onslow County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.935675891279986,
-    someHS: 0.44485414083404,
-    finishedHS: 0.857534425373621,
-    someCollege: 1.00714612021145,
-    bachelors: 1.38040853618743,
-    graduateSchool: 1.99089603863473
+    someHS: 0.442788008704407,
+    finishedHS: 0.853551593101432,
+    someCollege: 1.00246841404398,
+    bachelors: 1.37399720679463,
+    graduateSchool: 1.98164929033096
   },
   'Orange County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.27710687762351,
-    someHS: 0.767800039156823,
-    finishedHS: 0.923578933629185,
-    someCollege: 1.15617046270313,
-    bachelors: 1.3741434444952,
-    graduateSchool: 2.33051621745089
+    someHS: 0.559918142014087,
+    finishedHS: 0.673519893394251,
+    someCollege: 0.843137254901961,
+    bachelors: 1.0020940415001,
+    graduateSchool: 1.69952884066248
   },
   'Pitt County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.0280309217649,
-    someHS: 0.668668015401684,
-    finishedHS: 0.927494615936827,
-    someCollege: 0.947073027475038,
-    bachelors: 1.33514977484827,
-    graduateSchool: 1.79710239509234
+    someHS: 0.605770367742698,
+    finishedHS: 0.840250679910134,
+    someCollege: 0.857987466004493,
+    bachelors: 1.20956012770486,
+    graduateSchool: 1.62805959560128
   },
   'Randolph County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.96257098900264,
-    someHS: 0.711218429811395,
-    finishedHS: 1.00815767147425,
-    someCollege: 1.06026887685179,
-    bachelors: 1.24812373556092,
-    graduateSchool: 1.41509495529596
+    someHS: 0.688135379175349,
+    finishedHS: 0.975437267159184,
+    someCollege: 1.02585716991855,
+    bachelors: 1.20761507861337,
+    graduateSchool: 1.36916714024121
   },
   'Robeson County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.878603582214287,
-    someHS: 0.64507602949814,
-    finishedHS: 0.900835345558964,
-    someCollege: 0.871141421392678,
-    bachelors: 1.17711936304901,
-    graduateSchool: 1.44345102134047
+    someHS: 0.68378817751029,
+    finishedHS: 0.95489606032306,
+    someCollege: 0.923420151499429,
+    bachelors: 1.24776036802601,
+    graduateSchool: 1.53007505793643
   },
   'Rockingham County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.951387490740565,
-    someHS: 0.620505123017686,
-    finishedHS: 0.970175553090126,
-    someCollege: 0.948541408340403,
-    bachelors: 1.45679697187235,
-    graduateSchool: 1.63600469881877
+    someHS: 0.607423497093209,
+    finishedHS: 0.949722098000383,
+    someCollege: 0.928544049064077,
+    bachelors: 1.42608445665368,
+    graduateSchool: 1.60151408675653
   },
   'Rowan County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.947193678892287,
-    someHS: 0.714677282516479,
-    finishedHS: 0.992070743327025,
-    someCollege: 0.980519480519481,
-    bachelors: 1.27475037525289,
-    graduateSchool: 2.13137114142139
+    someHS: 0.702707905544148,
+    finishedHS: 0.975455595482546,
+    someCollege: 0.964097792607803,
+    bachelors: 1.25340092402464,
+    graduateSchool: 2.0956750513347
   },
   'Rutherford County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.931634029136356,
-    someHS: 0.721594987926646,
-    finishedHS: 0.958950597141552,
-    someCollege: 0.888664099719376,
-    bachelors: 1.352346146316,
-    graduateSchool: 1.49543170397442
+    someHS: 0.721359603340292,
+    finishedHS: 0.958637787056367,
+    someCollege: 0.888374217118998,
+    bachelors: 1.35190501043841,
+    graduateSchool: 1.49494389352818
   },
   'Surry County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.968314687838326,
-    someHS: 0.890817724988579,
-    finishedHS: 1.01132284800627,
-    someCollege: 0.881126411277165,
-    bachelors: 1.46913137114142,
-    graduateSchool: 1.48779612347452
+    someHS: 0.856793145654835,
+    finishedHS: 0.97269560305056,
+    someCollege: 0.847471989454854,
+    bachelors: 1.41301823431566,
+    graduateSchool: 1.43097009070081
   },
   'Union County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.27300423559802,
-    someHS: 0.769627357567056,
-    finishedHS: 0.992168635384716,
-    someCollege: 1.35923122104027,
-    bachelors: 1.81433139724597,
-    graduateSchool: 2.36931410298244
+    someHS: 0.563059514430996,
+    finishedHS: 0.725870753658478,
+    someCollege: 0.994413807920934,
+    bachelors: 1.32736517940271,
+    graduateSchool: 1.73339062761107
   },
   'Wake County': {
     state: 'North Carolina',
     countyToStateAdjustment: 1.28206043799502,
-    someHS: 0.660445082555635,
-    finishedHS: 0.875970762905436,
-    someCollege: 1.18566860275403,
-    bachelors: 1.70299549696535,
-    graduateSchool: 2.17950140311949
+    someHS: 0.479768649109915,
+    finishedHS: 0.636333467655913,
+    someCollege: 0.861307985872425,
+    bachelors: 1.2371109583521,
+    graduateSchool: 1.58326024604736
   },
   'Wayne County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.932880016714468,
-    someHS: 0.557168961691575,
-    finishedHS: 0.974678587743914,
-    someCollege: 0.96586830255172,
-    bachelors: 1.25993604385564,
-    graduateSchool: 1.49908634079488
+    someHS: 0.556243281102388,
+    finishedHS: 0.97305925660488,
+    someCollege: 0.964263608821709,
+    bachelors: 1.25784278593999,
+    graduateSchool: 1.49659575854318
   },
   'Wilkes County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.916317498907862,
-    someHS: 0.708771128369118,
-    finishedHS: 0.875677086732363,
-    someCollege: 1.05292697252496,
-    bachelors: 1.35975331201462,
-    graduateSchool: 1.54480193173661
+    someHS: 0.720383390819846,
+    finishedHS: 0.890023879013001,
+    someCollege: 1.07017776598567,
+    bachelors: 1.3820310427169,
+    graduateSchool: 1.570111435394
   },
   'Wilson County': {
     state: 'North Carolina',
     countyToStateAdjustment: 0.964971794336075,
-    someHS: 0.608855968152451,
-    finishedHS: 0.935717548782875,
-    someCollege: 0.985414083404033,
-    bachelors: 1.61531684396006,
-    graduateSchool: 1.61091170136396
+    someHS: 0.587629515321387,
+    finishedHS: 0.90309577047838,
+    someCollege: 0.951059742386546,
+    bachelors: 1.55900229899537,
+    graduateSchool: 1.55475073221428
   },
   'Burleigh County': {
     state: 'North Dakota',
     countyToStateAdjustment: 1.06891375124329,
-    someHS: 1.02616981008941,
-    finishedHS: 1.07867258369771,
-    someCollege: 1.34330744632252,
-    bachelors: 1.52688768517914,
-    graduateSchool: 2.45157606212883
+    someHS: 0.727020528943962,
+    finishedHS: 0.764217680784169,
+    someCollege: 0.9517061216941,
+    bachelors: 1.08176900314407,
+    graduateSchool: 1.7368919918624
   },
   'Cass County': {
     state: 'North Dakota',
     countyToStateAdjustment: 0.97923629601715,
-    someHS: 0.7166351236703,
-    finishedHS: 0.989362396397572,
-    someCollege: 1.19376101285649,
-    bachelors: 1.48113946355152,
-    graduateSchool: 2.37117405207857
+    someHS: 0.554218083629848,
+    finishedHS: 0.765134882781942,
+    someCollege: 0.923208923208923,
+    bachelors: 1.1454563807505,
+    graduateSchool: 1.83377495142201
   },
   'Grand Forks County': {
     state: 'North Dakota',
     countyToStateAdjustment: 0.909476181356529,
-    someHS: 0.872609802258043,
-    finishedHS: 1.1608366507864,
-    someCollege: 0.993408601448802,
-    bachelors: 1.39835541343079,
-    graduateSchool: 1.86464791489917
+    someHS: 0.726605803716987,
+    finishedHS: 0.966606890555374,
+    someCollege: 0.827192696446038,
+    bachelors: 1.16438430605369,
+    graduateSchool: 1.55265731985654
   },
   'Ward County': {
     state: 'North Dakota',
     countyToStateAdjustment: 1.04237377138303,
-    someHS: 1.16909221431834,
-    finishedHS: 1.229720028715,
-    someCollege: 1.34125171311101,
-    bachelors: 1.5481302616981,
-    graduateSchool: 1.73272205181753
+    someHS: 0.849367028590394,
+    finishedHS: 0.893414252524774,
+    someCollege: 0.974444075672088,
+    bachelors: 1.12474515196055,
+    graduateSchool: 1.25885448769617
   },
   'Allen County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.89023991100938,
-    someHS: 0.603308751549958,
-    finishedHS: 0.993669646935979,
-    someCollege: 1.02453827579456,
-    bachelors: 1.29504666188083,
-    graduateSchool: 1.92060954121256
+    someHS: 0.577564663251281,
+    finishedHS: 0.951268274397101,
+    someCollege: 0.980819692615269,
+    bachelors: 1.23978508059478,
+    graduateSchool: 1.8386542546545
   },
   'Ashtabula County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.843269549591948,
-    someHS: 0.679142465574626,
-    finishedHS: 0.913137114142139,
-    someCollege: 1.00505775631404,
-    bachelors: 1.39326502643086,
-    graduateSchool: 1.66155452587613
+    someHS: 0.68637667776935,
+    finishedHS: 0.922863832734228,
+    someCollege: 1.01576361177984,
+    bachelors: 1.40810605810771,
+    graduateSchool: 1.67925337202783
   },
   'Athens County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.88712523932273,
-    someHS: 0.673497356914442,
-    finishedHS: 0.961756836128695,
-    someCollege: 0.858578607322326,
-    bachelors: 1.63828884683156,
-    graduateSchool: 1.48420674802584
+    someHS: 0.647021943573668,
+    finishedHS: 0.923949843260188,
+    someCollege: 0.824827586206897,
+    bachelors: 1.57388714733542,
+    graduateSchool: 1.42586206896552
   },
   'Belmont County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.88921095697004,
-    someHS: 0.3676173073158,
-    finishedHS: 0.855152385303139,
-    someCollege: 1.05433009201853,
-    bachelors: 1.36921621092475,
-    graduateSchool: 1.64393395549174
+    someHS: 0.35233776387803,
+    finishedHS: 0.819609069585614,
+    someCollege: 1.0105082095387,
+    bachelors: 1.31230648944488,
+    graduateSchool: 1.5756059421423
   },
   'Butler County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.08143069534618,
-    someHS: 0.696012530183384,
-    finishedHS: 0.98042158846179,
-    someCollege: 1.23076421066371,
-    bachelors: 1.69359785942701,
-    graduateSchool: 2.29768974743849
+    someHS: 0.54851235631445,
+    finishedHS: 0.772648957235066,
+    someCollege: 0.969938539871937,
+    bachelors: 1.33468768483041,
+    graduateSchool: 1.8107593797413
   },
   'Clark County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.889016289989625,
-    someHS: 0.652613717940351,
-    finishedHS: 0.98600143575018,
-    someCollege: 1.0185668602754,
-    bachelors: 1.42746198525093,
-    graduateSchool: 2.06796971872349
+    someHS: 0.625625625625626,
+    finishedHS: 0.945226476476477,
+    someCollege: 0.976445195195195,
+    bachelors: 1.36843093093093,
+    graduateSchool: 1.9824512012012
   },
   'Clermont County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.12787267495962,
-    someHS: 1.01164915486524,
-    finishedHS: 1.02541930431378,
-    someCollege: 1.22280232330484,
-    bachelors: 1.82040070482282,
-    graduateSchool: 2.16556810024147
+    someHS: 0.764430307961634,
+    finishedHS: 0.774835416820771,
+    someCollege: 0.923983529353749,
+    bachelors: 1.37554552851542,
+    graduateSchool: 1.63636363636364
   },
   'Columbiana County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.845549934219674,
-    someHS: 0.72877373882399,
-    finishedHS: 0.850420935848072,
-    someCollege: 1.00345885270508,
-    bachelors: 1.40641519284735,
-    graduateSchool: 1.59205116491549
+    someHS: 0.734550238447624,
+    finishedHS: 0.857161651044236,
+    someCollege: 1.0114125966124,
+    bachelors: 1.41756290083868,
+    graduateSchool: 1.60467028449268
   },
   'Cuyahoga County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.995610366551506,
-    someHS: 0.574528486588788,
-    finishedHS: 0.898844873719246,
-    someCollege: 1.02231938915356,
-    bachelors: 1.52897604907655,
-    graduateSchool: 2.14778437642759
+    someHS: 0.491801904974721,
+    finishedHS: 0.769419848607581,
+    someCollege: 0.875115220245245,
+    bachelors: 1.30881818943605,
+    graduateSchool: 1.83852406357364
   },
   'Delaware County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.55616784144267,
-    someHS: 0.855837629706976,
-    finishedHS: 1.0470860797494,
-    someCollege: 1.47461332637212,
-    bachelors: 2.24094498466358,
-    graduateSchool: 2.65052535404294
+    someHS: 0.468708674362915,
+    finishedHS: 0.573447943100182,
+    someCollege: 0.807587833732442,
+    bachelors: 1.22727760105794,
+    graduateSchool: 1.45158869151864
   },
   'Erie County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.904784315403292,
-    someHS: 0.518305814788227,
-    finishedHS: 0.896234418847484,
-    someCollege: 1.21063107746525,
-    bachelors: 1.67532467532468,
-    graduateSchool: 2.14530444429942
+    someHS: 0.488212694021823,
+    finishedHS: 0.844198555401875,
+    someCollege: 1.14034117104657,
+    bachelors: 1.57805440295067,
+    graduateSchool: 2.0207468879668
   },
   'Fairfield County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.12147647417454,
-    someHS: 0.887619917770672,
-    finishedHS: 1.01102917183319,
-    someCollege: 1.16357762840175,
-    bachelors: 1.68801801213862,
-    graduateSchool: 2.19770932585003
+    someHS: 0.67453567089047,
+    finishedHS: 0.768318992238451,
+    someCollege: 0.884246286606988,
+    bachelors: 1.28278820641258,
+    graduateSchool: 1.67012175465569
   },
   'Franklin County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.0330698554972,
-    someHS: 0.657736735626183,
-    finishedHS: 0.878940155322065,
-    someCollege: 1.04878287541604,
-    bachelors: 1.57720420283234,
-    graduateSchool: 2.01925210467924
+    someHS: 0.542613330461936,
+    finishedHS: 0.725099601593626,
+    someCollege: 0.865214816410036,
+    bachelors: 1.30114676429417,
+    graduateSchool: 1.66582319371164
   },
   'Geauga County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.17740151669109,
-    someHS: 1.0568426548326,
-    finishedHS: 1.18867062585656,
-    someCollege: 1.15310317822881,
-    bachelors: 1.7986686680154,
-    graduateSchool: 2.62076616850486
+    someHS: 0.76498653691719,
+    finishedHS: 0.860409088761869,
+    someCollege: 0.834663895318626,
+    bachelors: 1.30195096603524,
+    graduateSchool: 1.89701922622703
   },
   'Greene County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.13557592547036,
-    someHS: 0.688474841741173,
-    finishedHS: 0.985218299288651,
-    someCollege: 1.03886314690335,
-    bachelors: 1.69597989949749,
-    graduateSchool: 2.39078509430268
+    someHS: 0.516701768134398,
+    finishedHS: 0.73940833619043,
+    someCollege: 0.779668903364843,
+    bachelors: 1.27283636185532,
+    graduateSchool: 1.79428907283146
   },
   'Hamilton County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.03226337800691,
-    someHS: 0.600208836389741,
-    finishedHS: 0.90448998237943,
-    someCollege: 1.02457090648045,
-    bachelors: 1.67268158976702,
-    graduateSchool: 2.14011616524179
+    someHS: 0.495541366954929,
+    finishedHS: 0.746760419192327,
+    someCollege: 0.845901021040438,
+    bachelors: 1.38099086721086,
+    graduateSchool: 1.76691182413319
   },
   'Hancock County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.00676200357246,
-    someHS: 0.859981726815898,
-    finishedHS: 1.03230437903805,
-    someCollege: 1.10141617176793,
-    bachelors: 1.55155648371729,
-    graduateSchool: 1.81018730013705
+    someHS: 0.727998453124137,
+    finishedHS: 0.873874371581681,
+    someCollege: 0.932379426551019,
+    bachelors: 1.31343572178333,
+    graduateSchool: 1.53237390199436
   },
   'Jefferson County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.892714962617522,
-    someHS: 0.808588396528095,
-    finishedHS: 0.855446061476212,
-    someCollege: 1.15352737714547,
-    bachelors: 1.39864908960386,
-    graduateSchool: 1.64997063238269
+    someHS: 0.771938568891935,
+    finishedHS: 0.816672377807545,
+    someCollege: 1.10124295193296,
+    bachelors: 1.33525435344693,
+    graduateSchool: 1.57518457368929
   },
   'Lake County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.1196410426449,
-    someHS: 0.914899171180578,
-    finishedHS: 1.043725119102,
-    someCollege: 1.21676564641389,
-    bachelors: 1.65692096847876,
-    graduateSchool: 2.27605560268877
+    someHS: 0.696405951168625,
+    finishedHS: 0.794466108641117,
+    someCollege: 0.926181664638235,
+    bachelors: 1.26122053600258,
+    graduateSchool: 1.73249546707732
   },
   'Licking County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.04216358443948,
-    someHS: 0.663055537427397,
-    finishedHS: 0.998368465705149,
-    someCollege: 1.18658226195915,
-    bachelors: 1.74469751354173,
-    graduateSchool: 2.00035893754487
+    someHS: 0.542228152101401,
+    finishedHS: 0.816437625083389,
+    someCollege: 0.970353569046031,
+    bachelors: 1.42676450967312,
+    graduateSchool: 1.63583722481654
   },
   'Lorain County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.984125014706983,
-    someHS: 0.676825686875938,
-    finishedHS: 0.868955165437577,
-    someCollege: 1.06066044508256,
-    bachelors: 1.83710761600209,
-    graduateSchool: 2.09720681328722
+    someHS: 0.586130891827738,
+    finishedHS: 0.752514976828303,
+    someCollege: 0.918531705662937,
+    bachelors: 1.59093478015146,
+    graduateSchool: 1.81618062620097
   },
   'Lucas County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.896858588343512,
-    someHS: 0.578019969979769,
-    finishedHS: 0.930300854923971,
-    someCollege: 0.993702277621876,
-    bachelors: 1.57674737322979,
-    graduateSchool: 1.99546433466031
+    someHS: 0.549271317829457,
+    finishedHS: 0.884031007751938,
+    someCollege: 0.944279069767442,
+    bachelors: 1.49832558139535,
+    graduateSchool: 1.89621705426357
   },
   'Mahoning County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.855533569358134,
-    someHS: 0.547542909351955,
-    finishedHS: 0.810742021797298,
-    someCollege: 0.953892840827514,
-    bachelors: 1.3457221170789,
-    graduateSchool: 1.67020165763884
+    someHS: 0.545442725263295,
+    finishedHS: 0.807632297490573,
+    someCollege: 0.950234039786764,
+    bachelors: 1.3405603952672,
+    graduateSchool: 1.66379534520869
   },
   'Marion County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.857591477436813,
-    someHS: 0.510931279775501,
-    finishedHS: 0.896691248450042,
-    someCollege: 0.970306075833714,
-    bachelors: 1.85642498205312,
-    graduateSchool: 1.75389936696469
+    someHS: 0.507750178351385,
+    finishedHS: 0.891108372786821,
+    someCollege: 0.964264868019975,
+    bachelors: 1.84486672287438,
+    graduateSchool: 1.74297944094948
   },
   'Medina County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.14102660092199,
-    someHS: 0.839685440187953,
-    finishedHS: 1.00045682960256,
-    someCollege: 1.17372577171572,
-    bachelors: 1.82033544345102,
-    graduateSchool: 2.18247079553612
+    someHS: 0.627175237631002,
+    finishedHS: 0.747258103826468,
+    someCollege: 0.876675603217158,
+    bachelors: 1.35963928832562,
+    graduateSchool: 1.6301242992932
   },
   'Miami County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.959346689056935,
-    someHS: 0.707204855446061,
-    finishedHS: 0.921653723161261,
-    someCollege: 1.13169744828036,
-    bachelors: 1.64722965476734,
-    graduateSchool: 1.97128499641062
+    someHS: 0.628257529640259,
+    finishedHS: 0.818766849291243,
+    someCollege: 1.00536278516972,
+    bachelors: 1.46334463866423,
+    graduateSchool: 1.75122474418065
   },
   'Montgomery County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.979981388980993,
-    someHS: 0.599099393069242,
-    finishedHS: 0.873458200091366,
-    someCollege: 1.01177967760882,
-    bachelors: 1.52042680937153,
-    graduateSchool: 2.00812504078836
+    someHS: 0.521013649649536,
+    finishedHS: 0.759612928857232,
+    someCollege: 0.879905786202787,
+    bachelors: 1.32225659070916,
+    graduateSchool: 1.74638894406765
   },
   'Muskingum County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.873943503791728,
-    someHS: 0.520622593486915,
-    finishedHS: 0.986523526724532,
-    someCollege: 0.964465183058148,
-    bachelors: 1.40452261306533,
-    graduateSchool: 1.69748091104875
+    someHS: 0.50770063005155,
+    finishedHS: 0.96203780309298,
+    someCollege: 0.94052695220518,
+    bachelors: 1.36966206325972,
+    graduateSchool: 1.65534907401515
   },
   'Portage County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.998029799022387,
-    someHS: 0.816811329374143,
-    finishedHS: 0.983423611564315,
-    someCollege: 1.13763623311362,
-    bachelors: 1.52675716243555,
-    graduateSchool: 1.8698361939568
+    someHS: 0.697503343736068,
+    finishedHS: 0.839779313419527,
+    someCollege: 0.97146678555506,
+    bachelors: 1.30375055728934,
+    graduateSchool: 1.59671756576014
   },
   'Richland County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.877642176419625,
-    someHS: 0.983064674019448,
-    finishedHS: 0.957580108333877,
-    someCollege: 0.991189714807805,
-    bachelors: 1.47784376427593,
-    graduateSchool: 1.86396267049533
+    someHS: 0.954624671250673,
+    finishedHS: 0.929877372540321,
+    someCollege: 0.962514655090466,
+    bachelors: 1.43508983174372,
+    graduateSchool: 1.81003834088533
   },
   'Ross County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.910401848266715,
-    someHS: 0.69650199047184,
-    finishedHS: 1.04574822162762,
-    someCollege: 1.09338902303726,
-    bachelors: 1.44491940220583,
-    graduateSchool: 1.66922273706193
+    someHS: 0.652014540122797,
+    finishedHS: 0.978953477716345,
+    someCollege: 1.0235513333537,
+    bachelors: 1.35262852429972,
+    graduateSchool: 1.56260500351284
   },
   'Scioto County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.994859508198475,
-    someHS: 0.349376753899367,
-    finishedHS: 0.856620766168505,
-    someCollege: 1.18899693271553,
-    bachelors: 1.34833257195066,
-    graduateSchool: 1.84934412321347
+    someHS: 0.299295577793929,
+    finishedHS: 0.733829037848717,
+    someCollege: 1.01856096606474,
+    bachelors: 1.15505674512216,
+    graduateSchool: 1.58425113210712
   },
   'Stark County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.931342453445712,
-    someHS: 0.687724335965542,
-    finishedHS: 0.872087711283691,
-    someCollege: 1.03344645304444,
-    bachelors: 1.64533707498532,
-    graduateSchool: 1.94237420870587
+    someHS: 0.629322185727083,
+    finishedHS: 0.798029262466408,
+    someCollege: 0.945685279187817,
+    bachelors: 1.50561361600478,
+    graduateSchool: 1.77742609734249
   },
   'Summit County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.02383707871178,
-    someHS: 0.685799125497618,
-    finishedHS: 0.982901520589963,
-    someCollege: 1.07492005481955,
-    bachelors: 1.65189584285062,
-    graduateSchool: 2.17369314102982
+    someHS: 0.570865927857453,
+    finishedHS: 0.818176879617558,
+    someCollege: 0.894774011299435,
+    bachelors: 1.37505432420687,
+    graduateSchool: 1.8094035202086
   },
   'Trumbull County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.873248264575957,
-    someHS: 0.729393721856033,
-    finishedHS: 0.884552633296352,
-    someCollege: 1.03837368661489,
-    bachelors: 1.37319715460419,
-    graduateSchool: 1.98776349278862
+    someHS: 0.711856310308589,
+    finishedHS: 0.863284608770421,
+    someCollege: 1.01340721633069,
+    bachelors: 1.34018024903665,
+    graduateSchool: 1.93997006464762
   },
   'Tuscarawas County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.887431144577669,
-    someHS: 0.746883769496835,
-    finishedHS: 0.992168635384716,
-    someCollege: 1.00724401226914,
-    bachelors: 1.38543366181557,
-    graduateSchool: 2.24133655289434
+    someHS: 0.717276174359939,
+    finishedHS: 0.952837579518034,
+    someCollege: 0.967315345805522,
+    bachelors: 1.33051298925136,
+    graduateSchool: 2.15248660336561
   },
   'Warren County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.40924989036612,
-    someHS: 0.805586373425569,
-    finishedHS: 1.04904392090322,
-    someCollege: 1.31756183514977,
-    bachelors: 2.1980030020231,
-    graduateSchool: 2.75416041245187
+    someHS: 0.487183029107055,
+    finishedHS: 0.634415392205229,
+    someCollege: 0.796803157375432,
+    bachelors: 1.32925505673409,
+    graduateSchool: 1.66559447459299
   },
   'Wayne County': {
     state: 'Ohio',
     countyToStateAdjustment: 0.951699057683463,
-    someHS: 0.838641258239248,
-    finishedHS: 1.00972394439731,
-    someCollege: 1.07942308947334,
-    bachelors: 1.37052143836063,
-    graduateSchool: 1.8523135156301
+    someHS: 0.751008123429373,
+    finishedHS: 0.904213663725089,
+    someCollege: 0.966629653439308,
+    bachelors: 1.22730991759687,
+    graduateSchool: 1.65875752439951
   },
   'Wood County': {
     state: 'Ohio',
     countyToStateAdjustment: 1.12250542821388,
-    someHS: 0.532728577954709,
-    finishedHS: 1.01553220648698,
-    someCollege: 1.11616524179338,
-    bachelors: 1.75735821966978,
-    graduateSchool: 2.00009789205769
+    someHS: 0.404469329105143,
+    finishedHS: 0.771033594291943,
+    someCollege: 0.847438311366564,
+    bachelors: 1.33425824992568,
+    graduateSchool: 1.51855613913388
   },
   'Canadian County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.06058509902413,
-    someHS: 0.338771780982836,
-    finishedHS: 0.963029432878679,
-    someCollege: 1.09250799451804,
-    bachelors: 1.53749265809567,
-    graduateSchool: 1.71134895255498
+    someHS: 0.286479028697572,
+    finishedHS: 0.814376379690949,
+    someCollege: 0.923868653421634,
+    bachelors: 1.30016556291391,
+    graduateSchool: 1.44718543046358
   },
   'Cleveland County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.09315770430045,
-    someHS: 0.989590811198851,
-    finishedHS: 0.95010768126346,
-    someCollege: 1.16547020818378,
-    bachelors: 1.38177902499511,
-    graduateSchool: 1.85361874306598
+    someHS: 0.81190265842101,
+    finishedHS: 0.77950900864723,
+    someCollege: 0.956201643776939,
+    bachelors: 1.13367065563676,
+    graduateSchool: 1.52078815623912
   },
   'Comanche County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 0.898336650100567,
-    someHS: 0.45196763035959,
-    finishedHS: 0.88217059322587,
-    someCollege: 0.962278927103048,
-    bachelors: 1.28150492723357,
-    graduateSchool: 1.70753116230503
+    someHS: 0.451231430805317,
+    finishedHS: 0.880733646077665,
+    someCollege: 0.960711493354183,
+    bachelors: 1.27941751368256,
+    graduateSchool: 1.70474980453479
   },
   'Creek County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.02862707120585,
-    someHS: 0.748972133394244,
-    finishedHS: 1.01373751876264,
-    someCollege: 1.12504078835737,
-    bachelors: 1.5055145859166,
-    graduateSchool: 1.64031194935718
+    someHS: 0.653038579720041,
+    finishedHS: 0.883890975304427,
+    someCollege: 0.980937748947309,
+    bachelors: 1.31267781950609,
+    graduateSchool: 1.43020940025037
   },
   'Muskogee County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 0.933806549107665,
-    someHS: 0.677184624420805,
-    finishedHS: 0.980160542974613,
-    someCollege: 1.02450564510866,
-    bachelors: 1.45284865887881,
-    graduateSchool: 2.01067023428832
+    someHS: 0.650401153315783,
+    finishedHS: 0.941394007772345,
+    someCollege: 0.983985207471481,
+    bachelors: 1.3953867368685,
+    graduateSchool: 1.9311457941582
   },
   'Oklahoma County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 0.994415592708078,
-    someHS: 0.708575344253736,
-    finishedHS: 0.844221105527638,
-    someCollege: 1.05149122234549,
-    bachelors: 1.43725119102004,
-    graduateSchool: 2.02450564510866
+    someHS: 0.639071191029754,
+    finishedHS: 0.761411460019424,
+    someCollege: 0.94835045174961,
+    bachelors: 1.29627122634568,
+    graduateSchool: 1.82592189293387
   },
   'Payne County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 0.79962380410144,
-    someHS: 0.977158519872088,
-    finishedHS: 0.741042876721269,
-    someCollege: 0.726881159041963,
-    bachelors: 1.12024407753051,
-    graduateSchool: 1.56790445735169
+    someHS: 1.09599970720638,
+    finishedHS: 0.831167880540204,
+    someCollege: 0.815283826812575,
+    bachelors: 1.25648720857885,
+    graduateSchool: 1.75859166270175
   },
   'Pottawatomie County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 0.88247469856439,
-    someHS: 0.556222671800561,
-    finishedHS: 0.831331984598316,
-    someCollege: 0.985479344775827,
-    bachelors: 1.30395483913072,
-    graduateSchool: 2.29488350845135
+    someHS: 0.565298136233999,
+    finishedHS: 0.844896199509186,
+    someCollege: 1.00155866551701,
+    bachelors: 1.32523048351794,
+    graduateSchool: 2.33232738608476
   },
   'Rogers County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.17372588249066,
-    someHS: 0.782875416041245,
-    finishedHS: 1.04519349996737,
-    someCollege: 1.28199438752203,
-    bachelors: 1.53550218625596,
-    graduateSchool: 1.71245839587548
+    someHS: 0.598214730962948,
+    finishedHS: 0.798658554829701,
+    someCollege: 0.979604049269436,
+    bachelors: 1.1733157133596,
+    graduateSchool: 1.3085323891687
   },
   'Tulsa County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.04270382155438,
-    someHS: 0.745023820400705,
-    finishedHS: 0.914279188148535,
-    someCollege: 1.13753834105593,
-    bachelors: 1.49481172094237,
-    graduateSchool: 1.8512367029955
+    someHS: 0.640826293188133,
+    finishedHS: 0.786409946953325,
+    someCollege: 0.978444525526958,
+    bachelors: 1.28575037188807,
+    graduateSchool: 1.59232647562379
   },
   'Wagoner County': {
     state: 'Oklahoma',
     countyToStateAdjustment: 1.0925431268424,
-    someHS: 0.998923187365398,
-    finishedHS: 0.847777850290413,
-    someCollege: 1.21187104352933,
-    bachelors: 1.54640083534556,
-    graduateSchool: 2.19128108072832
+    someHS: 0.820020357869924,
+    finishedHS: 0.695944498017786,
+    someCollege: 0.994830172506161,
+    bachelors: 1.26944712311154,
+    graduateSchool: 1.79883210114647
   },
   'Benton County': {
     state: 'Oregon',
     countyToStateAdjustment: 1.22644681657557,
-    someHS: 0.753018338445474,
-    finishedHS: 0.896887032565425,
-    someCollege: 0.950662402923709,
-    bachelors: 1.37218560334138,
-    graduateSchool: 1.62601970893428
+    someHS: 0.575185065177837,
+    finishedHS: 0.685077640138581,
+    someCollege: 0.726153386007328,
+    bachelors: 1.04812940853917,
+    graduateSchool: 1.24201789586501
   },
   'Clackamas County': {
     state: 'Oregon',
     countyToStateAdjustment: 1.28088967144761,
-    someHS: 0.725902238465053,
-    finishedHS: 1.02665927037786,
-    someCollege: 1.35254193043138,
-    bachelors: 1.65303791685701,
-    graduateSchool: 2.15665992299158
+    someHS: 0.530905446040762,
+    finishedHS: 0.750871080139373,
+    someCollege: 0.989212925397356,
+    bachelors: 1.20898763782158,
+    graduateSchool: 1.57732327812515
   },
   'Deschutes County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.987399581820183,
-    someHS: 0.661717679305619,
-    finishedHS: 0.950401357436533,
-    someCollege: 0.951739215558311,
-    bachelors: 1.31805129543823,
-    graduateSchool: 1.62337662337662
+    someHS: 0.6278133803907,
+    finishedHS: 0.901705829540881,
+    someCollege: 0.902975140088542,
+    bachelors: 1.25051855979691,
+    graduateSchool: 1.54019999380824
   },
   'Douglas County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.901256984947972,
-    someHS: 0.701494485414083,
-    finishedHS: 0.727827448932977,
-    someCollege: 0.980030020231025,
-    bachelors: 1.54219147686484,
-    graduateSchool: 1.60454871761404
+    someHS: 0.729165960044772,
+    finishedHS: 0.756537665773497,
+    someCollege: 1.01868873588169,
+    bachelors: 1.60302547230607,
+    graduateSchool: 1.66784248550012
   },
   'Jackson County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.840516977856034,
-    someHS: 0.692749461593683,
-    finishedHS: 0.855446061476212,
-    someCollege: 0.873360308033675,
-    bachelors: 1.11277165046009,
-    graduateSchool: 1.58320824903739
+    someHS: 0.77211230724469,
+    finishedHS: 0.953447774221705,
+    someCollege: 0.973414314809427,
+    bachelors: 1.24025312772767,
+    graduateSchool: 1.76458393948211
   },
   'Josephine County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.803284301138378,
-    someHS: 0.887717809828363,
-    finishedHS: 0.863636363636364,
-    someCollege: 0.803041179925602,
-    bachelors: 1.49758532924362,
-    graduateSchool: 1.21050055472166
+    someHS: 1.03527665727985,
+    finishedHS: 1.00719232818327,
+    someCollege: 0.936524849684146,
+    bachelors: 1.74651799984778,
+    graduateSchool: 1.41171322018418
   },
   'Klamath County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.879247520878422,
-    someHS: 0.533740129217516,
-    finishedHS: 0.873295046661881,
-    someCollege: 0.941819487045618,
-    bachelors: 1.07492005481955,
-    graduateSchool: 2.1422371598251
+    someHS: 0.568681987275319,
+    finishedHS: 0.930466223968293,
+    someCollege: 1.00347668880159,
+    bachelors: 1.14529082501825,
+    graduateSchool: 2.28248096512881
   },
   'Lane County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.928554834134233,
-    someHS: 0.668276447170919,
-    finishedHS: 0.857501794687724,
-    someCollege: 0.964758859231221,
-    bachelors: 1.11544736670365,
-    graduateSchool: 1.63626574430595
+    someHS: 0.674216486700026,
+    finishedHS: 0.865123781933105,
+    someCollege: 0.973334211219384,
+    bachelors: 1.12536212799579,
+    graduateSchool: 1.65080984988149
   },
   'Linn County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.980185368597386,
-    someHS: 0.706813287215297,
-    finishedHS: 0.894178685635972,
-    someCollege: 1.10399399595379,
-    bachelors: 1.20015662729231,
-    graduateSchool: 1.91662859753312
+    someHS: 0.675534071417433,
+    finishedHS: 0.85460782784968,
+    someCollege: 1.0551380009356,
+    bachelors: 1.1470450647123,
+    graduateSchool: 1.83181038515515
   },
   'Marion County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.94735458469364,
-    someHS: 0.709554264830647,
-    finishedHS: 0.839228610585395,
-    someCollege: 1.0514585916596,
-    bachelors: 1.41183188670626,
-    graduateSchool: 1.84076225282255
+    someHS: 0.701655319286244,
+    finishedHS: 0.829886095963344,
+    someCollege: 1.03975347681585,
+    bachelors: 1.39611500112936,
+    graduateSchool: 1.82027040108419
   },
   'Multnomah County': {
     state: 'Oregon',
     countyToStateAdjustment: 1.09283102845335,
-    someHS: 0.717842459048489,
-    finishedHS: 0.883214775174574,
-    someCollege: 0.948998237942962,
-    bachelors: 1.3917313841937,
-    graduateSchool: 2.01556483717288
+    someHS: 0.615356643356643,
+    finishedHS: 0.757118881118881,
+    someCollege: 0.81351048951049,
+    bachelors: 1.19303496503496,
+    graduateSchool: 1.7278041958042
   },
   'Polk County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.984709536211682,
-    someHS: 0.704692292631991,
-    finishedHS: 0.978985838282321,
-    someCollege: 1.00048946028846,
-    bachelors: 1.34128434379691,
-    graduateSchool: 2.173954186517
+    someHS: 0.670412566355198,
+    finishedHS: 0.931363114270636,
+    someCollege: 0.951820693508832,
+    bachelors: 1.27603762456151,
+    graduateSchool: 2.06820227858318
   },
   'Umatilla County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.912017167381974,
-    someHS: 0.744958559028911,
-    finishedHS: 0.788781570188605,
-    someCollege: 1.02342883247406,
-    bachelors: 1.52584350323044,
-    graduateSchool: 1.74711218429811
+    someHS: 0.765208647561589,
+    finishedHS: 0.810222892575834,
+    someCollege: 1.05124853360147,
+    bachelors: 1.56732026143791,
+    graduateSchool: 1.79460365342718
   },
   'Washington County': {
     state: 'Oregon',
     countyToStateAdjustment: 1.26685863810327,
-    someHS: 0.755171963714677,
-    finishedHS: 0.882888468315604,
-    someCollege: 1.21787508973439,
-    bachelors: 1.85087776545063,
-    graduateSchool: 2.6618808327351
+    someHS: 0.558429650363149,
+    finishedHS: 0.65287262022537,
+    someCollege: 0.900586347513452,
+    bachelors: 1.36867504765582,
+    graduateSchool: 1.96839031923365
   },
   'Yamhill County': {
     state: 'Oregon',
     countyToStateAdjustment: 0.968446987760292,
-    someHS: 0.738334529791816,
-    finishedHS: 0.716994061215167,
-    someCollege: 1.06212882594792,
-    bachelors: 1.56170462703126,
-    graduateSchool: 1.68916008614501
+    someHS: 0.714213566490957,
+    finishedHS: 0.69357027871595,
+    someCollege: 1.02742968971939,
+    bachelors: 1.51068463747988,
+    graduateSchool: 1.6339762002462
   },
   'Adams County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.983758637015487,
-    someHS: 0.759805521112054,
-    finishedHS: 1.03742739672388,
-    someCollege: 1.1509495529596,
-    bachelors: 1.47311231482086,
-    graduateSchool: 2.18152450564511
+    someHS: 0.649638702117568,
+    finishedHS: 0.887007225957649,
+    someCollege: 0.984069413832548,
+    bachelors: 1.25952068744246,
+    graduateSchool: 1.86521775521022
   },
   'Allegheny County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.10957259209958,
-    someHS: 0.659890360895386,
-    finishedHS: 0.952783397507016,
-    someCollege: 1.12569340207531,
-    bachelors: 1.59701102917183,
-    graduateSchool: 2.06806761078118
+    someHS: 0.500234991466099,
+    finishedHS: 0.722264823014322,
+    someCollege: 0.853340589210181,
+    bachelors: 1.21062656145645,
+    graduateSchool: 1.56771464615232
   },
   'Armstrong County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.873342070413547,
-    someHS: 0.686484369901455,
-    finishedHS: 0.859100698296678,
-    someCollege: 1.19516413235006,
-    bachelors: 1.31743131240619,
-    graduateSchool: 2.01080075703191
+    someHS: 0.661156505342552,
+    finishedHS: 0.827404148334381,
+    someCollege: 1.15106851037084,
+    bachelors: 1.26882463859208,
+    graduateSchool: 1.93661219358894
   },
   'Beaver County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.972176287747274,
-    someHS: 0.543137766755857,
-    finishedHS: 0.926450433988122,
-    someCollege: 1.15411472949161,
-    bachelors: 1.68371076160021,
-    graduateSchool: 1.73784506950336
+    someHS: 0.469918974619576,
+    finishedHS: 0.801558397560769,
+    someCollege: 0.998531944326812,
+    bachelors: 1.45673470540075,
+    graduateSchool: 1.50357132774343
   },
   'Berks County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.03222884746019,
-    someHS: 0.720485544606148,
-    finishedHS: 1.11857991254976,
-    someCollege: 1.15483260458135,
-    bachelors: 1.66703648110683,
-    graduateSchool: 2.03804737975592
+    someHS: 0.587093514850169,
+    finishedHS: 0.911483953309048,
+    someCollege: 0.941024754712968,
+    bachelors: 1.35839825573666,
+    graduateSchool: 1.66071950862825
   },
   'Blair County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.970062920700705,
-    someHS: 0.755759316060824,
-    finishedHS: 0.973275468250343,
-    someCollege: 1.03808001044182,
-    bachelors: 1.55109965411473,
-    graduateSchool: 1.96156105201331
+    someHS: 0.655302172928927,
+    finishedHS: 0.843905613399728,
+    someCollege: 0.900096197374378,
+    bachelors: 1.34492417383431,
+    graduateSchool: 1.70082616568583
   },
   'Bucks County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.36468618557833,
-    someHS: 0.887097826796319,
-    finishedHS: 1.1662859753312,
-    someCollege: 1.34699471382888,
-    bachelors: 2.07710631077465,
-    graduateSchool: 2.6586503948313
+    someHS: 0.546759985519488,
+    finishedHS: 0.718836732231205,
+    someCollege: 0.830216000965367,
+    bachelors: 1.28021801214754,
+    graduateSchool: 1.63865089899843
   },
   'Butler County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.13814421671618,
-    someHS: 0.604711871043529,
-    finishedHS: 1.02692031586504,
-    someCollege: 1.24541538863147,
-    bachelors: 1.87182666579652,
-    graduateSchool: 2.20655224172812
+    someHS: 0.446898813542973,
+    finishedHS: 0.758922542683515,
+    someCollege: 0.920396450274911,
+    bachelors: 1.38333172566798,
+    graduateSchool: 1.63070319282338
   },
   'Cambria County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.845593835555342,
-    someHS: 0.859427005155648,
-    finishedHS: 0.797298179207727,
-    someCollege: 1.00773347255759,
-    bachelors: 1.37336030803367,
-    graduateSchool: 1.70221236050382
+    someHS: 0.85488006751274,
+    finishedHS: 0.793079944172157,
+    someCollege: 1.00240189555,
+    bachelors: 1.36609432308741,
+    graduateSchool: 1.69320653055925
   },
   'Carbon County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.957327825770727,
-    someHS: 0.924231547347125,
-    finishedHS: 1.0415714938328,
-    someCollege: 0.923481041571494,
-    bachelors: 1.63303530640214,
-    graduateSchool: 2.52822554330092
+    someHS: 0.81204128440367,
+    finishedHS: 0.915137614678899,
+    someCollege: 0.811381880733945,
+    bachelors: 1.43480504587156,
+    graduateSchool: 2.22133027522936
   },
   'Centre County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.00867990036984,
-    someHS: 0.415878091757489,
-    finishedHS: 0.905338380212752,
-    someCollege: 1.01983945702539,
-    bachelors: 1.53364223715983,
-    graduateSchool: 1.75416041245187
+    someHS: 0.346793284536475,
+    finishedHS: 0.754945443661397,
+    someCollege: 0.850425838752687,
+    bachelors: 1.27887676525809,
+    graduateSchool: 1.46276291801584
   },
   'Chester County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.43313732082696,
-    someHS: 0.702669190106376,
-    finishedHS: 1.11195588331267,
-    someCollege: 1.36379951706585,
-    bachelors: 2.04731449455068,
-    graduateSchool: 2.87903804737976
+    someHS: 0.412402328788111,
+    finishedHS: 0.652616056381186,
+    someCollege: 0.800425157039988,
+    bachelors: 1.20158572085185,
+    graduateSchool: 1.68973111689903
   },
   'Clearfield County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.842574739774528,
-    someHS: 0.7188213796254,
-    finishedHS: 0.864256346668407,
-    someCollege: 1.15568100241467,
-    bachelors: 1.19186843307446,
-    graduateSchool: 2.19516413235006
+    someHS: 0.717580377210984,
+    finishedHS: 0.862764259422131,
+    someCollege: 1.15368578781068,
+    bachelors: 1.18981074302095,
+    graduateSchool: 2.19137431186684
   },
   'Columbia County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.852922004405135,
-    someHS: 0.713698361939568,
-    finishedHS: 0.797037133720551,
-    someCollege: 1.02646348626248,
-    bachelors: 1.50231677869869,
-    graduateSchool: 2.22358545976636
+    someHS: 0.703822885828292,
+    finishedHS: 0.786008495301841,
+    someCollege: 1.01226026515639,
+    bachelors: 1.48152915433132,
+    graduateSchool: 2.19281760844382
   },
   'Crawford County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.864751370600869,
-    someHS: 0.923252626770215,
-    finishedHS: 0.878091757488742,
-    someCollege: 1.02320041767278,
-    bachelors: 1.26871369836194,
-    graduateSchool: 1.731938915356
+    someHS: 0.898022661630749,
+    finishedHS: 0.854095915193449,
+    someCollege: 0.99523915320405,
+    bachelors: 1.23404322848891,
+    graduateSchool: 1.68460976925763
   },
   'Cumberland County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.11624204914265,
-    someHS: 0.757097174182601,
-    finishedHS: 1.03374012921752,
-    someCollege: 1.24652483195197,
-    bachelors: 1.72449911897148,
-    graduateSchool: 2.11658944071004
+    someHS: 0.5704942217851,
+    finishedHS: 0.778952544873371,
+    someCollege: 0.939291861322842,
+    bachelors: 1.29945906073273,
+    graduateSchool: 1.59491025325793
   },
   'Dauphin County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.02245795566046,
-    someHS: 0.67450890817725,
-    finishedHS: 1.02000261045487,
-    someCollege: 1.17966455654898,
-    bachelors: 1.53964628336488,
-    graduateSchool: 2.12778176597272
+    someHS: 0.554881486054814,
+    finishedHS: 0.839100206694763,
+    someCollege: 0.970445333261751,
+    bachelors: 1.26658255710949,
+    graduateSchool: 1.75040936300432
   },
   'Delaware County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.1551060457393,
-    someHS: 0.775892449259283,
-    finishedHS: 1.03987469816616,
-    someCollege: 1.21722247601645,
-    bachelors: 1.69682829733081,
-    graduateSchool: 2.48120472492332
+    someHS: 0.564985981086347,
+    finishedHS: 0.757211424226584,
+    someCollege: 0.886351755928337,
+    bachelors: 1.23558903198213,
+    graduateSchool: 1.80675283942404
   },
   'Erie County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.937072437713996,
-    someHS: 0.71608040201005,
-    finishedHS: 0.916693858904914,
-    someCollege: 1.0394178685636,
-    bachelors: 1.48929713502578,
-    graduateSchool: 1.91431181883443
+    someHS: 0.642756721926073,
+    finishedHS: 0.822828188155351,
+    someCollege: 0.932985765333021,
+    bachelors: 1.33679925019038,
+    graduateSchool: 1.71829418311757
   },
   'Fayette County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.967729983051894,
-    someHS: 0.426483064674019,
-    finishedHS: 0.955491744436468,
-    someCollege: 1.17418260131828,
-    bachelors: 1.52042680937153,
-    graduateSchool: 2.21072896952294
+    someHS: 0.370685498737911,
+    finishedHS: 0.830482997248929,
+    someCollege: 1.02056212598202,
+    bachelors: 1.32150656569954,
+    graduateSchool: 1.92149522107831
   },
   'Franklin County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.01878014807292,
-    someHS: 0.861939567969719,
-    finishedHS: 1.03220648698036,
-    someCollege: 1.27337988644521,
-    bachelors: 1.66458917966456,
-    graduateSchool: 2.1028845526333
+    someHS: 0.711630162450497,
+    finishedHS: 0.852205070179692,
+    someCollege: 1.05132142568496,
+    bachelors: 1.37430965273849,
+    graduateSchool: 1.73617284948409
   },
   'Indiana County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.885391007211522,
-    someHS: 0.724433857599687,
-    finishedHS: 0.948835084513476,
-    someCollege: 1.01161652417934,
-    bachelors: 1.35626182862364,
-    graduateSchool: 1.81198198786138
+    someHS: 0.688211041879785,
+    finishedHS: 0.901391859636071,
+    someCollege: 0.96103413001023,
+    bachelors: 1.28844663504758,
+    graduateSchool: 1.72138007997768
   },
   'Lackawanna County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.968333802208057,
-    someHS: 0.515597467858774,
-    finishedHS: 0.981922600013052,
-    someCollege: 1.14726228545324,
-    bachelors: 1.5744305945311,
-    graduateSchool: 1.92618938850095
+    someHS: 0.447861455174173,
+    finishedHS: 0.852923669964003,
+    someCollege: 0.996542048127887,
+    bachelors: 1.36759162155268,
+    graduateSchool: 1.67313851648196
   },
   'Lancaster County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.980629755933552,
-    someHS: 0.890165111270639,
-    finishedHS: 1.02786660575605,
-    someCollege: 1.12027670821641,
-    bachelors: 1.44547412386608,
-    graduateSchool: 2.08128303856947
+    someHS: 0.76352542752386,
+    finishedHS: 0.881636765652551,
+    someCollege: 0.960900109155028,
+    bachelors: 1.23983318872624,
+    graduateSchool: 1.78518850233704
   },
   'Lawrence County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.882509143057109,
-    someHS: 0.670038504209359,
-    finishedHS: 0.877830712001566,
-    someCollege: 1.0295634014227,
-    bachelors: 1.64057299484435,
-    graduateSchool: 1.87355609214906
+    someHS: 0.638614169310195,
+    finishedHS: 0.836661068607327,
+    someCollege: 0.981277601542576,
+    bachelors: 1.56363127449151,
+    graduateSchool: 1.78568762828886
   },
   'Lebanon County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.935562889823589,
-    someHS: 1.00747242707042,
-    finishedHS: 1.00101155126281,
-    someCollege: 1.06160673497357,
-    bachelors: 1.49510539711545,
-    graduateSchool: 1.97200287150036
+    someHS: 0.905770528353918,
+    finishedHS: 0.899961862293543,
+    someCollege: 0.954440109132514,
+    bachelors: 1.34417813242585,
+    graduateSchool: 1.77293396309443
   },
   'Lehigh County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.00662142597383,
-    someHS: 0.712523657247275,
-    finishedHS: 0.992723357044965,
-    someCollege: 1.15574626378646,
-    bachelors: 1.65613783201723,
-    graduateSchool: 2.34115382105332
+    someHS: 0.595375722543353,
+    finishedHS: 0.829507034573018,
+    someCollege: 0.965726905878504,
+    bachelors: 1.383847747846,
+    graduateSchool: 1.95623841204057
   },
   'Luzerne County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.943083182950343,
-    someHS: 0.707074332702473,
-    finishedHS: 0.936402793186713,
-    someCollege: 1.10370031978072,
-    bachelors: 1.4781048097631,
-    graduateSchool: 2.02434249167918
+    someHS: 0.63062774657315,
+    finishedHS: 0.835161956869707,
+    someCollege: 0.984371816885422,
+    bachelors: 1.31829690637642,
+    graduateSchool: 1.80547713978057
   },
   'Lycoming County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.87608670294156,
-    someHS: 0.680610846439992,
-    finishedHS: 0.871728773738824,
-    someCollege: 1.02721399203811,
-    bachelors: 1.53155387326242,
-    graduateSchool: 1.82999412647654
+    someHS: 0.65344611528822,
+    finishedHS: 0.836936090225564,
+    someCollege: 0.986215538847118,
+    bachelors: 1.47042606516291,
+    graduateSchool: 1.75695488721805
   },
   'Mercer County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.869856387102972,
-    someHS: 0.745252235201984,
-    finishedHS: 0.874012921751615,
-    someCollege: 1.10200352411408,
-    bachelors: 1.31116622071396,
-    graduateSchool: 1.68145924427331
+    someHS: 0.720632316284353,
+    finishedHS: 0.845139305209352,
+    someCollege: 1.06559808159531,
+    bachelors: 1.26785094500363,
+    graduateSchool: 1.6259110844666
   },
   'Monroe County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.00911904157432,
-    someHS: 0.776120864060563,
-    finishedHS: 0.990896038634732,
-    someCollege: 1.14745806956862,
-    bachelors: 1.63323109051752,
-    graduateSchool: 1.97363440579521
+    someHS: 0.646911632714119,
+    finishedHS: 0.825930861914217,
+    someCollege: 0.956428318872902,
+    bachelors: 1.36132945304213,
+    graduateSchool: 1.64506214812196
   },
   'Montgomery County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.38249885068513,
-    someHS: 0.691640018273184,
-    finishedHS: 1.03445800430725,
-    someCollege: 1.36618155713633,
-    bachelors: 2.01634797363441,
-    graduateSchool: 2.61639365659466
+    someHS: 0.420797681205456,
+    finishedHS: 0.629370074050545,
+    someCollege: 0.83119255126958,
+    bachelors: 1.2267574596494,
+    graduateSchool: 1.59182863155387
   },
   'Northampton County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.05435058563597,
-    someHS: 0.763982248906872,
-    finishedHS: 1.02120994583306,
-    someCollege: 1.19885139985642,
-    bachelors: 1.70341969588201,
-    graduateSchool: 2.06858970175553
+    someHS: 0.609475465313029,
+    finishedHS: 0.814681764935572,
+    someCollege: 0.9563972406612,
+    bachelors: 1.35892229597813,
+    graduateSchool: 1.65024079135754
   },
   'Northumberland County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.891099842869788,
-    someHS: 1.05054493245448,
-    finishedHS: 0.985414083404033,
-    someCollege: 1.03256542452522,
-    bachelors: 1.37812438817464,
-    graduateSchool: 1.76208966912485
+    someHS: 0.991622262605107,
+    finishedHS: 0.930144454369052,
+    someCollege: 0.974651184279422,
+    bachelors: 1.30082853358795,
+    graduateSchool: 1.66325807743247
   },
   'Philadelphia County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.942644041745861,
-    someHS: 0.659661946094107,
-    finishedHS: 0.865724727533773,
-    someCollege: 1.05025125628141,
-    bachelors: 1.45696012530183,
-    graduateSchool: 1.93568491809698
+    someHS: 0.588615518998399,
+    finishedHS: 0.772485077886155,
+    someCollege: 0.937137865773766,
+    bachelors: 1.30004367447955,
+    graduateSchool: 1.72720920075702
   },
   'Schuylkill County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.926395817180027,
-    someHS: 0.612608497030608,
-    finishedHS: 0.988448737192456,
-    someCollege: 1.22985055145859,
-    bachelors: 1.33622658748287,
-    graduateSchool: 1.80101807739999
+    someHS: 0.556217225135544,
+    finishedHS: 0.897460966432613,
+    someCollege: 1.11664148371997,
+    bachelors: 1.21322549106746,
+    graduateSchool: 1.63523242378455
   },
   'Somerset County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 0.858822964340362,
-    someHS: 0.68687593813222,
-    finishedHS: 0.913528682372904,
-    someCollege: 0.981106832865627,
-    bachelors: 1.42873458200091,
-    graduateSchool: 1.68142661358742
+    someHS: 0.672717394778051,
+    finishedHS: 0.894698156019303,
+    someCollege: 0.960883321082739,
+    bachelors: 1.39928413920936,
+    graduateSchool: 1.64676744111725
   },
   'Washington County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.10282079608066,
-    someHS: 0.804868498335835,
-    finishedHS: 0.919336944462573,
-    someCollege: 1.3074789532076,
-    bachelors: 1.82004176727795,
-    graduateSchool: 2.13189323239575
+    someHS: 0.613872228167542,
+    finishedHS: 0.701177173290859,
+    someCollege: 0.997212612926508,
+    bachelors: 1.38814364998382,
+    graduateSchool: 1.62599238446032
   },
   'Westmoreland County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.01175388880121,
-    someHS: 0.703158650394831,
-    finishedHS: 0.941558441558442,
-    someCollege: 1.14494550675455,
-    bachelors: 1.5820988057169,
-    graduateSchool: 2.61123800822293
+    someHS: 0.584569893931585,
+    finishedHS: 0.782763204296992,
+    someCollege: 0.951848737216179,
+    bachelors: 1.31527547947807,
+    graduateSchool: 2.17084881859859
   },
   'York County': {
     state: 'Pennsylvania',
     countyToStateAdjustment: 1.00607249946823,
-    someHS: 0.677837238138746,
-    finishedHS: 1.01899105919206,
-    someCollege: 1.18801801213862,
-    bachelors: 1.67362787965803,
-    graduateSchool: 2.19496834823468
+    someHS: 0.566701222173723,
+    finishedHS: 0.851920558707988,
+    someCollege: 0.993234395460498,
+    bachelors: 1.39922522915757,
+    graduateSchool: 1.83508838934963
   },
   'Kent County': {
     state: 'Rhode Island',
     countyToStateAdjustment: 1.00239216080046,
-    someHS: 0.990961300006526,
-    finishedHS: 1.16543757749788,
-    someCollege: 1.40400052209097,
-    bachelors: 1.67418260131828,
-    graduateSchool: 2.27435880702212
+    someHS: 0.715794187663516,
+    finishedHS: 0.841822424399557,
+    someCollege: 1.01414193791689,
+    bachelors: 1.20930068117001,
+    graduateSchool: 1.64282178801235
   },
   'Newport County': {
     state: 'Rhode Island',
     countyToStateAdjustment: 0.982475207172938,
-    someHS: 1.02646348626248,
-    finishedHS: 1.14758859231221,
-    someCollege: 1.16021666775436,
-    bachelors: 1.58813548260784,
-    graduateSchool: 2.43385759968675
+    someHS: 0.756468834166987,
+    finishedHS: 0.84573393612928,
+    someCollege: 0.855040400153905,
+    bachelors: 1.1704020777222,
+    graduateSchool: 1.79367064255483
   },
   'Providence County': {
     state: 'Rhode Island',
     countyToStateAdjustment: 0.948642374913616,
-    someHS: 0.749722639169875,
-    finishedHS: 1.13659205116492,
-    someCollege: 1.18654963127325,
-    bachelors: 1.61433792338315,
-    graduateSchool: 2.28356066044508
+    someHS: 0.57222554293684,
+    finishedHS: 0.867503486750349,
+    someCollege: 0.905633592349073,
+    bachelors: 1.23214285714286,
+    graduateSchool: 1.74292687786412
   },
   'Washington County': {
     state: 'Rhode Island',
     countyToStateAdjustment: 1.06649025711299,
-    someHS: 0.640638256216146,
-    finishedHS: 1.04303987469817,
-    someCollege: 1.29122887163088,
-    bachelors: 1.70717222476016,
-    graduateSchool: 2.32728577954709
+    someHS: 0.434935755427559,
+    finishedHS: 0.70813026140895,
+    someCollege: 0.876628267611874,
+    bachelors: 1.15901639344262,
+    graduateSchool: 1.58001772264067
   },
   'Aiken County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.991684192784857,
-    someHS: 0.594661619787248,
-    finishedHS: 0.84934412321347,
-    someCollege: 1.14745806956862,
-    bachelors: 1.51226913789728,
-    graduateSchool: 2.10604972916531
+    someHS: 0.565593867353589,
+    finishedHS: 0.807827193445269,
+    someCollege: 1.09136898296142,
+    bachelors: 1.43834766146302,
+    graduateSchool: 2.00310356599733
   },
   'Anderson County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.959429295853088,
-    someHS: 0.530281276512432,
-    finishedHS: 0.868955165437577,
-    someCollege: 1.14700123996606,
-    bachelors: 1.51367225739085,
-    graduateSchool: 1.64788226848528
+    someHS: 0.521316523914926,
+    finishedHS: 0.854264908735123,
+    someCollege: 1.12761043210471,
+    bachelors: 1.48808263561415,
+    graduateSchool: 1.62002373849164
   },
   'Beaufort County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.977772729604362,
-    someHS: 0.603243490178164,
-    finishedHS: 0.853618743065979,
-    someCollege: 1.01164915486524,
-    bachelors: 1.20263655942048,
-    graduateSchool: 1.66971219735039
+    someHS: 0.581919481255312,
+    finishedHS: 0.823444238093739,
+    someCollege: 0.975888444710252,
+    bachelors: 1.16012464981586,
+    graduateSchool: 1.61068966602663
   },
   'Berkeley County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.1378776664737,
-    someHS: 0.756934020753116,
-    finishedHS: 0.88468315603994,
-    someCollege: 1.3150492723357,
-    bachelors: 1.49905371010899,
-    graduateSchool: 2.14256346668407
+    someHS: 0.627437721457358,
+    finishedHS: 0.733331530118201,
+    someCollege: 1.09007059587244,
+    bachelors: 1.24259554786184,
+    graduateSchool: 1.7760136323064
   },
   'Charleston County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.16628536672944,
-    someHS: 0.563368792012008,
-    finishedHS: 0.889186190693728,
-    someCollege: 1.03553481694185,
-    bachelors: 1.5502838869673,
-    graduateSchool: 1.86024277230307
+    someHS: 0.455613025808835,
+    finishedHS: 0.719111204940096,
+    someCollege: 0.83746767298253,
+    bachelors: 1.2537604897873,
+    graduateSchool: 1.50443341953871
   },
   'Darlington County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.893780731773448,
-    someHS: 0.534066436076486,
-    finishedHS: 0.876688637995171,
-    someCollege: 0.890654571559094,
-    bachelors: 1.35596815245056,
-    graduateSchool: 1.63505840892776
+    someHS: 0.563601928374656,
+    finishedHS: 0.92517217630854,
+    someCollege: 0.939910468319559,
+    bachelors: 1.43095730027548,
+    graduateSchool: 1.72548209366391
   },
   'Dorchester County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.16345382997589,
-    someHS: 0.818181818181818,
-    finishedHS: 1.00949552959603,
-    someCollege: 1.17656464138876,
-    bachelors: 1.51667428049338,
-    graduateSchool: 1.90984141486654
+    someHS: 0.663298238188456,
+    finishedHS: 0.818395852071319,
+    someCollege: 0.953838421247553,
+    bachelors: 1.229564573303,
+    graduateSchool: 1.54830432252262
   },
   'Florence County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.938839099243018,
-    someHS: 0.534588527050839,
-    finishedHS: 0.851399856424982,
-    someCollege: 0.893591333289826,
-    bachelors: 1.29739607126542,
-    graduateSchool: 1.81991124453436
+    someHS: 0.537077104642014,
+    finishedHS: 0.855363231051665,
+    someCollege: 0.89775111460792,
+    bachelors: 1.30343561500131,
+    graduateSchool: 1.82838316286389
   },
   'Greenville County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.05425499952368,
-    someHS: 0.541440971089212,
-    finishedHS: 0.878385433661816,
-    someCollege: 1.03775370358285,
-    bachelors: 1.57965150427462,
-    graduateSchool: 1.87580760947595
+    someHS: 0.484410579786302,
+    finishedHS: 0.785864424592748,
+    someCollege: 0.928446312839376,
+    bachelors: 1.41326560401705,
+    graduateSchool: 1.67822736030829
   },
   'Greenwood County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.907322864073045,
-    someHS: 0.73467989297135,
-    finishedHS: 0.748221627618613,
-    someCollege: 0.870880375905501,
-    bachelors: 1.49722639169875,
-    graduateSchool: 1.67796776088233
+    someHS: 0.763738127544098,
+    finishedHS: 0.777815468113976,
+    someCollege: 0.905325644504749,
+    bachelors: 1.55644504748982,
+    graduateSchool: 1.74433514246947
   },
   'Horry County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.835026344137239,
-    someHS: 0.635384715786726,
-    finishedHS: 0.728284278535535,
-    someCollege: 0.883638974091235,
-    bachelors: 1.30620635645761,
-    graduateSchool: 1.65019904718397
+    someHS: 0.717702996572187,
+    finishedHS: 0.822638310419815,
+    someCollege: 0.998120231469537,
+    bachelors: 1.4754340053813,
+    graduateSchool: 1.86399321809001
   },
   'Lancaster County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.0012560181148,
-    someHS: 0.789075246361678,
-    finishedHS: 0.848006265091692,
-    someCollege: 1.15489786595314,
-    bachelors: 1.37515499575801,
-    graduateSchool: 1.50469881876917
+    someHS: 0.743329644657568,
+    finishedHS: 0.798844214926841,
+    someCollege: 1.08794417804008,
+    bachelors: 1.29543218984385,
+    graduateSchool: 1.41746587974917
   },
   'Laurens County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.943578845547877,
-    someHS: 0.745611172746851,
-    finishedHS: 0.947203550218626,
-    someCollege: 1.01938262742283,
-    bachelors: 1.21800561247797,
-    graduateSchool: 1.97640801409646
+    someHS: 0.745319329375693,
+    finishedHS: 0.946832800574075,
+    someCollege: 1.01898362580729,
+    bachelors: 1.21752886685368,
+    graduateSchool: 1.9756344184226
   },
   'Lexington County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.13095271245686,
-    someHS: 0.727762187561182,
-    finishedHS: 0.892742935456503,
-    someCollege: 1.20417020165764,
-    bachelors: 1.52476669059584,
-    graduateSchool: 1.67999086340795
+    someHS: 0.60695041637185,
+    finishedHS: 0.744543623795787,
+    someCollege: 1.00427257388559,
+    bachelors: 1.27164861481522,
+    graduateSchool: 1.40110488216405
   },
   'Oconee County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.889071763041997,
-    someHS: 0.400411146642302,
-    finishedHS: 0.834856098675194,
-    someCollege: 0.988122430333486,
-    bachelors: 1.37443712066828,
-    graduateSchool: 2.03315277687137
+    someHS: 0.42479315955274,
+    finishedHS: 0.88569252604978,
+    someCollege: 1.0482916190674,
+    bachelors: 1.45812995465088,
+    graduateSchool: 2.15695641638107
   },
   'Orangeburg County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.891010750166712,
-    someHS: 0.407557266853749,
-    finishedHS: 0.834497161130327,
-    someCollege: 0.982738367160478,
-    bachelors: 1.05119754617242,
-    graduateSchool: 1.2155256803498
+    someHS: 0.431433506044905,
+    finishedHS: 0.883385146804836,
+    someCollege: 1.04031088082902,
+    bachelors: 1.11278065630397,
+    graduateSchool: 1.28673575129534
   },
   'Pickens County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.03283380843159,
-    someHS: 0.764798016054297,
-    finishedHS: 1.00032630685897,
-    someCollege: 1.06137832017229,
-    bachelors: 1.66494811720942,
-    graduateSchool: 1.75918553808001
+    someHS: 0.698432564515168,
+    finishedHS: 0.913522855950891,
+    someCollege: 0.96927707253114,
+    bachelors: 1.52047201859467,
+    graduateSchool: 1.60653197449192
   },
   'Richland County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.0396356521548,
-    someHS: 0.643379233831495,
-    finishedHS: 0.790249951053971,
-    someCollege: 1.01569535991647,
-    bachelors: 1.49732428375644,
-    graduateSchool: 1.64168243816485
+    someHS: 0.583705852748749,
+    finishedHS: 0.716954320731816,
+    someCollege: 0.921489682939104,
+    bachelors: 1.35844755617395,
+    graduateSchool: 1.48941650137659
   },
   'Spartanburg County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.975310523731707,
-    someHS: 0.62680284539581,
-    finishedHS: 0.88589049141813,
-    someCollege: 1.04946811981988,
-    bachelors: 1.32017229002154,
-    graduateSchool: 1.97242707041702
+    someHS: 0.606172488876266,
+    finishedHS: 0.856732620152103,
+    someCollege: 1.01492631512512,
+    bachelors: 1.2767206286093,
+    graduateSchool: 1.9075073369308
   },
   'Sumter County': {
     state: 'South Carolina',
     countyToStateAdjustment: 0.938100437481222,
-    someHS: 0.774163022906742,
-    finishedHS: 0.724858056516348,
-    someCollege: 1.01253018338445,
-    bachelors: 1.26443907850943,
-    graduateSchool: 1.47063238269268
+    someHS: 0.778379265091864,
+    finishedHS: 0.728805774278215,
+    someCollege: 1.01804461942257,
+    bachelors: 1.27132545931759,
+    graduateSchool: 1.47864173228346
   },
   'York County': {
     state: 'South Carolina',
     countyToStateAdjustment: 1.13252236870067,
-    someHS: 0.696534621157737,
-    finishedHS: 0.977125889186191,
-    someCollege: 1.13626574430595,
-    bachelors: 1.67594465835672,
-    graduateSchool: 1.97392808196828
+    someHS: 0.580101638720548,
+    finishedHS: 0.813789167595184,
+    someCollege: 0.946327146234747,
+    bachelors: 1.39579313530994,
+    graduateSchool: 1.64396554066908
   },
   'Minnehaha County': {
     state: 'South Dakota',
     countyToStateAdjustment: 1.06458673826757,
-    someHS: 1.03664426026235,
-    finishedHS: 0.981433139724597,
-    someCollege: 1.15307054754291,
-    bachelors: 1.37264243294394,
-    graduateSchool: 1.66576388435685
+    someHS: 0.870932368341695,
+    finishedHS: 0.824546974806042,
+    someCollege: 0.968747429887326,
+    bachelors: 1.15321983715766,
+    graduateSchool: 1.39948460673849
   },
   'Pennington County': {
     state: 'South Dakota',
     countyToStateAdjustment: 0.935413261732431,
-    someHS: 0.663969196632513,
-    finishedHS: 0.877308621027214,
-    someCollege: 0.996867454153886,
-    bachelors: 1.27207465900933,
-    graduateSchool: 1.58712393134504
+    someHS: 0.634863186796044,
+    finishedHS: 0.838850581885121,
+    someCollege: 0.953168387881813,
+    bachelors: 1.21631150354123,
+    graduateSchool: 1.51755015444136
   },
   'Anderson County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.898575234934665,
-    someHS: 0.582131436402793,
-    finishedHS: 0.833714024668799,
-    someCollege: 0.989329765711675,
-    bachelors: 1.4080467271422,
-    graduateSchool: 1.97683221301312
+    someHS: 0.575929752066116,
+    finishedHS: 0.824832128099173,
+    someCollege: 0.978790030991736,
+    bachelors: 1.39304622933884,
+    graduateSchool: 1.9557722107438
   },
   'Blount County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.919113434390171,
-    someHS: 0.551556483717288,
-    finishedHS: 0.883965280950206,
-    someCollege: 1.03546955557006,
-    bachelors: 1.27399986947726,
-    graduateSchool: 2.01112706389088
+    someHS: 0.533486933467996,
+    finishedHS: 0.855005681100871,
+    someCollege: 1.0015465219038,
+    bachelors: 1.23226234061356,
+    graduateSchool: 1.94524049993688
   },
   'Bradley County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.92662670227008,
-    someHS: 0.715199373490831,
-    finishedHS: 0.928473536513738,
-    someCollege: 1.14031194935718,
-    bachelors: 1.25292044638778,
-    graduateSchool: 1.69336944462573
+    someHS: 0.686159722004821,
+    finishedHS: 0.89077419152866,
+    someCollege: 1.09401120746329,
+    bachelors: 1.20204739692577,
+    graduateSchool: 1.62461259117804
   },
   'Davidson County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.03279875030278,
-    someHS: 0.669679566664491,
-    finishedHS: 0.865920511649155,
-    someCollege: 1.03458852705084,
-    bachelors: 1.49592116426287,
-    graduateSchool: 1.83058147882268
+    someHS: 0.576440187624638,
+    finishedHS: 0.745358537201921,
+    someCollege: 0.890542931775412,
+    bachelors: 1.28764429963767,
+    graduateSchool: 1.57570991208606
   },
   'Greene County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.810591677097732,
-    someHS: 0.674476277491353,
-    finishedHS: 0.823892188213796,
-    someCollege: 0.895875481302617,
-    bachelors: 1.30610846439992,
-    graduateSchool: 1.57299484435163
+    someHS: 0.739720144580038,
+    finishedHS: 0.903589449951687,
+    someCollege: 0.982535876605948,
+    bachelors: 1.43245177683141,
+    graduateSchool: 1.72515477937229
   },
   'Hamilton County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.01614772419055,
-    someHS: 0.67144162370293,
-    finishedHS: 0.90109639104614,
-    someCollege: 1.03126019708934,
-    bachelors: 1.41199504013574,
-    graduateSchool: 1.99729165307055
+    someHS: 0.587427560021696,
+    finishedHS: 0.788346798367067,
+    someCollege: 0.902223871649205,
+    bachelors: 1.23531930686003,
+    graduateSchool: 1.74738074167119
   },
   'Knox County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.04245866614838,
-    someHS: 0.627814396658618,
-    finishedHS: 0.862461658944071,
-    someCollege: 1.00740716569862,
-    bachelors: 1.47569013900672,
-    graduateSchool: 1.97366703648111
+    someHS: 0.535396260017809,
+    finishedHS: 0.735502003561888,
+    someCollege: 0.859110641139804,
+    bachelors: 1.25845948352627,
+    graduateSchool: 1.68313112199466
   },
   'Madison County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.909308474763107,
-    someHS: 0.674378385433662,
-    finishedHS: 0.761991777067154,
-    someCollege: 1.00995235919859,
-    bachelors: 1.34833257195066,
-    graduateSchool: 1.72055080597794
+    someHS: 0.659318573342691,
+    finishedHS: 0.74497543546226,
+    someCollege: 0.987398711159319,
+    bachelors: 1.31822242072354,
+    graduateSchool: 1.68212850124418
   },
   'Maury County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.96242350753575,
-    someHS: 0.704496508516609,
-    finishedHS: 0.892840827514194,
-    someCollege: 1.19049794426679,
-    bachelors: 1.36148273836716,
-    graduateSchool: 1.50515564837173
+    someHS: 0.650752027006661,
+    finishedHS: 0.824727974198993,
+    someCollege: 1.09967748741598,
+    bachelors: 1.25761822949634,
+    graduateSchool: 1.39033065075203
   },
   'Montgomery County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.949253532178688,
-    someHS: 0.855707106963388,
-    finishedHS: 0.885727337988645,
-    someCollege: 1.03481694185212,
-    bachelors: 1.34653788422633,
-    graduateSchool: 1.74130392220844
+    someHS: 0.801393515264493,
+    finishedHS: 0.829508296916542,
+    someCollege: 0.969134859273294,
+    bachelors: 1.26107019527549,
+    graduateSchool: 1.63077957399994
   },
   'Putnam County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.922246380069824,
-    someHS: 0.840860144880245,
-    finishedHS: 0.896528095020557,
-    someCollege: 0.820400704822815,
-    bachelors: 1.43411864517392,
-    graduateSchool: 1.45151080075703
+    someHS: 0.810549823855058,
+    finishedHS: 0.864211122294917,
+    someCollege: 0.790827881227982,
+    bachelors: 1.38242325113236,
+    graduateSchool: 1.39918847508807
   },
   'Robertson County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.00016389947306,
-    someHS: 0.812863016380604,
-    finishedHS: 0.981498401096391,
-    someCollege: 1.15215688833779,
-    bachelors: 1.38592312210403,
-    graduateSchool: 1.8686614892645
+    someHS: 0.722518707581646,
+    finishedHS: 0.872411392772203,
+    someCollege: 1.024102326121,
+    bachelors: 1.23188700040606,
+    graduateSchool: 1.66097221416555
   },
   'Rutherford County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.07303389528129,
-    someHS: 0.751452065522417,
-    finishedHS: 1.03674215232004,
-    someCollege: 1.21709195327286,
-    bachelors: 1.36024277230307,
-    graduateSchool: 1.76029498140051
+    someHS: 0.62257366855907,
+    finishedHS: 0.858934847256015,
+    someCollege: 1.00835360908354,
+    bachelors: 1.12695323060287,
+    graduateSchool: 1.45839416058394
   },
   'Sevier County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.760986703836553,
-    someHS: 0.647197024081446,
-    finishedHS: 0.76532010702865,
-    someCollege: 0.836161326111075,
-    bachelors: 1.253801474907,
-    graduateSchool: 1.37894015532206
+    someHS: 0.756070598101628,
+    finishedHS: 0.894064727633134,
+    someCollege: 0.976823085426753,
+    bachelors: 1.46472000914878,
+    graduateSchool: 1.61090992261655
   },
   'Shelby County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.948586330783947,
-    someHS: 0.584546107159172,
-    finishedHS: 0.804607452848659,
-    someCollege: 1.02062259348692,
-    bachelors: 1.55433009201853,
-    graduateSchool: 2.00616719963454
+    someHS: 0.54782874617737,
+    finishedHS: 0.754067278287462,
+    someCollege: 0.95651376146789,
+    bachelors: 1.45669724770642,
+    graduateSchool: 1.88015290519878
   },
   'Sullivan County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.894543017809926,
-    someHS: 0.540103112967435,
-    finishedHS: 0.83665078639953,
-    someCollege: 0.894374469751354,
-    bachelors: 1.35910069829668,
-    graduateSchool: 1.85156300985447
+    someHS: 0.536757790965399,
+    finishedHS: 0.831468690209813,
+    someCollege: 0.88883484126212,
+    bachelors: 1.35068262152609,
+    graduateSchool: 1.8400946914421
   },
   'Sumner County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.07822646265775,
-    someHS: 0.796743457547478,
-    finishedHS: 1.01256281407035,
-    someCollege: 1.18034980095282,
-    bachelors: 1.66263133851074,
-    graduateSchool: 1.67059322586961
+    someHS: 0.65691839974172,
+    finishedHS: 0.834862385321101,
+    someCollege: 0.973203476014959,
+    bachelors: 1.37084667330302,
+    graduateSchool: 1.37741128359655
   },
   'Washington County': {
     state: 'Tennessee',
     countyToStateAdjustment: 0.941218106685503,
-    someHS: 0.678065652940025,
-    finishedHS: 0.865659466161979,
-    someCollege: 0.989362396397572,
-    bachelors: 1.38386738889251,
-    graduateSchool: 2.21317627096522
+    someHS: 0.640448745608087,
+    finishedHS: 0.817635455834309,
+    someCollege: 0.934475744313629,
+    bachelors: 1.30709486531468,
+    graduateSchool: 2.09039635085989
   },
   'Williamson County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.74870584685987,
-    someHS: 0.760262350714612,
-    finishedHS: 1.14954643346603,
-    someCollege: 1.47422175814136,
-    bachelors: 2.15375579194675,
-    graduateSchool: 2.99539907328852
+    someHS: 0.386500116120898,
+    finishedHS: 0.584403304468996,
+    someCollege: 0.749460867257224,
+    bachelors: 1.09492054012806,
+    graduateSchool: 1.52279287349458
   },
   'Wilson County': {
     state: 'Tennessee',
     countyToStateAdjustment: 1.16499165273038,
-    someHS: 0.990732885205247,
-    finishedHS: 0.905729948443516,
-    someCollege: 1.30643477125889,
-    bachelors: 1.63841936957515,
-    graduateSchool: 1.78287541604125
+    someHS: 0.756025896414343,
+    finishedHS: 0.691160358565737,
+    someCollege: 0.996937250996016,
+    bachelors: 1.25027390438247,
+    graduateSchool: 1.36050796812749
   },
   'Angelina County': {
     state: 'Texas',
     countyToStateAdjustment: 0.852542055716276,
-    someHS: 0.71170789009985,
-    finishedHS: 0.719735038830516,
-    someCollege: 1.02062259348692,
-    bachelors: 1.37665600730927,
-    graduateSchool: 1.98769823141682
+    someHS: 0.702855117298273,
+    finishedHS: 0.710782418149007,
+    someCollege: 1.00792730085073,
+    bachelors: 1.35953209590101,
+    graduateSchool: 1.96297370456303
   },
   'Bastrop County': {
     state: 'Texas',
     countyToStateAdjustment: 0.961719747435033,
-    someHS: 0.67111531684396,
-    finishedHS: 1.11903674215232,
-    someCollege: 1.1105527638191,
-    bachelors: 1.61933041832539,
-    graduateSchool: 1.48786138484631
+    someHS: 0.587527852368165,
+    finishedHS: 0.979660629606353,
+    someCollege: 0.972233331428898,
+    bachelors: 1.4176426898246,
+    graduateSchool: 1.3025481346055
   },
   'Bell County': {
     state: 'Texas',
     countyToStateAdjustment: 0.856772897317858,
-    someHS: 0.530672844743197,
-    finishedHS: 0.867584676629903,
-    someCollege: 0.968119819878614,
-    bachelors: 1.52855185015989,
-    graduateSchool: 2.05664687071722
+    someHS: 0.521483999230424,
+    finishedHS: 0.852562047072404,
+    someCollege: 0.951356377861861,
+    bachelors: 1.50208426858206,
+    graduateSchool: 2.02103507984352
   },
   'Bexar County': {
     state: 'Texas',
     countyToStateAdjustment: 0.898669218372489,
-    someHS: 0.666383867388893,
-    finishedHS: 0.857012334399269,
-    someCollege: 1.05775631403772,
-    bachelors: 1.64302029628663,
-    graduateSchool: 2.14474972263917
+    someHS: 0.624315979334169,
+    finishedHS: 0.802910335972609,
+    someCollege: 0.990981626975635,
+    bachelors: 1.53929870685702,
+    graduateSchool: 2.00935465134053
   },
   'Bowie County': {
     state: 'Texas',
     countyToStateAdjustment: 0.860701535947899,
-    someHS: 0.543007244012269,
-    finishedHS: 1.1444560464661,
-    someCollege: 0.959276904000522,
-    bachelors: 1.33903282647001,
-    graduateSchool: 1.62944593095347
+    someHS: 0.531169204251652,
+    finishedHS: 1.11950588911232,
+    someCollege: 0.938363816272463,
+    bachelors: 1.30984072265313,
+    graduateSchool: 1.59392256375882
   },
   'Brazoria County': {
     state: 'Texas',
     countyToStateAdjustment: 1.31595657607662,
-    someHS: 0.792436207009071,
-    finishedHS: 1.15176532010703,
-    someCollege: 1.51507537688442,
-    bachelors: 1.91535600078314,
-    graduateSchool: 2.46492201266071
+    someHS: 0.506993736951983,
+    finishedHS: 0.736889352818372,
+    someCollege: 0.969331941544885,
+    bachelors: 1.22542797494781,
+    graduateSchool: 1.57703549060543
   },
   'Brazos County': {
     state: 'Texas',
     countyToStateAdjustment: 0.888751466306442,
-    someHS: 0.711903674215232,
-    finishedHS: 0.891339815962932,
-    someCollege: 0.99158128303857,
-    bachelors: 1.34164328134177,
-    graduateSchool: 1.81795340338054
+    someHS: 0.674404945904173,
+    finishedHS: 0.844389489953632,
+    someCollege: 0.93935085007728,
+    bachelors: 1.27097372488408,
+    graduateSchool: 1.72219474497682
   },
   'Cameron County': {
     state: 'Texas',
     countyToStateAdjustment: 0.645093452251671,
-    someHS: 0.493343340077008,
-    finishedHS: 0.681981335247667,
-    someCollege: 0.838445474123866,
-    bachelors: 1.38145271813614,
-    graduateSchool: 1.8522482542583
+    someHS: 0.643882287807163,
+    finishedHS: 0.89008134236191,
+    someCollege: 1.09428899961671,
+    bachelors: 1.80298965120736,
+    graduateSchool: 2.41744389080533
   },
   'Collin County': {
     state: 'Texas',
     countyToStateAdjustment: 1.42488701081866,
-    someHS: 0.644358154408406,
-    finishedHS: 1.05240488155061,
-    someCollege: 1.43731645239183,
-    bachelors: 2.1411277165046,
-    graduateSchool: 2.76979051099654
+    someHS: 0.3807384556059,
+    finishedHS: 0.621845174973489,
+    someCollege: 0.84928178926058,
+    bachelors: 1.26514990841608,
+    graduateSchool: 1.63661428709149
   },
   'Comal County': {
     state: 'Texas',
     countyToStateAdjustment: 1.04369917171505,
-    someHS: 0.855837629706976,
-    finishedHS: 1.00267571624356,
-    someCollege: 1.22188866409972,
-    bachelors: 1.55964889381975,
-    graduateSchool: 2.31237355609215
+    someHS: 0.690392208475915,
+    finishedHS: 0.808844432745459,
+    someCollege: 0.985680442221637,
+    bachelors: 1.25814688075809,
+    graduateSchool: 1.86535930508028
   },
   'Coryell County': {
     state: 'Texas',
     countyToStateAdjustment: 0.874712764628464,
-    someHS: 0.39956274880898,
-    finishedHS: 0.815701886053645,
-    someCollege: 1.17842459048489,
-    bachelors: 1.34037068459179,
-    graduateSchool: 1.42759250799452
+    someHS: 0.384591224598763,
+    finishedHS: 0.785137724174754,
+    someCollege: 1.13426929237727,
+    bachelors: 1.29014730362134,
+    graduateSchool: 1.37410094538145
   },
   'Dallas County': {
     state: 'Texas',
     countyToStateAdjustment: 0.943422731158059,
-    someHS: 0.715590941721595,
-    finishedHS: 0.883018991059192,
-    someCollege: 1.10340664360765,
-    bachelors: 1.72988318214449,
-    graduateSchool: 2.33537818964955
+    someHS: 0.638613861386139,
+    finishedHS: 0.788031450203844,
+    someCollege: 0.984711706464764,
+    bachelors: 1.54379732090856,
+    graduateSchool: 2.08415841584158
   },
   'Denton County': {
     state: 'Texas',
     countyToStateAdjustment: 1.24977412530901,
-    someHS: 0.782092279579717,
-    finishedHS: 0.989819226000131,
-    someCollege: 1.32676368857273,
-    bachelors: 1.82017229002154,
-    graduateSchool: 2.51576062128826
+    someHS: 0.526873447495109,
+    finishedHS: 0.666813215800928,
+    someCollege: 0.893803169857774,
+    bachelors: 1.22619858873184,
+    graduateSchool: 1.69479677298806
   },
   'Ector County': {
     state: 'Texas',
     countyToStateAdjustment: 1.06202366098943,
-    someHS: 1.00123996606409,
-    finishedHS: 1.05677739346081,
-    someCollege: 1.31380930627162,
-    bachelors: 1.78907524636168,
-    graduateSchool: 1.77631664817594
+    someHS: 0.793750161678351,
+    finishedHS: 0.837778410119771,
+    someCollege: 1.04154486897586,
+    bachelors: 1.4183200972657,
+    graduateSchool: 1.40820549965077
   },
   'Ellis County': {
     state: 'Texas',
     countyToStateAdjustment: 1.12446978410889,
-    someHS: 0.844808457873785,
-    finishedHS: 1.13858252300463,
-    someCollege: 1.3807348430464,
-    bachelors: 1.70981531031782,
-    graduateSchool: 1.88282320694381
+    someHS: 0.632543366723675,
+    finishedHS: 0.852504275592475,
+    someCollege: 1.03381382848766,
+    bachelors: 1.2802101148302,
+    graduateSchool: 1.4097483508429
   },
   'El Paso County': {
     state: 'Texas',
     countyToStateAdjustment: 0.829327372902398,
-    someHS: 0.570808588396528,
-    finishedHS: 0.774652483195197,
-    someCollege: 0.982542583045096,
-    bachelors: 1.48528356066045,
-    graduateSchool: 1.82836259218169
+    someHS: 0.579487859012158,
+    finishedHS: 0.786431245238016,
+    someCollege: 0.997482359956273,
+    bachelors: 1.50786762513665,
+    graduateSchool: 1.85616324908073
   },
   'Fort Bend County': {
     state: 'Texas',
     countyToStateAdjustment: 1.41680994957927,
-    someHS: 0.859622789271031,
-    finishedHS: 0.900509038699993,
-    someCollege: 1.37035828493115,
-    bachelors: 2.25879396984925,
-    graduateSchool: 3.26861580630425
+    someHS: 0.510829729886952,
+    finishedHS: 0.535126330689729,
+    someCollege: 0.814333637121638,
+    bachelors: 1.3422853929534,
+    graduateSchool: 1.94237071222199
   },
   'Galveston County': {
     state: 'Texas',
     countyToStateAdjustment: 1.27897792155889,
-    someHS: 0.725575931606082,
-    finishedHS: 1.09345428440906,
-    someCollege: 1.37110879070678,
-    bachelors: 2.05899628010181,
-    graduateSchool: 2.13097957319063
+    someHS: 0.477638870988529,
+    finishedHS: 0.719809253769816,
+    someCollege: 0.902586243931778,
+    bachelors: 1.35541521673755,
+    graduateSchool: 1.40280104824505
   },
   'Grayson County': {
     state: 'Texas',
     countyToStateAdjustment: 0.86740494731664,
-    someHS: 0.520165763884357,
-    finishedHS: 1.00515564837173,
-    someCollege: 1.00153364223716,
-    bachelors: 1.42335051882791,
-    graduateSchool: 2.16612282190172
+    someHS: 0.5048934215944,
+    finishedHS: 0.975643746238875,
+    someCollege: 0.97212808412251,
+    bachelors: 1.38156019383651,
+    graduateSchool: 2.10252430874481
   },
   'Gregg County': {
     state: 'Texas',
     countyToStateAdjustment: 0.855976180392885,
-    someHS: 0.750048946028846,
-    finishedHS: 0.684298113946355,
-    someCollege: 1.00959342165372,
-    bachelors: 1.52633296351889,
-    graduateSchool: 2.10197089342818
+    someHS: 0.737747536669127,
+    finishedHS: 0.673075071412524,
+    someCollege: 0.993035272972366,
+    bachelors: 1.50129986840838,
+    graduateSchool: 2.06749687068716
   },
   'Guadalupe County': {
     state: 'Texas',
     countyToStateAdjustment: 1.01468768644705,
-    someHS: 0.694511518632122,
-    finishedHS: 0.87101089864909,
-    someCollege: 1.17584676629903,
-    bachelors: 1.70727011681786,
-    graduateSchool: 1.98453305488481
+    someHS: 0.576271186440678,
+    finishedHS: 0.722721611523258,
+    someCollege: 0.975659284128445,
+    bachelors: 1.41660800346564,
+    graduateSchool: 1.64666702767098
   },
   'Harris County': {
     state: 'Texas',
     countyToStateAdjustment: 1.01303930660228,
-    someHS: 0.722149709586896,
-    finishedHS: 0.890132480584742,
-    someCollege: 1.17786986882464,
-    bachelors: 1.93960060040462,
-    graduateSchool: 2.454055994257
+    someHS: 0.600178987904757,
+    finishedHS: 0.739789553615013,
+    someCollege: 0.97892824212182,
+    bachelors: 1.6120030373705,
+    graduateSchool: 2.03956717470304
   },
   'Harrison County': {
     state: 'Texas',
     countyToStateAdjustment: 0.846250739308728,
-    someHS: 0.763068589701756,
-    finishedHS: 0.991777067153952,
-    someCollege: 0.932846048423938,
-    bachelors: 1.58242511257587,
-    graduateSchool: 2.14178033022254
+    someHS: 0.759179300717463,
+    finishedHS: 0.986722072525403,
+    someCollege: 0.928091419666916,
+    bachelors: 1.57435964029478,
+    graduateSchool: 2.13086387689511
   },
   'Hays County': {
     state: 'Texas',
     countyToStateAdjustment: 1.02897364510175,
-    someHS: 0.73370097239444,
-    finishedHS: 0.936598577302095,
-    someCollege: 1.17793513019644,
-    bachelors: 1.66289238399791,
-    graduateSchool: 1.89319976505906
+    someHS: 0.600336412666204,
+    finishedHS: 0.766353393496022,
+    someCollege: 0.963822288674107,
+    bachelors: 1.36062903828697,
+    graduateSchool: 1.54907353019704
   },
   'Henderson County': {
     state: 'Texas',
     countyToStateAdjustment: 0.878366673284376,
-    someHS: 0.553122756640345,
-    finishedHS: 0.975657508320825,
-    someCollege: 0.996019056320564,
-    bachelors: 1.60040462050512,
-    graduateSchool: 1.32774260914964
+    someHS: 0.530182659827349,
+    finishedHS: 0.935193294132366,
+    someCollege: 0.954710371575128,
+    bachelors: 1.53402977605405,
+    graduateSchool: 1.27267609158013
   },
   'Hidalgo County': {
     state: 'Texas',
     countyToStateAdjustment: 0.640175785714767,
-    someHS: 0.494974874371859,
-    finishedHS: 0.709782679631926,
-    someCollege: 0.835573973764929,
-    bachelors: 1.41594335312928,
-    graduateSchool: 1.80268224238073
+    someHS: 0.650974165307699,
+    finishedHS: 0.933482104540383,
+    someCollege: 1.09891854776414,
+    bachelors: 1.86220066947043,
+    graduateSchool: 2.37082653849455
   },
   'Hunt County': {
     state: 'Texas',
     countyToStateAdjustment: 0.923230078059598,
-    someHS: 0.683645500228415,
-    finishedHS: 1.04969653462116,
-    someCollege: 1.04653135808915,
-    bachelors: 1.56630555374274,
-    graduateSchool: 1.36308164197611
+    someHS: 0.623448891533998,
+    finishedHS: 0.957268263651242,
+    someCollege: 0.954381788424342,
+    bachelors: 1.42838863264395,
+    graduateSchool: 1.24305906859098
   },
   'Jefferson County': {
     state: 'Texas',
     countyToStateAdjustment: 1.01303930660228,
-    someHS: 0.841447497226392,
-    finishedHS: 0.977745872218234,
-    someCollege: 1.18694119950401,
-    bachelors: 1.69297787639496,
-    graduateSchool: 1.94103635058409
+    someHS: 0.699327439388187,
+    finishedHS: 0.812605087595596,
+    someCollege: 0.98646742962521,
+    bachelors: 1.40703476704453,
+    graduateSchool: 1.61319629006888
   },
   'Johnson County': {
     state: 'Texas',
     countyToStateAdjustment: 1.08518339780848,
-    someHS: 0.955915943353129,
-    finishedHS: 1.00952816028193,
-    someCollege: 1.31573451673954,
-    bachelors: 1.69170527964498,
-    graduateSchool: 1.69836193956797
+    someHS: 0.741645569620253,
+    finishedHS: 0.783240506329114,
+    someCollege: 1.02081012658228,
+    bachelors: 1.31250632911392,
+    graduateSchool: 1.31767088607595
   },
   'Kaufman County': {
     state: 'Texas',
     countyToStateAdjustment: 1.03683092236183,
-    someHS: 0.49288651047445,
-    finishedHS: 1.05537427396724,
-    someCollege: 1.22312863016381,
-    bachelors: 1.68867062585656,
-    graduateSchool: 1.95885270508386
+    someHS: 0.400238473767886,
+    finishedHS: 0.856995230524642,
+    someCollege: 0.993216746157923,
+    bachelors: 1.37125066242713,
+    graduateSchool: 1.59064652888182
   },
   'Liberty County': {
     state: 'Texas',
     countyToStateAdjustment: 1.10834313462754,
-    someHS: 1.02440775305097,
-    finishedHS: 1.29928865104745,
-    someCollege: 1.21634144749723,
-    bachelors: 1.80408536187431,
-    graduateSchool: 1.95434967043007
+    someHS: 0.778177131100811,
+    finishedHS: 0.986986589990829,
+    someCollege: 0.923976898098803,
+    bachelors: 1.37044840492774,
+    graduateSchool: 1.4845946012939
   },
   'Lubbock County': {
     state: 'Texas',
     countyToStateAdjustment: 0.887185505453908,
-    someHS: 0.680643477125889,
-    finishedHS: 0.847386282059649,
-    someCollege: 1.06447823533251,
-    bachelors: 1.51360699601906,
-    graduateSchool: 1.67640148795928
+    someHS: 0.645929458396557,
+    finishedHS: 0.804168085962902,
+    someCollege: 1.01018796643235,
+    bachelors: 1.43641036757192,
+    graduateSchool: 1.59090205307652
   },
   'McLennan County': {
     state: 'Texas',
     countyToStateAdjustment: 0.875317170571547,
-    someHS: 0.687039091561705,
-    finishedHS: 0.883965280950206,
-    someCollege: 1.03765581152516,
-    bachelors: 1.52228675846766,
-    graduateSchool: 1.97259022384651
+    someHS: 0.660839270581589,
+    finishedHS: 0.850255798625279,
+    someCollege: 0.99808543360221,
+    bachelors: 1.46423527196259,
+    graduateSchool: 1.89736668654468
   },
   'Midland County': {
     state: 'Texas',
     countyToStateAdjustment: 1.37691915733578,
-    someHS: 1.19735038830516,
-    finishedHS: 1.33204985968805,
-    someCollege: 1.55462376819161,
-    bachelors: 1.85688181165568,
-    graduateSchool: 3.30320433335509
+    someHS: 0.732137512719727,
+    finishedHS: 0.81450148646222,
+    someCollege: 0.950597577764919,
+    bachelors: 1.13541770586005,
+    graduateSchool: 2.01979289291486
   },
   'Montgomery County': {
     state: 'Texas',
     countyToStateAdjustment: 1.2499664362909,
-    someHS: 0.773281994387522,
-    finishedHS: 1.03321803824316,
-    someCollege: 1.34382953729687,
-    bachelors: 1.95970110291718,
-    graduateSchool: 2.6334595053188
+    someHS: 0.520858059694932,
+    finishedHS: 0.695942678799068,
+    someCollege: 0.905160666402919,
+    bachelors: 1.31999208756429,
+    graduateSchool: 1.77381423359269
   },
   'Nacogdoches County': {
     state: 'Texas',
     countyToStateAdjustment: 0.89303725390285,
-    someHS: 0.741238660836651,
-    finishedHS: 0.842654832604581,
-    someCollege: 1.07674737322979,
-    bachelors: 1.48932976571168,
-    graduateSchool: 2.5219278209228
+    someHS: 0.698824832338645,
+    finishedHS: 0.794437949916938,
+    someCollege: 1.01513566726143,
+    bachelors: 1.40411001045961,
+    graduateSchool: 2.37762259275211
   },
   'Nueces County': {
     state: 'Texas',
     countyToStateAdjustment: 0.880564513077406,
-    someHS: 0.665078639953012,
-    finishedHS: 0.9234157801997,
-    someCollege: 1.11518632121647,
-    bachelors: 1.55765842198003,
-    graduateSchool: 2.01768583175618
+    someHS: 0.635904155746911,
+    finishedHS: 0.882909022837888,
+    someCollege: 1.06626731561213,
+    bachelors: 1.48932983901161,
+    graduateSchool: 1.92917758642206
   },
   'Orange County': {
     state: 'Texas',
     countyToStateAdjustment: 1.02188561176922,
-    someHS: 0.694576780003916,
-    finishedHS: 1.14840435945964,
-    someCollege: 1.31850812504079,
-    bachelors: 1.6367878352803,
-    graduateSchool: 1.75389936696469
+    someHS: 0.572265835036025,
+    finishedHS: 0.94617700828046,
+    someCollege: 1.086326486719,
+    bachelors: 1.34855898483708,
+    graduateSchool: 1.44504785460802
   },
   'Parker County': {
     state: 'Texas',
     countyToStateAdjustment: 1.08941423941007,
-    someHS: 0.854858709130066,
-    finishedHS: 1.05811525158259,
-    someCollege: 1.28790054166939,
-    bachelors: 1.96766299027606,
-    graduateSchool: 2.03047706062781
+    someHS: 0.660664750088264,
+    finishedHS: 0.817748524738992,
+    someCollege: 0.995334644676451,
+    bachelors: 1.52067887224492,
+    graduateSchool: 1.56922378574671
   },
   'Potter County': {
     state: 'Texas',
     countyToStateAdjustment: 0.769710968516463,
-    someHS: 0.721170789009985,
-    finishedHS: 0.74890687202245,
-    someCollege: 0.906023624616589,
-    bachelors: 1.35828493114925,
-    graduateSchool: 1.71265417999086
+    someHS: 0.788842488489132,
+    finishedHS: 0.81918121140736,
+    someCollege: 0.991041153585323,
+    bachelors: 1.48574080022843,
+    graduateSchool: 1.8733626012778
   },
   'Randall County': {
     state: 'Texas',
     countyToStateAdjustment: 1.15323401240017,
-    someHS: 1.01292175161522,
-    finishedHS: 1.03422958950597,
-    someCollege: 1.33785812177772,
-    bachelors: 1.59012595444756,
-    graduateSchool: 1.96547673432096
+    someHS: 0.739500202491841,
+    finishedHS: 0.755056340376873,
+    someCollege: 0.976725349596207,
+    bachelors: 1.16089763441885,
+    graduateSchool: 1.43492865140434
   },
   'Rockwall County': {
     state: 'Texas',
     countyToStateAdjustment: 1.37812796922195,
-    someHS: 0.623866083665079,
-    finishedHS: 1.16938589049142,
-    someCollege: 1.4858056516348,
-    bachelors: 2.08562291979377,
-    graduateSchool: 2.51938262742283
+    someHS: 0.381137491776808,
+    finishedHS: 0.714411020074557,
+    someCollege: 0.907720830093894,
+    bachelors: 1.2741662181289,
+    graduateSchool: 1.53916233080159
   },
   'San Patricio County': {
     state: 'Texas',
     countyToStateAdjustment: 1.01738004019351,
-    someHS: 0.897343862167983,
-    finishedHS: 1.0525680349801,
-    someCollege: 1.22159498792665,
-    bachelors: 1.41444234157802,
-    graduateSchool: 2.12778176597272
+    someHS: 0.742600993735148,
+    finishedHS: 0.871057463815079,
+    someCollege: 1.01093648736228,
+    bachelors: 1.17052819183409,
+    graduateSchool: 1.76085547634478
   },
   'Smith County': {
     state: 'Texas',
     countyToStateAdjustment: 0.88213047392994,
-    someHS: 0.691085296612935,
-    finishedHS: 0.845591594335313,
-    someCollege: 1.01556483717288,
-    bachelors: 1.37032565424525,
-    graduateSchool: 1.86826992103374
+    someHS: 0.659596997726494,
+    finishedHS: 0.807063440156965,
+    someCollege: 0.969292098788502,
+    bachelors: 1.30788875393192,
+    graduateSchool: 1.78314491264132
   },
   'Tarrant County': {
     state: 'Texas',
     countyToStateAdjustment: 1.08106244819655,
-    someHS: 0.762513868041506,
-    finishedHS: 0.99967369314103,
-    someCollege: 1.21673301572799,
-    bachelors: 1.69715460418978,
-    graduateSchool: 2.27726293806696
+    someHS: 0.593850063532402,
+    finishedHS: 0.778551461245235,
+    someCollege: 0.947598475222363,
+    bachelors: 1.32175349428208,
+    graduateSchool: 1.77354510800508
   },
   'Taylor County': {
     state: 'Texas',
     countyToStateAdjustment: 0.875069913594831,
-    someHS: 0.69836193956797,
-    finishedHS: 0.985707759577106,
-    someCollege: 0.992364419500098,
-    bachelors: 1.32999412647654,
-    graduateSchool: 1.73777980813157
+    someHS: 0.671920130604044,
+    finishedHS: 0.948386286575411,
+    someCollege: 0.954790907949265,
+    bachelors: 1.27963707145548,
+    graduateSchool: 1.67198292100967
   },
   'Tom Green County': {
     state: 'Texas',
     countyToStateAdjustment: 0.882679933878197,
-    someHS: 0.598316256607714,
-    finishedHS: 0.889023037264243,
-    someCollege: 1.10777915551785,
-    bachelors: 1.51164915486524,
-    graduateSchool: 1.97386282059649
+    someHS: 0.570699368172056,
+    finishedHS: 0.847987799184537,
+    someCollege: 1.05664664321952,
+    bachelors: 1.44187494164151,
+    graduateSchool: 1.88275389834729
   },
   'Travis County': {
     state: 'Texas',
     countyToStateAdjustment: 1.12051367248144,
-    someHS: 0.712327873131893,
-    finishedHS: 0.849866214187822,
-    someCollege: 1.17490047640801,
-    bachelors: 1.66285975331201,
-    graduateSchool: 2.34210011094433
+    someHS: 0.535232677879665,
+    finishedHS: 0.638576962683274,
+    someCollege: 0.882802922571471,
+    bachelors: 1.24944834011671,
+    graduateSchool: 1.75981954592262
   },
   'Victoria County': {
     state: 'Texas',
     countyToStateAdjustment: 0.968807780767554,
-    someHS: 0.472916530705475,
-    finishedHS: 0.855021862559551,
-    someCollege: 1.1575735821967,
-    bachelors: 1.66654702081838,
-    graduateSchool: 1.9660640866671
+    someHS: 0.410985707803993,
+    finishedHS: 0.743052404718693,
+    someCollege: 1.00598343920145,
+    bachelors: 1.44830421960073,
+    graduateSchool: 1.70859800362976
   },
   'Walker County': {
     state: 'Texas',
     countyToStateAdjustment: 0.935675345887629,
-    someHS: 0.92811459896887,
-    finishedHS: 0.852802975918554,
-    someCollege: 0.931312406186778,
-    bachelors: 1.44472361809045,
-    graduateSchool: 1.69666514390132
+    someHS: 0.835134182864525,
+    finishedHS: 0.767367432027717,
+    someCollege: 0.838011627224147,
+    bachelors: 1.29998825532914,
+    graduateSchool: 1.52668976451935
   },
   'Webb County': {
     state: 'Texas',
     countyToStateAdjustment: 0.727787174464419,
-    someHS: 0.553742739672388,
-    finishedHS: 0.805586373425569,
-    someCollege: 0.956144358154408,
-    bachelors: 1.34627683873915,
-    graduateSchool: 2.00081576714743
+    someHS: 0.640594919029104,
+    finishedHS: 0.931939149144993,
+    someCollege: 1.10611150956929,
+    bachelors: 1.55743460043033,
+    graduateSchool: 2.31463515911064
   },
   'Wichita County': {
     state: 'Texas',
     countyToStateAdjustment: 0.849135404037079,
-    someHS: 0.694772564119298,
-    finishedHS: 0.812667232265222,
-    someCollege: 0.964628336487633,
-    bachelors: 1.38341055928996,
-    graduateSchool: 2.00535143248711
+    someHS: 0.688883137051896,
+    finishedHS: 0.805778439239032,
+    someCollege: 0.956451404167206,
+    bachelors: 1.37168370648376,
+    graduateSchool: 1.9883525300893
   },
   'Williamson County': {
     state: 'Texas',
     countyToStateAdjustment: 1.24458172879797,
-    someHS: 0.742543888272531,
-    finishedHS: 1.05423219996084,
-    someCollege: 1.32813417738041,
-    bachelors: 1.82027018207923,
-    graduateSchool: 2.36060170984794
+    someHS: 0.502317778464527,
+    finishedHS: 0.713169396494636,
+    someCollege: 0.898459229173105,
+    bachelors: 1.23138051300163,
+    graduateSchool: 1.59690521389784
   },
   'Cache County': {
     state: 'Utah',
     countyToStateAdjustment: 0.908230059468633,
-    someHS: 0.634079488350845,
-    finishedHS: 1.00463355739738,
-    someCollege: 0.824087972329178,
-    bachelors: 1.26019708934282,
-    graduateSchool: 2.04946811981988
+    someHS: 0.610244009672456,
+    finishedHS: 0.966868699557203,
+    someCollege: 0.793109945670948,
+    bachelors: 1.21282542474013,
+    graduateSchool: 1.97242722105329
   },
   'Davis County': {
     state: 'Utah',
     countyToStateAdjustment: 1.14812966158497,
-    someHS: 0.684102329830973,
-    finishedHS: 1.00946289891014,
-    someCollege: 1.091888011486,
-    bachelors: 1.70531227566403,
-    graduateSchool: 2.28806369509887
+    someHS: 0.52081780692602,
+    finishedHS: 0.768519898643613,
+    someCollege: 0.831271426442093,
+    bachelors: 1.29828091618224,
+    graduateSchool: 1.7419386893228
   },
   'Salt Lake County': {
     state: 'Utah',
     countyToStateAdjustment: 1.04704724690178,
-    someHS: 0.776055602688768,
-    finishedHS: 1.00267571624356,
-    someCollege: 1.15072113815832,
-    bachelors: 1.52277621875612,
-    graduateSchool: 2.41401814266136
+    someHS: 0.647861618087714,
+    finishedHS: 0.837047126123672,
+    someCollege: 0.960637428493598,
+    bachelors: 1.27123399618633,
+    graduateSchool: 2.0152546989921
   },
   'Utah County': {
     state: 'Utah',
     countyToStateAdjustment: 1.02562713024629,
-    someHS: 0.697513541734647,
-    finishedHS: 0.990896038634732,
-    someCollege: 1.01223650721138,
-    bachelors: 1.38331266723227,
-    graduateSchool: 2.34069699145076
+    someHS: 0.594454795739592,
+    finishedHS: 0.844489557551656,
+    someCollege: 0.862676937623404,
+    bachelors: 1.17892599905448,
+    graduateSchool: 1.99485525181457
   },
   'Washington County': {
     state: 'Utah',
     countyToStateAdjustment: 0.86387815347756,
-    someHS: 0.854989231873654,
-    finishedHS: 0.876884422110553,
-    someCollege: 0.930268224238074,
-    bachelors: 1.31772498857926,
-    graduateSchool: 1.83417085427136
+    someHS: 0.865095087163233,
+    finishedHS: 0.887249075541469,
+    someCollege: 0.941263866877971,
+    bachelors: 1.33330031695721,
+    graduateSchool: 1.85585050184892
   },
   'Weber County': {
     state: 'Utah',
     countyToStateAdjustment: 1.00708774832076,
-    someHS: 0.837042354630294,
-    finishedHS: 0.981987861384846,
-    someCollege: 1.15254845656856,
-    bachelors: 1.46730405273119,
-    graduateSchool: 1.97216602492984
+    someHS: 0.726500325695998,
+    finishedHS: 0.852303945169787,
+    someCollege: 1.00033985669376,
+    bachelors: 1.27352799569515,
+    graduateSchool: 1.7117165595174
   },
   'Chittenden County': {
     state: 'Vermont',
     countyToStateAdjustment: 1,
-    someHS: 0.640442472100764,
-    finishedHS: 1.08395875481303,
-    someCollege: 1.32412060301508,
-    bachelors: 1.41633492136005,
-    graduateSchool: 2.00447040396789
+    someHS: 0.474873581573153,
+    finishedHS: 0.803730855774116,
+    someCollege: 0.98180542449977,
+    bachelors: 1.05018025211101,
+    graduateSchool: 1.48626938617503
   },
   'Albemarle County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.03057941750231,
-    someHS: 0.795927690400052,
-    finishedHS: 1.09838151797951,
-    someCollege: 1.05233962017882,
-    bachelors: 1.71751615218952,
-    graduateSchool: 2.33426874632905
+    someHS: 0.552292539341107,
+    finishedHS: 0.762164609985282,
+    someCollege: 0.73021623457489,
+    bachelors: 1.19178082191781,
+    graduateSchool: 1.61974414128835
   },
   'Arlington County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.66157450475873,
-    someHS: 1.05968152450565,
-    finishedHS: 0.870880375905501,
-    someCollege: 1.49807478953208,
-    bachelors: 2.44811720942374,
-    graduateSchool: 2.96625987078248
+    someHS: 0.456071117602449,
+    finishedHS: 0.374813920175266,
+    someCollege: 0.644749038002416,
+    bachelors: 1.05363312080443,
+    graduateSchool: 1.27663399151757
   },
   'Augusta County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.744518666247678,
-    someHS: 0.714089930170332,
-    finishedHS: 0.982901520589963,
-    someCollege: 1.01399856424982,
-    bachelors: 1.48746981661555,
-    graduateSchool: 1.90860144880245
+    someHS: 0.685889801291293,
+    finishedHS: 0.944085751896195,
+    someCollege: 0.973954742054786,
+    bachelors: 1.42872813890804,
+    graduateSchool: 1.83322885977559
   },
   'Bedford County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.866792778049152,
-    someHS: 0.98205312275664,
-    finishedHS: 0.864321608040201,
-    someCollege: 1.17150688507472,
-    bachelors: 1.57684526528748,
-    graduateSchool: 1.99977158519872
+    someHS: 0.810208366984332,
+    finishedHS: 0.713078124158725,
+    someCollege: 0.966510526032413,
+    bachelors: 1.30092069132612,
+    graduateSchool: 1.64984116728585
   },
   'Chesterfield County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.02353232174581,
-    someHS: 0.882855837629707,
-    finishedHS: 1.04604189780069,
-    someCollege: 1.29879919075899,
-    bachelors: 1.84582000913659,
-    graduateSchool: 2.18172028976049
+    someHS: 0.61682967421289,
+    finishedHS: 0.730843763536466,
+    someCollege: 0.907439071654926,
+    bachelors: 1.28962907233887,
+    graduateSchool: 1.52431434238424
   },
   'Fairfax County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.40932581228279,
-    someHS: 0.814070351758794,
-    finishedHS: 0.992592834301377,
-    someCollege: 1.34069699145076,
-    bachelors: 2.29954969653462,
-    graduateSchool: 3.29279514455394
+    someHS: 0.41307371349096,
+    finishedHS: 0.503659182727333,
+    someCollege: 0.680293396913703,
+    bachelors: 1.16683224054573,
+    graduateSchool: 1.67082257103119
   },
   'Fauquier County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.17252472706116,
-    someHS: 1.04757554003785,
-    finishedHS: 1.32960255824577,
-    someCollege: 1.62448606669712,
-    bachelors: 2.28075442145794,
-    graduateSchool: 2.02698557723683
+    someHS: 0.638911001432893,
+    finishedHS: 0.810917847476517,
+    someCollege: 0.990765801623945,
+    bachelors: 1.39102053813087,
+    graduateSchool: 1.23624820888394
   },
   'Frederick County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.987666804600991,
-    someHS: 1.16801540168374,
-    finishedHS: 1.19177054101677,
-    someCollege: 1.17852248254258,
-    bachelors: 1.56075833714025,
-    graduateSchool: 2.32327220518175
+    someHS: 0.845697679913056,
+    finishedHS: 0.862897509804848,
+    someCollege: 0.853305296980579,
+    bachelors: 1.1300619004867,
+    graduateSchool: 1.68215753910126
   },
   'Hanover County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.169304530987,
-    someHS: 1.00460092671148,
-    finishedHS: 1.20015662729231,
-    someCollege: 1.66602492984403,
-    bachelors: 1.82594792142531,
-    graduateSchool: 2.17317105005547
+    someHS: 0.614388345639593,
+    finishedHS: 0.733985232488525,
+    someCollege: 1.01889842346837,
+    bachelors: 1.11670325284374,
+    graduateSchool: 1.32905607663141
   },
   'Henrico County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.917359190315144,
-    someHS: 0.686810676760426,
-    finishedHS: 0.99725902238465,
-    someCollege: 1.04131044834562,
-    bachelors: 1.50965868302552,
-    graduateSchool: 2.20364811068329
+    someHS: 0.535395416274515,
+    finishedHS: 0.777401877241625,
+    someCollege: 0.811741663063109,
+    bachelors: 1.17683717854145,
+    graduateSchool: 1.71782870806095
   },
   'James City County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.911198815216749,
-    someHS: 0.62615023167787,
-    finishedHS: 0.78424590484892,
-    someCollege: 1.15349474645957,
-    bachelors: 1.60647392808197,
-    graduateSchool: 2.16178294067741
+    someHS: 0.491408230684525,
+    finishedHS: 0.615483110963149,
+    someCollege: 0.905272862301211,
+    bachelors: 1.26077492381367,
+    graduateSchool: 1.69658634023919
   },
   'Loudoun County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.53717693032865,
-    someHS: 0.907067806565294,
-    finishedHS: 1.15760621288259,
-    someCollege: 1.54679240357632,
-    bachelors: 2.64674019447889,
-    graduateSchool: 3.29605821314364
+    someHS: 0.421981024667932,
+    finishedHS: 0.538535104364326,
+    someCollege: 0.719590132827324,
+    bachelors: 1.23130170777989,
+    graduateSchool: 1.53337381404175
   },
   'Montgomery County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.847028241275135,
-    someHS: 0.658454610715917,
-    finishedHS: 0.766919010637604,
-    someCollege: 1.03109704365986,
-    bachelors: 1.34206748025844,
-    graduateSchool: 1.82699210337401
+    someHS: 0.555910631146864,
+    finishedHS: 0.647483401746605,
+    someCollege: 0.870519849031654,
+    bachelors: 1.13306151684619,
+    graduateSchool: 1.54246673462079
   },
   'Prince William County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.16190741391809,
-    someHS: 0.847647327546825,
-    finishedHS: 1.03560007831365,
-    someCollege: 1.40856881811656,
-    bachelors: 2.20276708216407,
-    graduateSchool: 2.92090321738563
+    someHS: 0.521699837326532,
+    finishedHS: 0.63737874801679,
+    someCollege: 0.86692908641777,
+    bachelors: 1.35573273351676,
+    graduateSchool: 1.79772257144579
   },
   'Roanoke County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.98523999016829,
-    someHS: 0.676238334529792,
-    finishedHS: 1.22727272727273,
-    someCollege: 1.26613587417608,
-    bachelors: 1.59900150101155,
-    graduateSchool: 1.70707433270247
+    someHS: 0.490834162285065,
+    finishedHS: 0.890791530481739,
+    someCollege: 0.918999573681967,
+    bachelors: 1.1606034768604,
+    graduateSchool: 1.23904599497892
   },
   'Rockingham County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.775063859443886,
-    someHS: 1.01412908699341,
-    finishedHS: 0.879658030411799,
-    someCollege: 1.07022123605038,
-    bachelors: 1.50427461985251,
-    graduateSchool: 1.67845722117079
+    someHS: 0.935691705554719,
+    finishedHS: 0.811621255456872,
+    someCollege: 0.987445431281048,
+    bachelors: 1.3879271413518,
+    graduateSchool: 1.54863766370616
   },
   'Spotsylvania County': {
     state: 'Virginia',
     countyToStateAdjustment: 0.981576433765078,
-    someHS: 0.766396919663251,
-    finishedHS: 0.961887358872283,
-    someCollege: 1.35087776545063,
-    bachelors: 2.01465117796776,
-    graduateSchool: 2.30261698100894
+    someHS: 0.558350172352312,
+    finishedHS: 0.700772613811958,
+    someCollege: 0.984167360038036,
+    bachelors: 1.46775228812552,
+    graduateSchool: 1.67754665398788
   },
   'Stafford County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.2164874038997,
-    someHS: 0.884813678783528,
-    finishedHS: 1.21288259479214,
-    someCollege: 1.47516804803237,
-    bachelors: 2.47030607583371,
-    graduateSchool: 2.97438491157084
+    someHS: 0.520141180081332,
+    finishedHS: 0.712997774879153,
+    someCollege: 0.867183303920816,
+    bachelors: 1.45217908386404,
+    graduateSchool: 1.7485037980511
   },
   'York County': {
     state: 'Virginia',
     countyToStateAdjustment: 1.10522729606203,
-    someHS: 0.517718462442081,
-    finishedHS: 1.36226587482869,
-    someCollege: 1.2942635254193,
-    bachelors: 1.6728773738824,
-    graduateSchool: 2.69568622332441
+    someHS: 0.334980153703235,
+    finishedHS: 0.881428933367114,
+    someCollege: 0.837429271176421,
+    bachelors: 1.08240435774006,
+    graduateSchool: 1.74419390254202
   },
   'Alexandria city': {
     state: 'Virginia',
     countyToStateAdjustment: 1.31470338416161,
-    someHS: 0.69934086014488,
-    finishedHS: 0.813156692553678,
-    someCollege: 1.20818377602297,
-    bachelors: 2.28933629184885,
-    graduateSchool: 2.72365072113816
+    someHS: 0.380397934008981,
+    finishedHS: 0.442306668323246,
+    someCollege: 0.657176833922011,
+    bachelors: 1.24525656271632,
+    graduateSchool: 1.48149660105429
   },
   'Chesapeake city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.969815717668142,
-    someHS: 0.865170005873523,
-    finishedHS: 0.986295111923253,
-    someCollege: 1.33704235463029,
-    bachelors: 1.67734777785029,
-    graduateSchool: 1.96743457547478
+    someHS: 0.63795385096605,
+    finishedHS: 0.727268352542047,
+    someCollege: 0.985900243016289,
+    bachelors: 1.2368326074926,
+    graduateSchool: 1.45073506412261
   },
   'Hampton city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.815106297583453,
-    someHS: 0.531912810807283,
-    finishedHS: 0.900084839783332,
-    someCollege: 1.08180512954382,
-    bachelors: 1.42853879788553,
-    graduateSchool: 1.84187169614305
+    someHS: 0.466662849617818,
+    finishedHS: 0.789671065815465,
+    someCollege: 0.949099653602817,
+    bachelors: 1.25329936159858,
+    graduateSchool: 1.61592854484555
   },
   'Lynchburg city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.716563630763295,
-    someHS: 0.665372316126085,
-    finishedHS: 0.710272139920381,
-    someCollege: 0.951119232526268,
-    bachelors: 1.19859035436925,
-    graduateSchool: 1.80695686223324
+    someHS: 0.664028917545916,
+    finishedHS: 0.708838087794711,
+    someCollege: 0.949198905822587,
+    bachelors: 1.19617037905432,
+    graduateSchool: 1.80330858408232
   },
   'Newport News city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.85078513669499,
-    someHS: 0.894080793578281,
-    finishedHS: 0.889088298636037,
-    someCollege: 1.09009332376167,
-    bachelors: 1.45000978920577,
-    graduateSchool: 1.8359002806239
+    someHS: 0.751508502468459,
+    finishedHS: 0.747312122874383,
+    someCollege: 0.916264399341744,
+    bachelors: 1.21878771256171,
+    graduateSchool: 1.54314317059792
   },
   'Norfolk city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.775273872231331,
-    someHS: 0.571232787313189,
-    finishedHS: 0.861091170136396,
-    someCollege: 1.0502838869673,
-    bachelors: 1.48290152058996,
-    graduateSchool: 2.03915682307642
+    someHS: 0.526908259089815,
+    finishedHS: 0.794275222730556,
+    someCollege: 0.968787623404768,
+    bachelors: 1.36783650373224,
+    graduateSchool: 1.88092944859138
   },
   'Portsmouth city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.774737172885638,
-    someHS: 0.657801996997977,
-    finishedHS: 0.878646479148992,
-    someCollege: 1.08036937936435,
-    bachelors: 1.28953207596424,
-    graduateSchool: 1.82180382431639
+    someHS: 0.607180506611247,
+    finishedHS: 0.81102978825939,
+    someCollege: 0.997228999126532,
+    bachelors: 1.19029547302792,
+    graduateSchool: 1.68160597572362
   },
   'Richmond city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.723354044224026,
-    someHS: 0.650296939241663,
-    finishedHS: 0.722280232330484,
-    someCollege: 0.848724140181427,
-    bachelors: 1.35169353259806,
-    graduateSchool: 1.91049402858448
+    someHS: 0.64289170618407,
+    finishedHS: 0.714055292106197,
+    someCollege: 0.839059324494339,
+    bachelors: 1.33630117100552,
+    graduateSchool: 1.88873834639827
   },
   'Roanoke city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.675191111636575,
-    someHS: 0.465998825295308,
-    finishedHS: 0.773771454675977,
-    someCollege: 0.881093780591268,
-    bachelors: 1.39979116361026,
-    graduateSchool: 1.99275598773086
+    someHS: 0.49355451874892,
+    finishedHS: 0.81952652496976,
+    someCollege: 0.933195092448592,
+    bachelors: 1.48256436841196,
+    graduateSchool: 2.11059270779333
   },
   'Suffolk city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.937987112993102,
-    someHS: 0.537329504666188,
-    finishedHS: 1.0120080924101,
-    someCollege: 1.27634927886184,
-    bachelors: 1.82017229002154,
-    graduateSchool: 2.35381452718136
+    someHS: 0.409657437122173,
+    finishedHS: 0.771550115680275,
+    someCollege: 0.973082568350872,
+    bachelors: 1.38769062367838,
+    graduateSchool: 1.79453690573923
   },
   'Virginia Beach city': {
     state: 'Virginia',
     countyToStateAdjustment: 0.942397381529453,
-    someHS: 0.83883704235463,
-    finishedHS: 1.04610715917249,
-    someCollege: 1.15910722443386,
-    bachelors: 1.6772498857926,
-    graduateSchool: 2.14396658617764
+    someHS: 0.636532461744169,
+    finishedHS: 0.793814688258307,
+    someCollege: 0.879562224533254,
+    bachelors: 1.27274302976279,
+    graduateSchool: 1.62690041103353
   },
   'Benton County': {
     state: 'Washington',
     countyToStateAdjustment: 1.09928089926532,
-    someHS: 0.61652417933825,
-    finishedHS: 0.99846635776284,
-    someCollege: 1.35929648241206,
-    bachelors: 1.89551654375775,
-    graduateSchool: 2.19301050708086
+    someHS: 0.470984145976668,
+    finishedHS: 0.762762987336724,
+    someCollege: 1.03841360055838,
+    bachelors: 1.44805065310599,
+    graduateSchool: 1.67531658191245
   },
   'Chelan County': {
     state: 'Washington',
     countyToStateAdjustment: 0.906339509003903,
-    someHS: 0.890491418129609,
-    finishedHS: 0.851106180251909,
-    someCollege: 1.25912027670822,
-    bachelors: 1.3752528878157,
-    graduateSchool: 2.03462115773674
+    someHS: 0.825094482237339,
+    finishedHS: 0.788601662887377,
+    someCollege: 1.16665154950869,
+    bachelors: 1.27425547996977,
+    graduateSchool: 1.88520030234316
   },
   'Clallam County': {
     state: 'Washington',
     countyToStateAdjustment: 0.916286636495011,
-    someHS: 0.810448345624225,
-    finishedHS: 1.02062259348692,
-    someCollege: 1.06004046205051,
-    bachelors: 0.766233766233766,
-    graduateSchool: 1.66905958363245
+    someHS: 0.742777678090795,
+    finishedHS: 0.935402835097793,
+    someCollege: 0.971529397691249,
+    bachelors: 0.702254919552605,
+    graduateSchool: 1.5296967521981
   },
   'Clark County': {
     state: 'Washington',
     countyToStateAdjustment: 1.11015971362888,
-    someHS: 0.872675063629837,
-    finishedHS: 1.16145663381844,
-    someCollege: 1.19431573451674,
-    bachelors: 1.84089277556614,
-    graduateSchool: 2.06630555374274
+    someHS: 0.660133784217412,
+    finishedHS: 0.878582183496655,
+    someCollege: 0.90343840248809,
+    bachelors: 1.39254066595907,
+    graduateSchool: 1.56305383457162
   },
   'Cowlitz County': {
     state: 'Washington',
     countyToStateAdjustment: 0.945662175532114,
-    someHS: 0.625073419043268,
-    finishedHS: 0.983456242250212,
-    someCollege: 1.29380669581675,
-    bachelors: 1.83687920120081,
-    graduateSchool: 1.66468707172225
+    someHS: 0.55508548246885,
+    finishedHS: 0.873341060562156,
+    someCollege: 1.14894233555491,
+    bachelors: 1.63120834540713,
+    graduateSchool: 1.47829614604462
   },
   'Franklin County': {
     state: 'Washington',
     countyToStateAdjustment: 0.883732401069565,
-    someHS: 0.768583175618352,
-    finishedHS: 1.02701820792273,
-    someCollege: 1.21493832800365,
-    bachelors: 1.51915421262155,
-    graduateSchool: 2.11910200352411
+    someHS: 0.730356589147287,
+    finishedHS: 0.975937984496124,
+    someCollege: 1.15451162790698,
+    bachelors: 1.44359689922481,
+    graduateSchool: 2.01370542635659
   },
   'Grant County': {
     state: 'Washington',
     countyToStateAdjustment: 0.846300510841316,
-    someHS: 0.719996084317692,
-    finishedHS: 1.02150362200613,
-    someCollege: 1.20632382692684,
-    bachelors: 1.29305619004111,
-    graduateSchool: 2.20185342295895
+    someHS: 0.714447610413159,
+    finishedHS: 1.01363165393084,
+    someCollege: 1.19702758710012,
+    bachelors: 1.28309156844968,
+    graduateSchool: 2.18488537754177
   },
   'Grays Harbor County': {
     state: 'Washington',
     countyToStateAdjustment: 0.832517025640138,
-    someHS: 0.585590289107877,
-    finishedHS: 0.728806369509887,
-    someCollege: 1.00287150035894,
-    bachelors: 1.76222019186843,
-    graduateSchool: 2.18863799517066
+    someHS: 0.590698133701985,
+    finishedHS: 0.735163424508739,
+    someCollege: 1.01161910404529,
+    bachelors: 1.77759125769395,
+    graduateSchool: 2.20772851453211
   },
   'Island County': {
     state: 'Washington',
     countyToStateAdjustment: 1.00117975210783,
-    someHS: 0.700156627292306,
-    finishedHS: 0.998825295307707,
-    someCollege: 1.20250603667689,
-    bachelors: 1.54780395483913,
-    graduateSchool: 1.99735691444234
+    someHS: 0.587283774906941,
+    finishedHS: 0.83780380994088,
+    someCollege: 1.00864900372236,
+    bachelors: 1.29828114736151,
+    graduateSchool: 1.67536128749726
   },
   'King County': {
     state: 'Washington',
     countyToStateAdjustment: 1.39909225430725,
-    someHS: 0.858774391437708,
-    finishedHS: 1.02160151406383,
-    someCollege: 1.33162566077139,
-    bachelors: 2.03918945376232,
-    graduateSchool: 2.6597272074659
+    someHS: 0.51546310985761,
+    finishedHS: 0.61319701510077,
+    someCollege: 0.799283154121864,
+    bachelors: 1.22398495798813,
+    graduateSchool: 1.59645102532464
   },
   'Kitsap County': {
     state: 'Washington',
     countyToStateAdjustment: 1.10462439750435,
-    someHS: 0.71203419695882,
-    finishedHS: 0.994942243685962,
-    someCollege: 1.2210076355805,
-    bachelors: 1.74358807022124,
-    graduateSchool: 1.96838086536579
+    someHS: 0.541316266031604,
+    finishedHS: 0.756394036367245,
+    someCollege: 0.928257795638908,
+    bachelors: 1.32554389620699,
+    graduateSchool: 1.49644017761901
   },
   'Lewis County': {
     state: 'Washington',
     countyToStateAdjustment: 0.87468955789583,
-    someHS: 0.781570188605365,
-    finishedHS: 1.0011420740064,
-    someCollege: 1.11512105984468,
-    bachelors: 1.05814788226849,
-    graduateSchool: 1.97683221301312
+    someHS: 0.750375939849624,
+    finishedHS: 0.961184210526316,
+    someCollege: 1.07061403508772,
+    bachelors: 1.01591478696742,
+    graduateSchool: 1.89793233082707
   },
   'Pierce County': {
     state: 'Washington',
     countyToStateAdjustment: 1.11251633336506,
-    someHS: 0.988807674737323,
-    finishedHS: 1.06529400247993,
-    someCollege: 1.26071918031717,
-    bachelors: 1.65920511649155,
-    graduateSchool: 2.16465444103635
+    someHS: 0.746397694524496,
+    finishedHS: 0.804133106726767,
+    someCollege: 0.951649055395453,
+    bachelors: 1.25244464149363,
+    graduateSchool: 1.63398113254021
   },
   'Skagit County': {
     state: 'Washington',
     countyToStateAdjustment: 0.962158513685413,
-    someHS: 0.891437708020623,
-    finishedHS: 0.987600339359133,
-    someCollege: 1.15088429158781,
-    bachelors: 1.36660575605299,
-    graduateSchool: 2.09146381256934
+    someHS: 0.778053087263614,
+    finishedHS: 0.861984506721349,
+    someCollege: 1.00449988607883,
+    bachelors: 1.19278309409888,
+    graduateSchool: 1.82544429254956
   },
   'Snohomish County': {
     state: 'Washington',
     countyToStateAdjustment: 1.27783594811398,
-    someHS: 0.851497748482673,
-    finishedHS: 1.19937349083078,
-    someCollege: 1.43088820727012,
-    bachelors: 1.978137440449,
-    graduateSchool: 2.53458852705084
+    someHS: 0.559594270029165,
+    finishedHS: 0.788214101904272,
+    someCollege: 0.940362840967576,
+    bachelors: 1.30000857780065,
+    graduateSchool: 1.66570166409333
   },
   'Spokane County': {
     state: 'Washington',
     countyToStateAdjustment: 0.883074739747839,
-    someHS: 0.725869607779156,
-    finishedHS: 0.866246818508125,
-    someCollege: 0.986556157410429,
-    bachelors: 1.41104875024473,
-    graduateSchool: 1.90331527768714
+    someHS: 0.690281139452616,
+    finishedHS: 0.823775833178179,
+    someCollege: 0.938186557438093,
+    bachelors: 1.34186681561472,
+    graduateSchool: 1.80999813814932
   },
   'Thurston County': {
     state: 'Washington',
     countyToStateAdjustment: 1.13041020182703,
-    someHS: 0.904783658552503,
-    finishedHS: 1.04786921621092,
-    someCollege: 1.22221497095869,
-    bachelors: 1.78434379690661,
-    graduateSchool: 2.0164132350062
+    someHS: 0.672161349752739,
+    finishedHS: 0.778459226219335,
+    someCollege: 0.90798021914089,
+    bachelors: 1.32558421409871,
+    graduateSchool: 1.49798797634054
   },
   'Whatcom County': {
     state: 'Washington',
     countyToStateAdjustment: 0.896118355962075,
-    someHS: 0.806695816746068,
-    finishedHS: 1.07691052665927,
-    someCollege: 0.98260784441689,
-    bachelors: 1.26437381713764,
-    graduateSchool: 1.64523918292763
+    someHS: 0.755978227631337,
+    finishedHS: 1.0092043300104,
+    someCollege: 0.920830530242799,
+    bachelors: 1.18488165861415,
+    graduateSchool: 1.54180172466516
   },
   'Yakima County': {
     state: 'Washington',
     countyToStateAdjustment: 0.81802107400709,
-    someHS: 0.701983945702539,
-    finishedHS: 0.908373034001175,
-    someCollege: 1.08885335769758,
-    bachelors: 1.37809175748874,
-    graduateSchool: 2.06026887685179
+    someHS: 0.720655232480236,
+    finishedHS: 0.93253383357899,
+    someCollege: 1.11781455178882,
+    bachelors: 1.41474608066461,
+    graduateSchool: 2.11506766715798
   },
   'Berkeley County': {
     state: 'West Virginia',
     countyToStateAdjustment: 1.11396898684554,
-    someHS: 0.746818508125041,
-    finishedHS: 0.932030281276512,
-    someCollege: 1.26688637995171,
-    bachelors: 1.69986295111923,
-    graduateSchool: 1.71053318540756
+    someHS: 0.626440399616806,
+    finishedHS: 0.781798275626112,
+    someCollege: 1.06267962228001,
+    bachelors: 1.42586560832079,
+    graduateSchool: 1.4348159299302
   },
   'Cabell County': {
     state: 'West Virginia',
     countyToStateAdjustment: 0.960053140517467,
-    someHS: 0.400802714873067,
-    finishedHS: 0.845036872675064,
-    someCollege: 0.952032891731384,
-    bachelors: 1.33325719506624,
-    graduateSchool: 1.79142465574626
+    someHS: 0.390097500555785,
+    finishedHS: 0.822466414710833,
+    someCollege: 0.926604630482421,
+    bachelors: 1.29764664782291,
+    graduateSchool: 1.74357671419951
   },
   'Harrison County': {
     state: 'West Virginia',
     countyToStateAdjustment: 1.11787176583326,
-    someHS: 0.361189062194087,
-    finishedHS: 1.01122495594857,
-    someCollege: 1.11185799125498,
-    bachelors: 1.65822619591464,
-    graduateSchool: 1.71105527638191
+    someHS: 0.301912009382756,
+    finishedHS: 0.8452663448163,
+    someCollege: 0.929383847475657,
+    bachelors: 1.38608406295175,
+    graduateSchool: 1.43024302430243
   },
   'Kanawha County': {
     state: 'West Virginia',
     countyToStateAdjustment: 0.984475999651538,
-    someHS: 0.764569601253018,
-    finishedHS: 0.841871696143053,
-    someCollege: 0.971970240814462,
-    bachelors: 1.36973830189911,
-    graduateSchool: 2.04450825556353
+    someHS: 0.725687561942517,
+    finishedHS: 0.799058473736373,
+    someCollege: 0.922540882061447,
+    bachelors: 1.30008052527255,
+    graduateSchool: 1.94053518334985
   },
   'Monongalia County': {
     state: 'West Virginia',
     countyToStateAdjustment: 1.12839097482359,
-    someHS: 0.709815310317823,
-    finishedHS: 1.02290674149971,
-    someCollege: 1.00567773934608,
-    bachelors: 1.41450760294981,
-    graduateSchool: 1.67783723813875
+    someHS: 0.587791828793774,
+    finishedHS: 0.84706009511457,
+    someCollege: 0.832792909641159,
+    bachelors: 1.17134133160398,
+    graduateSchool: 1.38940229139645
   },
   'Raleigh County': {
     state: 'West Virginia',
     countyToStateAdjustment: 0.862392194442025,
-    someHS: 0.73839979116361,
-    finishedHS: 0.790608888598838,
-    someCollege: 0.980584741891275,
-    bachelors: 1.33886967304053,
-    graduateSchool: 1.79879919075899
+    someHS: 0.800063640220619,
+    finishedHS: 0.85663272521567,
+    someCollege: 1.06247348324141,
+    bachelors: 1.45067882901994,
+    graduateSchool: 1.94901711214821
   },
   'Wood County': {
     state: 'West Virginia',
     countyToStateAdjustment: 0.832846937886575,
-    someHS: 0.33632447954056,
-    finishedHS: 0.685799125497618,
-    someCollege: 0.887587287084775,
-    bachelors: 1.25647719115056,
-    graduateSchool: 1.5875154995758
+    someHS: 0.377338458722314,
+    finishedHS: 0.769430715723961,
+    someCollege: 0.995826468973092,
+    bachelors: 1.4097016291415,
+    graduateSchool: 1.78110928061505
   },
   'Brown County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.977499410576815,
-    someHS: 0.867552045944006,
-    finishedHS: 1.04238726098023,
-    someCollege: 1.16295764536971,
-    bachelors: 1.54881550610194,
-    graduateSchool: 1.95647066501338
+    someHS: 0.712520769684301,
+    finishedHS: 0.856112987082596,
+    someCollege: 0.955137481910275,
+    bachelors: 1.27204266495149,
+    graduateSchool: 1.60684997588037
   },
   'Dane County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.08608425961045,
-    someHS: 0.689225347516805,
-    finishedHS: 1.03821053318541,
-    someCollege: 1.13998564249821,
-    bachelors: 1.68867062585656,
-    graduateSchool: 2.00946289891014
+    someHS: 0.509467184447285,
+    finishedHS: 0.767432885501339,
+    someCollege: 0.842663836561422,
+    bachelors: 1.24824525434767,
+    graduateSchool: 1.48537108951012
   },
   'Dodge County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.925892136126573,
-    someHS: 0.842491679175096,
-    finishedHS: 1.0536122169288,
-    someCollege: 1.14559812047249,
-    bachelors: 1.38217059322587,
-    graduateSchool: 1.6652091626966
+    someHS: 0.730505885015844,
+    finishedHS: 0.913563829787234,
+    someCollege: 0.993322770484382,
+    bachelors: 1.1984495246718,
+    graduateSchool: 1.44386600271616
   },
   'Eau Claire County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.930555128437305,
-    someHS: 0.870423546302943,
-    finishedHS: 0.824871108790707,
-    someCollege: 1.04835867649938,
-    bachelors: 1.37949487698231,
-    graduateSchool: 1.71869085688181
+    someHS: 0.750943077529418,
+    finishedHS: 0.711643488542312,
+    someCollege: 0.904453578064298,
+    bachelors: 1.19013569055796,
+    graduateSchool: 1.48277124035809
   },
   'Fond du Lac County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.945618165396132,
-    someHS: 0.63730992625465,
-    finishedHS: 1.02248254258305,
-    someCollege: 1.14207400639561,
-    bachelors: 1.47223128630164,
-    graduateSchool: 1.95634014226979
+    someHS: 0.541069895005125,
+    finishedHS: 0.868077679585561,
+    someCollege: 0.969609662852869,
+    bachelors: 1.24990996481702,
+    graduateSchool: 1.66091364933374
   },
   'Jefferson County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.980747787242718,
-    someHS: 0.698492462311558,
-    finishedHS: 1.14047510278666,
-    someCollege: 1.32461006330353,
-    bachelors: 1.39114403184755,
-    graduateSchool: 1.58441558441558
+    someHS: 0.571771996367327,
+    finishedHS: 0.933570169346653,
+    someCollege: 1.08429937496661,
+    bachelors: 1.13876275442064,
+    graduateSchool: 1.29697099204017
   },
   'Kenosha County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.951198038217402,
-    someHS: 0.654865235267245,
-    finishedHS: 0.955981204724923,
-    someCollege: 1.19075898975396,
-    bachelors: 1.48639300398094,
-    graduateSchool: 2.3369444625726
+    someHS: 0.55271275130818,
+    finishedHS: 0.806857614982099,
+    someCollege: 1.00501239328009,
+    bachelors: 1.25453043238777,
+    graduateSchool: 1.9724042963371
   },
   'La Crosse County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.933384359726963,
-    someHS: 0.833322456438034,
-    finishedHS: 0.695718854010311,
-    someCollege: 1.15297265548522,
-    bachelors: 1.42184950727664,
-    graduateSchool: 1.76900737453501
+    someHS: 0.716755543081673,
+    finishedHS: 0.598400224529891,
+    someCollege: 0.991692394049958,
+    bachelors: 1.22295818130789,
+    graduateSchool: 1.521554869492
   },
   'Manitowoc County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.942710344348428,
-    someHS: 0.672714220452914,
-    finishedHS: 1.09919728512693,
-    someCollege: 1.14902434249168,
-    bachelors: 1.50456829602558,
-    graduateSchool: 1.63473210206879
+    someHS: 0.57288945701106,
+    finishedHS: 0.936086255766131,
+    someCollege: 0.97851942422053,
+    bachelors: 1.28130384038237,
+    graduateSchool: 1.39215250375146
   },
   'Marathon County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.955441885151889,
-    someHS: 0.98172681589767,
-    finishedHS: 1.02395092344841,
-    someCollege: 1.10294981400509,
-    bachelors: 1.51380278013444,
-    graduateSchool: 2.1203746002741
+    someHS: 0.82490677780215,
+    finishedHS: 0.860386049572275,
+    someCollege: 0.926765738100461,
+    bachelors: 1.2719894713753,
+    graduateSchool: 1.78166812897565
   },
   'Milwaukee County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.943862994133104,
-    someHS: 0.690563205638583,
-    finishedHS: 0.918227501142074,
-    someCollege: 1.04212621549305,
-    bachelors: 1.51341121190367,
-    graduateSchool: 2.0010441819487
+    someHS: 0.58737163474882,
+    finishedHS: 0.781015820149875,
+    someCollege: 0.886400222037191,
+    bachelors: 1.28726061615321,
+    graduateSchool: 1.70202608936997
   },
   'Outagamie County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.04762767133991,
-    someHS: 0.621386151536905,
-    finishedHS: 1.05622267180056,
-    someCollege: 1.2221497095869,
-    bachelors: 1.62716178294068,
-    graduateSchool: 2.12660706128043
+    someHS: 0.476182140981721,
+    finishedHS: 0.809407116601235,
+    someCollege: 0.936560726163387,
+    bachelors: 1.24693055937586,
+    graduateSchool: 1.62966667500188
   },
   'Ozaukee County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.27401856768457,
-    someHS: 0.856066044508256,
-    finishedHS: 1.15414736017751,
-    someCollege: 1.20635645761274,
-    bachelors: 1.87991907589898,
-    graduateSchool: 2.62553024864583
+    someHS: 0.539448522608106,
+    finishedHS: 0.727283943001666,
+    someCollege: 0.760183414553904,
+    bachelors: 1.18462772191722,
+    graduateSchool: 1.65447330002262
   },
   'Portage County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.978573470603444,
-    someHS: 0.704398616458918,
-    finishedHS: 1.09586895516544,
-    someCollege: 1.08895124975527,
-    bachelors: 1.56176988840305,
-    graduateSchool: 1.86474580695686
+    someHS: 0.577887832954089,
+    finishedHS: 0.89904965868023,
+    someCollege: 0.893374380939633,
+    bachelors: 1.28127426047383,
+    graduateSchool: 1.52983536340517
   },
   'Racine County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.985594155655558,
-    someHS: 0.688605364484762,
-    finishedHS: 1.05622267180056,
-    someCollege: 1.17414997063238,
-    bachelors: 1.47555961626313,
-    graduateSchool: 2.01080075703191
+    someHS: 0.560906892060708,
+    finishedHS: 0.860351380804295,
+    someCollege: 0.956409643037504,
+    bachelors: 1.20192435478298,
+    graduateSchool: 1.6379076628658
   },
   'Rock County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.931707778221981,
-    someHS: 0.788748939502708,
-    finishedHS: 0.879625399725902,
-    someCollege: 1.14680545585068,
-    bachelors: 1.54600926711479,
-    graduateSchool: 2.14869803563271
+    someHS: 0.679637856379688,
+    finishedHS: 0.757942979249845,
+    someCollege: 0.988162852162177,
+    bachelors: 1.33214305797672,
+    graduateSchool: 1.85145925884272
   },
   'St. Croix County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.13619832865781,
-    someHS: 1.38680415062325,
-    finishedHS: 1.14357501794688,
-    someCollege: 1.34431899758533,
-    bachelors: 1.84608105462377,
-    graduateSchool: 2.02613717940351
+    someHS: 0.979894863045283,
+    finishedHS: 0.808032832241999,
+    someCollege: 0.949875495711519,
+    bachelors: 1.30441298533616,
+    graduateSchool: 1.43163792308402
   },
   'Sheboygan County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.975770435899801,
-    someHS: 0.996051687006461,
-    finishedHS: 1.11955883312667,
-    someCollege: 1.23203680741369,
-    bachelors: 1.63858252300463,
-    graduateSchool: 1.91385498923187
+    someHS: 0.819507087628866,
+    finishedHS: 0.921123281786942,
+    someCollege: 1.01366516323024,
+    bachelors: 1.3481529209622,
+    graduateSchool: 1.57463487972509
   },
   'Walworth County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.893513155811599,
-    someHS: 0.703223911766625,
-    finishedHS: 1.01115969457678,
-    someCollege: 1.14288977354304,
-    bachelors: 1.36458265352738,
-    graduateSchool: 1.96887032565425
+    someHS: 0.631845901254838,
+    finishedHS: 0.908525859036003,
+    someCollege: 1.02688518822564,
+    bachelors: 1.22607599390172,
+    graduateSchool: 1.76902779406591
   },
   'Washington County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.11623653011411,
-    someHS: 1.06033413822359,
-    finishedHS: 1.16857012334399,
-    someCollege: 1.48335835019252,
-    bachelors: 1.56020361548,
-    graduateSchool: 2.02864974221758
+    someHS: 0.762614409762966,
+    finishedHS: 0.840459985918798,
+    someCollege: 1.06686223891105,
+    bachelors: 1.12213095517484,
+    graduateSchool: 1.45904717202535
   },
   'Waukesha County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 1.27768608972672,
-    someHS: 1.1805455850682,
-    finishedHS: 1.13548260784442,
-    someCollege: 1.3369770932585,
-    bachelors: 1.86138484630947,
-    graduateSchool: 2.47937740651308
+    someHS: 0.741783363746335,
+    finishedHS: 0.713468517417424,
+    someCollege: 0.840075451581818,
+    bachelors: 1.16958153076497,
+    graduateSchool: 1.55789063621266
   },
   'Winnebago County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.963641416574694,
-    someHS: 0.859753312014619,
-    finishedHS: 1.04470403967891,
-    someCollege: 1.15111270638909,
-    bachelors: 1.41114664230242,
-    graduateSchool: 1.98962344188475
+    someHS: 0.716270218839201,
+    finishedHS: 0.870354764170178,
+    someCollege: 0.959005029223868,
+    bachelors: 1.17564224548049,
+    graduateSchool: 1.65757781704499
   },
   'Wood County': {
     state: 'Wisconsin',
     countyToStateAdjustment: 0.846437890742013,
-    someHS: 1.16834170854271,
-    finishedHS: 0.894994452783398,
-    someCollege: 0.960060040462051,
-    bachelors: 1.50342622201919,
-    graduateSchool: 1.91268028453958
+    someHS: 1.10813654792486,
+    finishedHS: 0.848874996131348,
+    someCollege: 0.910587725542385,
+    bachelors: 1.42595400947046,
+    graduateSchool: 1.81411903067067
   },
   'Laramie County': {
     state: 'Wyoming',
     countyToStateAdjustment: 1.04264766625361,
-    someHS: 0.84529791816224,
-    finishedHS: 1.03488220322391,
-    someCollege: 1.22880636950989,
-    bachelors: 1.74796058213144,
-    graduateSchool: 2.29051099654115
+    someHS: 0.641403387144696,
+    finishedHS: 0.785257997424978,
+    someCollege: 0.932405665049024,
+    bachelors: 1.32633455481826,
+    graduateSchool: 1.73801624244825
   },
   'Natrona County': {
     state: 'Wyoming',
     countyToStateAdjustment: 0.957352333746386,
-    someHS: 0.621157736735626,
-    finishedHS: 1.05322064869804,
-    someCollege: 1.21842981139464,
-    bachelors: 1.42592834301377,
-    graduateSchool: 2.17587939698492
+    someHS: 0.513321108833999,
+    finishedHS: 0.870375364038399,
+    someCollege: 1.00690324668321,
+    bachelors: 1.17837881566174,
+    graduateSchool: 1.79813396613095
   }
-}
+};
