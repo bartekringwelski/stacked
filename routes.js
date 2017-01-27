@@ -2,7 +2,7 @@ const axios = require('axios');
 const keys = require('./keys');
 const apiConversion = require('./apiConversion');
 const incomeHighLighter = require('./incomeRangeAppender.js');
-var counter = 0;
+const countyAndEducation = require('./finalAdjustment.js')
 
 module.exports = {
   submitToCensus: function (req, res) {
@@ -20,6 +20,9 @@ module.exports = {
         var resultsObject = {};
         resultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data);
         resultsObject.userIncomeBucket = incomeHighLighter(income);
+
+        console.log("this should say morris county");
+        console.log(countyAndEducation['Morris County']);
         resultsObject.userPercentile = Math.round(resultsObject.modifiedBuckets[resultsObject.userIncomeBucket] * 1000) / 10; //percentile maker
         res.send(resultsObject);
       })
