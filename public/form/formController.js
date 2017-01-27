@@ -1,5 +1,5 @@
 angular
-  .module('app', ['ui.utils.masks'])
+  .module('app.formController', ['ui.utils.masks'])
   .controller('formController', [
     '$scope',
     '$http',
@@ -8,8 +8,7 @@ angular
       $scope.getCommerceData = function () {
 
         var counter = 0;
-        console.log("number of poeple who clicked", counter);
-
+        console.log("button just got clicked");
         $scope.hasData = true;
 
         let formData = $scope.formData;

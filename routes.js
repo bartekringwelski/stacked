@@ -6,8 +6,8 @@ var counter = 0;
 
 module.exports = {
   submitToCensus: function (req, res) {
-    console.log("number of times this has beenn clicked since server reboot", counter++);
 
+    console.log("someone is asked for data from frone-tend");
     let ageGroup = apiConversion.ageBracket(req.body.age) || "";
     let race = req.body.race || "";
     let gender = req.body.gender || "";
@@ -17,6 +17,8 @@ module.exports = {
     axios
       .get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
       .then((results) => {
+
+        console.log("data begotten, sending to front end");
         var resultsObject = {};
         resultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data);
         resultsObject.userIncomeBucket = incomeHighLighter(income);

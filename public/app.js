@@ -1,13 +1,14 @@
 angular
-  .module("myApp", ["ngRoute"])
+  .module("app", ['ngRoute', 'app.formController'])
   .config(function ($routeProvider) {
+    console.log("is this loading router app?");
     $routeProvider
       .when("/", {
-      templateUrl: "/form/form.html",
+      templateUrl: "form/form.html",
       controller: "formController"
     })
       .when("/results", {
-        templateUrl: "/results/results.html",
-        controller: "resultsController"
-      });
+        templateUrl: "results/reults.html",
+        controller: ""
+      })
   })
