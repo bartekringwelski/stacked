@@ -828,19 +828,16 @@ angular
       ];
 
       $scope.countyData = countyData;
-      console.log($scope);
 
       $scope.getCommerceData = function () {
         $scope.hasData = true;
         let formData = $scope.formData;
-        console.log("user provided this info", formData);
 
         // create object that translates
 
         $http
           .post('/userSubmission', formData)
           .then((response) => {
-            console.log("resposne from server and stuff", response);
 
             $scope.userIncomeBucket = response.data.userIncomeBucket;
             $scope.userPercentile = response.data.userPercentile;

@@ -13,6 +13,7 @@ module.exports = {
 
     let ageGroup = apiConversion.ageBracket(req.body.age) || "";
     let race = req.body.race || "";
+    console.log("supplied race ISSSSSSSSS", race);
     let gender = req.body.gender || "";
     let education = req.body.education || "";
 

@@ -11,21 +11,20 @@ To do:
   ✔ city autocomplete @done (1/27/2017, 8:37:33 AM)
   ✔ host on get debtless @done (1/27/2017, 8:40:51 AM)
   ✔ Modify object with extra factor data @done (1/27/2017, 1:42:03 PM)
+  ✔ fix county list to include state to solve duplicate issue @done (1/27/2017, 3:30:27 PM)
+  ✔ adjust income bucket @done (1/27/2017, 3:30:35 PM)
   ☐ UI router
   ☐ add loading screen
   ☐ fix multiple graph reload issue
   ☐ fix tips
   ☐ add icons to the left of the form
-  ☐ look into stats
   ☐ figure out how to import shit not ghetto style
-  ☐ balsamiq mocks
   ☐ fix african american thing
-  ☐ adjust income bucket
-  ☐ fix county list to include state to solve duplicate issue 
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
+  ☐ balsamiq mocks
 
 
 WishList:
