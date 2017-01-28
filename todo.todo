@@ -13,18 +13,19 @@ To do:
   ✔ Modify object with extra factor data @done (1/27/2017, 1:42:03 PM)
   ✔ fix county list to include state to solve duplicate issue @done (1/27/2017, 3:30:27 PM)
   ✔ adjust income bucket @done (1/27/2017, 3:30:35 PM)
+  ✔ fix african american thing @done (1/27/2017, 5:03:31 PM)
   ☐ UI router
   ☐ add loading screen
   ☐ fix multiple graph reload issue
   ☐ fix tips
   ☐ add icons to the left of the form
   ☐ figure out how to import shit not ghetto style
-  ☐ fix african american thing
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
   ☐ balsamiq mocks
+  ☐ refactor all the uglly
 
 
 WishList:
