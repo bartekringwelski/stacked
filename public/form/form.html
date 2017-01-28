@@ -1,11 +1,9 @@
 <form>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
   <div>
     <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="What's your annual salary?' (e.g., $100,000)"
       ui-money-mask="0">
-  </div>
-  <br/>
-  <div>
-    <input ngRequired ng-model="formData.age" type="text" class="form-control input-lg" placeholder="How old are you? (e.g., 34)">
   </div>
   <br/>
   <div class="input-group input-group-lg">
@@ -16,6 +14,10 @@
             <option data-tokens="college">Some college or associate's degree</option>
             <option data-tokens="bachelor">Bachelor's degree	Graduate or professional degree</option>
           </select>
+  </div>
+  <br/>
+  <div>
+    <input ng-model="formData.age" type="text" class="form-control input-lg" placeholder="How old are you? (e.g., 34)">
   </div>
   <br/>
   <div class="input-group input-group-lg">
