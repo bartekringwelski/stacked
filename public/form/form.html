@@ -1,6 +1,6 @@
-<form>
+<form ng-init="steve=[1,2,3]">
   <div>
-    <input ng-model="formData.income" type="text" class="form-control input-lg" placeholder="What's your annual salary? (e.g., $100,000)"
+    <input ng-model=" formData.income " type="text " class="form-control input-lg " placeholder="What 's your annual salary? (e.g., $100,000)"
       ui-money-mask="0">
   </div>
   <br/>
@@ -10,47 +10,43 @@
   <br/>
   <div class="input-group input-group-lg">
     <select ng-model="formData.education" class="selectpicker" data-live-search="true">
-            <option value="">How far did you get in school?</option>
-            <option data-tokens="Less than high school graduate">Less than high school graduate</option>
-            <option data-tokens="High school graduate (or equivalency)">High school graduate (includes equivalency)</option>
-            <option data-tokens="Some college or associate degree">Some college or associate degree</option>
-            <option data-tokens="Bachelor degree">Bachelor degree</option>
-            <option data-tokens="Graduate or professional degree">Graduate or professional degree</option>
-          </select>
-  </div>
-  <br/>
-  <div ng-repeat="n in countyData track by $index">
-    {{n}}
-  </div>
-  <div class="input-group input-group-lg">
-    <select ng-model="formData.county" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-              <option value="">Where do you live?</option>
-              <option ng-repeat="n in [42, 42, 43, 43] track by $index" ng-value="n">{{n}}</option>
-              <!--<option ng-repeat="option in countyData" ng-value="option">{{option}}</option>-->
-          </select>
-  </div>
-  <br/>
-  <div class="input-group input-group-lg rounded-corners">
-    <select ng-model="formData.gender" class="selectpicker" data-dropup-auto="false" data-live-search="true">
-            <option value="">What's your gender? (optional)</option>
-            <option data-tokens="Male male">male</option>
-            <option data-tokens="Female female">female</option>
-          </select>
+      <option value="">How far did you get in school?</option>
+      <option data-tokens="Less than high school graduate">Less than high school graduate</option>
+      <option data-tokens="High school graduate (or equivalency)">High school graduate (includes equivalency)</option>
+      <option data-tokens="Some college or associate degree">Some college or associate degree</option>
+      <option data-tokens="Bachelor degree">Bachelor degree</option>
+      <option data-tokens="Graduate or professional degree">Graduate or professional degree</option>
+    </select>
   </div>
   <br/>
   <div class="input-group input-group-lg">
-    <select ng-model="formData.race" class="selectpicker" data-dropup-auto="false" data-live-search="true">
+    <select ng-model="formData.geo" class="selectpicker" data-live-search="true" data-dropup-auto="false">
+      <option value="">Where do you live?</option>
+      <option ng-repeat="option in countyData" ng-value="option">{{option}}</option>
+    </select>
+  </div>
+  <br/>
+  <div class="input-group input-group-lg rounded-corners ">
+    <select ng-model="formData.gender " class="selectpicker" data-dropup-auto="false " data-live-search="true ">
+      <option value="">What's your gender? (optional)</option>
+      <option data-tokens="Male male ">male</option>
+      <option data-tokens="Female female ">female</option>
+    </select>
+  </div>
+  <br/>
+  <div class="input-group input-group-lg ">
+    <select ng-model="formData.race " class="selectpicker " data-dropup-auto="false " data-live-search="true ">
             <option value="">What's your race (optional)</option>
-            <option data-tokens="white">white</option>
-            <option data-tokens="black african american">black</option>
-            <option data-tokens="hispanic">hispanic</option>
-            <option data-tokens="asian">asian</option>
+            <option data-tokens="white ">white</option>
+            <option data-tokens="black african american ">black</option>
+            <option data-tokens="hispanic ">hispanic</option>
+            <option data-tokens="asian ">asian</option>
           </select>
   </div>
   <br/>
   <br/>
-  <div id="submit-button-div">
+  <div id="submit-button-div ">
     <button type=" button " class="btn btn-lg btn-primary " ng-click="getCommerceData() "><i class="fa fa-bar-chart
-        " aria-hidden="true "></i>Find out how you compare to people like you...</button>
+    " aria-hidden="true "></i>Find out how you compare to people like you...</button>
   </div>
 </form>

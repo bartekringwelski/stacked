@@ -15,17 +15,17 @@ To do:
   ✔ fix county list to include state to solve duplicate issue @done (1/27/2017, 3:30:27 PM)
   ✔ adjust income bucket @done (1/27/2017, 3:30:35 PM)
   ✔ fix african american thing @done (1/27/2017, 5:03:31 PM)
+  ✔ city autocomplete @done (1/28/2017, 5:05:38 PM)
+  ✔ UI router @done (1/28/2017, 5:05:36 PM)
+  ✔ look into stats @done (1/28/2017, 5:05:46 PM)
+  ✔ Modify object with extra factor data @done (1/28/2017, 5:06:12 PM)
   ☐ fix tips
   ☐ add loading screen
-  ☐ Modify object with extra factor data
-  ☐ city autocomplete
   ☐ balsamiq mocks
-  ☐ UI router
   ☐ add loading screen
   ☐ fix multiple graph reload issue
   ☐ fix tips
   ☐ add icons to the left of the form
-  ☐ look into stats
   ☐ add click stats for the button
   ☐ our make more than x percent of peple like you
   ☐ fix graduate school text overflow on mobile

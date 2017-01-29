@@ -1,8 +1,7 @@
 angular
   .module('form', ['ui.utils.masks'])
   .controller('formController', function ($scope, $http) {
-    // allows for reload of form with back
-    $(".selectpicker").selectpicker();
+    // $(".selectpicker").selectpicker();
 
     var countyData = [
       'Baldwin County, Alabama',
@@ -827,9 +826,6 @@ angular
     ];
 
     $scope.countyData = countyData;
-
-    console.log("scope object looks ike", $scope.countyData);
-
     $scope.getCommerceData = function () {
 
       let formData = $scope.formData;
