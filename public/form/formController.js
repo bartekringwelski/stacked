@@ -1,6 +1,6 @@
 angular
   .module('form', ['ui.utils.masks'])
-  .controller('formController', function ($scope, $http) {
+  .controller('formController', function ($scope, $rootScope, $http) {
     // $(".selectpicker").selectpicker();
 
     var countyData = [
@@ -826,16 +826,20 @@ angular
     ];
 
     $scope.countyData = countyData;
+
     $scope.getCommerceData = function () {
 
       let formData = $scope.formData;
+      console.log("user submitted teh following:", formData);
       $http
         .post('/userSubmission', formData)
         .then((response) => {
+          console.log("this is what server and API give back", response.data);
           $scope.userIncomeBucket = response.data.userIncomeBucket;
           $scope.userPercentile = response.data.userPercentile;
 
-          $scope.hasData = true;
+          $rootScope.userPercentile = $scope.userPercentile;
+          $rootScope.hasData = true;
 
           var data = d3.entries(response.data.finalBuckets);
 
@@ -955,6 +959,11 @@ angular
           }
 
         })
-
     }
+
+    $scope.clickInResults = function () {
+      console.log("has data", $rootScope.hasData);
+      console.log("percetnile", $rootScope.userPercentile);
+
+    };
   });

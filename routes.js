@@ -8,19 +8,16 @@ const counties = require('./counties');
 
 module.exports = {
   submitToCensus: function (req, res) {
-    console.log("someone is asked for data from frone-tend");
     let ageGroup = apiConversion.ageBracket(req.body.age) || "";
     let race = req.body.race || "";
-    console.log("supplied race ISSSSSSSSS", race);
     let gender = req.body.gender || "";
     let education = req.body.education || "";
-
     let county = req.body.county || "";
-
     let state = countyAndEducation[county];
-
     let geo = apiConversion.states[state] || "";
     let income = req.body.income || "";
+
+    console.log("agegroup=", ageGroup, "race=", race, "gender=", gender, "county=", county, "state=", state, "geo=", geo, "income=", income);
 
     axios
       .get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
