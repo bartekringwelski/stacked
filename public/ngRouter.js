@@ -1,5 +1,5 @@
 angular
-  .module("app", ['form', 'results', 'ngRoute'])
+  .module("app", ['form', 'results', 'nya.bootstrap.select', 'ngRoute'])
   .config([
     '$routeProvider',
     function ($routeProvider) {

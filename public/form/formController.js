@@ -1,5 +1,5 @@
 angular
-  .module('form', ['ui.utils.masks'])
+  .module('form', ['ui.utils.masks', 'nya.bootstrap.select'])
   .controller('formController', function ($scope, $rootScope, $http) {
     // $(".selectpicker").selectpicker();
 

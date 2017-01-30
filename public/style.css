@@ -24,6 +24,29 @@ div {
   display: flex;*/
 }
 
+.nya-dropdown {
+  color: gray;
+}
+
+
+/*color placholeders black*/
+
+.form-control::-webkit-input-placeholder {
+  color: black;
+}
+
+.form-control:-moz-placeholder {
+  color: white;
+}
+
+.form-control::-moz-placeholder {
+  color: white;
+}
+
+.form-control:-ms-input-placeholder {
+  color: white;
+}
+
 
 /*d3 below*/
 
