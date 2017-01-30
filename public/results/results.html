@@ -1,6 +1,6 @@
 <h1> Your results</h1>
 <h1 ng-show="hasData" class="ribbon">
-  <strong class="ribbon-content "> You're in the top {{userPercentile}}%</strong>
+  <strong class="ribbon-content "> You're in the top {{100-userPercentile}}%</strong>
 </h1>
 <div ng-show="hasData" id="chart"></div>
-<div ng-hide="hasData"><img src="../assets/facebook.svg" /></div>
+<div ng-hide="hasData"><img class="centerImages" src="../assets/facebook.svg" /></div>

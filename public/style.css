@@ -12,14 +12,16 @@ body {
   width: 7%;
 }
 
-
-/*div {
+div {
   border: 1px red solid;
-}*/
+}
 
-#submit-button-div {
-  justify-content: center;
-  display: flex;
+.centerImages {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*justify-content: center;
+  display: flex;*/
 }
 
 
