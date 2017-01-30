@@ -19,14 +19,18 @@ To do:
   ✔ UI router @done (1/28/2017, 5:05:36 PM)
   ✔ look into stats @done (1/28/2017, 5:05:46 PM)
   ✔ Modify object with extra factor data @done (1/28/2017, 5:06:12 PM)
-  ☐ add loading screen
-  ☐ balsamiq mocks
-  ☐ add loading screen
-  ☐ fix multiple graph reload issue
+  ✔ add loading screen @done (1/30/2017, 8:58:29 AM)
+  ✔ fix multiple graph reload issue @done (1/30/2017, 8:58:34 AM)
+  ✔ our make more than x percent of peple like you @done (1/30/2017, 8:58:39 AM)
   ☐ fix tips
-  ☐ add click stats for the button
-  ☐ our make more than x percent of peple like you
+  ☐ add tracking for button click
   ☐ figure out how to import county not ghetto style
+  ☐ fix highlighting of correct percntile
+  ☐ Add sources
+  ☐ Use a new 3rd party template
+  ☐ test slow connection
+  ☐ fix tab issue
+  ☐ test alternatie to boostrap select
 
 
 Bugs:
@@ -37,6 +41,8 @@ Bugs:
 
 WishList:
   ☐ figure out how to make d3 code more modular by taking it out of the controller
+    ☐ balsamiq mocks
+
 
 
 
