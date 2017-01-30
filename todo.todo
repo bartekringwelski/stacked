@@ -23,6 +23,7 @@ To do:
   ✔ fix multiple graph reload issue @done (1/30/2017, 8:58:34 AM)
   ✔ our make more than x percent of peple like you @done (1/30/2017, 8:58:39 AM)
   ✔ test alternatie to boostrap select @done (1/30/2017, 11:10:00 AM)
+  ✔ fix tab issue @done (1/30/2017, 12:05:59 PM)
   ☐ fix tips
   ☐ add tracking for button click
   ☐ figure out how to import county not ghetto style
@@ -30,7 +31,6 @@ To do:
   ☐ Add sources
   ☐ Use a new 3rd party template
   ☐ test slow connection
-  ☐ fix tab issue
 
 
 Bugs:
