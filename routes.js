@@ -3,7 +3,6 @@ const keys = require('./keys');
 const apiConversion = require('./apiConversion');
 const incomeHighLighter = require('./incomeRangeAppender');
 const countyAndEducation = require('./finalAdjustment');
-const bracketAdjuster = require('./geoAndLocationAdjustment');
 const counties = require('./counties');
 
 module.exports = {
@@ -40,15 +39,8 @@ module.exports = {
         finalResultsObject.income = income;
 
         //accepts a range and returns a single number for the x-xis
-        finalResultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data, finalResultsObject);
-
-        // modifies x-asis bracket with multiplation factor
-        // finalResultsObject.finalBuckets = bracketAdjuster(finalResultsObject); accepts
-        // an income and then return the matching string income bracket
-        finalResultsObject.userIncomeBucket = incomeHighLighter(income);
-
-        //returns the percentile value for the income bucket the user falls in
-        finalResultsObject.userPercentile = Math.round(finalResultsObject.modifiedBuckets[finalResultsObject.userIncomeBucket] * 1000) / 10; //percentile maker
+        finalResultsObject.modifiedData = apiConversion.bracketModifier(results.data, finalResultsObject);
+        console.log("what the result looks like", finalResultsObject);
 
         res.send(finalResultsObject);
       })

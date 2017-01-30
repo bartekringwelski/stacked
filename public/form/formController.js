@@ -17,12 +17,12 @@ angular
         .then((response) => {
           console.log("this is what server and API give back", response.data);
           $scope.userIncomeBucket = response.data.userIncomeBucket;
-          $scope.userPercentile = response.data.userPercentile;
+          $scope.userPercentile = response.data.modifiedData.incomePercentile;
 
           $rootScope.userPercentile = $scope.userPercentile;
           $rootScope.hasData = true;
 
-          var data = d3.entries(response.data.finalBuckets);
+          var data = d3.entries(response.data.modifiedData.modifiedRanges);
 
           var margin = {
             top: 40,
@@ -128,7 +128,7 @@ angular
             })
             .filter(function (d) {
               console.log("does this fire?");
-              return d.key === response.data.userIncomeBucket;
+              return d.key === response.data.modifiedData.incomeBand;
             })
             .style('fill', 'steelblue')
             .on('mouseover', tip.show)

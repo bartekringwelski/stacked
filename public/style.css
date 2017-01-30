@@ -155,7 +155,7 @@ body {
 }
 
 .bar {
-  fill: orange;
+  fill: lightgray;
 }
 
 .bar:hover {

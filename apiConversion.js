@@ -87,7 +87,7 @@ let bracketModifier = function (resultsFromAPI, finalResultsObject) {
   // set final factor
   let educationAndGeoFactor = educationFactor * geoFactor;
 
-  let currentSum = 0;
+  var currentSum = 0;
 
   var ranges = {
     "$0.00-$10.00k": {
@@ -219,27 +219,43 @@ let bracketModifier = function (resultsFromAPI, finalResultsObject) {
   }
 
   let finalObject = {};
-  let userIncome = finalResultsObject.income / 10000; //e.g. 14 (for $14k)
+  var incomeBand;
+  var incomePercentile;
+  let userIncome = finalResultsObject.income / 1000; //e.g. 14 (for $14k)
+  console.log("user Income", userIncome);
   var foundIncomeBand = false;
 
   for (key in ranges) {
     var newKey = ranges[key].displaySalaryBand;
 
     //make into a number
-    var numberKey = newKey.slice(1, key.length - 1); //31
+    var numberKey = newKey.slice(1, newKey.length - 1); //31
     console.log("number key", numberKey);
 
     if (userIncome < numberKey && foundIncomeBand === false) {
-      finalObject.highlightBracket = newKey;
-      foundIncomeBand === true;
+      console.log("got triggered by", numberKey);
+      incomeBand = newKey;
+
+      currentSum = ranges[key].value + currentSum;
+      finalObject[newKey] = currentSum;
+      incomePercentile = Math.round(currentSum * 100);
+
+      foundIncomeBand = true;
+    } else {
+      currentSum = ranges[key].value + currentSum;
+      finalObject[newKey] = currentSum;
+      console.log("current sum", currentSum);
     }
 
-    currentSum = ranges[key].value + currentSum;
-    finalObject[newKey] = currentSum;
   }
 
-  console.log("this is what the final object looks like:", finalObject);
-  return finalObject;
+  var combinedObject = {};
+
+  combinedObject.modifiedRanges = finalObject;
+  combinedObject.incomePercentile = incomePercentile;
+  combinedObject.incomeBand = incomeBand;
+
+  return combinedObject;
 };
 
 module.exports.states = states;
