@@ -76,161 +76,169 @@ let ageBracket = function (age) {
   }
 };
 
-let bracketModifier = function (resultObject) {
+let bracketModifier = function (resultsFromAPI, finalResultsObject) {
+
+  // get education multiplication factor
+  let educationFactor = finalResultsObject.stateInfo[finalResultsObject.userEducation];
+
+  // get geo multiplication factor
+  let geoFactor = finalResultsObject.stateInfo.countyToStateAdjustment;
+
+  // set final factor
+  let educationAndGeoFactor = educationFactor * geoFactor;
+
   let currentSum = 0;
 
   var ranges = {
     "$0.00-$10.00k": {
-      displaySalaryBand: '$10k',
+      displaySalaryBand: '$' + Math.round(10 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$10.00k-$20.00k": {
-      displaySalaryBand: '$20k',
+      displaySalaryBand: '$' + Math.round(20 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$20.00k-$30.00k": {
-      displaySalaryBand: '$30k',
+      displaySalaryBand: '$' + Math.round(30 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$30.00k-$40.00k": {
-      displaySalaryBand: '$40k',
+      displaySalaryBand: '$' + Math.round(40 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$40.00k-$50.00k": {
-      displaySalaryBand: '$50k',
+      displaySalaryBand: '$' + Math.round(50 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$50.00k-$60.00k": {
-      displaySalaryBand: '$60k',
+      displaySalaryBand: '$' + Math.round(60 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$60.00k-$70.00k": {
-      displaySalaryBand: '$70k',
+      displaySalaryBand: '$' + Math.round(70 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$70.00k-$80.00k": {
-      displaySalaryBand: '$80k',
+      displaySalaryBand: '$' + Math.round(80 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$80.00k-$90.00k": {
-      displaySalaryBand: '$90k',
+      displaySalaryBand: '$' + Math.round(90 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$90.00k-$100.00k": {
-      displaySalaryBand: '$100k',
+      displaySalaryBand: '$' + Math.round(100 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$100.00k-$110.00k": {
-      displaySalaryBand: '$110k',
+      displaySalaryBand: '$' + Math.round(110 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$110.00k-$120.00k": {
-      displaySalaryBand: '$120k',
+      displaySalaryBand: '$' + Math.round(120 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$120.00k-$130.00k": {
-      displaySalaryBand: '$130k',
+      displaySalaryBand: '$' + Math.round(130 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$130.00k-$140.00k": {
-      displaySalaryBand: '$140k',
+      displaySalaryBand: '$' + Math.round(140 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$140.00k-$150.00k": {
-      displaySalaryBand: '$150k',
+      displaySalaryBand: '$' + Math.round(150 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$150.00k-$160.00k": {
-      displaySalaryBand: '$160k',
+      displaySalaryBand: '$' + Math.round(160 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$160.00k-$170.00k": {
-      displaySalaryBand: '$170k',
+      displaySalaryBand: '$' + Math.round(170 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$170.00k-$180.00k": {
-      displaySalaryBand: '$180k',
+      displaySalaryBand: '$' + Math.round(180 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$180.00k-$190.00k": {
-      displaySalaryBand: '$190k',
+      displaySalaryBand: '$' + Math.round(190 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$190.00k-$200.00k": {
-      displaySalaryBand: '$200k',
+      displaySalaryBand: '$' + Math.round(200 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$200.00k-$210.00k": {
-      displaySalaryBand: '$210k',
+      displaySalaryBand: '$' + Math.round(210 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$210.00k-$220.00k": {
-      displaySalaryBand: '$220k',
+      displaySalaryBand: '$' + Math.round(220 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$220.00k-$230.00k": {
-      displaySalaryBand: '$230k',
+      displaySalaryBand: '$' + Math.round(230 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$230.00k-$240.00k": {
-      displaySalaryBand: '$240k',
+      displaySalaryBand: '$' + Math.round(240 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$240.00k-$250.00k": {
-      displaySalaryBand: '$250k',
+      displaySalaryBand: '$' + Math.round(250 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$250.00k-$260.00k": {
-      displaySalaryBand: '$260k',
+      displaySalaryBand: '$' + Math.round(260 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$260.00k-$270.00k": {
-      displaySalaryBand: '$270k',
+      displaySalaryBand: '$' + Math.round(270 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$270.00k-$280.00k": {
-      displaySalaryBand: '$280k',
+      displaySalaryBand: '$' + Math.round(280 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$280.00k-$290.00k": {
-      displaySalaryBand: '$290k',
+      displaySalaryBand: '$' + Math.round(290 * educationAndGeoFactor) + 'k',
       value: null
     },
     "$290.00k-$300.00k": {
-      displaySalaryBand: '$300k',
-      value: null
-    },
-    "$300.00k-$310.00k": {
-      displaySalaryBand: '$310k',
-      value: null
-    },
-    "$310.00k-$320.00k": {
-      displaySalaryBand: '$320k',
-      value: null
-    },
-    "$320.00k-$330.00k": {
-      displaySalaryBand: '$330k',
-      value: null
-    },
-    "$330.00k-$340.00k": {
-      displaySalaryBand: '$340k',
+      displaySalaryBand: '$' + Math.round(300 * educationAndGeoFactor) + 'k',
       value: null
     }
   };
 
-  for (key in resultObject) {
+  for (key in resultsFromAPI) {
     if (ranges[key]) {
-      ranges[key].value = resultObject[key];
+      ranges[key].value = resultsFromAPI[key];
     }
   }
 
   let finalObject = {};
+  let userIncome = finalResultsObject.income / 10000; //e.g. 14 (for $14k)
+  var foundIncomeBand = false;
 
   for (key in ranges) {
     var newKey = ranges[key].displaySalaryBand;
+
+    //make into a number
+    var numberKey = newKey.slice(1, key.length - 1); //31
+    console.log("number key", numberKey);
+
+    if (userIncome < numberKey && foundIncomeBand === false) {
+      finalObject.highlightBracket = newKey;
+      foundIncomeBand === true;
+    }
+
     currentSum = ranges[key].value + currentSum;
     finalObject[newKey] = currentSum;
   }
+
+  console.log("this is what the final object looks like:", finalObject);
   return finalObject;
 };
 

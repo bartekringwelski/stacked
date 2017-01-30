@@ -1,15 +1,24 @@
-var bracketAdjuster = function (dataObject) {
+var bracketAdjuster = function (resultsFromAPI) {
 
-  let educationFactor = dataObject.stateInfo[dataObject.userEducation];
-  let geoFactor = dataObject.stateInfo.countyToStateAdjustment;
+  // get education multiplication factor
+  let educationFactor = resultsFromAPI.stateInfo[resultsFromAPI.userEducation];
+
+  // get geo multiplication factor
+  let geoFactor = resultsFromAPI.stateInfo.countyToStateAdjustment;
+
+  // set final factor
+
   var educationAndGeoFactor = educationFactor * geoFactor;
-  var finalFinalObject = {};
-  for (key in dataObject.modifiedBuckets) {
+
+  var postFactorAdjustedIncomeValues = {};
+  for (key in resultsFromAPI.modifiedBuckets) {
     var numberKey = key.slice(1, key.length - 1);
     var adjustedKey = "$" + Math.round(numberKey * educationAndGeoFactor) + "k";
-    finalFinalObject[adjustedKey] = dataObject.modifiedBuckets[key];
+    postFactorAdjustedIncomeValues[adjustedKey] = resultsFromAPI.modifiedBuckets[key];
   }
-  return finalFinalObject;
+
+  // annotate the users's bracket
+  return postFactorAdjustedIncomeValues;
 };
 
 module.exports = bracketAdjuster;

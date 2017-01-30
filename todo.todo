@@ -24,21 +24,21 @@ To do:
   ✔ our make more than x percent of peple like you @done (1/30/2017, 8:58:39 AM)
   ✔ test alternatie to boostrap select @done (1/30/2017, 11:10:00 AM)
   ✔ fix tab issue @done (1/30/2017, 12:05:59 PM)
+  ✔ figure out how to import county not ghetto style @done (1/30/2017, 1:49:13 PM)
+  ✔ refactor all the uglly @done (1/30/2017, 1:49:07 PM)
+  ✔ test slow connection @done (1/30/2017, 1:50:58 PM)
   ☐ fix tips
   ☐ add tracking for button click
-  ☐ figure out how to import county not ghetto style
   ☐ fix highlighting of correct percntile
   ☐ Add sources
   ☐ Use a new 3rd party template
-  ☐ test slow connection
   ☐ getdebtless.com
-  
+
 
 
 Bugs:
   ☐ use keys stored at heroku vs. inside file
   ☐ balsamiq mocks
-  ☐ refactor all the uglly
 
 
 WishList:

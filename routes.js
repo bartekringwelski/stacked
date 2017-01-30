@@ -25,19 +25,32 @@ module.exports = {
       .then((results) => {
 
         //instansiate empty object
-        var resultsObject = {};
+        var finalResultsObject = {};
 
-        //
+        // attaches county back to results object [used by bracketAdjsuter]
+        finalResultsObject.county = county;
 
-        resultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data);
-        resultsObject.userIncomeBucket = incomeHighLighter(income);
-        resultsObject.userPercentile = Math.round(resultsObject.modifiedBuckets[resultsObject.userIncomeBucket] * 1000) / 10; //percentile maker
-        resultsObject.county = county;
-        resultsObject.stateInfo = state;
-        resultsObject.userEducation = education;
-        resultsObject.finalBuckets = bracketAdjuster(resultsObject);
+        //attaches state to results object
+        finalResultsObject.stateInfo = state;
 
-        res.send(resultsObject);
+        //attaches education to results object
+        finalResultsObject.userEducation = education;
+
+        //attaches income to results object
+        finalResultsObject.income = income;
+
+        //accepts a range and returns a single number for the x-xis
+        finalResultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data, finalResultsObject);
+
+        // modifies x-asis bracket with multiplation factor
+        // finalResultsObject.finalBuckets = bracketAdjuster(finalResultsObject); accepts
+        // an income and then return the matching string income bracket
+        finalResultsObject.userIncomeBucket = incomeHighLighter(income);
+
+        //returns the percentile value for the income bucket the user falls in
+        finalResultsObject.userPercentile = Math.round(finalResultsObject.modifiedBuckets[finalResultsObject.userIncomeBucket] * 1000) / 10; //percentile maker
+
+        res.send(finalResultsObject);
       })
       .catch((error) => {
         console.log(error);
