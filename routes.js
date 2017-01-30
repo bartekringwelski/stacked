@@ -19,10 +19,15 @@ module.exports = {
 
     console.log("agegroup=", ageGroup, "race=", race, "gender=", gender, "county=", county, "state=", state, "geo=", geo, "income=", income);
 
+    // send data to API server
     axios
       .get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
       .then((results) => {
+
+        //instansiate empty object
         var resultsObject = {};
+
+        //
 
         resultsObject.modifiedBuckets = apiConversion.bracketModifier(results.data);
         resultsObject.userIncomeBucket = incomeHighLighter(income);
@@ -32,8 +37,6 @@ module.exports = {
         resultsObject.userEducation = education;
         resultsObject.finalBuckets = bracketAdjuster(resultsObject);
 
-        console.log("final object looks like", resultsObject);
-
         res.send(resultsObject);
       })
       .catch((error) => {
@@ -41,7 +44,6 @@ module.exports = {
       });
   },
   getCounties: function (req, res) {
-    console.log("get counties being run", counties);
     res.send(counties);
   }
 
