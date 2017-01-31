@@ -131,7 +131,6 @@ angular
             .on('mouseover', tip.show)
             .on('mouseout', tip.hide)
             .filter(function (d) {
-              console.log("does this fire?");
               return d.key === response.data.modifiedData.incomeBand;
             })
             .style('fill', 'steelblue')

@@ -169,47 +169,24 @@ let bracketModifier = function (resultsFromAPI, finalResultsObject) {
     "$190.00k-$200.00k": {
       displaySalaryBand: '$' + Math.round(200 * educationAndGeoFactor) + 'k',
       value: null
-    },
-    "$200.00k-$210.00k": {
-      displaySalaryBand: '$' + Math.round(210 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$210.00k-$220.00k": {
-      displaySalaryBand: '$' + Math.round(220 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$220.00k-$230.00k": {
-      displaySalaryBand: '$' + Math.round(230 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$230.00k-$240.00k": {
-      displaySalaryBand: '$' + Math.round(240 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$240.00k-$250.00k": {
-      displaySalaryBand: '$' + Math.round(250 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$250.00k-$260.00k": {
-      displaySalaryBand: '$' + Math.round(260 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$260.00k-$270.00k": {
-      displaySalaryBand: '$' + Math.round(270 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$270.00k-$280.00k": {
-      displaySalaryBand: '$' + Math.round(280 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$280.00k-$290.00k": {
-      displaySalaryBand: '$' + Math.round(290 * educationAndGeoFactor) + 'k',
-      value: null
-    },
-    "$290.00k-$300.00k": {
-      displaySalaryBand: '$' + Math.round(300 * educationAndGeoFactor) + 'k',
-      value: null
-    }
+    } //,
+    // "$200.00k-$210.00k": {   displaySalaryBand: '$' + Math.round(210 *
+    // educationAndGeoFactor) + 'k',   value: null }, "$210.00k-$220.00k": {
+    // displaySalaryBand: '$' + Math.round(220 * educationAndGeoFactor) + 'k',
+    // value: null }, "$220.00k-$230.00k": {   displaySalaryBand: '$' +
+    // Math.round(230 * educationAndGeoFactor) + 'k',   value: null },
+    // "$230.00k-$240.00k": {   displaySalaryBand: '$' + Math.round(240 *
+    // educationAndGeoFactor) + 'k',   value: null }, "$240.00k-$250.00k": {
+    // displaySalaryBand: '$' + Math.round(250 * educationAndGeoFactor) + 'k',
+    // value: null }, "$250.00k-$260.00k": {   displaySalaryBand: '$' +
+    // Math.round(260 * educationAndGeoFactor) + 'k',   value: null },
+    // "$260.00k-$270.00k": {   displaySalaryBand: '$' + Math.round(270 *
+    // educationAndGeoFactor) + 'k',   value: null }, "$270.00k-$280.00k": {
+    // displaySalaryBand: '$' + Math.round(280 * educationAndGeoFactor) + 'k',
+    // value: null }, "$280.00k-$290.00k": {   displaySalaryBand: '$' +
+    // Math.round(290 * educationAndGeoFactor) + 'k',   value: null },
+    // "$290.00k-$300.00k": {   displaySalaryBand: '$' + Math.round(300 *
+    // educationAndGeoFactor) + 'k',   value: null }
   };
 
   for (key in resultsFromAPI) {
