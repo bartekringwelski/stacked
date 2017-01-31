@@ -3,5 +3,4 @@ angular
   .controller('resultsController', function ($scope, $rootScope, $http) {
 
     console.log("yo");
-
   });
