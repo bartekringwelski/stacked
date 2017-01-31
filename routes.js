@@ -4,9 +4,15 @@ const apiConversion = require('./apiConversion');
 const incomeHighLighter = require('./incomeRangeAppender');
 const countyAndEducation = require('./finalAdjustment');
 const counties = require('./counties');
+var pageViews = 0;
+
+var buttonClicks = 0;
 
 module.exports = {
   submitToCensus: function (req, res) {
+
+    buttonClicks++;
+    console.log("BUTTON CLICK COUNT: ", buttonClicks)
     let ageGroup = apiConversion.ageBracket(req.body.age) || "";
     let race = req.body.race || "";
     let gender = req.body.gender || "";
@@ -16,9 +22,9 @@ module.exports = {
     let geo = apiConversion.states[state] || "";
     let income = req.body.income || "";
 
-    console.log("agegroup=", ageGroup, "race=", race, "gender=", gender, "county=", county, "state=", state, "geo=", geo, "income=", income);
-
-    // send data to API server
+    // console.log("agegroup=", ageGroup, "race=", race, "gender=", gender,
+    // "county=", county, "state=", state, "geo=", geo, "income=", income); send
+    // data to API server
     axios
       .get(`https://api.commerce.gov/midaas/distribution?state=${geo}&race=${race}&agegroup=${ageGroup}&sex=${gender}&api_key=${keys.data_gov_key}`)
       .then((results) => {
@@ -40,7 +46,6 @@ module.exports = {
 
         //accepts a range and returns a single number for the x-xis
         finalResultsObject.modifiedData = apiConversion.bracketModifier(results.data, finalResultsObject);
-        console.log("what the result looks like", finalResultsObject);
 
         res.send(finalResultsObject);
       })
@@ -49,6 +54,9 @@ module.exports = {
       });
   },
   getCounties: function (req, res) {
+    pageViews++;
+    console.log("PAGE VIEWS COUNT: ", pageViews)
+
     res.send(counties);
   }
 
