@@ -29,7 +29,7 @@ angular
             right: 20,
             bottom: 30,
             left: 40
-          }
+          };
           var width = parseInt(d3.select(".container").style("width")) - margin.right;
           var height = 300;
 
@@ -51,25 +51,25 @@ angular
             .svg
             .axis()
             .scale(x)
-            .orient("bottom")
+            .orient("bottom");
 
           var yAxis = d3
             .svg
             .axis()
             .scale(y)
             .orient("left")
-            .tickFormat(formatPercent)
+            .tickFormat(formatPercent);
 
           var tip = d3
             .tip()
             .attr('class', 'd3-tip')
-            .offset([-5, 0])
+            .offset([-10, 0])
             .html(function (d) {
-              return "<strong>value:</strong> <span style='color:red'>" + d.value + "</span>";
+              return `<strong> Earns more than ${Math.round(d.value * 100)}% </strong>`;
             })
 
           var svg = d3
-            .select("div")
+            .select("body")
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
@@ -92,19 +92,18 @@ angular
             .append("g")
             .attr("class", "x axis")
             .attr("transform", "translate(0," + height + ")")
-            .call(xAxis)
+            .call(xAxis);
 
           svg
             .append("g")
             .attr("class", "y axis")
-            .style("font-size", "15px") //To change the font size of texts
             .call(yAxis)
             .append("text")
             .attr("transform", "rotate(-90)")
             .attr("y", 6)
-            .attr("dy", "1em")
+            .attr("dy", ".71em")
             .style("text-anchor", "end")
-            .text("value")
+            .text("value");
 
           svg
             .selectAll(".bar")
@@ -116,23 +115,19 @@ angular
               return x(d.key);
             })
             .attr("width", x.rangeBand())
-            .transition() //animation
-            .delay(function (d, i) { // more animation stuff
-              return i * 50;
-            })
             .attr("y", function (d) {
               return y(d.value);
             })
             .attr("height", function (d) {
               return height - y(d.value);
             })
+            .on('mouseover', tip.show)
+            .on('mouseout', tip.hide)
             .filter(function (d) {
               console.log("does this fire?");
               return d.key === response.data.modifiedData.incomeBand;
             })
             .style('fill', 'steelblue')
-            .on('mouseover', tip.show)
-            .on('mouseout', tip.hide)
 
           function type(d) {
             d.value = +d.value;
@@ -141,10 +136,4 @@ angular
 
         })
     }
-
-    $scope.clickInResults = function () {
-      console.log("has data", $rootScope.hasData);
-      console.log("percetnile", $rootScope.userPercentile);
-
-    };
   });

@@ -230,10 +230,8 @@ let bracketModifier = function (resultsFromAPI, finalResultsObject) {
 
     //make into a number
     var numberKey = newKey.slice(1, newKey.length - 1); //31
-    console.log("number key", numberKey);
 
     if (userIncome < numberKey && foundIncomeBand === false) {
-      console.log("got triggered by", numberKey);
       incomeBand = newKey;
 
       currentSum = ranges[key].value + currentSum;
@@ -244,7 +242,6 @@ let bracketModifier = function (resultsFromAPI, finalResultsObject) {
     } else {
       currentSum = ranges[key].value + currentSum;
       finalObject[newKey] = currentSum;
-      console.log("current sum", currentSum);
     }
 
   }

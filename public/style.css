@@ -159,7 +159,7 @@ body {
 }
 
 .bar:hover {
-  fill: orangered;
+  fill: green;
 }
 
 .x.axis path {
@@ -168,10 +168,11 @@ body {
 
 .d3-tip {
   line-height: 1;
+  font-size: 1.5em;
   font-weight: bold;
   padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
+  background: inherit;
+  color: black;
   border-radius: 2px;
 }
 
