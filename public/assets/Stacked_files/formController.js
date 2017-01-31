@@ -122,6 +122,8 @@ angular
               return x(d.key);
             })
             .attr("width", x.rangeBand())
+            // .transition() //animation .delay(function (d, i) { // more animation stuff
+            // return i * 50; })
             .attr("y", function (d) {
               return y(d.value);
             })
