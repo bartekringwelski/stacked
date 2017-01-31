@@ -10,7 +10,7 @@ angular
       })
         .when('/results', {
           templateUrl: 'results/results.html',
-          controller: 'formController'
+          controller: 'resultsController'
         })
         .otherwise({templateUrl: 'form/form.html', controller: 'formController'});
     }
