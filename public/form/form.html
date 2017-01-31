@@ -1,15 +1,15 @@
 <form>
   <div>
     <input ng-model="formData.income" type="text" class="form-control input-lg
-      " placeholder="What's your annual salary? (e.g., $100,000)" ui-money-mask="0">
+      " placeholder="What's your annual salary? (required)" ui-money-mask="0">
   </div>
   <br/>
   <div>
-    <input ng-model="formData.age" type="number" pattern="[0-9]*" inputmode="numeric" class="form-control input-lg" placeholder="How old are you? (e.g., 34)">
+    <input ng-model="formData.age" type="number" pattern="[0-9]*" inputmode="numeric" class="form-control input-lg" placeholder="How old are you? (required) (e.g., 34)">
   </div>
   <br/>
   <div>
-    <ol title="How far did you get in school?" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
+    <ol title="How far did you get in school? (required)" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
       ng-model="formData.education">
       <li class="nya-bs-option" value="Less than high school graduate"><a>Less than high school graduate</a></li>
       <li class="nya-bs-option" value="High school graduate (includes equivalency"><a>High school graduate (includes equivalency</a></li>
@@ -21,7 +21,7 @@
   <br/>
   <br/>
   <div>
-    <ol title="Where do you live?" id="dynamic-options" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
+    <ol title="Where do you live? (required)" id="dynamic-options" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
       ng-model="formData.county">
       <li nya-bs-option="option in countyData">
         <a>{{ option }}</a>
