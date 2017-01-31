@@ -12,9 +12,10 @@ body {
   width: 7%;
 }
 
-div {
+
+/*div {
   border: 1px red solid;
-}
+}*/
 
 .centerImages {
   display: block;
@@ -24,9 +25,10 @@ div {
   display: flex;*/
 }
 
-#chart {
+
+/*#chart {
   margin-bottom: 200px;
-}
+}*/
 
 .ribbon {
   font-size: 25px !important;
