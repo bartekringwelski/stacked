@@ -9,7 +9,8 @@
   max-height: 100%;
 }
 
-html,
+
+/*html,
 body,
 div,
 span,
@@ -98,7 +99,7 @@ video {
   font: inherit;
   vertical-align: baseline;
   -webkit-tap-highlight-color: transparent;
-}
+}*/
 
 
 /* HTML5 display-role reset for older browsers */
