@@ -4,6 +4,11 @@
   max-height: 100%;
 }
 
+.graph {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 html,
 body,
 div,
@@ -4057,7 +4062,7 @@ li {
 }
 
 .ladder_home__info-panel-styles__piggy-back-image {
-  background: #4C4C4E url(../img/piggy-back.jpg);
+  background: #4C4C4E url(/assets/piggy-back.jpg);
   background-size: cover;
   background-position: 50% 0%;
   padding: 250px 48px 350px;
@@ -4514,6 +4519,7 @@ label.error {
   }
 }
 
-div {
+
+/*div {
   border: 1px red solid;
-}
+}*/

@@ -4,7 +4,9 @@ angular
     '$routeProvider',
     function ($routeProvider) {
       $routeProvider
-        .when('/', {
+      //   .when('/', {   templateUrl: 'landingPage/landingPage.html',   controller:
+      // 'formController' })
+        .when('/form', {
         templateUrl: 'form/form.html',
         controller: 'formController'
       })
@@ -12,6 +14,6 @@ angular
           templateUrl: 'results/results.html',
           controller: 'formController'
         })
-        .otherwise({templateUrl: 'form/form.html', controller: 'formController'});
+        .otherwise({templateUrl: 'landingPage/landingPage.html', controller: 'formController'});
     }
   ]);
