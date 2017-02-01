@@ -4,11 +4,6 @@
   max-height: 100%;
 }
 
-.graph {
-  max-width: 100%;
-  max-height: 100%;
-}
-
 
 /*html,
 body,
@@ -4052,6 +4047,23 @@ li {
   background: #FFFFFF;
   text-align: center;
   padding: 120px 48px 150px;
+}
+
+
+/* Portrait and Landscape */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+  .ladder_home__info-panel-styles__root {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #FFFFFF;
+    text-align: center;
+    padding: 20px 10px 60px;
+  }
 }
 
 .ladder_home__info-panel-styles__short {

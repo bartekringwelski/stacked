@@ -3,3 +3,20 @@
   max-width: 100%;
   max-height: 100%;
 }
+
+.navbar-default {
+  background-color: transparent;
+}
+
+.container {
+  color: black;
+}
+
+div {
+  border: 1px red solid;
+}
+
+#graph {
+  max-width: 100%;
+  max-height: 100%;
+}
