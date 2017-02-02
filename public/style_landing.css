@@ -3650,6 +3650,7 @@ li {
 
 .ladder_components__button-2-styles__root:hover {
   background-color: #FF253F;
+  text-align: center;
 }
 
 .ladder_components__button-2-styles__shadow {

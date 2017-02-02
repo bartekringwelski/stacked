@@ -1,61 +1,68 @@
-<div class="container" <form>
-  <div>
-    <input ng-model="formData.income" type="text" class="form-control input-lg
+<div class="containerr">
+  <form>
+    <div>
+      <input ng-model="formData.income" type="text" class="form-control input-lg
       " placeholder="What's your annual salary? (required)" ui-money-mask="0">
-  </div>
-  <br/>
-  <div>
-    <input ng-model="formData.age" type="number" pattern="[0-9]*" inputmode="numeric" class="form-control input-lg" placeholder="How old are you? (required) (e.g., 34)">
-  </div>
-  <br/>
-  <div>
-    <ol title="How far did you get in school? (required)" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
-      ng-model="formData.education">
-      <li class="nya-bs-option" value="Less than high school graduate"><a>Less than high school graduate</a></li>
-      <li class="nya-bs-option" value="High school graduate (includes equivalency"><a>High school graduate (includes equivalency</a></li>
-      <li class="nya-bs-option" value="Some college or associate degree"><a>Some college or associate degree</a></li>
-      <li class="nya-bs-option" value="Bachelor degree"><a>Bachelor degree</a></li>
-      <li class="nya-bs-option" value="Graduate or professional degree"><a>Graduate or professional degree</a></li>
+    </div>
+    <br/>
+    <div>
+      <input ng-model="formData.age" type="number" pattern="[0-9]*" inputmode="numeric" class="form-control input-lg" placeholder="How old are you? (required) (e.g., 34)">
+    </div>
+    <br/>
+    <div>
+      <ol title="How far did you get in school? (required)" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
+        ng-model="formData.education">
+        <li class="nya-bs-option" value="Less than high school graduate"><a>Less than high school graduate</a></li>
+        <li class="nya-bs-option" value="High school graduate (includes equivalency"><a>High school graduate (includes equivalency</a></li>
+        <li class="nya-bs-option" value="Some college or associate degree"><a>Some college or associate degree</a></li>
+        <li class="nya-bs-option" value="Bachelor degree"><a>Bachelor degree</a></li>
+        <li class="nya-bs-option" value="Graduate or professional degree"><a>Graduate or professional degree</a></li>
+        </ol>
+    </div>
+    <br/>
+    <br/>
+    <div>
+      <ol title="Where do you live? (required)" id="dynamic-options" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
+        ng-model="formData.county">
+        <li nya-bs-option="option in countyData">
+          <a>{{ option }}</a>
+        </li>
+        </ol>
+    </div>
+    <br/>
+    <br/>
+    <div>
+      <ol title="What's your gender (optional)?" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
+        ng-model="formData.gender">
+        <li class="nya-bs-option" value="male"><a>Male</a></li>
+        <li class="nya-bs-option" value="female"><a>Female</a></li>
+        </ol>
+    </div>
+    <br/>
+    <br/>
+    <div>
+      <ol title="What's your race (optional)?" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true" ng-model="formData.race">
+        <li class="nya-bs-option" value="asian"><a>Asian</a></li>
+        <li class="nya-bs-option" value="black"><a>Black</a></li>
+        <li class="nya-bs-option" value="hispanic"><a>Hispanic</a></li>
+        <li class="nya-bs-option" value="white"><a>White</a></li>
       </ol>
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <ol title="Where do you live? (required)" id="dynamic-options" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
-      ng-model="formData.county">
-      <li nya-bs-option="option in countyData">
-        <a>{{ option }}</a>
-      </li>
-      </ol>
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <ol title="What's your gender (optional)?" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true"
-      ng-model="formData.gender">
-      <li class="nya-bs-option" value="male"><a>Male</a></li>
-      <li class="nya-bs-option" value="female"><a>Female</a></li>
-      </ol>
-  </div>
-  <br/>
-  <br/>
-  <div>
-    <ol title="What's your race (optional)?" class="nya-bs-select btn-lg nya-dropdown form-control" data-live-search="true" ng-model="formData.race">
-      <li class="nya-bs-option" value="asian"><a>Asian</a></li>
-      <li class="nya-bs-option" value="black"><a>Black</a></li>
-      <li class="nya-bs-option" value="hispanic"><a>Hispanic</a></li>
-      <li class="nya-bs-option" value="white"><a>White</a></li>
-    </ol>
-  </div>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <div>
-    <a href="#results">
-      <button type="button" class="btn btn-lg btn-primary centerImages" ng-click="getCommerceData()">
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <div>
+      <!--<a href="#results">
+        <button type="button" class="btn btn-lg btn-primary centerImages" ng-click="getCommerceData()">
       <i class="fa fa-bar-chart" aria-hidden="true"></i>Find out how you compare...</button>
-    </a>
-  </div>
+      </a>-->
+      <a role="button" tabindex="0" class="ladder_home__header-panel-styles__button ladder_components__button-styles__mobile-full-width ladder_components__button-styles__root ladder_text__text-styles__turquoise"
+        href="#results">
+        <div class="ladder_components__button-styles__inner ladder_text__text-styles__white ladder_text__text-styles__m">
+          <span class="ladder_text__small-caps-styles__root center" ng-click="getCommerceData()"><i class="fa fa-bar-chart" aria-hidden="false"></i> salary stats</span>
+        </div>
+        </a>
+    </div>
   </form>
 </div>

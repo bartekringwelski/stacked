@@ -28,19 +28,23 @@ To do:
   ✔ refactor all the uglly @done (1/30/2017, 1:49:07 PM)
   ✔ test slow connection @done (1/30/2017, 1:50:58 PM)
   ✔ fix tips @done (1/30/2017, 6:23:24 PM)
-  ☐ add tracking for button click
+  ✔ add tracking for button click @done (2/2/2017, 1:21:43 PM)
   ✔ fix highlighting of correct percntile @done (1/30/2017, 6:23:26 PM)
-  ☐ Add sources
-  ☐ Use a new 3rd party template
-  ☐ getdebtless.com
-  ☐ figure out why animation doesn't work
-  ☐ move d3 to results controller
+  ✔ Add sources @done (2/2/2017, 1:21:52 PM)
+  ✔ Use a new 3rd party template @done (2/2/2017, 1:21:45 PM)
+  ✔ getdebtless.com @done (2/2/2017, 1:21:46 PM)
+  ✔ figure out why animation doesn't work @done (2/2/2017, 1:21:47 PM)
+  ✔ move d3 to results controller @done (2/2/2017, 1:21:47 PM)
+  ☐ do thing about conversion button
+  ☐ put up ads on google
+  
+  
 
 
 
 Bugs:
-  ☐ use keys stored at heroku vs. inside file
-  ☐ balsamiq mocks
+  ✔ use keys stored at heroku vs. inside file @done (2/2/2017, 1:21:51 PM)
+  ✔ balsamiq mocks @done (2/2/2017, 1:21:50 PM)
 
 
 WishList:
