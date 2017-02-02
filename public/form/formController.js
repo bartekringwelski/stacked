@@ -8,10 +8,11 @@ angular
         $scope.countyData = result.data;
       })
 
+    $scope.formData = {};
     $scope.getCommerceData = function () {
 
       let formData = $scope.formData;
-      console.log("user submitted teh following:", formData);
+      console.log("scope looks like:", $scope, $rootScope);
       $http
         .post('/userSubmission', formData)
         .then((response) => {
