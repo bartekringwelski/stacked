@@ -3315,6 +3315,43 @@ a {
   font-size: 22px;
 }
 
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+  .ladder_text__text-styles__xl {
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: -0.3px;
+  }
+  .ladder_text__text-styles__xxl {
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: -0.6px;
+  }
+  .ladder_text__text-styles__home-s {
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 2px;
+  }
+  .ladder_text__text-styles__home-m {
+    font-size: 26px;
+    line-height: 40px;
+    letter-spacing: 0px;
+  }
+  .ladder_text__text-styles__home-l {
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: 0px;
+  }
+  .ladder_text__text-styles__home-xl {
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: 0px;
+  }
+  .ladder_text__text-styles__home-xxl {
+    font-size: 90px;
+    letter-spacing: 0px;
+  }
+}
+
 .ladder_text__text-styles__subpixel {
   -webkit-font-smoothing: subpixel-antialiased;
   -moz-osx-font-smoothing: unset;
