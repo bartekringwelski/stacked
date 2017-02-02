@@ -12,11 +12,6 @@ body {
   width: 7%;
 }
 
-
-/*div {
-  border: 1px red solid;
-}*/
-
 .centerImages {
   display: block;
   margin-left: auto;
@@ -203,20 +198,4 @@ body {
   margin: -1px 0 0 0;
   top: 100%;
   left: 0;
-}
-
-.other-forms {
-  width: 90%;
-}
-
-.nya-bs-select {
-  width: 50px;
-}
-
-.btn-lg {
-  width: 50px;
-}
-
-.nya-dropdown {
-  width: 50px;
 }

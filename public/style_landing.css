@@ -155,9 +155,10 @@ textarea {
 
 /* button */
 
-button {
+
+/*button {
   box-sizing: content-box;
-}
+}*/
 
 button {
   background: none;
@@ -350,6 +351,7 @@ a {
 .ladder_home__container-item-styles__root {
   text-align: left;
   width: 100%;
+  padding: 100px;
 }
 
 .ladder_home__container-item-styles__short {
